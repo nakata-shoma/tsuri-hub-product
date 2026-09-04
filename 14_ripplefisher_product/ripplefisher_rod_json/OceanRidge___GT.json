@@ -1,0 +1,70 @@
+[
+  {
+    "item_name": "OceanRidge Reversal GT 80 Nano",
+    "jan": "4580397944096",
+    "price": 79000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanridge",
+    "product_name": "OceanRidge / GT",
+    "specs": {
+      "Length": "8ft（仕舞寸法1737mm）",
+      "Weight": "373g",
+      "Section": "2pcs / グリップジョイント",
+      "Lure": "MAX 170g",
+      "Line": "MAX PE 8",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.668353+09:00",
+    "updated_at": "2026-09-04T22:28:37.668353+09:00"
+  },
+  {
+    "item_name": "OceanRidge LongCast GT 82 Nano",
+    "jan": "4580397944089",
+    "price": 80000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanridge",
+    "product_name": "OceanRidge / GT",
+    "specs": {
+      "Length": "8ft 2in（仕舞寸法1796mm）",
+      "Weight": "378g",
+      "Section": "2pcs / グリップジョイント",
+      "Lure": "MAX 190g",
+      "Line": "MAX PE 8",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.668353+09:00",
+    "updated_at": "2026-09-04T22:28:37.668353+09:00"
+  },
+  {
+    "item_name": "OceanRidge PowerFight GT 711 Nano",
+    "jan": "4580397944102",
+    "price": 80000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanridge",
+    "product_name": "OceanRidge / GT",
+    "specs": {
+      "Length": "7ft 11in（仕舞寸法1682mm）",
+      "Weight": "375g",
+      "Section": "2pcs / グリップジョイント",
+      "Lure": "MAX 210g",
+      "Line": "MAX PE 10",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.668353+09:00",
+    "updated_at": "2026-09-04T22:28:37.668353+09:00"
+  },
+  {
+    "item_name": "OceanRidge FINAL SPIRIT GT 78",
+    "jan": "4580397948926",
+    "price": 84000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanridge",
+    "product_name": "OceanRidge / GT",
+    "specs": {
+      "Length": "7ft 8in（仕舞寸法1645mm）",
+      "Weight": "393g",
+      "Section": "2pcs / グリップジョイント",
+      "Lure": "MAX 270g",
+      "Line": "MAX PE 12",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.668353+09:00",
+    "updated_at": "2026-09-04T22:28:37.668353+09:00"
+  }
+]

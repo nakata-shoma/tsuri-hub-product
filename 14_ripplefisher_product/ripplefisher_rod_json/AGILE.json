@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "AGILE 67ML",
+    "jan": "4580397941156",
+    "price": 67000,
+    "url": "https://ripplefisher.com/product/off-shore-game/agile",
+    "product_name": "AGILE",
+    "specs": {
+      "Length": "6ft7in(仕舞寸法:1475mm)",
+      "Weight": "136g",
+      "Section": "2pcs / グリップジョイント",
+      "Lure": "Rubber 100~300 g / TG 60~180g",
+      "Line": "Pe 0.8~2.0",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.638545+09:00",
+    "updated_at": "2026-09-04T22:28:37.638545+09:00"
+  },
+  {
+    "item_name": "AGILE 60MH",
+    "jan": "4580397941163",
+    "price": 68000,
+    "url": "https://ripplefisher.com/product/off-shore-game/agile",
+    "product_name": "AGILE",
+    "specs": {
+      "Length": "6ft (仕舞寸法:1335mm)",
+      "Weight": "127g",
+      "Section": "2pcs / グリップジョイント",
+      "Lure": "Jig 100~180 g / Slow 150~250g",
+      "Line": "Pe 0.8~2.0",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.638545+09:00",
+    "updated_at": "2026-09-04T22:28:37.638545+09:00"
+  }
+]

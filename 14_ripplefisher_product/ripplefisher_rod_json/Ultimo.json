@@ -1,0 +1,70 @@
+[
+  {
+    "item_name": "Ultimo 82ML",
+    "jan": "4580397944157",
+    "price": 124000,
+    "url": "https://ripplefisher.com/product/off-shore-game/ultimo-new",
+    "product_name": "Ultimo",
+    "specs": {
+      "Length": "8ft 2in（仕舞寸法 1790mm）",
+      "Weight": "362g",
+      "Section": "2pcs グリップジョイント",
+      "Lure": "Comfort Weight 70~120g",
+      "Line": "MAX PE 6",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.706215+09:00",
+    "updated_at": "2026-09-04T22:28:37.706215+09:00"
+  },
+  {
+    "item_name": "Ultimo 83M",
+    "jan": "4580397944164",
+    "price": 125000,
+    "url": "https://ripplefisher.com/product/off-shore-game/ultimo-new",
+    "product_name": "Ultimo",
+    "specs": {
+      "Length": "8ft 3in（仕舞寸法 1815mm）",
+      "Weight": "376g",
+      "Section": "2pcs グリップジョイント",
+      "Lure": "Comfort Weight 80~140g",
+      "Line": "MAX PE 7",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.706215+09:00",
+    "updated_at": "2026-09-04T22:28:37.706215+09:00"
+  },
+  {
+    "item_name": "Ultimo 710MH",
+    "jan": "4580397944171",
+    "price": 125000,
+    "url": "https://ripplefisher.com/product/off-shore-game/ultimo-new",
+    "product_name": "Ultimo",
+    "specs": {
+      "Length": "7ft10in (仕舞寸法 1685mm)",
+      "Weight": "378g",
+      "Section": "2pcs グリップジョイント",
+      "Lure": "Comfort Weight 80~160g",
+      "Line": "MAX PE 8",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.706215+09:00",
+    "updated_at": "2026-09-04T22:28:37.706215+09:00"
+  },
+  {
+    "item_name": "Ultimo 86M/B",
+    "jan": "458039794188",
+    "price": 94000,
+    "url": "https://ripplefisher.com/product/off-shore-game/ultimo-new",
+    "product_name": "Ultimo",
+    "specs": {
+      "Length": "8ft 6in（仕舞寸法 1770mm）",
+      "Weight": "398g",
+      "Section": "2pcs グリップジョイント",
+      "Lure": "Comfort Weight 80~160g",
+      "Line": "MAX PE 7",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.706215+09:00",
+    "updated_at": "2026-09-04T22:28:37.706215+09:00"
+  }
+]
