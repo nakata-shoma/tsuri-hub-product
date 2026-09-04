@@ -1,0 +1,52 @@
+[
+  {
+    "item_name": "S120",
+    "jan": "4969363392503",
+    "product_code": "392503",
+    "price": 39800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/shoresalt/shorejigging/a075f00004dfimmqal.html",
+    "product_name": "コルトスナイパー SS ロング[COLTSNIPER SS LONG]",
+    "specs": {
+      "全長(ft.)": "12'0\"",
+      "全長(m)": 3.66,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 127.8,
+      "自重(g)": 255,
+      "先径(mm)": 2.5,
+      "ジグウェイト(g)": "MAX 70",
+      "プラグウェイト(g)": "MAX 50",
+      "適合ラインPE(号)": "MAX 2.5",
+      "リールシート位置(mm)": 474,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-03T22:50:26.253977+09:00",
+    "updated_at": "2026-09-03T22:50:26.253977+09:00"
+  },
+  {
+    "item_name": "S130",
+    "jan": "4969363392015",
+    "product_code": "392015",
+    "price": 43800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/shoresalt/shorejigging/a075f00004dfimmqal.html",
+    "product_name": "コルトスナイパー SS ロング[COLTSNIPER SS LONG]",
+    "specs": {
+      "全長(ft.)": "13'0\"",
+      "全長(m)": 3.96,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 137.8,
+      "自重(g)": 265,
+      "先径(mm)": 2.5,
+      "ジグウェイト(g)": "MAX 70",
+      "プラグウェイト(g)": "MAX 50",
+      "適合ラインPE(号)": "MAX 2.5",
+      "リールシート位置(mm)": 504,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-03T22:50:26.253977+09:00",
+    "updated_at": "2026-09-03T22:50:26.253977+09:00"
+  }
+]
