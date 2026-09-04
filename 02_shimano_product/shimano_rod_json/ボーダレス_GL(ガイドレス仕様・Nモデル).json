@@ -1,0 +1,302 @@
+[
+  {
+    "item_name": "N7",
+    "jan": "4969363392145",
+    "product_code": "392145",
+    "price": 29400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 2.12,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 76.2,
+      "自重(g)": 40,
+      "先径(mm)": 1.2,
+      "元径(mm)": 8.0,
+      "カーボン含有率(％)": 93.8
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N8",
+    "jan": "4969363392152",
+    "product_code": "392152",
+    "price": 29600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 2.42,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 86.2,
+      "自重(g)": 51,
+      "先径(mm)": 1.2,
+      "元径(mm)": 8.5,
+      "カーボン含有率(％)": 95.3
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N9",
+    "jan": "4969363392169",
+    "product_code": "392169",
+    "price": 32400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 2.72,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 96.2,
+      "自重(g)": 61,
+      "先径(mm)": 1.2,
+      "元径(mm)": 9.0,
+      "カーボン含有率(％)": 96
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N10.5",
+    "jan": "4969363392176",
+    "product_code": "392176",
+    "price": 36750,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 3.17,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 112.7,
+      "自重(g)": 64,
+      "先径(mm)": 1.2,
+      "元径(mm)": 9.3,
+      "カーボン含有率(％)": 96
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N12",
+    "jan": "4969363392183",
+    "product_code": "392183",
+    "price": 40800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 3.6,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 98.5,
+      "自重(g)": 70,
+      "先径(mm)": 1.2,
+      "元径(mm)": 10.8,
+      "カーボン含有率(％)": 96.6
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N13.5",
+    "jan": "4969363392190",
+    "product_code": "392190",
+    "price": 44550,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 4.05,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 113.3,
+      "自重(g)": 80,
+      "先径(mm)": 1.2,
+      "元径(mm)": 11.2,
+      "カーボン含有率(％)": 95.9
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N15",
+    "jan": "4969363392206",
+    "product_code": "392206",
+    "price": 48000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 4.5,
+      "継ぎ方式": "並継",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 99.3,
+      "自重(g)": 87,
+      "先径(mm)": 1.2,
+      "元径(mm)": 11.8,
+      "カーボン含有率(％)": 96.4
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N16.5",
+    "jan": "4969363392213",
+    "product_code": "392213",
+    "price": 51150,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 4.95,
+      "継ぎ方式": "並継",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 111.3,
+      "自重(g)": 90,
+      "先径(mm)": 1.2,
+      "元径(mm)": 12.4,
+      "カーボン含有率(％)": 97.2
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N18",
+    "jan": "4969363392220",
+    "product_code": "392220",
+    "price": 54000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 5.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 119.3,
+      "自重(g)": 100,
+      "先径(mm)": 1.2,
+      "元径(mm)": 12.9,
+      "カーボン含有率(％)": 97
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N19.5",
+    "jan": "4969363392237",
+    "product_code": "392237",
+    "price": 58500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 5.85,
+      "継ぎ方式": "並継",
+      "継数(本)": 6,
+      "仕舞寸法(cm)": 108.3,
+      "自重(g)": 112,
+      "先径(mm)": 1.2,
+      "元径(mm)": 14.2,
+      "カーボン含有率(％)": 96.9
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N21",
+    "jan": "4969363392244",
+    "product_code": "392244",
+    "price": 63000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 6.3,
+      "継ぎ方式": "並継",
+      "継数(本)": 6,
+      "仕舞寸法(cm)": 119.2,
+      "自重(g)": 125,
+      "先径(mm)": 1.2,
+      "元径(mm)": 14.5,
+      "カーボン含有率(％)": 97.2
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N22.5",
+    "jan": "4969363392251",
+    "product_code": "392251",
+    "price": 67500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 6.75,
+      "継ぎ方式": "並継",
+      "継数(本)": 6,
+      "仕舞寸法(cm)": 123.4,
+      "自重(g)": 144,
+      "先径(mm)": 1.2,
+      "元径(mm)": 15.3,
+      "カーボン含有率(％)": 97.2
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N24",
+    "jan": "4969363392268",
+    "product_code": "392268",
+    "price": 74400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 7.2,
+      "継ぎ方式": "並継",
+      "継数(本)": 7,
+      "仕舞寸法(cm)": 116.9,
+      "自重(g)": 158,
+      "先径(mm)": 1.2,
+      "元径(mm)": 15.6,
+      "カーボン含有率(％)": 96.9
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N25.5",
+    "jan": "4969363392275",
+    "product_code": "392275",
+    "price": 81600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 7.65,
+      "継ぎ方式": "並継",
+      "継数(本)": 7,
+      "仕舞寸法(cm)": 121.5,
+      "自重(g)": 178,
+      "先径(mm)": 1.2,
+      "元径(mm)": 16.4,
+      "カーボン含有率(％)": 96.1
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  },
+  {
+    "item_name": "N27",
+    "jan": "4969363392282",
+    "product_code": "392282",
+    "price": 89100,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003deg4cqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Nモデル)",
+    "specs": {
+      "全長(m)": 8.13,
+      "継ぎ方式": "並継",
+      "継数(本)": 8,
+      "仕舞寸法(cm)": 115,
+      "自重(g)": 193,
+      "先径(mm)": 1.2,
+      "元径(mm)": 17.0,
+      "カーボン含有率(％)": 96.4
+    },
+    "created_at": "2026-09-04T21:16:11.617526+09:00",
+    "updated_at": "2026-09-04T21:16:11.617526+09:00"
+  }
+]

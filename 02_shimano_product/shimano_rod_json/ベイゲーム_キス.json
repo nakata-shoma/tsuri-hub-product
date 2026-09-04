@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "S180",
+    "jan": "4969363241542",
+    "product_code": "241542",
+    "price": 27000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00003c8ptpqar.html",
+    "product_name": "ベイゲーム キス",
+    "specs": {
+      "全長(m)": 1.8,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 93,
+      "自重(g)": 70,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "8-25",
+      "リールシート位置(mm)": 244,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 80.5
+    },
+    "created_at": "2026-09-04T21:16:04.037454+09:00",
+    "updated_at": "2026-09-04T21:16:04.037454+09:00"
+  },
+  {
+    "item_name": "M180",
+    "jan": "4969363241559",
+    "product_code": "241559",
+    "price": 27000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00003c8ptpqar.html",
+    "product_name": "ベイゲーム キス",
+    "specs": {
+      "全長(m)": 1.8,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 93,
+      "自重(g)": 75,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "10-30",
+      "リールシート位置(mm)": 244,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 80.6
+    },
+    "created_at": "2026-09-04T21:16:04.037454+09:00",
+    "updated_at": "2026-09-04T21:16:04.037454+09:00"
+  },
+  {
+    "item_name": "H170",
+    "jan": "4969363241566",
+    "product_code": "241566",
+    "price": 27000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00003c8ptpqar.html",
+    "product_name": "ベイゲーム キス",
+    "specs": {
+      "全長(m)": 1.7,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 87.5,
+      "自重(g)": 82,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "10-35",
+      "リールシート位置(mm)": 244,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 90.7
+    },
+    "created_at": "2026-09-04T21:16:04.037454+09:00",
+    "updated_at": "2026-09-04T21:16:04.037454+09:00"
+  }
+]

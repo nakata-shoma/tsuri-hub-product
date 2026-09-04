@@ -1,0 +1,71 @@
+[
+  {
+    "item_name": "M180",
+    "jan": "4969363260116",
+    "product_code": "260116",
+    "price": 29500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003c8peaqaz.html",
+    "product_name": "ベイゲーム カワハギ[BAYGAME KAWAHAGI]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 94.5,
+      "自重(g)": 96,
+      "先径(mm)": 0.8,
+      "錘負荷(号)": "20-35",
+      "グリップタイプ": "セパレート",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.1
+    },
+    "created_at": "2026-09-04T21:16:03.630388+09:00",
+    "updated_at": "2026-09-04T21:16:03.630388+09:00"
+  },
+  {
+    "item_name": "MH175",
+    "jan": "4969363260123",
+    "product_code": "260123",
+    "price": 30000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003c8peaqaz.html",
+    "product_name": "ベイゲーム カワハギ[BAYGAME KAWAHAGI]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 92,
+      "自重(g)": 97,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "20-40",
+      "グリップタイプ": "セパレート",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.1
+    },
+    "created_at": "2026-09-04T21:16:03.630388+09:00",
+    "updated_at": "2026-09-04T21:16:03.630388+09:00"
+  },
+  {
+    "item_name": "H170",
+    "jan": "4969363260130",
+    "product_code": "260130",
+    "price": 30000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003c8peaqaz.html",
+    "product_name": "ベイゲーム カワハギ[BAYGAME KAWAHAGI]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 89.5,
+      "自重(g)": 94,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "20-40",
+      "グリップタイプ": "セパレート",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.1
+    },
+    "created_at": "2026-09-04T21:16:03.630388+09:00",
+    "updated_at": "2026-09-04T21:16:03.630388+09:00"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "item_name": "R630-T",
+    "jan": "4969363393449",
+    "product_code": "393449",
+    "price": 54600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/freestyle/borderless/a075f00003deg7hqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Rモデル)",
+    "specs": {
+      "全長(m)": 6.3,
+      "継ぎ方式": "振出",
+      "継数(本)": 6,
+      "仕舞寸法(cm)": 121.5,
+      "自重(g)": 160,
+      "先径(mm)": 1.3,
+      "元径(mm)": 21.9,
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:16:12.386584+09:00",
+    "updated_at": "2026-09-04T21:16:12.386584+09:00"
+  },
+  {
+    "item_name": "R720-T",
+    "jan": "4969363393456",
+    "product_code": "393456",
+    "price": 62400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/freestyle/borderless/a075f00003deg7hqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Rモデル)",
+    "specs": {
+      "全長(m)": 7.2,
+      "継ぎ方式": "振出",
+      "継数(本)": 7,
+      "仕舞寸法(cm)": 121.5,
+      "自重(g)": 205,
+      "先径(mm)": 1.3,
+      "元径(mm)": 23.2,
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:16:12.386584+09:00",
+    "updated_at": "2026-09-04T21:16:12.386584+09:00"
+  },
+  {
+    "item_name": "R810-T",
+    "jan": "4969363393463",
+    "product_code": "393463",
+    "price": 70200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/freestyle/borderless/a075f00003deg7hqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Rモデル)",
+    "specs": {
+      "全長(m)": 8.1,
+      "継ぎ方式": "振出",
+      "継数(本)": 8,
+      "仕舞寸法(cm)": 121.5,
+      "自重(g)": 265,
+      "先径(mm)": 1.3,
+      "元径(mm)": 24.9,
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:16:12.386584+09:00",
+    "updated_at": "2026-09-04T21:16:12.386584+09:00"
+  },
+  {
+    "item_name": "R900-T",
+    "jan": "4969363393470",
+    "product_code": "393470",
+    "price": 78000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/freestyle/borderless/a075f00003deg7hqax.html",
+    "product_name": "ボーダレス GL(ガイドレス仕様・Rモデル)",
+    "specs": {
+      "全長(m)": 9.0,
+      "継ぎ方式": "振出",
+      "継数(本)": 9,
+      "仕舞寸法(cm)": 121.5,
+      "自重(g)": 330,
+      "先径(mm)": 1.3,
+      "元径(mm)": 27.7,
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:16:12.386584+09:00",
+    "updated_at": "2026-09-04T21:16:12.386584+09:00"
+  }
+]

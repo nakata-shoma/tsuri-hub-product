@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "155",
+    "jan": "4969363200358",
+    "product_code": "200358",
+    "price": 22500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c8pejqaj.html",
+    "product_name": "ヤリイカ BB",
+    "specs": {
+      "全長(m)": 1.55,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 81.4,
+      "自重(g)": 149,
+      "先径(mm)": 1.6,
+      "錘負荷(号)": "100-150",
+      "リールシート位置(mm)": 390,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 84.9
+    },
+    "created_at": "2026-09-04T21:16:24.997357+09:00",
+    "updated_at": "2026-09-04T21:16:24.997357+09:00"
+  },
+  {
+    "item_name": "175",
+    "jan": "4969363200365",
+    "product_code": "200365",
+    "price": 24000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c8pejqaj.html",
+    "product_name": "ヤリイカ BB",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 91.4,
+      "自重(g)": 165,
+      "先径(mm)": 1.7,
+      "錘負荷(号)": "100-150",
+      "リールシート位置(mm)": 390,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 85.6
+    },
+    "created_at": "2026-09-04T21:16:24.997357+09:00",
+    "updated_at": "2026-09-04T21:16:24.997357+09:00"
+  },
+  {
+    "item_name": "190",
+    "jan": "4969363200372",
+    "product_code": "200372",
+    "price": 24500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c8pejqaj.html",
+    "product_name": "ヤリイカ BB",
+    "specs": {
+      "全長(m)": 1.9,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 98.9,
+      "自重(g)": 174,
+      "先径(mm)": 1.7,
+      "錘負荷(号)": "100-150",
+      "リールシート位置(mm)": 390,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 85.7
+    },
+    "created_at": "2026-09-04T21:16:24.997357+09:00",
+    "updated_at": "2026-09-04T21:16:24.997357+09:00"
+  }
+]

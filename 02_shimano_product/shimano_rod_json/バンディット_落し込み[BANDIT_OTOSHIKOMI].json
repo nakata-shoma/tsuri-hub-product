@@ -1,0 +1,112 @@
+[
+  {
+    "item_name": "Light215",
+    "jan": "4969363237675",
+    "product_code": "237675",
+    "price": 62500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f00003xha8aqae.html",
+    "product_name": "バンディット 落し込み[BANDIT OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.15,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 178.8,
+      "自重(g)": 335,
+      "先径(mm)": 2.1,
+      "錘負荷(号)": "30-100",
+      "リールシート位置(mm)": 350,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 67.5
+    },
+    "created_at": "2026-09-04T21:15:52.328261+09:00",
+    "updated_at": "2026-09-04T21:15:52.328261+09:00"
+  },
+  {
+    "item_name": "M250",
+    "jan": "4969363245373",
+    "product_code": "245373",
+    "price": 65000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f00003xha8aqae.html",
+    "product_name": "バンディット 落し込み[BANDIT OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.5,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 213,
+      "自重(g)": 375,
+      "先径(mm)": 2.2,
+      "錘負荷(号)": "40-150",
+      "リールシート位置(mm)": 357,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 59.6
+    },
+    "created_at": "2026-09-04T21:15:52.328261+09:00",
+    "updated_at": "2026-09-04T21:15:52.328261+09:00"
+  },
+  {
+    "item_name": "MH245",
+    "jan": "4969363245380",
+    "product_code": "245380",
+    "price": 66500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f00003xha8aqae.html",
+    "product_name": "バンディット 落し込み[BANDIT OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.45,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 208.1,
+      "自重(g)": 385,
+      "先径(mm)": 2.2,
+      "錘負荷(号)": "60-180",
+      "リールシート位置(mm)": 357,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 62.9
+    },
+    "created_at": "2026-09-04T21:15:52.328261+09:00",
+    "updated_at": "2026-09-04T21:15:52.328261+09:00"
+  },
+  {
+    "item_name": "MH250",
+    "jan": "4969363245397",
+    "product_code": "245397",
+    "price": 66500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f00003xha8aqae.html",
+    "product_name": "バンディット 落し込み[BANDIT OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.5,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 213.6,
+      "自重(g)": 415,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "60-180",
+      "リールシート位置(mm)": 357,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 40.7
+    },
+    "created_at": "2026-09-04T21:15:52.328261+09:00",
+    "updated_at": "2026-09-04T21:15:52.328261+09:00"
+  },
+  {
+    "item_name": "H235",
+    "jan": "4969363245502",
+    "product_code": "245502",
+    "price": 67500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f00003xha8aqae.html",
+    "product_name": "バンディット 落し込み[BANDIT OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.35,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 198.1,
+      "自重(g)": 420,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "80-200",
+      "リールシート位置(mm)": 357,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 55.1
+    },
+    "created_at": "2026-09-04T21:15:52.328261+09:00",
+    "updated_at": "2026-09-04T21:15:52.328261+09:00"
+  }
+]

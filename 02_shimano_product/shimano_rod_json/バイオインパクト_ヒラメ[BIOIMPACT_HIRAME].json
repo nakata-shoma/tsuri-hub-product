@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "64M270",
+    "jan": "4969363205148",
+    "product_code": "205148",
+    "price": 78000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003poa9wqag.html",
+    "product_name": "バイオインパクト ヒラメ[BIOIMPACT HIRAME]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.3,
+      "自重(g)": 204,
+      "先径(mm)": 1.8,
+      "錘負荷(号)": "30-100",
+      "リールシート位置(mm)": 391,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.6
+    },
+    "created_at": "2026-09-04T21:15:48.044408+09:00",
+    "updated_at": "2026-09-04T21:15:48.044408+09:00"
+  },
+  {
+    "item_name": "73 MH270",
+    "jan": "4969363205162",
+    "product_code": "205162",
+    "price": 79000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003poa9wqag.html",
+    "product_name": "バイオインパクト ヒラメ[BIOIMPACT HIRAME]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.3,
+      "自重(g)": 206,
+      "先径(mm)": 1.8,
+      "錘負荷(号)": "40-120",
+      "リールシート位置(mm)": 391,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.7
+    },
+    "created_at": "2026-09-04T21:15:48.044408+09:00",
+    "updated_at": "2026-09-04T21:15:48.044408+09:00"
+  }
+]

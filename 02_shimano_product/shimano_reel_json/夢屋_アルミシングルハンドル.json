@@ -1,0 +1,56 @@
+[
+  {
+    "item_name": "35mm H-10",
+    "jan": "4969363039903",
+    "product_code": "039903",
+    "price": 9000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyahandlespinning/a075f000033rifhqae.html",
+    "product_name": "夢屋 アルミシングルハンドル",
+    "specs": {
+      "自重(g)": 20,
+      "ハンドル長さ(mm)": 35,
+      "ベアリング数BB/ローラ―": "2/0",
+      "夢屋ハンドルノブタイプ": "A",
+      "夢屋ハンドルタイプ": "H-10",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:09.166169+09:00",
+    "updated_at": "2026-09-04T21:13:09.166169+09:00"
+  },
+  {
+    "item_name": "40mm H-10",
+    "jan": "4969363039910",
+    "product_code": "039910",
+    "price": 9000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyahandlespinning/a075f000033rifhqae.html",
+    "product_name": "夢屋 アルミシングルハンドル",
+    "specs": {
+      "自重(g)": 22,
+      "ハンドル長さ(mm)": 40,
+      "ベアリング数BB/ローラ―": "2/0",
+      "夢屋ハンドルノブタイプ": "A",
+      "夢屋ハンドルタイプ": "H-10",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:09.166169+09:00",
+    "updated_at": "2026-09-04T21:13:09.166169+09:00"
+  },
+  {
+    "item_name": "45mm H-10",
+    "jan": "4969363039927",
+    "product_code": "039927",
+    "price": 9000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyahandlespinning/a075f000033rifhqae.html",
+    "product_name": "夢屋 アルミシングルハンドル",
+    "specs": {
+      "自重(g)": 23,
+      "ハンドル長さ(mm)": 45,
+      "ベアリング数BB/ローラ―": "2/0",
+      "夢屋ハンドルノブタイプ": "A",
+      "夢屋ハンドルタイプ": "H-10",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:09.166169+09:00",
+    "updated_at": "2026-09-04T21:13:09.166169+09:00"
+  }
+]

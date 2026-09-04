@@ -1,0 +1,90 @@
+[
+  {
+    "item_name": "205 0",
+    "jan": "4969363213259",
+    "product_code": "213259",
+    "price": 92600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/deep/a075f00003wmh7xqae.html",
+    "product_name": "ディープソルジャー[DEEP SOLDIER]",
+    "specs": {
+      "全長(m)": 2.05,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 173.1,
+      "自重(g)": 552,
+      "先径(mm)": 3.3,
+      "錘負荷(号)": "100-300",
+      "リールシート位置(mm)": 297,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 53.5,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:38.706777+09:00",
+    "updated_at": "2026-09-04T21:15:38.706777+09:00"
+  },
+  {
+    "item_name": "205 I",
+    "jan": "4969363213266",
+    "product_code": "213266",
+    "price": 94900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/deep/a075f00003wmh7xqae.html",
+    "product_name": "ディープソルジャー[DEEP SOLDIER]",
+    "specs": {
+      "全長(m)": 2.06,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 179,
+      "自重(g)": 760,
+      "先径(mm)": 3.8,
+      "錘負荷(号)": "200-500",
+      "リールシート位置(mm)": 234,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 17.9,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:38.706777+09:00",
+    "updated_at": "2026-09-04T21:15:38.706777+09:00"
+  },
+  {
+    "item_name": "205 II",
+    "jan": "4969363213273",
+    "product_code": "213273",
+    "price": 97200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/deep/a075f00003wmh7xqae.html",
+    "product_name": "ディープソルジャー[DEEP SOLDIER]",
+    "specs": {
+      "全長(m)": 2.06,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 179,
+      "自重(g)": 800,
+      "先径(mm)": 3.8,
+      "錘負荷(号)": "250-600",
+      "リールシート位置(mm)": 234,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 19.7,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:38.706777+09:00",
+    "updated_at": "2026-09-04T21:15:38.706777+09:00"
+  },
+  {
+    "item_name": "205 III",
+    "jan": "4969363213280",
+    "product_code": "213280",
+    "price": 99600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/deep/a075f00003wmh7xqae.html",
+    "product_name": "ディープソルジャー[DEEP SOLDIER]",
+    "specs": {
+      "全長(m)": 2.06,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 179,
+      "自重(g)": 816,
+      "先径(mm)": 3.8,
+      "錘負荷(号)": "300-800",
+      "リールシート位置(mm)": 234,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 20.8,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:38.706777+09:00",
+    "updated_at": "2026-09-04T21:15:38.706777+09:00"
+  }
+]

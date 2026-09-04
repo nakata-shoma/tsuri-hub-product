@@ -1,11 +1,15 @@
 """
-input/rod, input/reel に未保存のURLだけを抽出し、タブ一括オープン用の
-ローカルHTML（todo_list.html）を生成する。
+rod/reelの全URLを一覧化し、タブ一括オープン用のローカルHTML
+（todo_list.html）を生成する。
 
 fish.shimano.comはWAFで自動アクセスをブロックしているため、各商品ページは
 人間が実際にブラウザで開いてCtrl+Sで保存する必要がある（詳細はREADME.md参照）。
-このスクリプトは取得の自動化ではなく、「どのURLがまだ未保存か」の把握と、
-ブラウザでの一括タブオープンを補助するだけのもの。
+このスクリプトは取得の自動化ではなく、ブラウザでの一括タブオープンを補助する
+だけのもの。
+
+定期的に全件を再ダウンロードして差分を確認する運用のため、既に保存済みの
+URLも含めて全件を出力する（保存済みかどうかは目印として表示するのみで、
+一覧からは除外しない）。
 """
 import os
 import sys
@@ -37,12 +41,16 @@ def saved_urls(html_dir):
 
 
 def build_section(title, all_urls, done_urls):
-    remaining = [u for u in all_urls if u not in done_urls]
+    done_count = sum(1 for u in all_urls if u in done_urls)
     items = "\n".join(
-        f'<li><a href="{u}" target="_blank" rel="noopener">{u}</a></li>' for u in remaining
+        '<li class="done"><span class="mark">[済]</span> '
+        f'<a href="{u}" target="_blank" rel="noopener">{u}</a></li>'
+        if u in done_urls else
+        f'<li><a href="{u}" target="_blank" rel="noopener">{u}</a></li>'
+        for u in all_urls
     )
     return f"""
-<h2>{title}（残り {len(remaining)} / {len(all_urls)} 件）</h2>
+<h2>{title}（全{len(all_urls)}件・保存済み{done_count}件）</h2>
 <ol>
 {items}
 </ol>
@@ -64,17 +72,23 @@ def main():
 <style>
 body {{ font-family: sans-serif; max-width: 900px; margin: 20px auto; padding: 0 20px; }}
 li {{ margin-bottom: 4px; }}
+li.done {{ color: #888; }}
+li.done .mark {{ color: #2a7a2a; font-weight: bold; }}
 p.note {{ background: #fff3cd; padding: 10px; border-radius: 4px; }}
 </style>
 </head>
 <body>
-<h1>shimano 未保存URL一覧</h1>
+<h1>shimano 全URL一覧（定期再ダウンロード用）</h1>
 <p class="note">
-各リンクをクリックしてページを開き、Ctrl+Sで保存してください。
-保存先はロッドなら input/rod/、リールなら input/reel/。ファイル名は任意です。<br>
-このページは自動生成物です。保存が進んだら
-<code>python 02_shimano_product/make_todo_list.py</code> を再実行すると
-保存済み分がリストから消えます。
+各リンクをクリックしてページを開き、Ctrl+Sで保存してください（既存ファイルは
+上書きでよい）。保存先はロッドなら input/rod/、リールなら input/reel/。
+ファイル名は任意です。<br>
+[済]は前回時点で保存済みだったURL（再ダウンロードして更新確認する対象）。
+定期的に全件をこのページから開き直し、保存後に
+<code>python 02_shimano_product/01_get_item_spec.py</code> を実行すると、
+価格・スペックの変更やJSONの差分（`updated_at`）で更新を検知できる。<br>
+このページ自体は<code>python 02_shimano_product/make_todo_list.py</code>を
+再実行すれば最新の保存状況で再生成される。
 </p>
 {build_section("ロッド", rod_all, rod_done)}
 {build_section("リール", reel_all, reel_done)}
@@ -85,8 +99,8 @@ p.note {{ background: #fff3cd; padding: 10px; border-radius: 4px; }}
     with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
         f.write(html)
 
-    print(f"ロッド 残り{len(rod_all) - len(rod_done)}/{len(rod_all)}件")
-    print(f"リール 残り{len(reel_all) - len(reel_done)}/{len(reel_all)}件")
+    print(f"ロッド 全{len(rod_all)}件（保存済み{len(rod_done)}件）")
+    print(f"リール 全{len(reel_all)}件（保存済み{len(reel_done)}件）")
     print(f"生成: {OUTPUT_HTML}")
 
 

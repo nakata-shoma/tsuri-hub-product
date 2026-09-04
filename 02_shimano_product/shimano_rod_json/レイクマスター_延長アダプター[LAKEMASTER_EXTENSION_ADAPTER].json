@@ -1,0 +1,62 @@
+[
+  {
+    "item_name": "EA-7.5",
+    "jan": "4969363273918",
+    "product_code": "273918",
+    "price": 4300,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000044ugmiqaw.html",
+    "product_name": "レイクマスター 延長アダプター[LAKEMASTER EXTENSION ADAPTER]",
+    "specs": {
+      "全長(m)": 0.08,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 7.5,
+      "自重(g)": 2,
+      "先径(mm)": 6.2,
+      "元径(mm)": 5.0,
+      "先内径(mm)/先外径(mm)": "5/-",
+      "カーボン含有率(％)": 54.3
+    },
+    "created_at": "2026-09-04T21:16:42.941823+09:00",
+    "updated_at": "2026-09-04T21:16:42.941823+09:00"
+  },
+  {
+    "item_name": "EA-10",
+    "jan": "4969363273895",
+    "product_code": "273895",
+    "price": 4400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000044ugmiqaw.html",
+    "product_name": "レイクマスター 延長アダプター[LAKEMASTER EXTENSION ADAPTER]",
+    "specs": {
+      "全長(m)": 0.1,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 10,
+      "自重(g)": 3,
+      "先径(mm)": 6.2,
+      "元径(mm)": 5.0,
+      "先内径(mm)/先外径(mm)": "5/-",
+      "カーボン含有率(％)": 53.7
+    },
+    "created_at": "2026-09-04T21:16:42.941823+09:00",
+    "updated_at": "2026-09-04T21:16:42.941823+09:00"
+  },
+  {
+    "item_name": "EA-15",
+    "jan": "4969363273901",
+    "product_code": "273901",
+    "price": 4500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000044ugmiqaw.html",
+    "product_name": "レイクマスター 延長アダプター[LAKEMASTER EXTENSION ADAPTER]",
+    "specs": {
+      "全長(m)": 0.15,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 15,
+      "自重(g)": 3,
+      "先径(mm)": 6.2,
+      "元径(mm)": 5.0,
+      "先内径(mm)/先外径(mm)": "5/-",
+      "カーボン含有率(％)": 53
+    },
+    "created_at": "2026-09-04T21:16:42.941823+09:00",
+    "updated_at": "2026-09-04T21:16:42.941823+09:00"
+  }
+]

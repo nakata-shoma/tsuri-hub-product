@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "2000MAX",
+    "jan": "4969363045980",
+    "product_code": "045980",
+    "price": 9500,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyaspoolbaitryojiku/a075f000042pcvoqao.html",
+    "product_name": "夢屋 17オシアジガー2000MAXスプール[YUMEYA 17OCEA JIGGER 2000MAX SPOOL]",
+    "specs": {
+      "自重(g)": 57,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "60/26",
+      "糸巻量PE(号-m)": "3-530, 4-400, 5-320",
+      "ベアリング数BB/ローラ―": "1/0",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:05.075347+09:00",
+    "updated_at": "2026-09-04T21:13:05.075347+09:00"
+  },
+  {
+    "item_name": "2001MAX",
+    "jan": "4969363045997",
+    "product_code": "045997",
+    "price": 9500,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyaspoolbaitryojiku/a075f000042pcvoqao.html",
+    "product_name": "夢屋 17オシアジガー2000MAXスプール[YUMEYA 17OCEA JIGGER 2000MAX SPOOL]",
+    "specs": {
+      "自重(g)": 57,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "60/26",
+      "糸巻量PE(号-m)": "3-530, 4-400, 5-320",
+      "ベアリング数BB/ローラ―": "1/0",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:05.075347+09:00",
+    "updated_at": "2026-09-04T21:13:05.075347+09:00"
+  }
+]

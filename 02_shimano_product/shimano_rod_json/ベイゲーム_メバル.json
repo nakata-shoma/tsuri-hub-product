@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "S360",
+    "jan": "4969363203380",
+    "product_code": "203380",
+    "price": 35900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00003ksny0qah.html",
+    "product_name": "ベイゲーム メバル",
+    "specs": {
+      "全長(m)": 3.6,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 125,
+      "自重(g)": 124,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "8-40",
+      "リールシート位置(mm)": 330,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.7
+    },
+    "created_at": "2026-09-04T21:16:04.957097+09:00",
+    "updated_at": "2026-09-04T21:16:04.957097+09:00"
+  },
+  {
+    "item_name": "M360",
+    "jan": "4969363203403",
+    "product_code": "203403",
+    "price": 36900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00003ksny0qah.html",
+    "product_name": "ベイゲーム メバル",
+    "specs": {
+      "全長(m)": 3.6,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 125,
+      "自重(g)": 125,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "10-50",
+      "リールシート位置(mm)": 330,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98
+    },
+    "created_at": "2026-09-04T21:16:04.957097+09:00",
+    "updated_at": "2026-09-04T21:16:04.957097+09:00"
+  }
+]

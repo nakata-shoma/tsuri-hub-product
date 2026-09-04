@@ -1,0 +1,34 @@
+[
+  {
+    "item_name": "レッドブラックGR",
+    "jan": "4969363047632",
+    "product_code": "047632",
+    "price": 29600,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/chinuwakasagiother/a075f00003q6etfqai.html",
+    "product_name": "レイクマスターCT-ET[LAKEMASTER CT-ET]",
+    "specs": {
+      "自重(g)": 90,
+      "糸巻量PE(号-m)": "0.6-30",
+      "ベアリング数BB/ローラ―": "2/0",
+      "取付穴径(mm)": 5
+    },
+    "created_at": "2026-09-04T21:13:01.292141+09:00",
+    "updated_at": "2026-09-04T21:13:01.292141+09:00"
+  },
+  {
+    "item_name": "シルバーブラックGR",
+    "jan": "4969363047649",
+    "product_code": "047649",
+    "price": 29600,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/chinuwakasagiother/a075f00003q6etfqai.html",
+    "product_name": "レイクマスターCT-ET[LAKEMASTER CT-ET]",
+    "specs": {
+      "自重(g)": 90,
+      "糸巻量PE(号-m)": "0.6-30",
+      "ベアリング数BB/ローラ―": "2/0",
+      "取付穴径(mm)": 5
+    },
+    "created_at": "2026-09-04T21:13:01.292141+09:00",
+    "updated_at": "2026-09-04T21:13:01.292141+09:00"
+  }
+]

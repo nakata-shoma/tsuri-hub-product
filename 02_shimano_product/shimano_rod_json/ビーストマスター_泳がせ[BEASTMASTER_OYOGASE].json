@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "H170",
+    "jan": "4969363277008",
+    "product_code": "277008",
+    "price": 150000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/oyogase/a075f000048lcjvqae.html",
+    "product_name": "ビーストマスター 泳がせ[BEASTMASTER OYOGASE]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 170,
+      "自重(g)": 778,
+      "先径(mm)": 2.1,
+      "錘負荷(号)": "60-400",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 9.5,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:54.047596+09:00",
+    "updated_at": "2026-09-04T21:15:54.047596+09:00"
+  },
+  {
+    "item_name": "MH/H205",
+    "jan": "4969363277015",
+    "product_code": "277015",
+    "price": 160000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/oyogase/a075f000048lcjvqae.html",
+    "product_name": "ビーストマスター 泳がせ[BEASTMASTER OYOGASE]",
+    "specs": {
+      "全長(m)": 2.05,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 170,
+      "自重(g)": 755,
+      "先径(mm)": 2.3,
+      "錘負荷(号)": "80-500",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 25,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:54.047596+09:00",
+    "updated_at": "2026-09-04T21:15:54.047596+09:00"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "170",
+    "jan": "4969363271242",
+    "product_code": "271242",
+    "price": 63000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kihada/a075f000044ugbgqaw.html",
+    "product_name": "バンディット キハダ[BANDIT KIHADA]",
+    "specs": {
+      "全長(m)": 1.71,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 139.3,
+      "自重(g)": 380,
+      "先径(mm)": 2.6,
+      "ジグウェイト(g)": "-",
+      "錘負荷(号)": "80-400",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 67.6
+    },
+    "created_at": "2026-09-04T21:15:51.825787+09:00",
+    "updated_at": "2026-09-04T21:15:51.825787+09:00"
+  },
+  {
+    "item_name": "190",
+    "jan": "4969363271259",
+    "product_code": "271259",
+    "price": 64000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kihada/a075f000044ugbgqaw.html",
+    "product_name": "バンディット キハダ[BANDIT KIHADA]",
+    "specs": {
+      "全長(m)": 1.91,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 159.3,
+      "自重(g)": 400,
+      "先径(mm)": 2.4,
+      "ジグウェイト(g)": "-",
+      "錘負荷(号)": "80-400",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 64.3
+    },
+    "created_at": "2026-09-04T21:15:51.825787+09:00",
+    "updated_at": "2026-09-04T21:15:51.825787+09:00"
+  },
+  {
+    "item_name": "S210",
+    "jan": "4969363271266",
+    "product_code": "271266",
+    "price": 64000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kihada/a075f000044ugbgqaw.html",
+    "product_name": "バンディット キハダ[BANDIT KIHADA]",
+    "specs": {
+      "全長(m)": 2.1,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 148.3,
+      "自重(g)": 350,
+      "先径(mm)": 2.2,
+      "ジグウェイト(g)": "120-300",
+      "錘負荷(号)": "-",
+      "リールシート位置(mm)": 394,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 60.2
+    },
+    "created_at": "2026-09-04T21:15:51.825787+09:00",
+    "updated_at": "2026-09-04T21:15:51.825787+09:00"
+  }
+]

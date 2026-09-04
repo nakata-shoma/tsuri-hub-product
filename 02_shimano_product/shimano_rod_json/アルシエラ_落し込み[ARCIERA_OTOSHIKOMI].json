@@ -1,0 +1,86 @@
+[
+  {
+    "item_name": "64M230",
+    "jan": "4969363273802",
+    "product_code": "273802",
+    "price": 100000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f000048lcdoqau.html",
+    "product_name": "アルシエラ 落し込み[ARCIERA OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.3,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 192.3,
+      "自重(g)": 423,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "40-150",
+      "リールシート位置(mm)": 367,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 56.6
+    },
+    "created_at": "2026-09-04T21:13:36.229141+09:00",
+    "updated_at": "2026-09-04T21:13:36.229141+09:00"
+  },
+  {
+    "item_name": "64MH250",
+    "jan": "4969363273819",
+    "product_code": "273819",
+    "price": 103000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f000048lcdoqau.html",
+    "product_name": "アルシエラ 落し込み[ARCIERA OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.5,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 212.4,
+      "自重(g)": 470,
+      "先径(mm)": 2.2,
+      "錘負荷(号)": "50-180",
+      "リールシート位置(mm)": 367,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 50.2
+    },
+    "created_at": "2026-09-04T21:13:36.229141+09:00",
+    "updated_at": "2026-09-04T21:13:36.229141+09:00"
+  },
+  {
+    "item_name": "73MH240",
+    "jan": "4969363273833",
+    "product_code": "273833",
+    "price": 103000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f000048lcdoqau.html",
+    "product_name": "アルシエラ 落し込み[ARCIERA OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.4,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 202.4,
+      "自重(g)": 445,
+      "先径(mm)": 2.2,
+      "錘負荷(号)": "50-200",
+      "リールシート位置(mm)": 367,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 63.9
+    },
+    "created_at": "2026-09-04T21:13:36.229141+09:00",
+    "updated_at": "2026-09-04T21:13:36.229141+09:00"
+  },
+  {
+    "item_name": "73H230",
+    "jan": "4969363273826",
+    "product_code": "273826",
+    "price": 103000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f000048lcdoqau.html",
+    "product_name": "アルシエラ 落し込み[ARCIERA OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.3,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 192.5,
+      "自重(g)": 476,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "80-200",
+      "リールシート位置(mm)": 367,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 56.6
+    },
+    "created_at": "2026-09-04T21:13:36.229141+09:00",
+    "updated_at": "2026-09-04T21:13:36.229141+09:00"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "item_name": "400",
+    "jan": "4969363254160",
+    "product_code": "254160",
+    "price": 33900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/tamanoe/a075f000032xowpqaa.html",
+    "product_name": "アドバンス イソ タマアミ",
+    "specs": {
+      "全長(m)": 4.0,
+      "継ぎ方式": "振出",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 115.3,
+      "自重(g)": 270,
+      "先径(mm)": 16.1,
+      "カーボン含有率(％)": 99.7
+    },
+    "created_at": "2026-09-04T21:13:32.518276+09:00",
+    "updated_at": "2026-09-04T21:13:32.518276+09:00"
+  },
+  {
+    "item_name": "500",
+    "jan": "4969363254177",
+    "product_code": "254177",
+    "price": 37500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/tamanoe/a075f000032xowpqaa.html",
+    "product_name": "アドバンス イソ タマアミ",
+    "specs": {
+      "全長(m)": 5.0,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 120.3,
+      "自重(g)": 375,
+      "先径(mm)": 16.1,
+      "カーボン含有率(％)": 99.7
+    },
+    "created_at": "2026-09-04T21:13:32.518276+09:00",
+    "updated_at": "2026-09-04T21:13:32.518276+09:00"
+  },
+  {
+    "item_name": "600",
+    "jan": "4969363254184",
+    "product_code": "254184",
+    "price": 40900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/tamanoe/a075f000032xowpqaa.html",
+    "product_name": "アドバンス イソ タマアミ",
+    "specs": {
+      "全長(m)": 6.0,
+      "継ぎ方式": "振出",
+      "継数(本)": 6,
+      "仕舞寸法(cm)": 120.3,
+      "自重(g)": 495,
+      "先径(mm)": 16.1,
+      "カーボン含有率(％)": 99.7
+    },
+    "created_at": "2026-09-04T21:13:32.518276+09:00",
+    "updated_at": "2026-09-04T21:13:32.518276+09:00"
+  }
+]

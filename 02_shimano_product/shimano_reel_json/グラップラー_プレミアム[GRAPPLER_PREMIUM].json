@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "150XG RIGHT",
+    "jan": "4969363047182",
+    "product_code": "047182",
+    "price": 46500,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/ryojikuoffshorefunesmall/a075f00003iml5rqaw.html",
+    "product_name": "グラップラー プレミアム[GRAPPLER PREMIUM]",
+    "specs": {
+      "ギア比": 8.1,
+      "最大ドラグ力(Kg)": 5,
+      "自重(g)": 240,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "32/22",
+      "糸巻量PE(号-m)": "0.8-400, 1-330, 1.5-200",
+      "最大巻上長(cm/ハンドル1回転)": 81,
+      "ハンドル長さ(mm)": 60,
+      "ベアリング数BB/ローラ―": "8/2",
+      "夢屋ハンドルノブタイプ": "B",
+      "夢屋ハンドルタイプ": "BH-1"
+    },
+    "created_at": "2026-09-04T21:12:13.947244+09:00",
+    "updated_at": "2026-09-04T21:12:13.947244+09:00"
+  },
+  {
+    "item_name": "151XG LEFT",
+    "jan": "4969363047199",
+    "product_code": "047199",
+    "price": 46500,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/ryojikuoffshorefunesmall/a075f00003iml5rqaw.html",
+    "product_name": "グラップラー プレミアム[GRAPPLER PREMIUM]",
+    "specs": {
+      "ギア比": 8.1,
+      "最大ドラグ力(Kg)": 5,
+      "自重(g)": 240,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "32/22",
+      "糸巻量PE(号-m)": "0.8-400, 1-330, 1.5-200",
+      "最大巻上長(cm/ハンドル1回転)": 81,
+      "ハンドル長さ(mm)": 60,
+      "ベアリング数BB/ローラ―": "8/2",
+      "夢屋ハンドルノブタイプ": "B",
+      "夢屋ハンドルタイプ": "BH-1"
+    },
+    "created_at": "2026-09-04T21:12:13.947244+09:00",
+    "updated_at": "2026-09-04T21:12:13.947244+09:00"
+  }
+]
