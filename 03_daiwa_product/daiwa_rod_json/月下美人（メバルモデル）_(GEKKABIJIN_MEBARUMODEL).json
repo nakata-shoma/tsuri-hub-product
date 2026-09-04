@@ -4,6 +4,7 @@
     "jan": "4550133069208",
     "price": 17700,
     "url": "https://www.daiwa.com/jp/product/412lbmc",
+    "product_name": "月下美人（メバルモデル） (GEKKABIJIN MEBARUMODEL)",
     "specs": {
       "全長（m）": 2.08,
       "継数": 2,
@@ -16,13 +17,14 @@
       "カーボン含有率（％）": 97
     },
     "created_at": "2026-04-22T23:31:17.660907+09:00",
-    "updated_at": "2026-04-22T23:31:17.660907+09:00"
+    "updated_at": "2026-09-03T17:27:45.351223+09:00"
   },
   {
     "item_name": "月下美人　７４ＵＬ－Ｓ・Ｎ",
     "jan": "4550133069215",
     "price": 18200,
     "url": "https://www.daiwa.com/jp/product/412lbmc",
+    "product_name": "月下美人（メバルモデル） (GEKKABIJIN MEBARUMODEL)",
     "specs": {
       "全長（m）": 2.24,
       "継数": 2,
@@ -35,13 +37,14 @@
       "カーボン含有率（％）": 97
     },
     "created_at": "2026-04-22T23:31:17.660907+09:00",
-    "updated_at": "2026-04-22T23:31:17.660907+09:00"
+    "updated_at": "2026-09-03T17:27:45.351223+09:00"
   },
   {
     "item_name": "月下美人　７６Ｌ－Ｔ・Ｎ",
     "jan": "4550133069222",
     "price": 18300,
     "url": "https://www.daiwa.com/jp/product/412lbmc",
+    "product_name": "月下美人（メバルモデル） (GEKKABIJIN MEBARUMODEL)",
     "specs": {
       "全長（m）": 2.29,
       "継数": 2,
@@ -54,13 +57,14 @@
       "カーボン含有率（％）": 98
     },
     "created_at": "2026-04-22T23:31:17.660907+09:00",
-    "updated_at": "2026-04-22T23:31:17.660907+09:00"
+    "updated_at": "2026-09-03T17:27:45.351223+09:00"
   },
   {
     "item_name": "月下美人　８３Ｍ－Ｔ・Ｎ",
     "jan": "4550133069239",
     "price": 19300,
     "url": "https://www.daiwa.com/jp/product/412lbmc",
+    "product_name": "月下美人（メバルモデル） (GEKKABIJIN MEBARUMODEL)",
     "specs": {
       "全長（m）": 2.51,
       "継数": 2,
@@ -73,6 +77,6 @@
       "カーボン含有率（％）": 98
     },
     "created_at": "2026-04-22T23:31:17.660907+09:00",
-    "updated_at": "2026-04-22T23:31:17.660907+09:00"
+    "updated_at": "2026-09-03T17:27:45.351223+09:00"
   }
 ]

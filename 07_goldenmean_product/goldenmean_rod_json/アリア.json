@@ -1,0 +1,62 @@
+[
+  {
+    "item_name": "ARS-48S",
+    "jan": null,
+    "price": 19000,
+    "url": "https://www.golden-mean.co.jp/item/rod/aria/",
+    "product_name": "アリア",
+    "specs": {
+      "Length(ft.)": "4’8”",
+      "Rod Weight (g)": 60,
+      "Lure Weight(g)": "～3",
+      "Line": "POLY〜0.4号"
+    },
+    "created_at": "2026-09-03T00:35:05.727013+09:00",
+    "updated_at": "2026-09-03T16:37:13.427102+09:00"
+  },
+  {
+    "item_name": "ARS-56S",
+    "jan": null,
+    "price": 20500,
+    "url": "https://www.golden-mean.co.jp/item/rod/aria/",
+    "product_name": "アリア",
+    "specs": {
+      "Length(ft.)": "5’6”",
+      "Rod Weight (g)": 71,
+      "Lure Weight(g)": "～4",
+      "Line": "POLY〜0.5号"
+    },
+    "created_at": "2026-09-03T00:35:05.727013+09:00",
+    "updated_at": "2026-09-03T16:37:13.427102+09:00"
+  },
+  {
+    "item_name": "ARS-64S",
+    "jan": null,
+    "price": 22000,
+    "url": "https://www.golden-mean.co.jp/item/rod/aria/",
+    "product_name": "アリア",
+    "specs": {
+      "Length(ft.)": "6’4”",
+      "Rod Weight (g)": 82,
+      "Lure Weight(g)": "～10",
+      "Line": "〜6lb.（PE〜0.6号）"
+    },
+    "created_at": "2026-09-03T00:35:05.727013+09:00",
+    "updated_at": "2026-09-03T16:37:13.427102+09:00"
+  },
+  {
+    "item_name": "ARS-68S",
+    "jan": null,
+    "price": 22500,
+    "url": "https://www.golden-mean.co.jp/item/rod/aria/",
+    "product_name": "アリア",
+    "specs": {
+      "Length(ft.)": "6’8”",
+      "Rod Weight (g)": 81,
+      "Lure Weight(g)": "～5",
+      "Line": "〜4lb.（PE〜0.4号）"
+    },
+    "created_at": "2026-09-03T00:35:05.727013+09:00",
+    "updated_at": "2026-09-03T16:37:13.427102+09:00"
+  }
+]

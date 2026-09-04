@@ -4,6 +4,7 @@
     "jan": "4550133069635",
     "price": 87500,
     "url": "https://www.daiwa.com/jp/product/3xwlttm",
+    "product_name": "極鋭 カワハギ EX AGS LC（ライトコンセプト） (KYOKUEI KAWAHAGI EX AGS LC)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 1,
@@ -15,6 +16,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:17.134614+09:00",
-    "updated_at": "2026-04-22T23:31:17.134614+09:00"
+    "updated_at": "2026-09-03T17:27:45.345702+09:00"
   }
 ]

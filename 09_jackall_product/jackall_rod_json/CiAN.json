@@ -1,0 +1,104 @@
+[
+  {
+    "item_name": "CiAN-99XH",
+    "jan": null,
+    "price": 55550,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/cian-rod/cian-2/",
+    "product_name": "CiAN",
+    "specs": {
+      "Length": "9’9”",
+      "継数": "2（並継）",
+      "Weight": "381g",
+      "Power": "Extra Heavy",
+      "Lure Weight": "JIG : MAX 130g",
+      "Line": "PE：MAX #5号 (DRAG：MAX 8kg)"
+    },
+    "created_at": "2026-09-03T08:30:03.771060+09:00",
+    "updated_at": "2026-09-03T15:49:51.768038+09:00"
+  },
+  {
+    "item_name": "CiAN-100XH",
+    "jan": null,
+    "price": 55550,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/cian-rod/cian-2/",
+    "product_name": "CiAN",
+    "specs": {
+      "Length": "10’",
+      "継数": "2（印籠継）",
+      "Weight": "419g",
+      "Power": "Extra Heavy",
+      "Lure Weight": "JIG : MAX 120g　PLUG : MAX 100g",
+      "Line": "PE：MAX #5号 (DRAG：MAX 8kg)"
+    },
+    "created_at": "2026-09-03T08:30:03.771060+09:00",
+    "updated_at": "2026-09-03T15:49:51.768038+09:00"
+  },
+  {
+    "item_name": "CiAN-106XXH",
+    "jan": null,
+    "price": 58300,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/cian-rod/cian-2/",
+    "product_name": "CiAN",
+    "specs": {
+      "Length": "10’6”",
+      "継数": "2（並継）",
+      "Weight": "386g",
+      "Power": "Extra×2 Heavy",
+      "Lure Weight": "PLUG : MAX 120g",
+      "Line": "PE：MAX #6号 (DRAG：MAX 10kg)"
+    },
+    "created_at": "2026-09-03T08:30:03.771060+09:00",
+    "updated_at": "2026-09-03T15:49:51.768038+09:00"
+  },
+  {
+    "item_name": "CiAN-96XXXH",
+    "jan": null,
+    "price": 59950,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/cian-rod/cian-2/",
+    "product_name": "CiAN",
+    "specs": {
+      "Length": "9’6”",
+      "継数": "2（印籠継）",
+      "Weight": "未定",
+      "Power": "Extra×3 Heavy",
+      "Lure Weight": "JIG : MAX 200g　PLUG : MAX 180g",
+      "Line": "PE：MAX #8号 (DRAG：MAX 13kg)"
+    },
+    "created_at": "2026-09-03T08:30:03.771060+09:00",
+    "updated_at": "2026-09-03T15:49:51.768038+09:00"
+  },
+  {
+    "item_name": "CiAN-100XXH",
+    "jan": null,
+    "price": 57750,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/cian-rod/cian-2/",
+    "product_name": "CiAN",
+    "specs": {
+      "Length": "10’",
+      "継数": "2（印籠継）",
+      "Weight": "433g",
+      "Power": "Extra×2 Heavy",
+      "Lure Weight": "JIG : MAX 150g　PLUG : MAX 130g",
+      "Line": "PE：MAX #6号 (DRAG：MAX 10kg)"
+    },
+    "created_at": "2026-09-03T08:30:03.771060+09:00",
+    "updated_at": "2026-09-03T15:49:51.768038+09:00"
+  },
+  {
+    "item_name": "CiAN-106XH",
+    "jan": null,
+    "price": 57200,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/cian-rod/cian-2/",
+    "product_name": "CiAN",
+    "specs": {
+      "Length": "10’6”",
+      "継数": "2（並継）",
+      "Weight": "396g",
+      "Power": "Extra Heavy",
+      "Lure Weight": "PLUG : MAX 100g",
+      "Line": "PE：MAX #5号 (DRAG：MAX 8kg)"
+    },
+    "created_at": "2026-09-03T08:30:03.771060+09:00",
+    "updated_at": "2026-09-03T15:49:51.768038+09:00"
+  }
+]

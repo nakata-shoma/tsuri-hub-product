@@ -1,0 +1,121 @@
+[
+  {
+    "item_name": "BSP-C610UL+",
+    "jan": null,
+    "price": 57750,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-supreme/",
+    "product_name": "ビンビンスティック シュプリーム",
+    "specs": {
+      "Length(ft/m)": "6'10\"/2.08m",
+      "継数": 2,
+      "Power": "ULTRA LIGHT",
+      "Weight": "118g",
+      "Lure(g)": "MAX 200g",
+      "Line": "PE MAX#0.6-1.2号"
+    },
+    "created_at": "2026-09-03T08:26:38.905689+09:00",
+    "updated_at": "2026-09-03T15:46:22.823667+09:00"
+  },
+  {
+    "item_name": "BSP-C511UL",
+    "jan": null,
+    "price": 55880,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-supreme/",
+    "product_name": "ビンビンスティック シュプリーム",
+    "specs": {
+      "Length(ft/m)": "5'11\"/1.79m",
+      "継数": 2,
+      "Power": "ULTRA LIGHT",
+      "Weight": "101g",
+      "Lure(g)": "DOTERA MAX 250g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:26:38.905689+09:00",
+    "updated_at": "2026-09-03T15:46:22.823667+09:00"
+  },
+  {
+    "item_name": "BSP-C68SUL",
+    "jan": null,
+    "price": 56430,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-supreme/",
+    "product_name": "ビンビンスティック シュプリーム",
+    "specs": {
+      "Length(ft/m)": "6'8\"/2.03m",
+      "継数": 2,
+      "Power": "SUPER ULTRA LIGHT",
+      "Weight": "112g",
+      "Lure(g)": "MAX 160g",
+      "Line": "PE 0.6〜1.2号"
+    },
+    "created_at": "2026-09-03T08:26:38.905689+09:00",
+    "updated_at": "2026-09-03T15:46:22.823667+09:00"
+  },
+  {
+    "item_name": "BSP-C510XSUL",
+    "jan": null,
+    "price": 55550,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-supreme/",
+    "product_name": "ビンビンスティック シュプリーム",
+    "specs": {
+      "Length(ft/m)": "5'10\"/1.78m",
+      "継数": 2,
+      "Power": "EXTRA SUPER ULTRA LIGHT",
+      "Weight": "97g",
+      "Lure(g)": "MAX 120g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:26:38.905689+09:00",
+    "updated_at": "2026-09-03T15:46:22.823667+09:00"
+  },
+  {
+    "item_name": "BSP-C67UL",
+    "jan": null,
+    "price": 56100,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-supreme/",
+    "product_name": "ビンビンスティック シュプリーム",
+    "specs": {
+      "Length(ft/m)": "6'7\"/2.01m",
+      "継数": 2,
+      "Power": "ULTRA LIGHT",
+      "Weight": "102g",
+      "Lure(g)": "MAX 160g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:26:38.905689+09:00",
+    "updated_at": "2026-09-03T15:46:22.823667+09:00"
+  },
+  {
+    "item_name": "BSP-S59UL",
+    "jan": null,
+    "price": 54450,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-supreme/",
+    "product_name": "ビンビンスティック シュプリーム",
+    "specs": {
+      "Length(ft/m)": "5'9\"/1.75m",
+      "継数": 2,
+      "Power": "ULTRA LIGHT",
+      "Weight": "92g",
+      "Lure(g)": "MAX 60g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:26:38.905689+09:00",
+    "updated_at": "2026-09-03T15:46:22.823667+09:00"
+  },
+  {
+    "item_name": "BSP-S65ML",
+    "jan": null,
+    "price": 55000,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-supreme/",
+    "product_name": "ビンビンスティック シュプリーム",
+    "specs": {
+      "Length(ft/m)": "6'5\"/1.96m",
+      "継数": 2,
+      "Power": "MEDIUM LIGHT",
+      "Weight": "94g",
+      "Lure(g)": "MAX 45g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:26:38.905689+09:00",
+    "updated_at": "2026-09-03T15:46:22.823667+09:00"
+  }
+]

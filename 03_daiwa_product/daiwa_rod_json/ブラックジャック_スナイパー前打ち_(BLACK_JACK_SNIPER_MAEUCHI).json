@@ -4,6 +4,7 @@
     "jan": "4960652322201",
     "price": 48000,
     "url": "https://www.daiwa.com/jp/product/irtjlsj",
+    "product_name": "ブラックジャック スナイパー前打ち (BLACK JACK SNIPER MAEUCHI)",
     "specs": {
       "全長（m）": 5.25,
       "継数": 5,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:19.094278+09:00",
-    "updated_at": "2026-04-22T23:33:19.094278+09:00"
+    "updated_at": "2026-09-03T17:27:47.456456+09:00"
   },
   {
     "item_name": "ブラックジャックスナイパー前打ち　ＭＨ－５３ＵＭ・Ｙ",
     "jan": "4960652322218",
     "price": 51500,
     "url": "https://www.daiwa.com/jp/product/irtjlsj",
+    "product_name": "ブラックジャック スナイパー前打ち (BLACK JACK SNIPER MAEUCHI)",
     "specs": {
       "全長（m）": 5.25,
       "継数": 5,
@@ -37,13 +39,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:19.094278+09:00",
-    "updated_at": "2026-04-22T23:33:19.094278+09:00"
+    "updated_at": "2026-09-03T17:27:47.456456+09:00"
   },
   {
     "item_name": "ブラックジャックスナイパー前打ち　ＭＨ－６３ＵＭ・Ｙ",
     "jan": "4960652322225",
     "price": 62500,
     "url": "https://www.daiwa.com/jp/product/irtjlsj",
+    "product_name": "ブラックジャック スナイパー前打ち (BLACK JACK SNIPER MAEUCHI)",
     "specs": {
       "全長（m）": 6.31,
       "継数": 6,
@@ -57,6 +60,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:19.094278+09:00",
-    "updated_at": "2026-04-22T23:33:19.094278+09:00"
+    "updated_at": "2026-09-03T17:27:47.456456+09:00"
   }
 ]

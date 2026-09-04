@@ -4,6 +4,7 @@
     "jan": "4550133333941",
     "price": 71000,
     "url": "https://www.daiwa.com/jp/product/arsrmca",
+    "product_name": "BJイカダEX メタルチューン (BJ IKADA EX METALTUNE)",
     "specs": {
       "全長（m）": 1.27,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:17.853780+09:00",
-    "updated_at": "2026-04-22T23:32:17.853780+09:00"
+    "updated_at": "2026-09-03T17:27:46.251087+09:00"
   },
   {
     "item_name": "ＢＪイカダＥＸ　メタルチューン　１４７",
     "jan": "4550133333958",
     "price": 72000,
     "url": "https://www.daiwa.com/jp/product/arsrmca",
+    "product_name": "BJイカダEX メタルチューン (BJ IKADA EX METALTUNE)",
     "specs": {
       "全長（m）": 1.47,
       "継数": 2,
@@ -33,6 +35,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:17.853780+09:00",
-    "updated_at": "2026-04-22T23:32:17.853780+09:00"
+    "updated_at": "2026-09-03T17:27:46.251087+09:00"
   }
 ]

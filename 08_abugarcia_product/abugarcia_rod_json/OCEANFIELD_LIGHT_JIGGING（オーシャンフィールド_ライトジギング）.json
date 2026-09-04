@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "OFLS-632-MAX120",
+    "jan": "036282036185",
+    "product_code": "1633357",
+    "price": 18000,
+    "url": "https://abugarcia.jp/products/oceanfield-light-jigging",
+    "product_name": "OCEANFIELD LIGHT JIGGING（オーシャンフィールド ライトジギング）",
+    "specs": {
+      "レングス(ft/cm)": "6’3”/ 190.5cm",
+      "パワー": "2(ML)",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 2,
+      "タイプ": "スピニング",
+      "PE(号)": "Max2.5",
+      "仕舞寸法(cm)": 98.7,
+      "先径(mm)": 1.7,
+      "ルアー(oz)": "Max120",
+      "材料": "ｶｰﾎﾞﾝ98%, グラス2%"
+    },
+    "created_at": "2026-09-03T00:39:50.251724+09:00",
+    "updated_at": "2026-09-03T15:17:32.199211+09:00"
+  },
+  {
+    "item_name": "OFLC-632-MAX120",
+    "jan": "036282036192",
+    "product_code": "1633358",
+    "price": 18000,
+    "url": "https://abugarcia.jp/products/oceanfield-light-jigging",
+    "product_name": "OCEANFIELD LIGHT JIGGING（オーシャンフィールド ライトジギング）",
+    "specs": {
+      "レングス(ft/cm)": "6’3”/ 190.5cm",
+      "パワー": "2(ML)",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 2,
+      "タイプ": "ベイトキャスティング",
+      "PE(号)": "Max2.5",
+      "仕舞寸法(cm)": 98.7,
+      "先径(mm)": 1.7,
+      "ルアー(oz)": "Max120",
+      "材料": "ｶｰﾎﾞﾝ98%, グラス2%"
+    },
+    "created_at": "2026-09-03T00:39:50.251724+09:00",
+    "updated_at": "2026-09-03T15:17:32.199211+09:00"
+  }
+]

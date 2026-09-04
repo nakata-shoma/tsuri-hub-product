@@ -4,6 +4,7 @@
     "jan": "4550133478987",
     "price": 136500,
     "url": "https://www.daiwa.com/jp/product/lu8esow",
+    "product_name": "マッドバイパー 落とし込みSP (MADVIPER OTOSHIKOMI SP)",
     "specs": {
       "全長（m）": 2.15,
       "継数": 1,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:43.805670+09:00",
-    "updated_at": "2026-04-22T23:33:43.805670+09:00"
+    "updated_at": "2026-09-03T17:27:47.747927+09:00"
   },
   {
     "item_name": "マッドバイパー落とし込みＳＰ　Ｍ／ＭＨ－２４０ＳＭＴ",
     "jan": "4550133478994",
     "price": 137500,
     "url": "https://www.daiwa.com/jp/product/lu8esow",
+    "product_name": "マッドバイパー 落とし込みSP (MADVIPER OTOSHIKOMI SP)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 1,
@@ -37,13 +39,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:43.805670+09:00",
-    "updated_at": "2026-04-22T23:33:43.805670+09:00"
+    "updated_at": "2026-09-03T17:27:47.747927+09:00"
   },
   {
     "item_name": "マッドバイパー落とし込みＳＰ　ＭＨ／Ｈ－２３８ＳＭＴ",
     "jan": "4550133479007",
     "price": 138500,
     "url": "https://www.daiwa.com/jp/product/lu8esow",
+    "product_name": "マッドバイパー 落とし込みSP (MADVIPER OTOSHIKOMI SP)",
     "specs": {
       "全長（m）": 2.38,
       "継数": 1,
@@ -57,13 +60,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:43.805670+09:00",
-    "updated_at": "2026-04-22T23:33:43.805670+09:00"
+    "updated_at": "2026-09-03T17:27:47.747927+09:00"
   },
   {
     "item_name": "マッドバイパー落とし込みＳＰ　Ｈ／ＸＨ－２４５ＳＭＴ",
     "jan": "4550133479014",
     "price": 139500,
     "url": "https://www.daiwa.com/jp/product/lu8esow",
+    "product_name": "マッドバイパー 落とし込みSP (MADVIPER OTOSHIKOMI SP)",
     "specs": {
       "全長（m）": 2.45,
       "継数": 1,
@@ -77,6 +81,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:43.805670+09:00",
-    "updated_at": "2026-04-22T23:33:43.805670+09:00"
+    "updated_at": "2026-09-03T17:27:47.747927+09:00"
   }
 ]

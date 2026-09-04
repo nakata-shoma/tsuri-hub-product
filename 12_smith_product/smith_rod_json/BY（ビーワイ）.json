@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "BY-C734-S",
+    "jan": null,
+    "price": 30000,
+    "url": "https://www.smith.jp/product/salt/by/by.html",
+    "product_name": "BY（ビーワイ）",
+    "specs": {
+      "length": "7'3\"",
+      "weight": "97g",
+      "lure": "3.5〜18g",
+      "line": "0.6〜1.0PE",
+      "power": "MediumLight",
+      "action": "Fast",
+      "griplength": "380mm",
+      "packlength": "59cm(4pcs)",
+      "blankmaterial": "30t-40tGraphite",
+      "tip dia": "1.4mm"
+    },
+    "created_at": "2026-09-03T16:37:17.509911+09:00",
+    "updated_at": "2026-09-03T16:37:17.509911+09:00"
+  },
+  {
+    "item_name": "BY-S744-S",
+    "jan": null,
+    "price": 30000,
+    "url": "https://www.smith.jp/product/salt/by/by.html",
+    "product_name": "BY（ビーワイ）",
+    "specs": {
+      "length": "7'4\"",
+      "weight": "96g",
+      "lure": "3.5〜18g",
+      "line": "0.6〜1.0PE",
+      "power": "MediumLight",
+      "action": "RegularFast",
+      "griplength": "360mm",
+      "packlength": "59.5cm(4pcs)",
+      "blankmaterial": "30t-40tGraphite",
+      "tip dia": "1.2mm"
+    },
+    "created_at": "2026-09-03T16:37:17.509911+09:00",
+    "updated_at": "2026-09-03T16:37:17.509911+09:00"
+  }
+]

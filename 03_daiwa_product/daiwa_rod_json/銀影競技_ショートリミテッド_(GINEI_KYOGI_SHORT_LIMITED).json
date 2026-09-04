@@ -4,6 +4,7 @@
     "jan": "4550133255007",
     "price": 210000,
     "url": "https://www.daiwa.com/jp/product/rvddwtf",
+    "product_name": "銀影競技 ショートリミテッド (GINEI KYOGI SHORT LIMITED)",
     "specs": {
       "全長（m）": 8,
       "継数": 8,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:30.612690+09:00",
-    "updated_at": "2026-04-22T23:34:30.612690+09:00"
+    "updated_at": "2026-09-03T17:27:48.653950+09:00"
   },
   {
     "item_name": "銀影競技　ＳＨＯＲＴＬＩＭＩＴＥＤ　Ｔ　８０",
     "jan": "4550133255014",
     "price": 210000,
     "url": "https://www.daiwa.com/jp/product/rvddwtf",
+    "product_name": "銀影競技 ショートリミテッド (GINEI KYOGI SHORT LIMITED)",
     "specs": {
       "全長（m）": 8,
       "継数": 7,
@@ -37,13 +39,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:30.612690+09:00",
-    "updated_at": "2026-04-22T23:34:30.612690+09:00"
+    "updated_at": "2026-09-03T17:27:48.653950+09:00"
   },
   {
     "item_name": "銀影競技　ＳＨＯＲＴＬＩＭＩＴＥＤ　Ｔ　８７Ｍ",
     "jan": "4550133255021",
     "price": 230000,
     "url": "https://www.daiwa.com/jp/product/rvddwtf",
+    "product_name": "銀影競技 ショートリミテッド (GINEI KYOGI SHORT LIMITED)",
     "specs": {
       "全長（m）": 8.7,
       "継数": 8,
@@ -57,13 +60,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:30.612690+09:00",
-    "updated_at": "2026-04-22T23:34:30.612690+09:00"
+    "updated_at": "2026-09-03T17:27:48.653950+09:00"
   },
   {
     "item_name": "銀影競技　ＳＨＯＲＴＬＩＭＩＴＥＤ　Ｔ　Ｈ８０",
     "jan": "4550133255038",
     "price": 215000,
     "url": "https://www.daiwa.com/jp/product/rvddwtf",
+    "product_name": "銀影競技 ショートリミテッド (GINEI KYOGI SHORT LIMITED)",
     "specs": {
       "全長（m）": 8,
       "継数": 7,
@@ -77,13 +81,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:30.612690+09:00",
-    "updated_at": "2026-04-22T23:34:30.612690+09:00"
+    "updated_at": "2026-09-03T17:27:48.653950+09:00"
   },
   {
     "item_name": "銀影競技　ＳＨＯＲＴＬＩＭＩＴＥＤ　ＭＴ　８０",
     "jan": "4550133255045",
     "price": 215000,
     "url": "https://www.daiwa.com/jp/product/rvddwtf",
+    "product_name": "銀影競技 ショートリミテッド (GINEI KYOGI SHORT LIMITED)",
     "specs": {
       "全長（m）": 8,
       "継数": 7,
@@ -97,13 +102,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:30.612690+09:00",
-    "updated_at": "2026-04-22T23:34:30.612690+09:00"
+    "updated_at": "2026-09-03T17:27:48.653950+09:00"
   },
   {
     "item_name": "銀影競技　ＳＨＯＲＴＬＩＭＩＴＥＤ　ＭＴ　８７Ｍ",
     "jan": "4550133255052",
     "price": 235000,
     "url": "https://www.daiwa.com/jp/product/rvddwtf",
+    "product_name": "銀影競技 ショートリミテッド (GINEI KYOGI SHORT LIMITED)",
     "specs": {
       "全長（m）": 8.7,
       "継数": 8,
@@ -117,13 +123,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:30.612690+09:00",
-    "updated_at": "2026-04-22T23:34:30.612690+09:00"
+    "updated_at": "2026-09-03T17:27:48.653950+09:00"
   },
   {
     "item_name": "銀影競技　ＳＨＯＲＴＬＩＭＩＴＥＤ　ＭＴ　Ｈ８７Ｍ",
     "jan": "4550133512377",
     "price": 245000,
     "url": "https://www.daiwa.com/jp/product/rvddwtf",
+    "product_name": "銀影競技 ショートリミテッド (GINEI KYOGI SHORT LIMITED)",
     "specs": {
       "全長（m）": 8.7,
       "継数": 8,
@@ -137,6 +144,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:30.612690+09:00",
-    "updated_at": "2026-04-22T23:34:30.612690+09:00"
+    "updated_at": "2026-09-03T17:27:48.653950+09:00"
   }
 ]

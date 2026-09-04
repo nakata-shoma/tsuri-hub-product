@@ -4,6 +4,7 @@
     "jan": "4550133445545",
     "price": 78000,
     "url": "https://www.daiwa.com/jp/product/eh7o9fd",
+    "product_name": "ソルティガ LJ EX (SALTIGA LJ EX)",
     "specs": {
       "全長（m）": 1.88,
       "継数": 1,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:51.025578+09:00",
-    "updated_at": "2026-04-22T23:32:51.025578+09:00"
+    "updated_at": "2026-09-03T17:27:46.870170+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＬＪ　ＥＸ　６２ＸＨＢ－Ｓ",
     "jan": "4550133445552",
     "price": 79000,
     "url": "https://www.daiwa.com/jp/product/eh7o9fd",
+    "product_name": "ソルティガ LJ EX (SALTIGA LJ EX)",
     "specs": {
       "全長（m）": 1.88,
       "継数": 1,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:51.025578+09:00",
-    "updated_at": "2026-04-22T23:32:51.025578+09:00"
+    "updated_at": "2026-09-03T17:27:46.870170+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＬＪ　ＥＸ　６１ＸＨＢ　ＴＧ",
     "jan": "4550133450198",
     "price": 84000,
     "url": "https://www.daiwa.com/jp/product/eh7o9fd",
+    "product_name": "ソルティガ LJ EX (SALTIGA LJ EX)",
     "specs": {
       "全長（m）": 1.85,
       "継数": 1,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:51.025578+09:00",
-    "updated_at": "2026-04-22T23:32:51.025578+09:00"
+    "updated_at": "2026-09-03T17:27:46.870170+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＬＪ　ＥＸ　６１ＸＸＨＢ　ＴＧ",
     "jan": "4550133450204",
     "price": 85000,
     "url": "https://www.daiwa.com/jp/product/eh7o9fd",
+    "product_name": "ソルティガ LJ EX (SALTIGA LJ EX)",
     "specs": {
       "全長（m）": 1.85,
       "継数": 1,
@@ -73,13 +77,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:51.025578+09:00",
-    "updated_at": "2026-04-22T23:32:51.025578+09:00"
+    "updated_at": "2026-09-03T17:27:46.870170+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＬＪ　ＥＸ　６１ＸＨＳ　ＴＧ",
     "jan": "4550133450211",
     "price": 84000,
     "url": "https://www.daiwa.com/jp/product/eh7o9fd",
+    "product_name": "ソルティガ LJ EX (SALTIGA LJ EX)",
     "specs": {
       "全長（m）": 1.85,
       "継数": 1,
@@ -92,6 +97,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:51.025578+09:00",
-    "updated_at": "2026-04-22T23:32:51.025578+09:00"
+    "updated_at": "2026-09-03T17:27:46.870170+09:00"
   }
 ]

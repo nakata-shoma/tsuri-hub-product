@@ -4,38 +4,41 @@
     "jan": "4550133472671",
     "price": 7950,
     "url": "https://www.daiwa.com/jp/product/t2jf0br",
+    "product_name": "クリスティア ワカサギ 73 (CRYSTIA WAKASAGI 73)",
     "specs": {
       "標準自重（g）": 5,
       "鉛負荷(g)": "1.0～8.0",
       "全長（cm）": 28.5
     },
     "created_at": "2026-04-22T23:34:42.278273+09:00",
-    "updated_at": "2026-04-22T23:34:42.278273+09:00"
+    "updated_at": "2026-09-03T17:27:48.839095+09:00"
   },
   {
     "item_name": "クリスティア　ワカサギ　７３　２８５　ＳＳ",
     "jan": "4550133472688",
     "price": 7950,
     "url": "https://www.daiwa.com/jp/product/t2jf0br",
+    "product_name": "クリスティア ワカサギ 73 (CRYSTIA WAKASAGI 73)",
     "specs": {
       "標準自重（g）": 5,
       "鉛負荷(g)": "3.0～10.0",
       "全長（cm）": 28.5
     },
     "created_at": "2026-04-22T23:34:42.278273+09:00",
-    "updated_at": "2026-04-22T23:34:42.278273+09:00"
+    "updated_at": "2026-09-03T17:27:48.839095+09:00"
   },
   {
     "item_name": "クリスティア　ワカサギ　７３　２８５　Ｓ",
     "jan": "4550133472695",
     "price": 7950,
     "url": "https://www.daiwa.com/jp/product/t2jf0br",
+    "product_name": "クリスティア ワカサギ 73 (CRYSTIA WAKASAGI 73)",
     "specs": {
       "標準自重（g）": 5,
       "鉛負荷(g)": "6.0～14.0",
       "全長（cm）": 28.5
     },
     "created_at": "2026-04-22T23:34:42.278273+09:00",
-    "updated_at": "2026-04-22T23:34:42.278273+09:00"
+    "updated_at": "2026-09-03T17:27:48.839095+09:00"
   }
 ]

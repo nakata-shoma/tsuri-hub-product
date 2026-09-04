@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "BL-551XUL-S/AJ",
+    "jan": null,
+    "price": 39000,
+    "url": "https://www.smith.jp/product/salt/baylineraj/baylineraj.html",
+    "product_name": "ベイライナーAJ",
+    "specs": {
+      "length": "5'5\"",
+      "weight": "61g",
+      "lure": "～2.5g",
+      "line": "～0.3PE~0.3（エステル）",
+      "power": "Ex.UltraLight",
+      "action": "Fast",
+      "griplength": "270mm",
+      "packlength": "165cm(1pcs)",
+      "blankmaterial": "30t FullSolidGraphite",
+      "tip dia": "0.7mm"
+    },
+    "created_at": "2026-09-03T16:37:10.722595+09:00",
+    "updated_at": "2026-09-03T16:37:10.722595+09:00"
+  },
+  {
+    "item_name": "BL-642L-T/AJ",
+    "jan": null,
+    "price": 36000,
+    "url": "https://www.smith.jp/product/salt/baylineraj/baylineraj.html",
+    "product_name": "ベイライナーAJ",
+    "specs": {
+      "length": "6'4\"",
+      "weight": "51g",
+      "lure": "～5g",
+      "line": "～0.4PE~0.4（エステル）",
+      "power": "Light",
+      "action": "Mod.Fast",
+      "griplength": "290mm",
+      "packlength": "105cm(2pcs)",
+      "blankmaterial": "30t+40tGraphite",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:37:10.722595+09:00",
+    "updated_at": "2026-09-03T16:37:10.722595+09:00"
+  },
+  {
+    "item_name": "BL-742ML-ST/AJ",
+    "jan": null,
+    "price": 43000,
+    "url": "https://www.smith.jp/product/salt/baylineraj/baylineraj.html",
+    "product_name": "ベイライナーAJ",
+    "specs": {
+      "length": "7'4\"",
+      "weight": "62g",
+      "lure": "～12g",
+      "line": "～0.6PE~0.5（エステル）",
+      "power": "MediumLight",
+      "action": "ModerateFast",
+      "griplength": "315mm",
+      "packlength": "115cm(2pcs)",
+      "blankmaterial": "24t+30t+40tGraphite",
+      "tip dia": "0.7mm"
+    },
+    "created_at": "2026-09-03T16:37:10.722595+09:00",
+    "updated_at": "2026-09-03T16:37:10.722595+09:00"
+  }
+]

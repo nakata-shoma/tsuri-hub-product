@@ -4,6 +4,7 @@
     "jan": "4550133340284",
     "price": 45500,
     "url": "https://www.daiwa.com/jp/product/yt8laia",
+    "product_name": "メタリアヤリイカ (METALLIA YARI-IKA)",
     "specs": {
       "全長（m）": 1.55,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:31.023387+09:00",
-    "updated_at": "2026-04-22T23:35:31.023387+09:00"
+    "updated_at": "2026-09-03T17:27:49.681429+09:00"
   },
   {
     "item_name": "メタリアヤリイカ　８２－１７５",
     "jan": "4550133340291",
     "price": 46500,
     "url": "https://www.daiwa.com/jp/product/yt8laia",
+    "product_name": "メタリアヤリイカ (METALLIA YARI-IKA)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:31.023387+09:00",
-    "updated_at": "2026-04-22T23:35:31.023387+09:00"
+    "updated_at": "2026-09-03T17:27:49.681429+09:00"
   },
   {
     "item_name": "メタリアヤリイカ　９１－１６５",
     "jan": "4550133340307",
     "price": 46000,
     "url": "https://www.daiwa.com/jp/product/yt8laia",
+    "product_name": "メタリアヤリイカ (METALLIA YARI-IKA)",
     "specs": {
       "全長（m）": 1.65,
       "継数": 2,
@@ -54,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:31.023387+09:00",
-    "updated_at": "2026-04-22T23:35:31.023387+09:00"
+    "updated_at": "2026-09-03T17:27:49.681429+09:00"
   }
 ]

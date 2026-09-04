@@ -4,6 +4,7 @@
     "jan": "4960652323352",
     "price": 76000,
     "url": "https://www.daiwa.com/jp/product/pukdoe4",
+    "product_name": "琥珀本流ハイパードリフト (KOHAKU HONRYU HYPERDRIFT)",
     "specs": {
       "全長（m）": 7.5,
       "継数": 7,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:16.531589+09:00",
-    "updated_at": "2026-04-22T23:34:16.531589+09:00"
+    "updated_at": "2026-09-03T17:27:48.403060+09:00"
   },
   {
     "item_name": "琥珀本流ハイパードリフト　サツキ　８５",
     "jan": "4960652323369",
     "price": 83500,
     "url": "https://www.daiwa.com/jp/product/pukdoe4",
+    "product_name": "琥珀本流ハイパードリフト (KOHAKU HONRYU HYPERDRIFT)",
     "specs": {
       "全長（m）": 8.5,
       "継数": 8,
@@ -35,6 +37,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:16.531589+09:00",
-    "updated_at": "2026-04-22T23:34:16.531589+09:00"
+    "updated_at": "2026-09-03T17:27:48.403060+09:00"
   }
 ]

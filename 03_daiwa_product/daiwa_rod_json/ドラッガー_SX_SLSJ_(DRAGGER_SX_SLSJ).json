@@ -4,6 +4,7 @@
     "jan": "4550133384639",
     "price": 42500,
     "url": "https://www.daiwa.com/jp/product/ymb9khi",
+    "product_name": "ドラッガー SX SLSJ (DRAGGER SX SLSJ)",
     "specs": {
       "全長（m）": 2.54,
       "継数": 2,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 99
     },
     "created_at": "2026-04-22T23:35:30.494822+09:00",
-    "updated_at": "2026-04-22T23:35:30.494822+09:00"
+    "updated_at": "2026-09-03T17:27:49.676396+09:00"
   },
   {
     "item_name": "ＤＲＡＧＧＥＲ　ＳＸ　ＳＬＳＪ　９４Ｍ",
     "jan": "4550133384646",
     "price": 42500,
     "url": "https://www.daiwa.com/jp/product/ymb9khi",
+    "product_name": "ドラッガー SX SLSJ (DRAGGER SX SLSJ)",
     "specs": {
       "全長（m）": 2.84,
       "継数": 2,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 99
     },
     "created_at": "2026-04-22T23:35:30.494822+09:00",
-    "updated_at": "2026-04-22T23:35:30.494822+09:00"
+    "updated_at": "2026-09-03T17:27:49.676396+09:00"
   },
   {
     "item_name": "ＤＲＡＧＧＥＲ　ＳＸ　ＳＬＳＪ　９３Ｍ－Ｓ",
     "jan": "4550133384653",
     "price": 42500,
     "url": "https://www.daiwa.com/jp/product/ymb9khi",
+    "product_name": "ドラッガー SX SLSJ (DRAGGER SX SLSJ)",
     "specs": {
       "全長（m）": 2.82,
       "継数": 2,
@@ -51,6 +54,6 @@
       "カーボン含有率（％）": 99
     },
     "created_at": "2026-04-22T23:35:30.494822+09:00",
-    "updated_at": "2026-04-22T23:35:30.494822+09:00"
+    "updated_at": "2026-09-03T17:27:49.676396+09:00"
   }
 ]

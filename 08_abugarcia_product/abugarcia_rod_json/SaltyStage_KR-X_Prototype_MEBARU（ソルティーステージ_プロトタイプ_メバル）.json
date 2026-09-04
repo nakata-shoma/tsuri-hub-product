@@ -1,0 +1,90 @@
+[
+  {
+    "item_name": "XMBS-732XULT-ST",
+    "jan": "036282096424",
+    "product_code": "1556300",
+    "price": 29000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
+    "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
+    "specs": {
+      "レングス(ft/cm)": "7'3\"/221.0",
+      "テーパー/アクション": "S",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.1 - 0.5",
+      "仕舞寸法(cm)": 113.2,
+      "先径(mm)": 1.1,
+      "ルアー(g)": "0.2 - 14",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:04.363004+09:00",
+    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+  },
+  {
+    "item_name": "XMBS-762ULSS",
+    "jan": "036282096431",
+    "product_code": "1556301",
+    "price": 29500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
+    "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
+    "specs": {
+      "レングス(ft/cm)": "7'6\"/228.6",
+      "テーパー/アクション": "EXF",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.1 - 0.5",
+      "仕舞寸法(cm)": 117.0,
+      "先径(mm)": 0.8,
+      "ルアー(g)": "0.2 - 8",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:04.363004+09:00",
+    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+  },
+  {
+    "item_name": "XMBS-792ULT",
+    "jan": "036282096448",
+    "product_code": "1556302",
+    "price": 30000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
+    "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
+    "specs": {
+      "レングス(ft/cm)": "7'9\"/236.2",
+      "テーパー/アクション": "F",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.1 - 0.5",
+      "仕舞寸法(cm)": 120.8,
+      "先径(mm)": 1.15,
+      "ルアー(g)": "0.5 - 12",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:04.363004+09:00",
+    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+  },
+  {
+    "item_name": "XMBS-832LT",
+    "jan": "036282096455",
+    "product_code": "1556303",
+    "price": 31500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
+    "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
+    "specs": {
+      "レングス(ft/cm)": "8'3\"/251.5",
+      "テーパー/アクション": "F",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.1 - 0.5",
+      "仕舞寸法(cm)": 129.0,
+      "先径(mm)": 1.18,
+      "ルアー(g)": "0.5 - 15",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:04.363004+09:00",
+    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+  }
+]

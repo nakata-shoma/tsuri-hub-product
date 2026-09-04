@@ -4,6 +4,7 @@
     "jan": "4550133341786",
     "price": 405000,
     "url": "https://www.daiwa.com/jp/product/my7ozlj",
+    "product_name": "銀影競技スペシャル MT (GINEI KYOGI SP MT)",
     "specs": {
       "全長（m）": 9,
       "継数": 7,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:53.065744+09:00",
-    "updated_at": "2026-04-22T23:33:53.065744+09:00"
+    "updated_at": "2026-09-03T17:27:48.098244+09:00"
   },
   {
     "item_name": "銀影競技スペシャル　ＭＴ　Ｈ９０・Ｋ",
     "jan": "4550133341793",
     "price": 410000,
     "url": "https://www.daiwa.com/jp/product/my7ozlj",
+    "product_name": "銀影競技スペシャル MT (GINEI KYOGI SP MT)",
     "specs": {
       "全長（m）": 9,
       "継数": 7,
@@ -37,6 +39,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:53.065744+09:00",
-    "updated_at": "2026-04-22T23:33:53.065744+09:00"
+    "updated_at": "2026-09-03T17:27:48.098244+09:00"
   }
 ]

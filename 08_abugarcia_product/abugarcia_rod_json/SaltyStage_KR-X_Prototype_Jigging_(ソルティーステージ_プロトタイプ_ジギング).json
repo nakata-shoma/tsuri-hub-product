@@ -1,0 +1,98 @@
+[
+  {
+    "item_name": "XJGS-64-0-MAX150",
+    "jan": "036282115965",
+    "product_code": "1578900",
+    "price": 30000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
+    "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
+    "specs": {
+      "レングス(ft/cm)": "6'4\"/193",
+      "パワー": 0,
+      "ライン定格（Lb）": "～50",
+      "テーパー/アクション": "ファースト",
+      "継数": 1,
+      "タイプ": "SP",
+      "PE(号)": "～2.5",
+      "仕舞寸法(cm)": 193.0,
+      "先径(mm)": 1.62,
+      "ルアー(g)": "～150g",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:01.286027+09:00",
+    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+  },
+  {
+    "item_name": "XJGS-63-1-MAX180",
+    "jan": "036282092716",
+    "product_code": "1552345",
+    "price": 30000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
+    "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
+    "specs": {
+      "レングス(ft/cm)": "6'3\"/190.5",
+      "パワー": 1,
+      "ライン定格（Lb）": "〜60",
+      "テーパー/アクション": "ファースト",
+      "継数": 1,
+      "タイプ": "SP",
+      "PE(号)": "～3",
+      "仕舞寸法(cm)": 190.5,
+      "先径(mm)": 1.74,
+      "ルアー(g)": "～180",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:01.286027+09:00",
+    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+  },
+  {
+    "item_name": "XJGS-61-2-MAX200",
+    "jan": "036282092723",
+    "product_code": "1552346",
+    "price": 30500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
+    "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
+    "specs": {
+      "レングス(ft/cm)": "6'1\"/185.4",
+      "パワー": 2,
+      "ライン定格（Lb）": "〜80",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 1,
+      "タイプ": "SP",
+      "PE(号)": "～4",
+      "仕舞寸法(cm)": 185.4,
+      "先径(mm)": 2.3,
+      "ルアー(g)": "～200",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:01.286027+09:00",
+    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+  },
+  {
+    "item_name": "XJGS-60-3-MAX250",
+    "jan": "036282092730",
+    "product_code": "1552347",
+    "price": 31000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
+    "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
+    "specs": {
+      "レングス(ft/cm)": "6'0\"/182.9",
+      "パワー": 3,
+      "ライン定格（Lb）": "〜100",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 1,
+      "タイプ": "SP",
+      "PE(号)": "～5",
+      "仕舞寸法(cm)": 182.9,
+      "先径(mm)": 2.3,
+      "ルアー(g)": "～250",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:01.286027+09:00",
+    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+  }
+]

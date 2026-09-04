@@ -1,0 +1,32 @@
+[
+  {
+    "item_name": "LTS-86S",
+    "jan": null,
+    "price": 21500,
+    "url": "https://www.golden-mean.co.jp/item/rod/lotus2/",
+    "product_name": "ロータスⅡ",
+    "specs": {
+      "Length(ft.)": "8’6”",
+      "Rod Weight(g)": 122,
+      "Lure Weight(g)": "1～8",
+      "Line(lb.)": "2〜6（PE0.2 〜0.8号）"
+    },
+    "created_at": "2026-09-03T00:35:07.630929+09:00",
+    "updated_at": "2026-09-03T16:37:16.604369+09:00"
+  },
+  {
+    "item_name": "LTS-86T",
+    "jan": null,
+    "price": 21500,
+    "url": "https://www.golden-mean.co.jp/item/rod/lotus2/",
+    "product_name": "ロータスⅡ",
+    "specs": {
+      "Length(ft.)": "8’6”",
+      "Rod Weight(g)": 121,
+      "Lure Weight(g)": "1.4～10",
+      "Line(lb.)": "2〜6（PE0.3 〜0.8号）"
+    },
+    "created_at": "2026-09-03T00:35:07.630929+09:00",
+    "updated_at": "2026-09-03T16:37:16.604369+09:00"
+  }
+]

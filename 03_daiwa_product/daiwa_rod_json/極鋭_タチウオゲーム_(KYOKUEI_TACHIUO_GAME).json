@@ -4,6 +4,7 @@
     "jan": "4550133253133",
     "price": 61500,
     "url": "https://www.daiwa.com/jp/product/xf9j3gh",
+    "product_name": "極鋭 タチウオゲーム (KYOKUEI TACHIUO GAME)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:20.044863+09:00",
-    "updated_at": "2026-04-22T23:35:20.044863+09:00"
+    "updated_at": "2026-09-03T17:27:49.502552+09:00"
   },
   {
     "item_name": "極鋭タチウオゲーム　ＭＨ－１７５",
     "jan": "4550133253140",
     "price": 62000,
     "url": "https://www.daiwa.com/jp/product/xf9j3gh",
+    "product_name": "極鋭 タチウオゲーム (KYOKUEI TACHIUO GAME)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:20.044863+09:00",
-    "updated_at": "2026-04-22T23:35:20.044863+09:00"
+    "updated_at": "2026-09-03T17:27:49.502552+09:00"
   },
   {
     "item_name": "極鋭タチウオゲーム　Ｈ－１７５",
     "jan": "4550133253157",
     "price": 62500,
     "url": "https://www.daiwa.com/jp/product/xf9j3gh",
+    "product_name": "極鋭 タチウオゲーム (KYOKUEI TACHIUO GAME)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -54,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:20.044863+09:00",
-    "updated_at": "2026-04-22T23:35:20.044863+09:00"
+    "updated_at": "2026-09-03T17:27:49.502552+09:00"
   }
 ]

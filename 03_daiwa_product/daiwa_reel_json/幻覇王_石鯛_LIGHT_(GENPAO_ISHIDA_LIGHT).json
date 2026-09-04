@@ -4,6 +4,7 @@
     "jan": "4960652126205",
     "price": 62400,
     "url": "https://www.daiwa.com/jp/product/fj6ileo",
+    "product_name": "幻覇王 石鯛 LIGHT (GENPAO ISHIDA LIGHT)",
     "specs": {
       "標準自重（ｇ）": 470,
       "巻き取り長さ（cm/ハンドル1回転）": 100,
@@ -20,6 +21,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T22:36:28.077785+09:00",
-    "updated_at": "2026-04-22T22:36:28.077785+09:00"
+    "updated_at": "2026-09-03T17:21:38.728478+09:00"
   }
 ]

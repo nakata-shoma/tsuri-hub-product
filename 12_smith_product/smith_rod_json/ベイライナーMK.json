@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "BL-681L/MK",
+    "jan": null,
+    "price": 34000,
+    "url": "https://www.smith.jp/product/salt/baylinermk/baylinermk.html",
+    "product_name": "ベイライナーMK",
+    "specs": {
+      "length": "6'8\"",
+      "weight": "81g",
+      "lure": "1〜6g",
+      "line": "PE0.3〜0.8",
+      "power": "Light",
+      "action": "Mod.Fast",
+      "griplength": "310mm",
+      "packlength": "179cm",
+      "blankmaterial": "24tGraphite",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:37:11.254928+09:00",
+    "updated_at": "2026-09-03T16:37:11.254928+09:00"
+  },
+  {
+    "item_name": "BL-661ML/MK",
+    "jan": null,
+    "price": 34000,
+    "url": "https://www.smith.jp/product/salt/baylinermk/baylinermk.html",
+    "product_name": "ベイライナーMK",
+    "specs": {
+      "length": "6'6\"",
+      "weight": "86g",
+      "lure": "2〜10g",
+      "line": "PE0.3〜1.0",
+      "power": "MediumLight",
+      "action": "Mod.Fast",
+      "griplength": "310mm",
+      "packlength": "174cm",
+      "blankmaterial": "24tGraphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:11.254928+09:00",
+    "updated_at": "2026-09-03T16:37:11.254928+09:00"
+  },
+  {
+    "item_name": "BL-702ML/MK",
+    "jan": null,
+    "price": 35000,
+    "url": "https://www.smith.jp/product/salt/baylinermk/baylinermk.html",
+    "product_name": "ベイライナーMK",
+    "specs": {
+      "length": "7'",
+      "weight": "89g",
+      "lure": "3〜12g",
+      "line": "PE0.3〜1.0",
+      "power": "MediumLight",
+      "action": "Mod.Fast",
+      "griplength": "325mm",
+      "packlength": "110cm",
+      "blankmaterial": "24tGraphite",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:37:11.254928+09:00",
+    "updated_at": "2026-09-03T16:37:11.254928+09:00"
+  }
+]

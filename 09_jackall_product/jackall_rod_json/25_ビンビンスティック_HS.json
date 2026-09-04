@@ -1,0 +1,70 @@
+[
+  {
+    "item_name": "BSH-C64UL",
+    "jan": null,
+    "price": 32780,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020binbinstickhs/",
+    "product_name": "25 ビンビンスティック HS",
+    "specs": {
+      "Length(ft/m)": "6'4\"/1.93m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "105g",
+      "Power": "ULTRA LIGHT",
+      "Lure Weight": "MAX 160g",
+      "Line": "PE MAX #1.0"
+    },
+    "created_at": "2026-09-03T08:25:26.181785+09:00",
+    "updated_at": "2026-09-03T15:44:58.082905+09:00"
+  },
+  {
+    "item_name": "BSH-C69SUL",
+    "jan": null,
+    "price": 33330,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020binbinstickhs/",
+    "product_name": "25 ビンビンスティック HS",
+    "specs": {
+      "Length(ft/m)": "6'9\"/2.06m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "116g",
+      "Power": "SUPER ULTRA LIGHT",
+      "Lure Weight": "MAX 160g",
+      "Line": "PE MAX #1.0"
+    },
+    "created_at": "2026-09-03T08:25:26.181785+09:00",
+    "updated_at": "2026-09-03T15:44:58.082905+09:00"
+  },
+  {
+    "item_name": "BSH-C69L",
+    "jan": null,
+    "price": 33880,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020binbinstickhs/",
+    "product_name": "25 ビンビンスティック HS",
+    "specs": {
+      "Length(ft/m)": "6'9\"/2.06m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "117g",
+      "Power": "LIGHT",
+      "Lure Weight": "MAX 200g",
+      "Line": "PE MAX #1.0"
+    },
+    "created_at": "2026-09-03T08:25:26.181785+09:00",
+    "updated_at": "2026-09-03T15:44:58.082905+09:00"
+  },
+  {
+    "item_name": "BSH-S63UL",
+    "jan": null,
+    "price": 32780,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020binbinstickhs/",
+    "product_name": "25 ビンビンスティック HS",
+    "specs": {
+      "Length(ft/m)": "6'3\"/1.91m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "99g",
+      "Power": "ULTRA LIGHT",
+      "Lure Weight": "MAX 60g",
+      "Line": "PE MAX #1.0"
+    },
+    "created_at": "2026-09-03T08:25:26.181785+09:00",
+    "updated_at": "2026-09-03T15:44:58.082905+09:00"
+  }
+]

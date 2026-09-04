@@ -4,6 +4,7 @@
     "jan": "4550133551659",
     "price": 39500,
     "url": "https://www.daiwa.com/jp/product/lsr25vr",
+    "product_name": "クラブブルーキャビン さぐりづり (CLUB BLUECABIN SAGURIDURI)",
     "specs": {
       "全長（m）": 3.0,
       "継数": 4,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 75
     },
     "created_at": "2026-04-22T23:33:42.750427+09:00",
-    "updated_at": "2026-04-22T23:33:42.750427+09:00"
+    "updated_at": "2026-09-03T17:27:47.739803+09:00"
   },
   {
     "item_name": "クラブブルーキャビンさぐりづり　Ｓ－３５０・Ｊ",
     "jan": "4550133551666",
     "price": 40300,
     "url": "https://www.daiwa.com/jp/product/lsr25vr",
+    "product_name": "クラブブルーキャビン さぐりづり (CLUB BLUECABIN SAGURIDURI)",
     "specs": {
       "全長（m）": 3.5,
       "継数": 4,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 74
     },
     "created_at": "2026-04-22T23:33:42.750427+09:00",
-    "updated_at": "2026-04-22T23:33:42.750427+09:00"
+    "updated_at": "2026-09-03T17:27:47.739803+09:00"
   },
   {
     "item_name": "クラブブルーキャビンさぐりづり　ＭＨ－３００・Ｊ",
     "jan": "4550133551680",
     "price": 40500,
     "url": "https://www.daiwa.com/jp/product/lsr25vr",
+    "product_name": "クラブブルーキャビン さぐりづり (CLUB BLUECABIN SAGURIDURI)",
     "specs": {
       "全長（m）": 3.0,
       "継数": 4,
@@ -51,13 +54,14 @@
       "カーボン含有率（％）": 68
     },
     "created_at": "2026-04-22T23:33:42.750427+09:00",
-    "updated_at": "2026-04-22T23:33:42.750427+09:00"
+    "updated_at": "2026-09-03T17:27:47.739803+09:00"
   },
   {
     "item_name": "クラブブルーキャビンさぐりづり　ＭＨ－３５０・Ｊ",
     "jan": "4550133551697",
     "price": 41300,
     "url": "https://www.daiwa.com/jp/product/lsr25vr",
+    "product_name": "クラブブルーキャビン さぐりづり (CLUB BLUECABIN SAGURIDURI)",
     "specs": {
       "全長（m）": 3.5,
       "継数": 4,
@@ -69,6 +73,6 @@
       "カーボン含有率（％）": 69
     },
     "created_at": "2026-04-22T23:33:42.750427+09:00",
-    "updated_at": "2026-04-22T23:33:42.750427+09:00"
+    "updated_at": "2026-09-03T17:27:47.739803+09:00"
   }
 ]

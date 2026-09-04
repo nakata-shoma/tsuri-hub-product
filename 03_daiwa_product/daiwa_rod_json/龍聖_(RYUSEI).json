@@ -4,6 +4,7 @@
     "jan": "4960652253338",
     "price": 39000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　７・Ｅ",
     "jan": "4960652253345",
     "price": 39500,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 2.1,
       "継数": 2,
@@ -33,13 +35,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　８・Ｅ",
     "jan": "4960652253352",
     "price": 42800,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 3,
@@ -51,13 +54,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　９・Ｅ",
     "jan": "4960652253369",
     "price": 47000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 2.7,
       "継数": 3,
@@ -69,13 +73,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１０・Ｅ",
     "jan": "4960652253376",
     "price": 52800,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 3.0,
       "継数": 3,
@@ -87,13 +92,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１１・Ｅ",
     "jan": "4960652253383",
     "price": 58000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 3.3,
       "継数": 3,
@@ -105,13 +111,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１２・Ｅ",
     "jan": "4960652253390",
     "price": 63000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 3.6,
       "継数": 4,
@@ -123,13 +130,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１３・Ｅ",
     "jan": "4960652253406",
     "price": 69000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 3.9,
       "継数": 4,
@@ -141,13 +149,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１４・Ｅ",
     "jan": "4960652253413",
     "price": 75000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 4.2,
       "継数": 4,
@@ -159,13 +168,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１５・Ｅ",
     "jan": "4960652253420",
     "price": 80000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 4.5,
       "継数": 4,
@@ -177,13 +187,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１６・Ｅ",
     "jan": "4960652253437",
     "price": 85500,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 4.8,
       "継数": 5,
@@ -195,13 +206,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１７・Ｅ",
     "jan": "4960652253444",
     "price": 91000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 5.1,
       "継数": 5,
@@ -213,13 +225,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１８・Ｅ",
     "jan": "4960652253451",
     "price": 96500,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 5.4,
       "継数": 5,
@@ -231,13 +244,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　１９・Ｅ",
     "jan": "4960652253468",
     "price": 105000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 5.7,
       "継数": 5,
@@ -249,13 +263,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　２０・Ｅ",
     "jan": "4960652253475",
     "price": 114000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 6.0,
       "継数": 6,
@@ -267,13 +282,14 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   },
   {
     "item_name": "龍聖　２１・Ｅ",
     "jan": "4960652253482",
     "price": 120000,
     "url": "https://www.daiwa.com/jp/product/strtp14",
+    "product_name": "龍聖 (RYUSEI)",
     "specs": {
       "全長（m）": 6.3,
       "継数": 6,
@@ -285,6 +301,6 @@
       "*": ""
     },
     "created_at": "2026-04-22T23:34:41.178854+09:00",
-    "updated_at": "2026-04-22T23:34:41.178854+09:00"
+    "updated_at": "2026-09-03T17:27:48.831936+09:00"
   }
 ]

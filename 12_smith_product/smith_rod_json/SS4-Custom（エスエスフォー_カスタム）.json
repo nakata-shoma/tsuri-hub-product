@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "SS4-Custom47UL",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.smith.jp/product/trout/ss4custom/ss4custom.html",
+    "product_name": "SS4-Custom（エスエスフォー カスタム）",
+    "specs": {
+      "length": "4'7\"",
+      "weight": "82g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "Ul.Light",
+      "action": "Moderate",
+      "griplength": "230mm",
+      "packlength": "39.5cm",
+      "blankmaterial": "15t+24tGraphite",
+      "tip dia": "1.3mm"
+    },
+    "created_at": "2026-09-03T16:37:24.187640+09:00",
+    "updated_at": "2026-09-03T16:37:24.187640+09:00"
+  },
+  {
+    "item_name": "SS4-Custom49UL",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.smith.jp/product/trout/ss4custom/ss4custom.html",
+    "product_name": "SS4-Custom（エスエスフォー カスタム）",
+    "specs": {
+      "length": "4'9\"",
+      "weight": "83g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "Ul.Light",
+      "action": "Moderate",
+      "griplength": "230mm",
+      "packlength": "41.5cm",
+      "blankmaterial": "15t+24tGraphite",
+      "tip dia": "1.3mm"
+    },
+    "created_at": "2026-09-03T16:37:24.187640+09:00",
+    "updated_at": "2026-09-03T16:37:24.187640+09:00"
+  },
+  {
+    "item_name": "SS4-Custom51UL",
+    "jan": null,
+    "price": 58000,
+    "url": "https://www.smith.jp/product/trout/ss4custom/ss4custom.html",
+    "product_name": "SS4-Custom（エスエスフォー カスタム）",
+    "specs": {
+      "length": "5'1\"",
+      "weight": "85g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "Ul.Light",
+      "action": "Moderate",
+      "griplength": "230mm",
+      "packlength": "44.5cm",
+      "blankmaterial": "15t+24tGraphite",
+      "tip dia": "1.3mm"
+    },
+    "created_at": "2026-09-03T16:37:24.187640+09:00",
+    "updated_at": "2026-09-03T16:37:24.187640+09:00"
+  }
+]

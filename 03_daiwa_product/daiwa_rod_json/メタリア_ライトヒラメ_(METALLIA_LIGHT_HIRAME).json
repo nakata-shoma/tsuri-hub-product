@@ -4,6 +4,7 @@
     "jan": "4550133449024",
     "price": 50500,
     "url": "https://www.daiwa.com/jp/product/0h8c4i0",
+    "product_name": "メタリア ライトヒラメ (METALLIA LIGHT HIRAME)",
     "specs": {
       "全長（m）": 2.3,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:30:47.343540+09:00",
-    "updated_at": "2026-04-22T23:30:47.343540+09:00"
+    "updated_at": "2026-09-03T17:27:44.890865+09:00"
   },
   {
     "item_name": "メタリア　ライトヒラメ　ＭＨ－２４５・Ｊ",
     "jan": "4550133449031",
     "price": 51500,
     "url": "https://www.daiwa.com/jp/product/0h8c4i0",
+    "product_name": "メタリア ライトヒラメ (METALLIA LIGHT HIRAME)",
     "specs": {
       "全長（m）": 2.45,
       "継数": 2,
@@ -35,6 +37,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:30:47.343540+09:00",
-    "updated_at": "2026-04-22T23:30:47.343540+09:00"
+    "updated_at": "2026-09-03T17:27:44.890865+09:00"
   }
 ]

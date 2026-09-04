@@ -4,6 +4,7 @@
     "jan": "4550133449208",
     "price": 85000,
     "url": "https://www.daiwa.com/jp/product/nn6h0xa",
+    "product_name": "極鋭 マルイカ EX RS (KYOKUEI MARUIKA EX RS)",
     "specs": {
       "全長（m）": 1.68,
       "継数": 3,
@@ -15,6 +16,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:02.330059+09:00",
-    "updated_at": "2026-04-22T23:34:02.330059+09:00"
+    "updated_at": "2026-09-03T17:27:48.139994+09:00"
   }
 ]

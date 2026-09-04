@@ -4,6 +4,7 @@
     "jan": "4550133117480",
     "price": 16000,
     "url": "https://www.daiwa.com/jp/product/1kz2qok",
+    "product_name": "ライトSW X IC SS (LIGHT SW X IC SS)",
     "specs": {
       "標準自重（ｇ）": 245,
       "巻き取り長さ（cm/ハンドル1回転）": 69,
@@ -18,13 +19,14 @@
       "ギア素材": "高強度真鍮"
     },
     "created_at": "2026-04-22T22:35:46.805791+09:00",
-    "updated_at": "2026-04-22T22:35:46.805791+09:00"
+    "updated_at": "2026-09-03T17:21:37.892741+09:00"
   },
   {
     "item_name": "ＬＩＧＨＴ　ＳＷ　Ｘ　ＩＣ　Ｌ　ＳＳ",
     "jan": "4550133117497",
     "price": 16000,
     "url": "https://www.daiwa.com/jp/product/1kz2qok",
+    "product_name": "ライトSW X IC SS (LIGHT SW X IC SS)",
     "specs": {
       "標準自重（ｇ）": 245,
       "巻き取り長さ（cm/ハンドル1回転）": 69,
@@ -39,6 +41,6 @@
       "ギア素材": "高強度真鍮"
     },
     "created_at": "2026-04-22T22:35:46.805791+09:00",
-    "updated_at": "2026-04-22T22:35:46.805791+09:00"
+    "updated_at": "2026-09-03T17:21:37.892741+09:00"
   }
 ]

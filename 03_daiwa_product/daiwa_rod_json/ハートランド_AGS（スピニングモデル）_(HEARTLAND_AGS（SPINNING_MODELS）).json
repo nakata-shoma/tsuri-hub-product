@@ -4,6 +4,7 @@
     "jan": "4960652957403",
     "price": 71000,
     "url": "https://www.daiwa.com/jp/product/u6d1f71",
+    "product_name": "ハートランド AGS（スピニングモデル） (HEARTLAND AGS（SPINNING MODELS）)",
     "specs": {
       "コードネーム": "冴掛 Midge direction SMT",
       "全長（m）": 2.08,
@@ -20,13 +21,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:50.953991+09:00",
-    "updated_at": "2026-04-22T23:34:50.953991+09:00"
+    "updated_at": "2026-09-03T17:27:48.937753+09:00"
   },
   {
     "item_name": "ハートランド　６１０２ＬＦＳ－ＡＧＳ１３",
     "jan": "4960652876858",
     "price": 67000,
     "url": "https://www.daiwa.com/jp/product/u6d1f71",
+    "product_name": "ハートランド AGS（スピニングモデル） (HEARTLAND AGS（SPINNING MODELS）)",
     "specs": {
       "コードネーム": "冴掛 Level direction",
       "全長（m）": 2.08,
@@ -43,13 +45,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:50.953991+09:00",
-    "updated_at": "2026-04-22T23:34:50.953991+09:00"
+    "updated_at": "2026-09-03T17:27:48.937753+09:00"
   },
   {
     "item_name": "ハートランド　６１１２ＵＬＲＦＳ－ＳＶ　ＡＧＳ２４",
     "jan": "4550133340765",
     "price": 89000,
     "url": "https://www.daiwa.com/jp/product/u6d1f71",
+    "product_name": "ハートランド AGS（スピニングモデル） (HEARTLAND AGS（SPINNING MODELS）)",
     "specs": {
       "コードネーム": "冴掛 Feather Touch Technical",
       "全長（m）": 2.11,
@@ -66,13 +69,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:50.953991+09:00",
-    "updated_at": "2026-04-22T23:34:50.953991+09:00"
+    "updated_at": "2026-09-03T17:27:48.937753+09:00"
   },
   {
     "item_name": "ハートランド　７２１ＭＬＦＳ－ＳＶ　ＡＧＳ２０",
     "jan": "4960652218061",
     "price": 90000,
     "url": "https://www.daiwa.com/jp/product/u6d1f71",
+    "product_name": "ハートランド AGS（スピニングモデル） (HEARTLAND AGS（SPINNING MODELS）)",
     "specs": {
       "コードネーム": "冴掛 七弐 AGS",
       "全長（m）": 2.18,
@@ -89,13 +93,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:50.953991+09:00",
-    "updated_at": "2026-04-22T23:34:50.953991+09:00"
+    "updated_at": "2026-09-03T17:27:48.937753+09:00"
   },
   {
     "item_name": "ハートランド　７７２ＭＦＳ－ＳＶ　ＡＧＳ１７",
     "jan": "4960652077897",
     "price": 95000,
     "url": "https://www.daiwa.com/jp/product/u6d1f71",
+    "product_name": "ハートランド AGS（スピニングモデル） (HEARTLAND AGS（SPINNING MODELS）)",
     "specs": {
       "コードネーム": "震斬77 AGS",
       "全長（m）": 2.31,
@@ -112,13 +117,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:50.953991+09:00",
-    "updated_at": "2026-04-22T23:34:50.953991+09:00"
+    "updated_at": "2026-09-03T17:27:48.937753+09:00"
   },
   {
     "item_name": "ハートランド　７１０２Ｌ＋ＦＳ－ＳＶ　ＡＧＳ１８",
     "jan": "4960652137263",
     "price": 95000,
     "url": "https://www.daiwa.com/jp/product/u6d1f71",
+    "product_name": "ハートランド AGS（スピニングモデル） (HEARTLAND AGS（SPINNING MODELS）)",
     "specs": {
       "コードネーム": "別誂 冴掛 710 AGS",
       "全長（m）": 2.39,
@@ -135,13 +141,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:50.953991+09:00",
-    "updated_at": "2026-04-22T23:34:50.953991+09:00"
+    "updated_at": "2026-09-03T17:27:48.937753+09:00"
   },
   {
     "item_name": "ハートランド　８５２ＭＬ＋ＦＳ－ＳＶ　ＡＧＳ２２",
     "jan": "4550133169526",
     "price": 103000,
     "url": "https://www.daiwa.com/jp/product/u6d1f71",
+    "product_name": "ハートランド AGS（スピニングモデル） (HEARTLAND AGS（SPINNING MODELS）)",
     "specs": {
       "コードネーム": "白震斬八伍",
       "全長（m）": 2.57,
@@ -158,6 +165,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:50.953991+09:00",
-    "updated_at": "2026-04-22T23:34:50.953991+09:00"
+    "updated_at": "2026-09-03T17:27:48.937753+09:00"
   }
 ]

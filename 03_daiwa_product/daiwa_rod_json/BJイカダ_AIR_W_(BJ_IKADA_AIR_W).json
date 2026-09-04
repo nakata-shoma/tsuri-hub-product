@@ -4,6 +4,7 @@
     "jan": "4550133253089",
     "price": 45000,
     "url": "https://www.daiwa.com/jp/product/w9lkuel",
+    "product_name": "BJイカダ AIR W (BJ IKADA AIR W)",
     "specs": {
       "全長（m）": 1.57,
       "継数": 2,
@@ -15,6 +16,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:11.395744+09:00",
-    "updated_at": "2026-04-22T23:35:11.395744+09:00"
+    "updated_at": "2026-09-03T17:27:49.337938+09:00"
   }
 ]

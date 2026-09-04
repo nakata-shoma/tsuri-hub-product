@@ -4,6 +4,7 @@
     "jan": "4550133254444",
     "price": 48500,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.96,
       "継数": 2,
@@ -20,13 +21,14 @@
       "テーパー": "XF"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６６Ｌ－ＬＭ",
     "jan": "4550133254499",
     "price": 47000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.98,
       "継数": 2,
@@ -43,13 +45,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６６ＭＬ－ＬＭ",
     "jan": "4550133254451",
     "price": 47500,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.98,
       "継数": 2,
@@ -66,13 +69,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６６ＭＬ＋",
     "jan": "4550133254505",
     "price": 47500,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.98,
       "継数": 2,
@@ -89,13 +93,14 @@
       "テーパー": "RF"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６６Ｍ－５",
     "jan": "4550133500237",
     "price": 52000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.98,
       "継数": 5,
@@ -112,13 +117,14 @@
       "テーパー": "RF"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６８ＭＨ－ＳＢ",
     "jan": "4550133254536",
     "price": 49000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 2.03,
       "継数": 2,
@@ -135,13 +141,14 @@
       "テーパー": "RF"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６１０Ｍ",
     "jan": "4550133254468",
     "price": 49000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 2.08,
       "継数": 2,
@@ -158,13 +165,14 @@
       "テーパー": "RF"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６１０ＭＨ",
     "jan": "4550133254475",
     "price": 49500,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 2.08,
       "継数": 2,
@@ -181,13 +189,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ６１１ＸＨ－２・ＳＢ",
     "jan": "4550133442117",
     "price": 52000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 2.11,
       "継数": 2,
@@ -204,13 +213,14 @@
       "テーパー": "RF"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ７０ＭＨ－５",
     "jan": "4550133500244",
     "price": 54000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 2.13,
       "継数": 5,
@@ -227,13 +237,14 @@
       "テーパー": "RF"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｃ７２Ｈ",
     "jan": "4550133254482",
     "price": 51000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 2.18,
       "継数": 2,
@@ -250,13 +261,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｓ６４ＵＬ－２",
     "jan": "4550133442162",
     "price": 47500,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.93,
       "継数": 2,
@@ -273,13 +285,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｓ６４Ｌ",
     "jan": "4550133254512",
     "price": 47000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.93,
       "継数": 2,
@@ -296,13 +309,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｓ６６Ｌ－５",
     "jan": "4550133500251",
     "price": 51500,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.98,
       "継数": 5,
@@ -319,13 +333,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｓ６６ＭＬ",
     "jan": "4550133254529",
     "price": 48000,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 1.98,
       "継数": 2,
@@ -342,13 +357,14 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   },
   {
     "item_name": "スワッガー　Ｓ７０ＭＬ＋　－５",
     "jan": "4550133500268",
     "price": 53500,
     "url": "https://www.daiwa.com/jp/product/1gqsb21",
+    "product_name": "SWAGGER (SWAGGER)",
     "specs": {
       "全長（m）": 2.13,
       "継数": 5,
@@ -365,6 +381,6 @@
       "テーパー": "F"
     },
     "created_at": "2026-04-22T23:30:57.789123+09:00",
-    "updated_at": "2026-04-22T23:30:57.789123+09:00"
+    "updated_at": "2026-09-03T17:27:45.054920+09:00"
   }
 ]

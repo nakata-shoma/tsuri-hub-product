@@ -4,6 +4,7 @@
     "jan": "4960652916073",
     "price": 19600,
     "url": "https://www.daiwa.com/jp/product/sqenpdg",
+    "product_name": "インターライン リーガル 遠投 (INTERLINE REGAL ENTO)",
     "specs": {
       "全長（m）": 4.45,
       "継数": 5,
@@ -19,13 +20,14 @@
       "適合ウキ止めナイロン（号）": "細（1～2）"
     },
     "created_at": "2026-04-22T23:34:40.608196+09:00",
-    "updated_at": "2026-04-22T23:34:40.608196+09:00"
+    "updated_at": "2026-09-03T17:27:48.828611+09:00"
   },
   {
     "item_name": "ＩＬリーガル　３－５２遠投",
     "jan": "4960652916080",
     "price": 20500,
     "url": "https://www.daiwa.com/jp/product/sqenpdg",
+    "product_name": "インターライン リーガル 遠投 (INTERLINE REGAL ENTO)",
     "specs": {
       "全長（m）": 5.15,
       "継数": 5,
@@ -41,13 +43,14 @@
       "適合ウキ止めナイロン（号）": "細（1～2）"
     },
     "created_at": "2026-04-22T23:34:40.608196+09:00",
-    "updated_at": "2026-04-22T23:34:40.608196+09:00"
+    "updated_at": "2026-09-03T17:27:48.828611+09:00"
   },
   {
     "item_name": "ＩＬリーガル　４－５２遠投",
     "jan": "4960652916097",
     "price": 21800,
     "url": "https://www.daiwa.com/jp/product/sqenpdg",
+    "product_name": "インターライン リーガル 遠投 (INTERLINE REGAL ENTO)",
     "specs": {
       "全長（m）": 5.15,
       "継数": 5,
@@ -63,6 +66,6 @@
       "適合ウキ止めナイロン（号）": "太（2～3）"
     },
     "created_at": "2026-04-22T23:34:40.608196+09:00",
-    "updated_at": "2026-04-22T23:34:40.608196+09:00"
+    "updated_at": "2026-09-03T17:27:48.828611+09:00"
   }
 ]

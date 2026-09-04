@@ -4,6 +4,7 @@
     "jan": "4550133341342",
     "price": 96000,
     "url": "https://www.daiwa.com/jp/product/wgxczxc",
+    "product_name": "剛徹 遠投 (GOTETSU ENTO)",
     "specs": {
       "全長（m）": 5.1,
       "継数": 5,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:14.134392+09:00",
-    "updated_at": "2026-04-22T23:35:14.134392+09:00"
+    "updated_at": "2026-09-03T17:27:49.434205+09:00"
   },
   {
     "item_name": "剛徹　８－５１遠投・Ｋ",
     "jan": "4550133341359",
     "price": 98000,
     "url": "https://www.daiwa.com/jp/product/wgxczxc",
+    "product_name": "剛徹 遠投 (GOTETSU ENTO)",
     "specs": {
       "全長（m）": 5.1,
       "継数": 5,
@@ -35,6 +37,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:14.134392+09:00",
-    "updated_at": "2026-04-22T23:35:14.134392+09:00"
+    "updated_at": "2026-09-03T17:27:49.434205+09:00"
   }
 ]

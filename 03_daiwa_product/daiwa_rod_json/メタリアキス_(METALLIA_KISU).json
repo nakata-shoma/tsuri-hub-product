@@ -4,6 +4,7 @@
     "jan": "4550133453465",
     "price": 42200,
     "url": "https://www.daiwa.com/jp/product/h0jmhp5",
+    "product_name": "メタリアキス (METALLIA KISU)",
     "specs": {
       "全長（m）": 1.65,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:08.314803+09:00",
-    "updated_at": "2026-04-22T23:33:08.314803+09:00"
+    "updated_at": "2026-09-03T17:27:47.355512+09:00"
   },
   {
     "item_name": "メタリアキス　Ｈ－１７０",
     "jan": "4550133453458",
     "price": 42700,
     "url": "https://www.daiwa.com/jp/product/h0jmhp5",
+    "product_name": "メタリアキス (METALLIA KISU)",
     "specs": {
       "全長（m）": 1.7,
       "継数": 2,
@@ -33,6 +35,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:08.314803+09:00",
-    "updated_at": "2026-04-22T23:33:08.314803+09:00"
+    "updated_at": "2026-09-03T17:27:47.355512+09:00"
   }
 ]

@@ -1,0 +1,104 @@
+[
+  {
+    "item_name": "GDX-C60SUL",
+    "jan": null,
+    "price": 45650,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-extro/",
+    "product_name": "ゲキダキシャフトエクストロ",
+    "specs": {
+      "Length(ft/m)": "6’0”/1.83m",
+      "継数": "2pcs(仕舞寸法137.0cm)",
+      "Weight": "122g",
+      "Power": "SUPER ULTRA LIGHT",
+      "Lure Weight": "5-20号",
+      "Line": "PE #0.4-0.8"
+    },
+    "created_at": "2026-09-03T08:27:26.431448+09:00",
+    "updated_at": "2026-09-03T15:47:14.191672+09:00"
+  },
+  {
+    "item_name": "GDX-C64ML",
+    "jan": null,
+    "price": 46200,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-extro/",
+    "product_name": "ゲキダキシャフトエクストロ",
+    "specs": {
+      "Length(ft/m)": "6'4\"/1.93m",
+      "継数": "2pcs(仕舞寸法147.0cm)",
+      "Weight": "130g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "10-40号",
+      "Line": "PE #0.4-0.8"
+    },
+    "created_at": "2026-09-03T08:27:26.431448+09:00",
+    "updated_at": "2026-09-03T15:47:14.191672+09:00"
+  },
+  {
+    "item_name": "GDX-C61MH-OMO",
+    "jan": null,
+    "price": 46200,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-extro/",
+    "product_name": "ゲキダキシャフトエクストロ",
+    "specs": {
+      "Length(ft/m)": "6'1\"/1.86m",
+      "継数": "2pcs(仕舞寸法139.5cm)",
+      "Weight": "153g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "20-40号",
+      "Line": "PE #0.6-1.0"
+    },
+    "created_at": "2026-09-03T08:27:26.431448+09:00",
+    "updated_at": "2026-09-03T15:47:14.191672+09:00"
+  },
+  {
+    "item_name": "GDX-C68UL",
+    "jan": null,
+    "price": 46200,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-extro/",
+    "product_name": "ゲキダキシャフトエクストロ",
+    "specs": {
+      "Length(ft/m)": "6'8\"/2.03m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "133g",
+      "Power": "ULTRA LIGHT",
+      "Lure Weight": "10-30号",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:26.431448+09:00",
+    "updated_at": "2026-09-03T15:47:14.191672+09:00"
+  },
+  {
+    "item_name": "GDX-S60MH-OMO",
+    "jan": null,
+    "price": 45650,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-extro/",
+    "product_name": "ゲキダキシャフトエクストロ",
+    "specs": {
+      "Length(ft/m)": "6'00\"/1.83m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "133g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "10-40号",
+      "Line": "PE 0.6-1.0号"
+    },
+    "created_at": "2026-09-03T08:27:26.431448+09:00",
+    "updated_at": "2026-09-03T15:47:14.191672+09:00"
+  },
+  {
+    "item_name": "GDX-S65MH+OMO",
+    "jan": null,
+    "price": 46200,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-extro/",
+    "product_name": "ゲキダキシャフトエクストロ",
+    "specs": {
+      "Length(ft/m)": "6’5”/1.96m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "143g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "10-50号",
+      "Line": "PE 0.6-1.0号"
+    },
+    "created_at": "2026-09-03T08:27:26.431448+09:00",
+    "updated_at": "2026-09-03T15:47:14.191672+09:00"
+  }
+]

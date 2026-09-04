@@ -1,0 +1,104 @@
+[
+  {
+    "item_name": "SS-TW64L",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-tw.html",
+    "product_name": "タクト オブ ウィゾ トップウォータースペシャリスト",
+    "specs": {
+      "length": "6'4\"",
+      "pack length": "160cm",
+      "section": "1pcs",
+      "rod weight": "56g",
+      "power": "ライト",
+      "action": "スロー"
+    },
+    "created_at": "2026-09-03T16:37:27.234534+09:00",
+    "updated_at": "2026-09-03T16:37:27.234534+09:00"
+  },
+  {
+    "item_name": "lure",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-tw.html",
+    "product_name": "タクト オブ ウィゾ トップウォータースペシャリスト",
+    "specs": {
+      "length": "line",
+      "pack length": "tip dia",
+      "section": "blank material",
+      "rod weight": "guide",
+      "power": "price¥セミダブルグリップ（ガンメタリック）付",
+      "action": "price¥SS-TW64L/B（グリップなし）"
+    },
+    "created_at": "2026-09-03T16:37:27.234534+09:00",
+    "updated_at": "2026-09-03T16:37:27.234534+09:00"
+  },
+  {
+    "item_name": "5～14g",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-tw.html",
+    "product_name": "タクト オブ ウィゾ トップウォータースペシャリスト",
+    "specs": {
+      "length": "6～12Lb.",
+      "pack length": "2.5mm",
+      "section": "グラス",
+      "rod weight": "T-KGST(top),T-LSG,T-KWSG",
+      "power": "50,000円+税",
+      "action": "28,000円+税"
+    },
+    "created_at": "2026-09-03T16:37:27.234534+09:00",
+    "updated_at": "2026-09-03T16:37:27.234534+09:00"
+  },
+  {
+    "item_name": "SS-TW63M",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-tw.html",
+    "product_name": "タクト オブ ウィゾ トップウォータースペシャリスト",
+    "specs": {
+      "length": "6'3\"",
+      "pack length": "157.5cm",
+      "section": "1pcs",
+      "rod weight": "56g",
+      "power": "ミディアムライト",
+      "action": "スロー"
+    },
+    "created_at": "2026-09-03T16:37:27.234534+09:00",
+    "updated_at": "2026-09-03T16:37:27.234534+09:00"
+  },
+  {
+    "item_name": "lure",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-tw.html",
+    "product_name": "タクト オブ ウィゾ トップウォータースペシャリスト",
+    "specs": {
+      "length": "line",
+      "pack length": "tip dia",
+      "section": "blank material",
+      "rod weight": "guide",
+      "power": "price¥セミダブルグリップ（ガンメタリック）付",
+      "action": "price¥SS-TW63M/B（グリップなし）"
+    },
+    "created_at": "2026-09-03T16:37:27.234534+09:00",
+    "updated_at": "2026-09-03T16:37:27.234534+09:00"
+  },
+  {
+    "item_name": "7～18g",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-tw.html",
+    "product_name": "タクト オブ ウィゾ トップウォータースペシャリスト",
+    "specs": {
+      "length": "8～16Lb.",
+      "pack length": "2.6mm",
+      "section": "グラス",
+      "rod weight": "T2-KGST(top),T2-KTSG,GMLKWSG",
+      "power": "50,000円+税",
+      "action": "28,000円+税"
+    },
+    "created_at": "2026-09-03T16:37:27.234534+09:00",
+    "updated_at": "2026-09-03T16:37:27.234534+09:00"
+  }
+]

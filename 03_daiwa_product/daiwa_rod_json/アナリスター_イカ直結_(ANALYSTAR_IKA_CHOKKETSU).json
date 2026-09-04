@@ -4,6 +4,7 @@
     "jan": "4550133449253",
     "price": 30500,
     "url": "https://www.daiwa.com/jp/product/tjf1o02",
+    "product_name": "アナリスター イカ直結 (ANALYSTAR IKA CHOKKETSU)",
     "specs": {
       "全長（m）": 1.5,
       "継数": 1,
@@ -15,13 +16,14 @@
       "適合クランプサイズ": "S"
     },
     "created_at": "2026-04-22T23:34:46.474709+09:00",
-    "updated_at": "2026-04-22T23:34:46.474709+09:00"
+    "updated_at": "2026-09-03T17:27:48.907997+09:00"
   },
   {
     "item_name": "アナリスター　イカ直結　Ｈ－１５０・Ｊ",
     "jan": "4550133449260",
     "price": 32000,
     "url": "https://www.daiwa.com/jp/product/tjf1o02",
+    "product_name": "アナリスター イカ直結 (ANALYSTAR IKA CHOKKETSU)",
     "specs": {
       "全長（m）": 1.5,
       "継数": 1,
@@ -33,6 +35,6 @@
       "適合クランプサイズ": "S"
     },
     "created_at": "2026-04-22T23:34:46.474709+09:00",
-    "updated_at": "2026-04-22T23:34:46.474709+09:00"
+    "updated_at": "2026-09-03T17:27:48.907997+09:00"
   }
 ]

@@ -4,6 +4,7 @@
     "jan": "4550133552304",
     "price": 44500,
     "url": "https://www.daiwa.com/jp/product/5o8wuph",
+    "product_name": "メタリア アカムツ (METALLIA AKAMUTSU)",
     "specs": {
       "全長（m）": 2.05,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:29.419733+09:00",
-    "updated_at": "2026-04-22T23:31:29.419733+09:00"
+    "updated_at": "2026-09-03T17:27:45.600164+09:00"
   },
   {
     "item_name": "メタリアアカムツ　ＭＨ－２０５・Ｊ",
     "jan": "4550133552311",
     "price": 45000,
     "url": "https://www.daiwa.com/jp/product/5o8wuph",
+    "product_name": "メタリア アカムツ (METALLIA AKAMUTSU)",
     "specs": {
       "全長（m）": 2.05,
       "継数": 2,
@@ -35,6 +37,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:29.419733+09:00",
-    "updated_at": "2026-04-22T23:31:29.419733+09:00"
+    "updated_at": "2026-09-03T17:27:45.600164+09:00"
   }
 ]

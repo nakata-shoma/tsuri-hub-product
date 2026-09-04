@@ -1,0 +1,110 @@
+[
+  {
+    "item_name": "OBD-S70ML",
+    "jan": null,
+    "price": 47000,
+    "url": "https://www.smith.jp/product/salt/bowdevil/bowdevil.html",
+    "product_name": "オフショアスティックバウデビル",
+    "specs": {
+      "length": "7'",
+      "weight": "147g",
+      "lure": "10～40g",
+      "line": "～2PE",
+      "griplength": "485mm",
+      "packlength": "111cm（2pcs）",
+      "tip dia": "1.9mm"
+    },
+    "created_at": "2026-09-03T16:37:17.291908+09:00",
+    "updated_at": "2026-09-03T16:37:17.291908+09:00"
+  },
+  {
+    "item_name": "OBD-S78ML",
+    "jan": null,
+    "price": 48000,
+    "url": "https://www.smith.jp/product/salt/bowdevil/bowdevil.html",
+    "product_name": "オフショアスティックバウデビル",
+    "specs": {
+      "length": "7'8\"",
+      "weight": "175g",
+      "lure": "15～60g",
+      "line": "～2.5PE",
+      "griplength": "575mm",
+      "packlength": "122cm（2pcs）",
+      "tip dia": "1.9mm"
+    },
+    "created_at": "2026-09-03T16:37:17.291908+09:00",
+    "updated_at": "2026-09-03T16:37:17.291908+09:00"
+  },
+  {
+    "item_name": "OBD-S86M",
+    "jan": null,
+    "price": 50000,
+    "url": "https://www.smith.jp/product/salt/bowdevil/bowdevil.html",
+    "product_name": "オフショアスティックバウデビル",
+    "specs": {
+      "length": "8'6\"",
+      "weight": "268g",
+      "lure": "20～60g",
+      "line": "～3PE",
+      "griplength": "625mm",
+      "packlength": "134cm（2pcs）",
+      "tip dia": "1.9mm"
+    },
+    "created_at": "2026-09-03T16:37:17.291908+09:00",
+    "updated_at": "2026-09-03T16:37:17.291908+09:00"
+  },
+  {
+    "item_name": "OBD-S86MH",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.smith.jp/product/salt/bowdevil/bowdevil.html",
+    "product_name": "オフショアスティックバウデビル",
+    "specs": {
+      "length": "8'6\"",
+      "weight": "358g",
+      "lure": "30～100g",
+      "line": "4～6PE",
+      "griplength": "640mm",
+      "packlength": "187cm（グリップ着脱式2pcs）",
+      "tip dia": "2.7mm"
+    },
+    "created_at": "2026-09-03T16:37:17.291908+09:00",
+    "updated_at": "2026-09-03T16:37:17.291908+09:00"
+  },
+  {
+    "item_name": "OBD-S86H",
+    "jan": null,
+    "price": 61000,
+    "url": "https://www.smith.jp/product/salt/bowdevil/bowdevil.html",
+    "product_name": "オフショアスティックバウデビル",
+    "specs": {
+      "length": "8'6\"",
+      "weight": "460g",
+      "lure": "45～180g",
+      "line": "6～8PE",
+      "griplength": "670mm",
+      "packlength": "179cm（グリップ着脱式2pcs）",
+      "tip dia": "2.7mm"
+    },
+    "created_at": "2026-09-03T16:37:17.291908+09:00",
+    "updated_at": "2026-09-03T16:37:17.291908+09:00"
+  },
+  {
+    "item_name": "OBD-S86XH",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.smith.jp/product/salt/bowdevil/bowdevil.html",
+    "product_name": "オフショアスティックバウデビル",
+    "specs": {
+      "length": "8'6\"",
+      "weight": "408g",
+      "lure": "70～220g",
+      "line": "6～10PE",
+      "griplength": "670mm",
+      "packlength": "179cm（グリップ着脱式2pcs）",
+      "tip dia": "3.1mm"
+    },
+    "created_at": "2026-09-03T16:37:17.291908+09:00",
+    "updated_at": "2026-09-03T16:37:17.291908+09:00"
+  }
+]

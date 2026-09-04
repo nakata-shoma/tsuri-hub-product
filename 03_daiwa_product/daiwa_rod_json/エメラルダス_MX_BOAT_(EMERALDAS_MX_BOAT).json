@@ -4,6 +4,7 @@
     "jan": "4550133169861",
     "price": 35000,
     "url": "https://www.daiwa.com/jp/product/fkj8yfo",
+    "product_name": "エメラルダス MX BOAT (EMERALDAS MX BOAT)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 92
     },
     "created_at": "2026-04-22T23:32:56.920385+09:00",
-    "updated_at": "2026-04-22T23:32:56.920385+09:00"
+    "updated_at": "2026-09-03T17:27:46.999037+09:00"
   },
   {
     "item_name": "ＥＭＥＲＡＬＤＡＳ　ＭＸ　ＢＴ　５１１ＭＬＳ－Ｓ・Ｑ",
     "jan": "4550133169878",
     "price": 35000,
     "url": "https://www.daiwa.com/jp/product/fkj8yfo",
+    "product_name": "エメラルダス MX BOAT (EMERALDAS MX BOAT)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 87
     },
     "created_at": "2026-04-22T23:32:56.920385+09:00",
-    "updated_at": "2026-04-22T23:32:56.920385+09:00"
+    "updated_at": "2026-09-03T17:27:46.999037+09:00"
   },
   {
     "item_name": "ＥＭＥＲＡＬＤＡＳ　ＭＸ　ＢＴ　６５ＬＳ－Ｓ・Ｑ",
     "jan": "4550133169885",
     "price": 35000,
     "url": "https://www.daiwa.com/jp/product/fkj8yfo",
+    "product_name": "エメラルダス MX BOAT (EMERALDAS MX BOAT)",
     "specs": {
       "全長（m）": 1.96,
       "継数": 2,
@@ -51,13 +54,14 @@
       "カーボン含有率（％）": 96
     },
     "created_at": "2026-04-22T23:32:56.920385+09:00",
-    "updated_at": "2026-04-22T23:32:56.920385+09:00"
+    "updated_at": "2026-09-03T17:27:46.999037+09:00"
   },
   {
     "item_name": "ＥＭＥＲＡＬＤＡＳ　ＭＸ　ＢＴ　６５ＭＬＳ－Ｓ・Ｑ",
     "jan": "4550133169892",
     "price": 35000,
     "url": "https://www.daiwa.com/jp/product/fkj8yfo",
+    "product_name": "エメラルダス MX BOAT (EMERALDAS MX BOAT)",
     "specs": {
       "全長（m）": 1.96,
       "継数": 2,
@@ -69,13 +73,14 @@
       "カーボン含有率（％）": 96
     },
     "created_at": "2026-04-22T23:32:56.920385+09:00",
-    "updated_at": "2026-04-22T23:32:56.920385+09:00"
+    "updated_at": "2026-09-03T17:27:46.999037+09:00"
   },
   {
     "item_name": "ＥＭＥＲＡＬＤＡＳ　ＭＸ　ＢＴ　７０ＭＬＳ－Ｓ・Ｑ",
     "jan": "4550133169908",
     "price": 35000,
     "url": "https://www.daiwa.com/jp/product/fkj8yfo",
+    "product_name": "エメラルダス MX BOAT (EMERALDAS MX BOAT)",
     "specs": {
       "全長（m）": 2.13,
       "継数": 2,
@@ -87,6 +92,6 @@
       "カーボン含有率（％）": 93
     },
     "created_at": "2026-04-22T23:32:56.920385+09:00",
-    "updated_at": "2026-04-22T23:32:56.920385+09:00"
+    "updated_at": "2026-09-03T17:27:46.999037+09:00"
   }
 ]

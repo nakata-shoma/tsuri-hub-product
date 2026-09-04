@@ -4,6 +4,7 @@
     "jan": "4550133542206",
     "price": 45500,
     "url": "https://www.daiwa.com/jp/product/nntwhpg",
+    "product_name": "メタリア トラフグ (METALLIA TORAFUGU)",
     "specs": {
       "全長（m）": 1.92,
       "継数": 2,
@@ -16,6 +17,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:02.773968+09:00",
-    "updated_at": "2026-04-22T23:34:02.773968+09:00"
+    "updated_at": "2026-09-03T17:27:48.142525+09:00"
   }
 ]

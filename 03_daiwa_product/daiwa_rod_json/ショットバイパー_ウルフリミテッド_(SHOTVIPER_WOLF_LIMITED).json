@@ -4,6 +4,7 @@
     "jan": "4550133449147",
     "price": 115000,
     "url": "https://www.daiwa.com/jp/product/ghjlq9o",
+    "product_name": "ショットバイパー ウルフリミテッド (SHOTVIPER WOLF LIMITED)",
     "specs": {
       "全長（m）": 2.0,
       "継数": 1,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:04.371723+09:00",
-    "updated_at": "2026-04-22T23:33:04.371723+09:00"
+    "updated_at": "2026-09-03T17:27:47.254890+09:00"
   },
   {
     "item_name": "ショットバイパー　ウルフリミテッド　ＭＨ－２１０",
     "jan": "4550133449154",
     "price": 120000,
     "url": "https://www.daiwa.com/jp/product/ghjlq9o",
+    "product_name": "ショットバイパー ウルフリミテッド (SHOTVIPER WOLF LIMITED)",
     "specs": {
       "全長（m）": 2.1,
       "継数": 1,
@@ -35,6 +37,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:04.371723+09:00",
-    "updated_at": "2026-04-22T23:33:04.371723+09:00"
+    "updated_at": "2026-09-03T17:27:47.254890+09:00"
   }
 ]

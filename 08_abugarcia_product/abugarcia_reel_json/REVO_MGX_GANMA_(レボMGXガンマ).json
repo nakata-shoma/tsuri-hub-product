@@ -1,0 +1,92 @@
+[
+  {
+    "item_name": "ﾚﾎﾞMGXｶﾞﾝﾏｽﾋﾟﾆﾝｸﾞ1000S",
+    "jan": "036282153738",
+    "product_code": "1656650",
+    "price": 37500,
+    "url": "https://abugarcia.jp/products/revo-mgx-ganma-rebomgxganma",
+    "product_name": "REVO MGX GANMA (レボMGXガンマ)",
+    "specs": {
+      "ギア比": "5.2:1",
+      "最大ドラグ力(kg)": 3,
+      "ボール/ローラーベアリング": "10+1",
+      "最大ライン巻取 (cm)": 65,
+      "ラインキャパシティ１": "2lb(0.128mm)-100m",
+      "ラインキャパシティ２": "PE0.3-120m"
+    },
+    "created_at": "2026-09-03T15:19:33.831964+09:00",
+    "updated_at": "2026-09-03T15:19:33.831964+09:00"
+  },
+  {
+    "item_name": "ﾚﾎﾞMGXｶﾞﾝﾏｽﾋﾟﾆﾝｸﾞ2000SH",
+    "jan": "036282153745",
+    "product_code": "1656651",
+    "price": 38000,
+    "url": "https://abugarcia.jp/products/revo-mgx-ganma-rebomgxganma",
+    "product_name": "REVO MGX GANMA (レボMGXガンマ)",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 3,
+      "ボール/ローラーベアリング": "10+1",
+      "最大ライン巻取 (cm)": 82,
+      "ラインキャパシティ１": "4lb(0.165mm)-100m",
+      "ラインキャパシティ２": "PE0.6-100m"
+    },
+    "created_at": "2026-09-03T15:19:33.831964+09:00",
+    "updated_at": "2026-09-03T15:19:33.831964+09:00"
+  },
+  {
+    "item_name": "ﾚﾎﾞMGXｶﾞﾝﾏｽﾋﾟﾆﾝｸﾞ2500SH",
+    "jan": "036282153752",
+    "product_code": "1656652",
+    "price": 38500,
+    "url": "https://abugarcia.jp/products/revo-mgx-ganma-rebomgxganma",
+    "product_name": "REVO MGX GANMA (レボMGXガンマ)",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 5,
+      "ボール/ローラーベアリング": "10+1",
+      "最大ライン巻取 (cm)": 87,
+      "ラインキャパシティ１": "6lb(0.205mm)-100m",
+      "ラインキャパシティ２": "PE0.8-150m"
+    },
+    "created_at": "2026-09-03T15:19:33.831964+09:00",
+    "updated_at": "2026-09-03T15:19:33.831964+09:00"
+  },
+  {
+    "item_name": "ﾚﾎﾞMGXｶﾞﾝﾏｽﾋﾟﾆﾝｸﾞ3000SH",
+    "jan": "036282153769",
+    "product_code": "1656653",
+    "price": 39000,
+    "url": "https://abugarcia.jp/products/revo-mgx-ganma-rebomgxganma",
+    "product_name": "REVO MGX GANMA (レボMGXガンマ)",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 5,
+      "ボール/ローラーベアリング": "10+1",
+      "最大ライン巻取 (cm)": 93,
+      "ラインキャパシティ１": "8lb(0.235mm)-110m",
+      "ラインキャパシティ２": "PE1.2-150m"
+    },
+    "created_at": "2026-09-03T15:19:33.831964+09:00",
+    "updated_at": "2026-09-03T15:19:33.831964+09:00"
+  },
+  {
+    "item_name": "ﾚﾎﾞMGXｶﾞﾝﾏｽﾋﾟﾆﾝｸﾞ4000SH",
+    "jan": "036282153776",
+    "product_code": "1656654",
+    "price": 39500,
+    "url": "https://abugarcia.jp/products/revo-mgx-ganma-rebomgxganma",
+    "product_name": "REVO MGX GANMA (レボMGXガンマ)",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 5,
+      "ボール/ローラーベアリング": "10+1",
+      "最大ライン巻取 (cm)": 100,
+      "ラインキャパシティ１": "16lb(0.33mm)-150m",
+      "ラインキャパシティ２": "PE2 - 220m"
+    },
+    "created_at": "2026-09-03T15:19:33.831964+09:00",
+    "updated_at": "2026-09-03T15:19:33.831964+09:00"
+  }
+]

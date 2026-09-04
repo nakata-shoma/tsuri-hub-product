@@ -4,6 +4,7 @@
     "jan": "4550133447624",
     "price": 77000,
     "url": "https://www.daiwa.com/jp/product/nfgdsfx",
+    "product_name": "ソルティガ J TS (SALTIGA J TS)",
     "specs": {
       "全長（m）": 1.65,
       "継数": 1,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:56.812793+09:00",
-    "updated_at": "2026-04-22T23:33:56.812793+09:00"
+    "updated_at": "2026-09-03T17:27:48.122755+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　Ｊ　ＴＥＣＨＮＩＣＡＬ　ＳＴＥＥＲ　５５Ｓ－３",
     "jan": "4550133447631",
     "price": 78000,
     "url": "https://www.daiwa.com/jp/product/nfgdsfx",
+    "product_name": "ソルティガ J TS (SALTIGA J TS)",
     "specs": {
       "全長（m）": 1.65,
       "継数": 1,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:56.812793+09:00",
-    "updated_at": "2026-04-22T23:33:56.812793+09:00"
+    "updated_at": "2026-09-03T17:27:48.122755+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　Ｊ　ＴＥＣＨＮＩＣＡＬ　ＳＴＥＥＲ　５５Ｓ－４",
     "jan": "4550133447648",
     "price": 79000,
     "url": "https://www.daiwa.com/jp/product/nfgdsfx",
+    "product_name": "ソルティガ J TS (SALTIGA J TS)",
     "specs": {
       "全長（m）": 1.65,
       "継数": 1,
@@ -54,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:56.812793+09:00",
-    "updated_at": "2026-04-22T23:33:56.812793+09:00"
+    "updated_at": "2026-09-03T17:27:48.122755+09:00"
   }
 ]

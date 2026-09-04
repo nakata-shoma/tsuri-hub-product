@@ -4,6 +4,7 @@
     "jan": "4550133551611",
     "price": 48000,
     "url": "https://www.daiwa.com/jp/product/8g74d72",
+    "product_name": "バトルゲーム HMG（ハイパーマエウチゲーム） (BATTLE GAME HYPER MAEUCHI GAME)",
     "specs": {
       "全長（m）": 3.0,
       "継数": 4,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 74
     },
     "created_at": "2026-04-22T23:31:58.345998+09:00",
-    "updated_at": "2026-04-22T23:31:58.345998+09:00"
+    "updated_at": "2026-09-03T17:27:46.037721+09:00"
   },
   {
     "item_name": "バトルゲーム　ハイパーマエウチゲーム　Ｈ－４５０",
     "jan": "4550133551628",
     "price": 52500,
     "url": "https://www.daiwa.com/jp/product/8g74d72",
+    "product_name": "バトルゲーム HMG（ハイパーマエウチゲーム） (BATTLE GAME HYPER MAEUCHI GAME)",
     "specs": {
       "全長（m）": 4.5,
       "継数": 5,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 88
     },
     "created_at": "2026-04-22T23:31:58.345998+09:00",
-    "updated_at": "2026-04-22T23:31:58.345998+09:00"
+    "updated_at": "2026-09-03T17:27:46.037721+09:00"
   },
   {
     "item_name": "バトルゲーム　ハイパーマエウチゲーム　ＸＨ－４５０",
     "jan": "4550133551635",
     "price": 54500,
     "url": "https://www.daiwa.com/jp/product/8g74d72",
+    "product_name": "バトルゲーム HMG（ハイパーマエウチゲーム） (BATTLE GAME HYPER MAEUCHI GAME)",
     "specs": {
       "全長（m）": 4.5,
       "継数": 5,
@@ -51,6 +54,6 @@
       "カーボン含有率（％）": 90
     },
     "created_at": "2026-04-22T23:31:58.345998+09:00",
-    "updated_at": "2026-04-22T23:31:58.345998+09:00"
+    "updated_at": "2026-09-03T17:27:46.037721+09:00"
   }
 ]

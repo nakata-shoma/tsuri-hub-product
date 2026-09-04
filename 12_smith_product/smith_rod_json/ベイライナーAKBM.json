@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "BL-722ML/AKBM",
+    "jan": null,
+    "price": 37000,
+    "url": "https://www.smith.jp/product/salt/baylinerakbm/baylinerakbm.html",
+    "product_name": "ベイライナーAKBM",
+    "specs": {
+      "length": "7'2\"",
+      "weight": "98g",
+      "lure": "1〜15g",
+      "line": "PE0.2〜1.2",
+      "power": "MediumLight",
+      "action": "Mod.Fast",
+      "griplength": "360mm",
+      "packlength": "112cm",
+      "blankmaterial": "24t+30tGraphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:11.045617+09:00",
+    "updated_at": "2026-09-03T16:37:11.045617+09:00"
+  },
+  {
+    "item_name": "BL-812ML/AKBM",
+    "jan": null,
+    "price": 38000,
+    "url": "https://www.smith.jp/product/salt/baylinerakbm/baylinerakbm.html",
+    "product_name": "ベイライナーAKBM",
+    "specs": {
+      "length": "8'1\"",
+      "weight": "111g",
+      "lure": "2〜18g",
+      "line": "PE0.2〜1.2",
+      "power": "MediumLight",
+      "action": "Mod.Fast",
+      "griplength": "395mm",
+      "packlength": "126cm",
+      "blankmaterial": "24t+30tGraphite",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:37:11.045617+09:00",
+    "updated_at": "2026-09-03T16:37:11.045617+09:00"
+  },
+  {
+    "item_name": "BL-C812ML/AKBM",
+    "jan": null,
+    "price": 38000,
+    "url": "https://www.smith.jp/product/salt/baylinerakbm/baylinerakbm.html",
+    "product_name": "ベイライナーAKBM",
+    "specs": {
+      "length": "8'1\"",
+      "weight": "126g",
+      "lure": "1.5〜21g",
+      "line": "PE0.2〜1.5",
+      "power": "MediumLight",
+      "action": "Mod.Fast",
+      "griplength": "420mm",
+      "packlength": "126cm",
+      "blankmaterial": "24t+30tGraphite",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:37:11.045617+09:00",
+    "updated_at": "2026-09-03T16:37:11.045617+09:00"
+  }
+]

@@ -4,6 +4,7 @@
     "jan": "4550133247194",
     "price": 125000,
     "url": "https://www.daiwa.com/jp/product/utqvf9l",
+    "product_name": "IM Z リミットブレイカー TW HD-C (IM Z LIMITBREAKER TW HD-C)",
     "specs": {
       "標準自重（ｇ）": 250,
       "巻き取り長さ（cm/ハンドル1回転）": 100,
@@ -26,13 +27,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T22:37:19.073859+09:00",
-    "updated_at": "2026-04-22T22:37:19.073859+09:00"
+    "updated_at": "2026-09-03T17:21:39.219706+09:00"
   },
   {
     "item_name": "ＩＭ　Ｚ　ＬＩＭＩＴＢＲＥＡＫＥＲ　ＸＨＬ　ＴＷ　ＨＤ－Ｃ",
     "jan": "4550133247200",
     "price": 125000,
     "url": "https://www.daiwa.com/jp/product/utqvf9l",
+    "product_name": "IM Z リミットブレイカー TW HD-C (IM Z LIMITBREAKER TW HD-C)",
     "specs": {
       "標準自重（ｇ）": 250,
       "巻き取り長さ（cm/ハンドル1回転）": 100,
@@ -55,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T22:37:19.073859+09:00",
-    "updated_at": "2026-04-22T22:37:19.073859+09:00"
+    "updated_at": "2026-09-03T17:21:39.219706+09:00"
   }
 ]

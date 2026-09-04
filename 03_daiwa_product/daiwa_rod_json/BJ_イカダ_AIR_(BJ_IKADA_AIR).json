@@ -4,6 +4,7 @@
     "jan": "4550133069451",
     "price": 40000,
     "url": "https://www.daiwa.com/jp/product/z9bzf06",
+    "product_name": "BJ イカダ AIR (BJ IKADA AIR)",
     "specs": {
       "全長（m）": 1.35,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:34.467178+09:00",
-    "updated_at": "2026-04-22T23:35:34.467178+09:00"
+    "updated_at": "2026-09-03T17:27:49.699651+09:00"
   },
   {
     "item_name": "ＢＪ　イカダＡＩＲ　１５５ＭＴ",
     "jan": "4550133069468",
     "price": 41000,
     "url": "https://www.daiwa.com/jp/product/z9bzf06",
+    "product_name": "BJ イカダ AIR (BJ IKADA AIR)",
     "specs": {
       "全長（m）": 1.55,
       "継数": 2,
@@ -33,6 +35,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:34.467178+09:00",
-    "updated_at": "2026-04-22T23:35:34.467178+09:00"
+    "updated_at": "2026-09-03T17:27:49.699651+09:00"
   }
 ]

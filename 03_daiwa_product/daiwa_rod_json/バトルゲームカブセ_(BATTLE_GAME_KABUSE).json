@@ -4,6 +4,7 @@
     "jan": "4550133341366",
     "price": 25800,
     "url": "https://www.daiwa.com/jp/product/9azmi72",
+    "product_name": "バトルゲームカブセ (BATTLE GAME KABUSE)",
     "specs": {
       "全長（m）": 2,
       "継数": 2,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 45
     },
     "created_at": "2026-04-22T23:32:05.017401+09:00",
-    "updated_at": "2026-04-22T23:32:05.017401+09:00"
+    "updated_at": "2026-09-03T17:27:46.091575+09:00"
   },
   {
     "item_name": "バトルゲームカブセ　ＭＨ－２４０",
     "jan": "4550133341373",
     "price": 26800,
     "url": "https://www.daiwa.com/jp/product/9azmi72",
+    "product_name": "バトルゲームカブセ (BATTLE GAME KABUSE)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 2,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 47
     },
     "created_at": "2026-04-22T23:32:05.017401+09:00",
-    "updated_at": "2026-04-22T23:32:05.017401+09:00"
+    "updated_at": "2026-09-03T17:27:46.091575+09:00"
   },
   {
     "item_name": "バトルゲームカブセ　Ｓ－２００",
     "jan": "4550133563539",
     "price": 24800,
     "url": "https://www.daiwa.com/jp/product/9azmi72",
+    "product_name": "バトルゲームカブセ (BATTLE GAME KABUSE)",
     "specs": {
       "全長（m）": 2.0,
       "継数": 2,
@@ -51,13 +54,14 @@
       "カーボン含有率（％）": 28
     },
     "created_at": "2026-04-22T23:32:05.017401+09:00",
-    "updated_at": "2026-04-22T23:32:05.017401+09:00"
+    "updated_at": "2026-09-03T17:27:46.091575+09:00"
   },
   {
     "item_name": "バトルゲームカブセ　Ｓ－２４０",
     "jan": "4550133563546",
     "price": 25800,
     "url": "https://www.daiwa.com/jp/product/9azmi72",
+    "product_name": "バトルゲームカブセ (BATTLE GAME KABUSE)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 2,
@@ -69,6 +73,6 @@
       "カーボン含有率（％）": 33
     },
     "created_at": "2026-04-22T23:32:05.017401+09:00",
-    "updated_at": "2026-04-22T23:32:05.017401+09:00"
+    "updated_at": "2026-09-03T17:27:46.091575+09:00"
   }
 ]

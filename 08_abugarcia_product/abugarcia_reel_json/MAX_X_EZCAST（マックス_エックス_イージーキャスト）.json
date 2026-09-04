@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "MAX X EZCAST",
+    "jan": "036282062733",
+    "product_code": "1638816",
+    "price": 8500,
+    "url": "https://abugarcia.jp/products/max-x-ezcast",
+    "product_name": "MAX X EZCAST（マックス エックス イージーキャスト）",
+    "specs": {
+      "ギア比": "6.1 : 1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "3+1",
+      "PE糸巻量（号-ｍ）": "12lb-125m/PE1.5-200m",
+      "最大ライン巻取 (cm)": 65
+    },
+    "created_at": "2026-09-03T15:19:19.488347+09:00",
+    "updated_at": "2026-09-03T15:19:19.488347+09:00"
+  },
+  {
+    "item_name": "MAX X EZCAST7",
+    "jan": "036282151833",
+    "product_code": "1656256",
+    "price": 8500,
+    "url": "https://abugarcia.jp/products/max-x-ezcast",
+    "product_name": "MAX X EZCAST（マックス エックス イージーキャスト）",
+    "specs": {
+      "ギア比": "7.3 : 1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "3+1",
+      "PE糸巻量（号-ｍ）": "12lb-125m/PE1.5-200m",
+      "最大ライン巻取 (cm)": 78
+    },
+    "created_at": "2026-09-03T15:19:19.488347+09:00",
+    "updated_at": "2026-09-03T15:19:19.488347+09:00"
+  }
+]

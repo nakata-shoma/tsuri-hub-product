@@ -4,6 +4,7 @@
     "jan": "4550133154409",
     "price": 19000,
     "url": "https://www.daiwa.com/jp/product/6rsgiqg",
+    "product_name": "タチウオ X (TACHIUO X)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -16,13 +17,14 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:31:37.083718+09:00",
-    "updated_at": "2026-04-22T23:31:37.083718+09:00"
+    "updated_at": "2026-09-03T17:27:45.709683+09:00"
   },
   {
     "item_name": "タチウオ　Ｘ　ＭＨ－１８０",
     "jan": "4550133154416",
     "price": 19000,
     "url": "https://www.daiwa.com/jp/product/6rsgiqg",
+    "product_name": "タチウオ X (TACHIUO X)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -35,13 +37,14 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:31:37.083718+09:00",
-    "updated_at": "2026-04-22T23:31:37.083718+09:00"
+    "updated_at": "2026-09-03T17:27:45.709683+09:00"
   },
   {
     "item_name": "タチウオ　Ｘ　Ｈ－１８０",
     "jan": "4550133154423",
     "price": 20000,
     "url": "https://www.daiwa.com/jp/product/6rsgiqg",
+    "product_name": "タチウオ X (TACHIUO X)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -54,13 +57,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:31:37.083718+09:00",
-    "updated_at": "2026-04-22T23:31:37.083718+09:00"
+    "updated_at": "2026-09-03T17:27:45.709683+09:00"
   },
   {
     "item_name": "タチウオ　Ｘ　ＨＨ－１８０",
     "jan": "4550133154430",
     "price": 20000,
     "url": "https://www.daiwa.com/jp/product/6rsgiqg",
+    "product_name": "タチウオ X (TACHIUO X)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -73,6 +77,6 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:31:37.083718+09:00",
-    "updated_at": "2026-04-22T23:31:37.083718+09:00"
+    "updated_at": "2026-09-03T17:27:45.709683+09:00"
   }
 ]

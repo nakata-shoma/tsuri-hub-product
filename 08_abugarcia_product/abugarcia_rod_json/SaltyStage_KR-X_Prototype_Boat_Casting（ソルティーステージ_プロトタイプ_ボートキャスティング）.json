@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "XBCC-732MML",
+    "jan": "036282036000",
+    "product_code": "1633339",
+    "price": 33500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boat-casting",
+    "product_name": "SaltyStage KR-X Prototype Boat Casting（ソルティーステージ プロトタイプ ボートキャスティング）",
+    "specs": {
+      "レングス(ft/cm)": "7'3\"/221.0",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 2,
+      "タイプ": "BC",
+      "PE(号)": "0.6-2.0",
+      "仕舞寸法(cm)": 114.2,
+      "先径(mm)": 1.45,
+      "ルアー(g)": "7-35",
+      "材料": "カーボン100%",
+      "製法": "TAF製法"
+    },
+    "created_at": "2026-09-03T00:39:58.246224+09:00",
+    "updated_at": "2026-09-03T15:17:44.533556+09:00"
+  },
+  {
+    "item_name": "XBCS-712M",
+    "jan": "036282036017",
+    "product_code": "1633340",
+    "price": 33500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boat-casting",
+    "product_name": "SaltyStage KR-X Prototype Boat Casting（ソルティーステージ プロトタイプ ボートキャスティング）",
+    "specs": {
+      "レングス(ft/cm)": "7'1\"/215.9",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.8-2.0",
+      "仕舞寸法(cm)": 111.4,
+      "先径(mm)": 1.65,
+      "ルアー(g)": "7-40",
+      "材料": "カーボン100%",
+      "製法": "TAF製法"
+    },
+    "created_at": "2026-09-03T00:39:58.246224+09:00",
+    "updated_at": "2026-09-03T15:17:44.533556+09:00"
+  },
+  {
+    "item_name": "XBCS-732MH",
+    "jan": "036282036024",
+    "product_code": "1633341",
+    "price": 33500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boat-casting",
+    "product_name": "SaltyStage KR-X Prototype Boat Casting（ソルティーステージ プロトタイプ ボートキャスティング）",
+    "specs": {
+      "レングス(ft/cm)": "7'3\"/221.0",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "1.0-2.5",
+      "仕舞寸法(cm)": 114.2,
+      "先径(mm)": 2.0,
+      "ルアー(g)": "12-60",
+      "材料": "カーボン100%",
+      "製法": "TAF製法"
+    },
+    "created_at": "2026-09-03T00:39:58.246224+09:00",
+    "updated_at": "2026-09-03T15:17:44.533556+09:00"
+  }
+]

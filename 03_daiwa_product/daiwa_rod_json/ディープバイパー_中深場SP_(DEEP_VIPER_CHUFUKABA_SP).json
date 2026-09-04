@@ -4,6 +4,7 @@
     "jan": "4550133417795",
     "price": 110000,
     "url": "https://www.daiwa.com/jp/product/phgusds",
+    "product_name": "ディープバイパー 中深場SP (DEEP VIPER CHUFUKABA SP)",
     "specs": {
       "全長（m）": 2.05,
       "継数": 1,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:14.844145+09:00",
-    "updated_at": "2026-04-22T23:34:14.844145+09:00"
+    "updated_at": "2026-09-03T17:27:48.395006+09:00"
   },
   {
     "item_name": "ディープバイパー　中深場ＳＰ　ＭＨ－２０５",
     "jan": "4550133417801",
     "price": 112000,
     "url": "https://www.daiwa.com/jp/product/phgusds",
+    "product_name": "ディープバイパー 中深場SP (DEEP VIPER CHUFUKABA SP)",
     "specs": {
       "全長（m）": 2.05,
       "継数": 1,
@@ -35,6 +37,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:14.844145+09:00",
-    "updated_at": "2026-04-22T23:34:14.844145+09:00"
+    "updated_at": "2026-09-03T17:27:48.395006+09:00"
   }
 ]

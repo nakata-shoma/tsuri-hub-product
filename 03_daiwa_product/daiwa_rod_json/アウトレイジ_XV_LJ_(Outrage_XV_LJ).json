@@ -4,6 +4,7 @@
     "jan": "4550133495458",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/muktlja",
+    "product_name": "アウトレイジ XV LJ (Outrage XV LJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 80
     },
     "created_at": "2026-04-22T23:33:51.861805+09:00",
-    "updated_at": "2026-04-22T23:33:51.861805+09:00"
+    "updated_at": "2026-09-03T17:27:48.005728+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　ＬＪ　６３ＸＨＢ",
     "jan": "4550133495465",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/muktlja",
+    "product_name": "アウトレイジ XV LJ (Outrage XV LJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 81
     },
     "created_at": "2026-04-22T23:33:51.861805+09:00",
-    "updated_at": "2026-04-22T23:33:51.861805+09:00"
+    "updated_at": "2026-09-03T17:27:48.005728+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　ＬＪ　６３ＸＸＨＢ",
     "jan": "4550133495472",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/muktlja",
+    "product_name": "アウトレイジ XV LJ (Outrage XV LJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -51,13 +54,14 @@
       "カーボン含有率（％）": 80
     },
     "created_at": "2026-04-22T23:33:51.861805+09:00",
-    "updated_at": "2026-04-22T23:33:51.861805+09:00"
+    "updated_at": "2026-09-03T17:27:48.005728+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　ＬＪ　６３ＨＳ",
     "jan": "4550133495489",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/muktlja",
+    "product_name": "アウトレイジ XV LJ (Outrage XV LJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -69,13 +73,14 @@
       "カーボン含有率（％）": 79
     },
     "created_at": "2026-04-22T23:33:51.861805+09:00",
-    "updated_at": "2026-04-22T23:33:51.861805+09:00"
+    "updated_at": "2026-09-03T17:27:48.005728+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　ＬＪ　６３ＸＨＳ",
     "jan": "4550133495496",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/muktlja",
+    "product_name": "アウトレイジ XV LJ (Outrage XV LJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -87,13 +92,14 @@
       "カーボン含有率（％）": 81
     },
     "created_at": "2026-04-22T23:33:51.861805+09:00",
-    "updated_at": "2026-04-22T23:33:51.861805+09:00"
+    "updated_at": "2026-09-03T17:27:48.005728+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　ＬＪ　６３ＸＸＨＳ",
     "jan": "4550133495502",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/muktlja",
+    "product_name": "アウトレイジ XV LJ (Outrage XV LJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -105,6 +111,6 @@
       "カーボン含有率（％）": 81
     },
     "created_at": "2026-04-22T23:33:51.861805+09:00",
-    "updated_at": "2026-04-22T23:33:51.861805+09:00"
+    "updated_at": "2026-09-03T17:27:48.005728+09:00"
   }
 ]

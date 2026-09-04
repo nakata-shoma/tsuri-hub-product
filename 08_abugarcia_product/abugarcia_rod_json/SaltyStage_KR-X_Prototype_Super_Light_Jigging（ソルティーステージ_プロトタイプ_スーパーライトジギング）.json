@@ -1,0 +1,48 @@
+[
+  {
+    "item_name": "SALTYSTAGEPT SLJ XSSC-642SL-MAX100",
+    "jan": "036282010222",
+    "product_code": "1614460",
+    "price": 35000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-super-light-jigging",
+    "product_name": "SaltyStage KR-X Prototype Super Light Jigging（ソルティーステージ プロトタイプ スーパーライトジギング）",
+    "specs": {
+      "レングス(ft/cm)": "6'4\"/193",
+      "パワー": "スーパーライト",
+      "テーパー/アクション": "ファースト",
+      "継数": 2,
+      "タイプ": "BC",
+      "PE(号)": "0.4-1.2",
+      "仕舞寸法(cm)": 99.7,
+      "先径(mm)": 1.66,
+      "ルアー(g)": "MAX 100",
+      "材料": "カーボン100%",
+      "製法": "チューブラー"
+    },
+    "created_at": "2026-09-03T00:40:11.480363+09:00",
+    "updated_at": "2026-09-03T15:18:02.311141+09:00"
+  },
+  {
+    "item_name": "SALTYSTAGEPT SLJ XSSS-672SL-MAX100",
+    "jan": "036282010239",
+    "product_code": "1614461",
+    "price": 35000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-super-light-jigging",
+    "product_name": "SaltyStage KR-X Prototype Super Light Jigging（ソルティーステージ プロトタイプ スーパーライトジギング）",
+    "specs": {
+      "レングス(ft/cm)": "6'7\"/200.7",
+      "パワー": "スーパーライト",
+      "テーパー/アクション": "ファースト",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.4-1.2",
+      "仕舞寸法(cm)": 103.6,
+      "先径(mm)": 1.69,
+      "ルアー(g)": "MAX 100",
+      "材料": "カーボン100%",
+      "製法": "チューブラー"
+    },
+    "created_at": "2026-09-03T00:40:11.480363+09:00",
+    "updated_at": "2026-09-03T15:18:02.311141+09:00"
+  }
+]

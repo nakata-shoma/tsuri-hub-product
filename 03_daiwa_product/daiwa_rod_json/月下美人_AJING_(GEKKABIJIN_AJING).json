@@ -4,6 +4,7 @@
     "jan": "4960652319997",
     "price": 16500,
     "url": "https://www.daiwa.com/jp/product/lrbshqq",
+    "product_name": "月下美人 AJING (GEKKABIJIN AJING)",
     "specs": {
       "全長（m）": 1.65,
       "継数": 2,
@@ -16,13 +17,14 @@
       "カーボン含有率（％）": 94
     },
     "created_at": "2026-04-22T23:33:40.568045+09:00",
-    "updated_at": "2026-04-22T23:33:40.568045+09:00"
+    "updated_at": "2026-09-03T17:27:47.732139+09:00"
   },
   {
     "item_name": "月下美人　ＡＪＩＮＧ　５１０ＵＬ－Ｓ・Ｒ",
     "jan": "4960652320009",
     "price": 17000,
     "url": "https://www.daiwa.com/jp/product/lrbshqq",
+    "product_name": "月下美人 AJING (GEKKABIJIN AJING)",
     "specs": {
       "全長（m）": 1.78,
       "継数": 2,
@@ -35,13 +37,14 @@
       "カーボン含有率（％）": 94
     },
     "created_at": "2026-04-22T23:33:40.568045+09:00",
-    "updated_at": "2026-04-22T23:33:40.568045+09:00"
+    "updated_at": "2026-09-03T17:27:47.732139+09:00"
   },
   {
     "item_name": "月下美人　ＡＪＩＮＧ　６８Ｌ－Ｓ・Ｒ",
     "jan": "4960652320016",
     "price": 17500,
     "url": "https://www.daiwa.com/jp/product/lrbshqq",
+    "product_name": "月下美人 AJING (GEKKABIJIN AJING)",
     "specs": {
       "全長（m）": 2.03,
       "継数": 2,
@@ -54,13 +57,14 @@
       "カーボン含有率（％）": 96
     },
     "created_at": "2026-04-22T23:33:40.568045+09:00",
-    "updated_at": "2026-04-22T23:33:40.568045+09:00"
+    "updated_at": "2026-09-03T17:27:47.732139+09:00"
   },
   {
     "item_name": "月下美人　ＡＪＩＮＧ　７８ＭＬ－Ｓ・Ｒ",
     "jan": "4960652320023",
     "price": 18500,
     "url": "https://www.daiwa.com/jp/product/lrbshqq",
+    "product_name": "月下美人 AJING (GEKKABIJIN AJING)",
     "specs": {
       "全長（m）": 2.34,
       "継数": 2,
@@ -73,13 +77,14 @@
       "カーボン含有率（％）": 98
     },
     "created_at": "2026-04-22T23:33:40.568045+09:00",
-    "updated_at": "2026-04-22T23:33:40.568045+09:00"
+    "updated_at": "2026-09-03T17:27:47.732139+09:00"
   },
   {
     "item_name": "月下美人　ＡＪＩＮＧ　８０ＭＬ－Ｔ・Ｒ",
     "jan": "4960652320030",
     "price": 19000,
     "url": "https://www.daiwa.com/jp/product/lrbshqq",
+    "product_name": "月下美人 AJING (GEKKABIJIN AJING)",
     "specs": {
       "全長（m）": 2.44,
       "継数": 2,
@@ -92,6 +97,6 @@
       "カーボン含有率（％）": 97
     },
     "created_at": "2026-04-22T23:33:40.568045+09:00",
-    "updated_at": "2026-04-22T23:33:40.568045+09:00"
+    "updated_at": "2026-09-03T17:27:47.732139+09:00"
   }
 ]

@@ -1,0 +1,146 @@
+[
+  {
+    "item_name": "OLP-S55ML/J3",
+    "jan": null,
+    "price": 40000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "5'5\"",
+      "weight": "192g",
+      "lure": "〜160g",
+      "line": "〜3PE",
+      "griplength": "640mm",
+      "packlength": "70cm",
+      "tip dia": "2.5mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  },
+  {
+    "item_name": "OLP-S55H/J3",
+    "jan": null,
+    "price": 43000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "5'5\"",
+      "weight": "252g",
+      "lure": "〜280g",
+      "line": "〜6PE",
+      "griplength": "685mm",
+      "packlength": "70cm",
+      "tip dia": "2.9mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  },
+  {
+    "item_name": "OLP-S55XH/J3",
+    "jan": null,
+    "price": 50000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "5'5\"",
+      "weight": "330g",
+      "lure": "〜400g",
+      "line": "〜8PE",
+      "griplength": "730mm",
+      "packlength": "70cm",
+      "tip dia": "3.5mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  },
+  {
+    "item_name": "OLP-S70ML/C4",
+    "jan": null,
+    "price": 43000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "7'",
+      "weight": "190g",
+      "lure": "〜35g",
+      "line": "〜2PE",
+      "griplength": "460mm",
+      "packlength": "70cm",
+      "tip dia": "2.3mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  },
+  {
+    "item_name": "OLP-S70LH/C4",
+    "jan": null,
+    "price": 48000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "7'",
+      "weight": "257g",
+      "lure": "〜75g",
+      "line": "〜6PE",
+      "griplength": "525mm",
+      "packlength": "70cm",
+      "tip dia": "2.5mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  },
+  {
+    "item_name": "OLP-S76H/C4",
+    "jan": null,
+    "price": 51000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "7'6\"",
+      "weight": "340g",
+      "lure": "〜130g",
+      "line": "〜5PE",
+      "griplength": "660mm",
+      "packlength": "70cm",
+      "tip dia": "2.9mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  },
+  {
+    "item_name": "OLP-S86SH/C4",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "8'6\"",
+      "weight": "380g",
+      "lure": "〜150g",
+      "line": "〜8PE",
+      "griplength": "700mm",
+      "packlength": "70cm",
+      "tip dia": "2.9mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  },
+  {
+    "item_name": "OLP-S76XH/C4",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.smith.jp/product/salt/olp/olp.html",
+    "product_name": "オフショアスティック OLP",
+    "specs": {
+      "length": "7'6\"",
+      "weight": "418g",
+      "lure": "〜250g",
+      "line": "〜10PE",
+      "griplength": "765mm",
+      "packlength": "70cm",
+      "tip dia": "4.4mm"
+    },
+    "created_at": "2026-09-03T16:37:20.002888+09:00",
+    "updated_at": "2026-09-03T16:37:20.002888+09:00"
+  }
+]

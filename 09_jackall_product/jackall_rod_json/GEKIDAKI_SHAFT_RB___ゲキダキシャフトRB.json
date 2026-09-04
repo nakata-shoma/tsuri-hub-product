@@ -1,0 +1,87 @@
+[
+  {
+    "item_name": "GDRB-C510ML",
+    "jan": null,
+    "price": 23980,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-rb/",
+    "product_name": "GEKIDAKI SHAFT RB / ゲキダキシャフトRB",
+    "specs": {
+      "Length(ft/m)": "5'10\"/1.79m",
+      "継数": "2pcs",
+      "Weight": "93g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "10-30号",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:28.341369+09:00",
+    "updated_at": "2026-09-03T15:47:16.369455+09:00"
+  },
+  {
+    "item_name": "GDRB-C66M",
+    "jan": null,
+    "price": 25080,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-rb/",
+    "product_name": "GEKIDAKI SHAFT RB / ゲキダキシャフトRB",
+    "specs": {
+      "Length(ft/m)": "6'6\"/1.98m",
+      "継数": "2pcs",
+      "Weight": "103g",
+      "Power": "MEDIUM",
+      "Lure Weight": "10-40号",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:28.341369+09:00",
+    "updated_at": "2026-09-03T15:47:16.369455+09:00"
+  },
+  {
+    "item_name": "GDRB-C510MH",
+    "jan": null,
+    "price": 24530,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-rb/",
+    "product_name": "GEKIDAKI SHAFT RB / ゲキダキシャフトRB",
+    "specs": {
+      "Length(ft/m)": "5'10\"/1.79m",
+      "継数": "2pcs",
+      "Weight": "103g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "10-50号",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:28.341369+09:00",
+    "updated_at": "2026-09-03T15:47:16.369455+09:00"
+  },
+  {
+    "item_name": "GDRB-S67MH-OMO",
+    "jan": null,
+    "price": 24530,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-rb/",
+    "product_name": "GEKIDAKI SHAFT RB / ゲキダキシャフトRB",
+    "specs": {
+      "Length(ft/m)": "6’7”/2.01m",
+      "継数": "2pcs",
+      "Weight": "99g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "20-40号",
+      "Line": "PE 0.6-1.0号"
+    },
+    "created_at": "2026-09-03T08:27:28.341369+09:00",
+    "updated_at": "2026-09-03T15:47:16.369455+09:00"
+  },
+  {
+    "item_name": "GDRB-C68H-OMO",
+    "jan": null,
+    "price": 25080,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-shaft-rb/",
+    "product_name": "GEKIDAKI SHAFT RB / ゲキダキシャフトRB",
+    "specs": {
+      "Length(ft/m)": "6’8”/2.04m",
+      "継数": "2pcs",
+      "Weight": "116g",
+      "Power": "HEAVY",
+      "Lure Weight": "20-50号",
+      "Line": "PE 0.6-1.0号"
+    },
+    "created_at": "2026-09-03T08:27:28.341369+09:00",
+    "updated_at": "2026-09-03T15:47:16.369455+09:00"
+  }
+]

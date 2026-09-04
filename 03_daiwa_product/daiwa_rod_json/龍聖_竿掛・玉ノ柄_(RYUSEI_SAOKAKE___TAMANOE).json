@@ -4,6 +4,7 @@
     "jan": "4960652253499",
     "price": 64000,
     "url": "https://www.daiwa.com/jp/product/f6ajkb4",
+    "product_name": "龍聖 竿掛・玉ノ柄 (RYUSEI SAOKAKE / TAMANOE)",
     "specs": {
       "全長（m）": 2.33,
       "継数": 4,
@@ -13,13 +14,14 @@
       "玉枠挿入部（mm）": "-"
     },
     "created_at": "2026-04-22T23:32:54.939410+09:00",
-    "updated_at": "2026-04-22T23:32:54.939410+09:00"
+    "updated_at": "2026-09-03T17:27:46.896818+09:00"
   },
   {
     "item_name": "龍聖　玉ノ柄２本物・Ｅ",
     "jan": "4960652253505",
     "price": 45000,
     "url": "https://www.daiwa.com/jp/product/f6ajkb4",
+    "product_name": "龍聖 竿掛・玉ノ柄 (RYUSEI SAOKAKE / TAMANOE)",
     "specs": {
       "全長（m）": 2.01,
       "継数": 2,
@@ -29,6 +31,6 @@
       "玉枠挿入部（mm）": 12.1
     },
     "created_at": "2026-04-22T23:32:54.939410+09:00",
-    "updated_at": "2026-04-22T23:32:54.939410+09:00"
+    "updated_at": "2026-09-03T17:27:46.896818+09:00"
   }
 ]

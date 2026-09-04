@@ -4,6 +4,7 @@
     "jan": "4550133551802",
     "price": 275000,
     "url": "https://www.daiwa.com/jp/product/fya2is9",
+    "product_name": "銀影競技メガトルク (GINEI KYOGI MEGATORQE)",
     "specs": {
       "全長（m）": 8.5,
       "継数": 7,
@@ -19,13 +20,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:59.469323+09:00",
-    "updated_at": "2026-04-22T23:32:59.469323+09:00"
+    "updated_at": "2026-09-03T17:27:47.153338+09:00"
   },
   {
     "item_name": "銀影競技メガトルク　急瀬抜　９０・Ｅ",
     "jan": "4550133551819",
     "price": 285000,
     "url": "https://www.daiwa.com/jp/product/fya2is9",
+    "product_name": "銀影競技メガトルク (GINEI KYOGI MEGATORQE)",
     "specs": {
       "全長（m）": 9.0,
       "継数": 7,
@@ -41,13 +43,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:59.469323+09:00",
-    "updated_at": "2026-04-22T23:32:59.469323+09:00"
+    "updated_at": "2026-09-03T17:27:47.153338+09:00"
   },
   {
     "item_name": "銀影競技メガトルク　急瀬抜　Ｈ９０・Ｅ",
     "jan": "4550133551826",
     "price": 290000,
     "url": "https://www.daiwa.com/jp/product/fya2is9",
+    "product_name": "銀影競技メガトルク (GINEI KYOGI MEGATORQE)",
     "specs": {
       "全長（m）": 9.0,
       "継数": 7,
@@ -63,13 +66,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:59.469323+09:00",
-    "updated_at": "2026-04-22T23:32:59.469323+09:00"
+    "updated_at": "2026-09-03T17:27:47.153338+09:00"
   },
   {
     "item_name": "銀影競技メガトルク　急瀬抜　ＸＨ９０・Ｅ",
     "jan": "4550133551833",
     "price": 295000,
     "url": "https://www.daiwa.com/jp/product/fya2is9",
+    "product_name": "銀影競技メガトルク (GINEI KYOGI MEGATORQE)",
     "specs": {
       "全長（m）": 9.0,
       "継数": 7,
@@ -85,6 +89,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:59.469323+09:00",
-    "updated_at": "2026-04-22T23:32:59.469323+09:00"
+    "updated_at": "2026-09-03T17:27:47.153338+09:00"
   }
 ]

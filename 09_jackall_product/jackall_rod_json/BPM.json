@@ -1,0 +1,87 @@
+[
+  {
+    "item_name": "BP-S70L-ST",
+    "jan": null,
+    "price": 18480,
+    "url": "https://www.jackall.co.jp/bass/products/rod/bpm/bpm_g2/",
+    "product_name": "BPM",
+    "specs": {
+      "Length": "7'0\"",
+      "PCS": 2,
+      "Power": "LIGHT",
+      "Weight": "112g",
+      "Lure(g)": "1.8-7g",
+      "Line(lb.)": "3-6lb"
+    },
+    "created_at": "2026-09-03T00:46:11.177655+09:00",
+    "updated_at": "2026-09-03T15:44:36.620708+09:00"
+  },
+  {
+    "item_name": "BP-C70M+ ST",
+    "jan": null,
+    "price": 18480,
+    "url": "https://www.jackall.co.jp/bass/products/rod/bpm/bpm_g2/",
+    "product_name": "BPM",
+    "specs": {
+      "Length": "7'0\"",
+      "PCS": 2,
+      "Power": "MEDIUM PLUS",
+      "Weight": "132g",
+      "Lure(g)": "5-28g",
+      "Line(lb.)": "8-16lb"
+    },
+    "created_at": "2026-09-03T00:46:11.177655+09:00",
+    "updated_at": "2026-09-03T15:44:36.620708+09:00"
+  },
+  {
+    "item_name": "BP-S68L",
+    "jan": null,
+    "price": 18150,
+    "url": "https://www.jackall.co.jp/bass/products/rod/bpm/bpm_g2/",
+    "product_name": "BPM",
+    "specs": {
+      "Length": "6'8\"",
+      "PCS": 2,
+      "Power": "LIGHT",
+      "Weight": "104g",
+      "Lure(g)": "1.8-7g",
+      "Line(lb.)": "3-6lb"
+    },
+    "created_at": "2026-09-03T00:46:11.177655+09:00",
+    "updated_at": "2026-09-03T15:44:36.620708+09:00"
+  },
+  {
+    "item_name": "BP-C610M+",
+    "jan": null,
+    "price": 18150,
+    "url": "https://www.jackall.co.jp/bass/products/rod/bpm/bpm_g2/",
+    "product_name": "BPM",
+    "specs": {
+      "Length": "6'10\"",
+      "PCS": 2,
+      "Power": "MEDIUM PLUS",
+      "Weight": "125g",
+      "Lure(g)": "5-28g",
+      "Line(lb.)": "8-16lb"
+    },
+    "created_at": "2026-09-03T00:46:11.177655+09:00",
+    "updated_at": "2026-09-03T15:44:36.620708+09:00"
+  },
+  {
+    "item_name": "BP-C610XH",
+    "jan": null,
+    "price": 18150,
+    "url": "https://www.jackall.co.jp/bass/products/rod/bpm/bpm_g2/",
+    "product_name": "BPM",
+    "specs": {
+      "Length": "6'10\"",
+      "PCS": 2,
+      "Power": "EXTRA HEAVY",
+      "Weight": "145g",
+      "Lure(g)": "MAX 120g",
+      "Line(lb.)": "16-30lb"
+    },
+    "created_at": "2026-09-03T00:46:11.177655+09:00",
+    "updated_at": "2026-09-03T15:44:36.620708+09:00"
+  }
+]

@@ -4,6 +4,7 @@
     "jan": "4550133495403",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/hlts7np",
+    "product_name": "アウトレイジ XV J (Outrage XV J)",
     "specs": {
       "全長（m）": 1.83,
       "継数": 2,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 82
     },
     "created_at": "2026-04-22T23:33:14.395752+09:00",
-    "updated_at": "2026-04-22T23:33:14.395752+09:00"
+    "updated_at": "2026-09-03T17:27:47.391277+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　Ｊ　６０Ｓ－４",
     "jan": "4550133495410",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/hlts7np",
+    "product_name": "アウトレイジ XV J (Outrage XV J)",
     "specs": {
       "全長（m）": 1.83,
       "継数": 2,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 81
     },
     "created_at": "2026-04-22T23:33:14.395752+09:00",
-    "updated_at": "2026-04-22T23:33:14.395752+09:00"
+    "updated_at": "2026-09-03T17:27:47.391277+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　Ｊ　６０Ｓ－５",
     "jan": "4550133495427",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/hlts7np",
+    "product_name": "アウトレイジ XV J (Outrage XV J)",
     "specs": {
       "全長（m）": 1.83,
       "継数": 2,
@@ -51,13 +54,14 @@
       "カーボン含有率（％）": 83
     },
     "created_at": "2026-04-22T23:33:14.395752+09:00",
-    "updated_at": "2026-04-22T23:33:14.395752+09:00"
+    "updated_at": "2026-09-03T17:27:47.391277+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　Ｊ　６０Ｂ－３",
     "jan": "4550133495434",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/hlts7np",
+    "product_name": "アウトレイジ XV J (Outrage XV J)",
     "specs": {
       "全長（m）": 1.83,
       "継数": 2,
@@ -69,13 +73,14 @@
       "カーボン含有率（％）": 82
     },
     "created_at": "2026-04-22T23:33:14.395752+09:00",
-    "updated_at": "2026-04-22T23:33:14.395752+09:00"
+    "updated_at": "2026-09-03T17:27:47.391277+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＸＶ　Ｊ　６０Ｂ－４",
     "jan": "4550133495441",
     "price": 18000,
     "url": "https://www.daiwa.com/jp/product/hlts7np",
+    "product_name": "アウトレイジ XV J (Outrage XV J)",
     "specs": {
       "全長（m）": 1.83,
       "継数": 2,
@@ -87,6 +92,6 @@
       "カーボン含有率（％）": 81
     },
     "created_at": "2026-04-22T23:33:14.395752+09:00",
-    "updated_at": "2026-04-22T23:33:14.395752+09:00"
+    "updated_at": "2026-09-03T17:27:47.391277+09:00"
   }
 ]

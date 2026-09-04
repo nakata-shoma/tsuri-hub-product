@@ -1,0 +1,325 @@
+[
+  {
+    "item_name": "OCSC-62L/M-ST ブラックダガー",
+    "jan": null,
+    "price": 83000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc62lmSt.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "1.88m",
+      "継数": 1,
+      "標準自重": "96g",
+      "パワー": "ライト／ミディアム",
+      "ルアー範囲": "1.8～10.5g(1/16～3/8oz)",
+      "ライン範囲": "6～12lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-64L アルエット",
+    "jan": null,
+    "price": 74000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc64l.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "1.93m",
+      "継数": 1,
+      "標準自重": "105g",
+      "パワー": "ライト",
+      "ルアー範囲": "1.8～10.5g(1/16～3/8oz)",
+      "ライン範囲": "6～14lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-67M カンタータ",
+    "jan": null,
+    "price": 81000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc67m.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "116g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "5～42g(3/16～1・1/2oz)",
+      "ライン範囲": "8～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-67MH ユミハリ",
+    "jan": null,
+    "price": 81000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc67mh.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "109g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "5～42g(3/16～1･1/2oz)",
+      "ライン範囲": "10～25lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-67ML+ ライトニングストライク",
+    "jan": null,
+    "price": 80000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc67mlPlus.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "109g",
+      "パワー": "ミディアムライト　プラス",
+      "ルアー範囲": "3.5～35g(1/8～1・1/4oz)",
+      "ライン範囲": "6～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-68M スカイソード",
+    "jan": null,
+    "price": 80000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc68m.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.03m",
+      "継数": 1,
+      "標準自重": "116g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "5～28g(3/16～1oz)",
+      "ライン範囲": "8～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-68ML ファイアソード",
+    "jan": null,
+    "price": 82000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc68ml.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.03m",
+      "継数": 1,
+      "標準自重": "117g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "3.5～21g(1/8～3/4oz)",
+      "ライン範囲": "6～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-711XX スローン",
+    "jan": null,
+    "price": 90000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc711xx.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.4m",
+      "継数": 2,
+      "標準自重": "177g",
+      "パワー": "ダブルエクストラヘビー",
+      "ルアー範囲": "28～280g(1～10oz)",
+      "ライン範囲": "16～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-79MH シルヴァ",
+    "jan": null,
+    "price": 88000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocsc79mh.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.36m",
+      "継数": 2,
+      "標準自重": "133g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "5～42g(3/16～1･1/2oz)",
+      "ライン範囲": "10～25lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSS-60UL-ST ガルサ",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocss60ulSt.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "1.83m",
+      "継数": 1,
+      "標準自重": "88g",
+      "パワー": "ウルトラライト",
+      "ルアー範囲": "0.9～7g(1/32～1/4oz)",
+      "ライン範囲": "2～8lb/PE0.3～0.8号"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSS-60XUL-ST クイックセンシズ",
+    "jan": null,
+    "price": 73000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocss60xulSt.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "1.82m",
+      "継数": 1,
+      "標準自重": "62g",
+      "パワー": "エクストラウルトラライト",
+      "ルアー範囲": "0.1～4g",
+      "ライン範囲": "0.8～2.5lb/PE0.1～0.3号"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSS-63UL-ST フリーウィル",
+    "jan": null,
+    "price": 80000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocss63ulSt.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "1.9m",
+      "継数": 1,
+      "標準自重": "94g",
+      "パワー": "ウルトラライト",
+      "ルアー範囲": "0.9～7g(1/32～1/4oz)",
+      "ライン範囲": "2～8lb/PE0.4～0.8号"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSS-65L ウィロー",
+    "jan": null,
+    "price": 80000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocss65l.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "1.96m",
+      "継数": 1,
+      "標準自重": "96g",
+      "パワー": "ライト",
+      "ルアー範囲": "0.9～7g(1/32～1/4oz)",
+      "ライン範囲": "3～8lb/PE0.4～0.8号"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSS-65ML ブラックガーディアン",
+    "jan": null,
+    "price": 80000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocss65ml.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "1.96m",
+      "継数": 1,
+      "標準自重": "100g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "1.8～14g(1/16～1/2oz)",
+      "ライン範囲": "4～12lb/PE0.5～1号"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSS-69H ハイド アンド シーク",
+    "jan": null,
+    "price": 86000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Ocss69h.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.06m",
+      "継数": 1,
+      "標準自重": "101g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "1.8～21g(1/16～3/4oz)",
+      "ライン範囲": "PE0.8～2.5号"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-71H+ ブラックローズ",
+    "jan": null,
+    "price": 87000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheBlackRose.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.15m",
+      "継数": 1,
+      "標準自重": "126g",
+      "パワー": "ヘビー　プラス",
+      "ルアー範囲": "7～84g(1/4～3oz)",
+      "ライン範囲": "12～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-67ML デジェル",
+    "jan": null,
+    "price": 79000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheDegel.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "106g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "3.5～21g(1/8～3/4oz)",
+      "ライン範囲": "6～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-69MH ムーンゲイザー",
+    "jan": null,
+    "price": 82000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheMoongazer.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.06m",
+      "継数": 1,
+      "標準自重": "110g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "5～42g(3/16～1･1/2oz)",
+      "ライン範囲": "10～25lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  },
+  {
+    "item_name": "OCSC-69H スターゲイザー",
+    "jan": null,
+    "price": 83000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheStargazer.html",
+    "product_name": "オライオン",
+    "specs": {
+      "全長": "2.06m",
+      "継数": 1,
+      "標準自重": "118g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "7～56g(1/4～2oz)",
+      "ライン範囲": "10～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.107989+09:00",
+    "updated_at": "2026-09-03T14:55:38.730934+09:00"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "item_name": "BSRB-C66UL",
+    "jan": null,
+    "price": 19580,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-rb/",
+    "product_name": "26 ビンビンスティック RB",
+    "specs": {
+      "Length(ft/m)": "6'6\"/1.98m",
+      "継数": "2pcs",
+      "Weight": "102g",
+      "Power": "ULTRA LIGHT",
+      "Lure Weight": "バーチカルMAX 120gドテラMAX 200g",
+      "Line": "PE MAX #1.0"
+    },
+    "created_at": "2026-09-03T08:26:17.738646+09:00",
+    "updated_at": "2026-09-03T15:45:55.736055+09:00"
+  },
+  {
+    "item_name": "BSRB-C68L",
+    "jan": null,
+    "price": 20350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-rb/",
+    "product_name": "26 ビンビンスティック RB",
+    "specs": {
+      "Length(ft/m)": "6'8\"/2.04m",
+      "継数": "2pcs",
+      "Weight": "115g",
+      "Power": "LIGHT",
+      "Lure Weight": "バーチカルMAX 160gドテラMAX 250g",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:26:17.738646+09:00",
+    "updated_at": "2026-09-03T15:45:55.736055+09:00"
+  },
+  {
+    "item_name": "BSRB-C66M",
+    "jan": null,
+    "price": 20130,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-rb/",
+    "product_name": "26 ビンビンスティック RB",
+    "specs": {
+      "Length(ft/m)": "6'6\"/1.98m",
+      "継数": "2pcs",
+      "Weight": "107g",
+      "Power": "MEDIUM",
+      "Lure Weight": "バーチカルMAX 160gドテラMAX 300g",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:26:17.738646+09:00",
+    "updated_at": "2026-09-03T15:45:55.736055+09:00"
+  },
+  {
+    "item_name": "BSRB-C68MH",
+    "jan": null,
+    "price": 20680,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-rb/",
+    "product_name": "26 ビンビンスティック RB",
+    "specs": {
+      "Length(ft/m)": "6'8\"/2.04m",
+      "継数": "2pcs",
+      "Weight": "118g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "バーチカルMAX 160gドテラMAX 300g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:26:17.738646+09:00",
+    "updated_at": "2026-09-03T15:45:55.736055+09:00"
+  },
+  {
+    "item_name": "BSRB-S66M",
+    "jan": null,
+    "price": 20350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-rb/",
+    "product_name": "26 ビンビンスティック RB",
+    "specs": {
+      "Length(ft/m)": "6'6\"/1.98m",
+      "継数": "2pcs",
+      "Weight": "101g",
+      "Power": "MEDIUM",
+      "Lure Weight": "キャストMAX 60g",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:26:17.738646+09:00",
+    "updated_at": "2026-09-03T15:45:55.736055+09:00"
+  }
+]
