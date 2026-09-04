@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "SB-109MMH",
+    "jan": null,
+    "price": 40700,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/surf-rod/sabull/",
+    "product_name": "SABULL",
+    "specs": {
+      "Length": "10’9”",
+      "継数": 2,
+      "Weight": "201g",
+      "Power": "Medium - Medium Heavy",
+      "Lure Weight": "MAX 50g",
+      "Line": "PE #0.8~#2号"
+    },
+    "created_at": "2026-09-03T08:30:08.203699+09:00",
+    "updated_at": "2026-09-03T15:49:57.253493+09:00"
+  },
+  {
+    "item_name": "SB-107MLM",
+    "jan": null,
+    "price": 40700,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/surf-rod/sabull/",
+    "product_name": "SABULL",
+    "specs": {
+      "Length": "10’7”",
+      "継数": 2,
+      "Weight": "184g",
+      "Power": "Medium Light - Medium",
+      "Lure Weight": "MAX 40g",
+      "Line": "PE #0.8~#1.5号"
+    },
+    "created_at": "2026-09-03T08:30:08.203699+09:00",
+    "updated_at": "2026-09-03T15:49:57.253493+09:00"
+  },
+  {
+    "item_name": "SB-108ULML",
+    "jan": null,
+    "price": 40700,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/surf-rod/sabull/",
+    "product_name": "SABULL",
+    "specs": {
+      "Length": "10’8”",
+      "継数": 2,
+      "Weight": "140g",
+      "Power": "Ultra Light - Medium Light",
+      "Lure Weight": "MAX 28g",
+      "Line": "PE #0.6~#1.2号"
+    },
+    "created_at": "2026-09-03T08:30:08.203699+09:00",
+    "updated_at": "2026-09-03T15:49:57.253493+09:00"
+  }
+]

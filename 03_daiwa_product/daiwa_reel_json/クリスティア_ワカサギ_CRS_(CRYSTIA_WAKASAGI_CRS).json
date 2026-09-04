@@ -1,0 +1,41 @@
+[
+  {
+    "item_name": "クリスティア　ワカサギ　ＣＲＳ　マットブラック",
+    "jan": "4550133534317",
+    "price": 18750,
+    "url": "https://www.daiwa.com/jp/product/fwq8pal",
+    "product_name": "クリスティア ワカサギ CRS (CRYSTIA WAKASAGI CRS)",
+    "specs": {
+      "本体重量（g）（電池・付属品除く）": "約88",
+      "標準巻糸量": "0.3号-60m_0.4号-30m"
+    },
+    "created_at": "2026-04-22T22:36:30.878779+09:00",
+    "updated_at": "2026-09-03T17:21:38.746417+09:00"
+  },
+  {
+    "item_name": "クリスティア　ワカサギ　ＣＲＳ　ムーブ",
+    "jan": "4550133534324",
+    "price": 18750,
+    "url": "https://www.daiwa.com/jp/product/fwq8pal",
+    "product_name": "クリスティア ワカサギ CRS (CRYSTIA WAKASAGI CRS)",
+    "specs": {
+      "本体重量（g）（電池・付属品除く）": "約88",
+      "標準巻糸量": "0.3号-60m_0.4号-30m"
+    },
+    "created_at": "2026-04-22T22:36:30.878779+09:00",
+    "updated_at": "2026-09-03T17:21:38.746417+09:00"
+  },
+  {
+    "item_name": "クリスティア　ワカサギ　ＣＲＳ　パールホワイト",
+    "jan": "4550133616907",
+    "price": 18750,
+    "url": "https://www.daiwa.com/jp/product/fwq8pal",
+    "product_name": "クリスティア ワカサギ CRS (CRYSTIA WAKASAGI CRS)",
+    "specs": {
+      "本体重量（g）（電池・付属品除く）": "約88",
+      "標準巻糸量": "0.3号-60m_0.4号-30m"
+    },
+    "created_at": "2026-04-22T22:36:30.878779+09:00",
+    "updated_at": "2026-09-03T17:21:38.746417+09:00"
+  }
+]

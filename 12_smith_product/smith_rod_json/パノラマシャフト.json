@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "PNR-963ML",
+    "jan": null,
+    "price": 58000,
+    "url": "https://www.smith.jp/product/trout/panoramashaft/panoramashaft.html",
+    "product_name": "パノラマシャフト",
+    "specs": {
+      "length": "9'6\"",
+      "weight": "197g",
+      "lure": "7～35g",
+      "line": "8～20lb(0.8~2.0PE)",
+      "power": "Medium Light",
+      "action": "Moderate Fast",
+      "griplength": "565mm",
+      "packlength": "110cm",
+      "blankmaterial": "24t＋30t+40tGraphite",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:23.788899+09:00",
+    "updated_at": "2026-09-03T16:37:23.788899+09:00"
+  },
+  {
+    "item_name": "PNR-1063ML",
+    "jan": null,
+    "price": 59000,
+    "url": "https://www.smith.jp/product/trout/panoramashaft/panoramashaft.html",
+    "product_name": "パノラマシャフト",
+    "specs": {
+      "length": "10'6\"",
+      "weight": "203g",
+      "lure": "7～45g",
+      "line": "8～20lb(0.8~2.0PE)",
+      "power": "Medium Light",
+      "action": "Moderate Fast",
+      "griplength": "590mm",
+      "packlength": "124cm",
+      "blankmaterial": "24t＋30t+40tGraphite",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:23.788899+09:00",
+    "updated_at": "2026-09-03T16:37:23.788899+09:00"
+  },
+  {
+    "item_name": "PNR-1063MH",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.smith.jp/product/trout/panoramashaft/panoramashaft.html",
+    "product_name": "パノラマシャフト",
+    "specs": {
+      "length": "10'6\"",
+      "weight": "251g",
+      "lure": "7～55g",
+      "line": "8～20lb(0.8~2.0PE)",
+      "power": "Medium Heavy",
+      "action": "Moderate Fast",
+      "griplength": "590mm",
+      "packlength": "124cm",
+      "blankmaterial": "24t＋30t+40tGraphite",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:23.788899+09:00",
+    "updated_at": "2026-09-03T16:37:23.788899+09:00"
+  }
+]

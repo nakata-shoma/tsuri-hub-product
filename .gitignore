@@ -1,1 +1,3 @@
 .toolvenv
+__pycache__
+*.stackdump

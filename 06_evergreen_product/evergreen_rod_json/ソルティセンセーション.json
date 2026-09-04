@@ -1,0 +1,240 @@
+[
+  {
+    "item_name": "PSSS-74S BBヒットマン",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheBbHitman.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.23m",
+      "継数": 2,
+      "標準自重": "78g",
+      "パワー": "",
+      "ルアー範囲": "0.5～12g",
+      "ライン範囲": "PE0.3～0.6号 /FC2～6lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-70S Dアタッカー",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheDAttacker.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 2,
+      "標準自重": "67g",
+      "パワー": "",
+      "ルアー範囲": "0.1～6g",
+      "ライン範囲": "PE0.2～0.4号 /FC1.5～4lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSC-82T ゲームファインダー",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheGameFinder.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.48m",
+      "継数": 2,
+      "標準自重": "108g",
+      "パワー": "",
+      "ルアー範囲": "1.5～24g",
+      "ライン範囲": "PE0.3～0.6号/FC3～6lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-78T ライトタフ",
+    "jan": null,
+    "price": 54000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheLightTough.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.34m",
+      "継数": 2,
+      "標準自重": "75g",
+      "パワー": "",
+      "ルアー範囲": "1.5～14g",
+      "ライン範囲": "PE0.3～0.6号 /FC3～6lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-610S リンバーティップ",
+    "jan": null,
+    "price": 55000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheLimberTip.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.08m",
+      "継数": 2,
+      "標準自重": "60g",
+      "パワー": "",
+      "ルアー範囲": "0.1～4.5g",
+      "ライン範囲": "PE0.2～0.4号 /FC1.5～3lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-77S リミットブレーカー",
+    "jan": null,
+    "price": 59000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheLimitBreaker.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.3m",
+      "継数": 2,
+      "標準自重": "72g",
+      "パワー": "",
+      "ルアー範囲": "0.5～10g",
+      "ライン範囲": "PE0.2～0.4号 /FC1.5～4lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-84T マークスマン",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheMarksman.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.54m",
+      "継数": 2,
+      "標準自重": "85g",
+      "パワー": "",
+      "ルアー範囲": "1.5～18g",
+      "ライン範囲": "PE0.3～0.6号/FC3～6lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSC-70S マルチポテンシャル",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheMultiPotential.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 2,
+      "標準自重": "95g",
+      "パワー": "",
+      "ルアー範囲": "1～10g",
+      "ライン範囲": "PE0.3～0.6号/FC3～6lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-53S プチプリッカー",
+    "jan": null,
+    "price": 53000,
+    "url": "https://www.evergreen-fishing.com/goods_list/ThePetitPricker.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "1.59m",
+      "継数": 2,
+      "標準自重": "58g",
+      "パワー": "",
+      "ルアー範囲": "0.1～3.5g",
+      "ライン範囲": "PE0.1～0.3号 /FC1～2.5lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-57T ロッキーダガー",
+    "jan": null,
+    "price": 52000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheRockyDagger.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "1.7m",
+      "継数": 2,
+      "標準自重": "71g",
+      "パワー": "",
+      "ルアー範囲": "0.5～10g",
+      "ライン範囲": "PE0.2～0.5号 /FC2～5lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-82T ロッキーハンツマン",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheRockyHantsman.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.48m",
+      "継数": 2,
+      "標準自重": "87g",
+      "パワー": "",
+      "ルアー範囲": "1.5～24g",
+      "ライン範囲": "PE0.3～0.6号 /FC3～6lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-67S スーパーセンサー",
+    "jan": null,
+    "price": 53000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSuperSensor.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "60g",
+      "パワー": "",
+      "ルアー範囲": "0.1～4.5g",
+      "ライン範囲": "PE0.2～0.4号 /FC1.5～3lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-73T ワイドレシーバー",
+    "jan": null,
+    "price": 53000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheWideReceiver.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.21m",
+      "継数": 2,
+      "標準自重": "67g",
+      "パワー": "",
+      "ルアー範囲": "0.4～8g",
+      "ライン範囲": "PE0.2～0.5号 /FC2～5lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  },
+  {
+    "item_name": "PSSS-76T ワイルドカード",
+    "jan": null,
+    "price": 54000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheWildCard.html",
+    "product_name": "ソルティセンセーション",
+    "specs": {
+      "全長": "2.29m",
+      "継数": 2,
+      "標準自重": "68g",
+      "パワー": "",
+      "ルアー範囲": "0.2～10g",
+      "ライン範囲": "PE0.2～0.6号 /FC1.5～6lb"
+    },
+    "created_at": "2026-09-03T14:55:38.869586+09:00",
+    "updated_at": "2026-09-03T14:55:38.869586+09:00"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "item_name": "TCC-S60UL",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection-comfy-rod/t-connection-comfy/",
+    "product_name": "T-CONNECTION Comfy/Tコネクションコンフィー",
+    "specs": {
+      "Length(ft/m)": "6'0”(1.83m)",
+      "継数": 2,
+      "Power": "Ultra Light",
+      "Lure Weight": "0.8~3g",
+      "Line": "1~2.5lb"
+    },
+    "created_at": "2026-09-03T08:31:31.894516+09:00",
+    "updated_at": "2026-09-03T15:51:10.849843+09:00"
+  },
+  {
+    "item_name": "TCC-S60L-E",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection-comfy-rod/t-connection-comfy/",
+    "product_name": "T-CONNECTION Comfy/Tコネクションコンフィー",
+    "specs": {
+      "Length(ft/m)": "6'0”(1.83m)",
+      "継数": 2,
+      "Power": "Light",
+      "Lure Weight": "1.0~3.5g",
+      "Line": "ESTER MAX0.4号"
+    },
+    "created_at": "2026-09-03T08:31:31.894516+09:00",
+    "updated_at": "2026-09-03T15:51:10.849843+09:00"
+  },
+  {
+    "item_name": "TCC-S60L",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection-comfy-rod/t-connection-comfy/",
+    "product_name": "T-CONNECTION Comfy/Tコネクションコンフィー",
+    "specs": {
+      "Length(ft/m)": "6'0”(1.83m)",
+      "継数": 2,
+      "Power": "Light",
+      "Lure Weight": "1.5~4g",
+      "Line": "1~2.5lb"
+    },
+    "created_at": "2026-09-03T08:31:31.894516+09:00",
+    "updated_at": "2026-09-03T15:51:10.849843+09:00"
+  }
+]

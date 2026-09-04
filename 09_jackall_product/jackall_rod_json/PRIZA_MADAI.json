@@ -1,0 +1,56 @@
+[
+  {
+    "item_name": "PRM-S230MH+ST",
+    "jan": null,
+    "price": 38500,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/priza-madai/",
+    "product_name": "PRIZA MADAI",
+    "specs": {
+      "Length(ft)": "2.30m",
+      "継数": "2pcs",
+      "Wight": "141g",
+      "Power": "MEDIUM HEAVY PLUS",
+      "Lure Weight": "10-30号",
+      "Line": "PE0.6-1.0号",
+      "Type": "SOLID TIP"
+    },
+    "created_at": "2026-09-03T08:27:54.093140+09:00",
+    "updated_at": "2026-09-03T15:47:46.031085+09:00"
+  },
+  {
+    "item_name": "PRM-S230ML-TT",
+    "jan": null,
+    "price": 38500,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/priza-madai/",
+    "product_name": "PRIZA MADAI",
+    "specs": {
+      "Length(ft)": "2.30m",
+      "継数": "2pcs",
+      "Wight": "126g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "3-10号",
+      "Line": "PE0.4-1.0号",
+      "Type": "TUBULAR TIP"
+    },
+    "created_at": "2026-09-03T08:27:54.093140+09:00",
+    "updated_at": "2026-09-03T15:47:46.031085+09:00"
+  },
+  {
+    "item_name": "PRM-C230MH-TT",
+    "jan": null,
+    "price": 38500,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/priza-madai/",
+    "product_name": "PRIZA MADAI",
+    "specs": {
+      "Length(ft)": "2.30m",
+      "継数": "2pcs",
+      "Wight": "135g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "5-15号",
+      "Line": "PE0.4-1.0号",
+      "Type": "TUBULAR TIP"
+    },
+    "created_at": "2026-09-03T08:27:54.093140+09:00",
+    "updated_at": "2026-09-03T15:47:46.031085+09:00"
+  }
+]

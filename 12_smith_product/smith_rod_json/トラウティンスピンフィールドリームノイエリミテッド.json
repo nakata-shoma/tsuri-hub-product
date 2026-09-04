@@ -1,0 +1,86 @@
+[
+  {
+    "item_name": "FNL-T511L-RF",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.smith.jp/product/trout/neuelimited/neuelimited.html",
+    "product_name": "トラウティンスピンフィールドリームノイエリミテッド",
+    "specs": {
+      "length": "5'11\"",
+      "weight": "78g",
+      "lure": "0.5〜3.5g",
+      "line": "1〜4lb",
+      "power": "Light",
+      "action": "Regular Fast",
+      "griplength": "272mm",
+      "packlength": "94cm",
+      "blankmaterial": "30t+24t+5tGraphite",
+      "tip dia": "1.2mm"
+    },
+    "created_at": "2026-09-03T16:37:23.519251+09:00",
+    "updated_at": "2026-09-03T16:37:23.519251+09:00"
+  },
+  {
+    "item_name": "FNL-T511ML-F",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.smith.jp/product/trout/neuelimited/neuelimited.html",
+    "product_name": "トラウティンスピンフィールドリームノイエリミテッド",
+    "specs": {
+      "length": "5'11\"",
+      "weight": "80g",
+      "lure": "0.5〜3.5g",
+      "line": "1〜3lb",
+      "power": "Medium.Light",
+      "action": "Fast",
+      "griplength": "272mm",
+      "packlength": "94cm",
+      "blankmaterial": "30t+24t+5tGraphite",
+      "tip dia": "1.2mm"
+    },
+    "created_at": "2026-09-03T16:37:23.519251+09:00",
+    "updated_at": "2026-09-03T16:37:23.519251+09:00"
+  },
+  {
+    "item_name": "FNL-T511M-RF",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.smith.jp/product/trout/neuelimited/neuelimited.html",
+    "product_name": "トラウティンスピンフィールドリームノイエリミテッド",
+    "specs": {
+      "length": "5'11\"",
+      "weight": "82g",
+      "lure": "0.8〜4.5g",
+      "line": "1.5〜4lb",
+      "power": "Medium",
+      "action": "Regular Fast",
+      "griplength": "272mm",
+      "packlength": "94cm",
+      "blankmaterial": "30t+24tGraphite",
+      "tip dia": "1.2mm"
+    },
+    "created_at": "2026-09-03T16:37:23.519251+09:00",
+    "updated_at": "2026-09-03T16:37:23.519251+09:00"
+  },
+  {
+    "item_name": "FNL-T511L-ES",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.smith.jp/product/trout/neuelimited/neuelimited.html",
+    "product_name": "トラウティンスピンフィールドリームノイエリミテッド",
+    "specs": {
+      "length": "5'11\"",
+      "weight": "76g",
+      "lure": "0.5〜3.5g",
+      "line": "1〜3lb",
+      "power": "Light",
+      "action": "Regular Fast",
+      "griplength": "272mm",
+      "packlength": "94cm",
+      "blankmaterial": "30t+24tGraphite",
+      "tip dia": "1.2mm"
+    },
+    "created_at": "2026-09-03T16:37:23.519251+09:00",
+    "updated_at": "2026-09-03T16:37:23.519251+09:00"
+  }
+]

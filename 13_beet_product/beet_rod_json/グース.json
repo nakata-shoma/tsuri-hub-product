@@ -1,0 +1,30 @@
+[
+  {
+    "item_name": "G65S",
+    "jan": null,
+    "price": 51000,
+    "url": "https://beat-jig.com/product-item/230",
+    "product_name": "グース",
+    "specs": {
+      "全長": "6.5ft(1.96m)",
+      "ジグウェイトアベレージ": "30g～65g",
+      "推奨ライン": "0.4～0.8号"
+    },
+    "created_at": "2026-09-03T16:48:59.833457+09:00",
+    "updated_at": "2026-09-03T16:48:59.833457+09:00"
+  },
+  {
+    "item_name": "G65T",
+    "jan": null,
+    "price": 50000,
+    "url": "https://beat-jig.com/product-item/230",
+    "product_name": "グース",
+    "specs": {
+      "全長": "6.5ft(1.96m)",
+      "ジグウェイトアベレージ": "30g～65g",
+      "推奨ライン": "0.4～0.8号"
+    },
+    "created_at": "2026-09-03T16:48:59.833457+09:00",
+    "updated_at": "2026-09-03T16:48:59.833457+09:00"
+  }
+]

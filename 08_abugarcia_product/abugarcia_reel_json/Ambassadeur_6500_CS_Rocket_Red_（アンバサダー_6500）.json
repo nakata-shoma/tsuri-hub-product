@@ -1,0 +1,38 @@
+[
+  {
+    "item_name": "Ambassadeur 6500 CS Rocket RED",
+    "jan": "036282319851",
+    "product_code": "1400396",
+    "price": 40000,
+    "url": "https://abugarcia.jp/products/ambassadeur-6500-cs-rocket-red",
+    "product_name": "Ambassadeur 6500 CS Rocket Red　（アンバサダー　6500）",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "2/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.35mm/約4.5号": "255m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "200m"
+    },
+    "created_at": "2026-09-03T15:18:52.448360+09:00",
+    "updated_at": "2026-09-03T15:18:52.448360+09:00"
+  },
+  {
+    "item_name": "Ambassadeur 6501 CS Rocket RED",
+    "jan": "036282319868",
+    "product_code": "1400397",
+    "price": 40000,
+    "url": "https://abugarcia.jp/products/ambassadeur-6500-cs-rocket-red",
+    "product_name": "Ambassadeur 6500 CS Rocket Red　（アンバサダー　6500）",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "2/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.35mm/約4.5号": "255m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "200m"
+    },
+    "created_at": "2026-09-03T15:18:52.448360+09:00",
+    "updated_at": "2026-09-03T15:18:52.448360+09:00"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "BIC-664M",
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-pack/",
+    "specs": {
+      "": "",
+      "Model": "BIC-664M",
+      "全長": "6'6”ft",
+      "継数": "4pcs",
+      "ルアー": "1/4-3/4oz",
+      "ライン": "10-16lb",
+      "アクション": "R",
+      "JAN(4560350)": 817704,
+      "PRICE": "¥13800(税込¥15180)"
+    },
+    "created_at": "2026-04-27T17:49:59.344424+09:00",
+    "updated_at": "2026-04-27T17:49:59.344424+09:00"
+  },
+  {
+    "item_name": "BIC-664MH",
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-pack/",
+    "specs": {
+      "": "",
+      "Model": "BIC-664MH",
+      "全長": "6'6”ft",
+      "継数": "4pcs",
+      "ルアー": "1/4-1oz",
+      "ライン": "12-20lb",
+      "アクション": "RF",
+      "JAN(4560350)": 817711,
+      "PRICE": "¥14500(税込¥15950)"
+    },
+    "created_at": "2026-04-27T17:49:59.344424+09:00",
+    "updated_at": "2026-04-27T17:49:59.344424+09:00"
+  },
+  {
+    "item_name": "BIC-704H",
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-pack/",
+    "specs": {
+      "": "",
+      "Model": "BIC-704H",
+      "全長": "7'0”ft",
+      "継数": "4pcs",
+      "ルアー": "3/8-1.1/2oz",
+      "ライン": "12-25lb",
+      "アクション": "RF",
+      "JAN(4560350)": 817728,
+      "PRICE": "¥15000(税込¥16500)"
+    },
+    "created_at": "2026-04-27T17:49:59.344424+09:00",
+    "updated_at": "2026-04-27T17:49:59.344424+09:00"
+  }
+]

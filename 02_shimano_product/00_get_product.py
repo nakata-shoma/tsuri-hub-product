@@ -1,58 +1,59 @@
-import cloudscraper
+# https://fish.shimano.com/ja-JP/product/list.html
+# を保存して input に保存
+
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 import csv
 
-# 対象URL
-url = "https://fish.shimano.com/ja-JP/product/list.html"
+HTML_FILE = "./02_shimano_product/input/shimano.html"  # 保存したHTMLファイル名
 
-# Cloudflare対策版 requests
-# ブラウザ情報を詳細に設定することで 403 エラーを回避します
-scraper = cloudscraper.create_scraper(
-    browser={
-        'browser': 'chrome',
-        'platform': 'windows',
-        'desktop': True
-    }
-)
+BASE_URL = "https://fish.shimano.com"
 
-# ページ取得
-res = scraper.get(url, headers={
-    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
-    "Referer": "https://fish.shimano.com/ja-JP"
-})
-res.raise_for_status()
+def extract_urls():
+    with open(HTML_FILE, "r", encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
 
-# HTML解析
-soup = BeautifulSoup(res.text, "html.parser")
+    reel_urls = []
+    rod_urls = []
 
-products = []
+    # <div class="thumbnail__item"> の直下の <a> を取得
+    items = soup.select("div.thumbnail__item > a")
 
-# 各製品アイテムから情報を抽出
-for item in soup.select(".thumbnail__item"):
-    a_tag = item.select_one("a")
-    if not a_tag:
-        continue
+    for a in items:
+        href = a.get("href")
+        if not href:
+            continue
 
-    href = a_tag.get("href")
-    product_url = urljoin(url, href) if href else ""
+        # 必要なカテゴリだけ抽出
+        if "/product/reel/" in href:
+            reel_urls.append(href)
+        elif "/product/rod/" in href:
+            rod_urls.append(href)
+        else:
+            # lure, item, parts などは無視
+            continue
 
-    # 製品名の取得（.thumbnail__item__name クラス内、またはaタグ内のテキスト）
-    name_tag = item.select_one(".thumbnail__item__name")
-    name = name_tag.get_text(strip=True) if name_tag else a_tag.get_text(strip=True)
+    return reel_urls, rod_urls
 
-    # 画像URLの取得
-    img_tag = item.select_one("img")
-    image_url = urljoin(url, img_tag.get("src")) if img_tag and img_tag.get("src") else ""
 
-    products.append([name, product_url, image_url])
+def save_csv_with_base(filename, urls):
+    with open(filename, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
 
-# CSV保存
-csv_filename = "shimano_products.csv"
+        for u in urls:
+            # すでに絶対URLならそのまま
+            if u.startswith("http"):
+                full = u
+            else:
+                full = BASE_URL + u
 
-with open(csv_filename, "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerow(["name", "url", "image_url"])  # ヘッダー
-    writer.writerows(products)
+            writer.writerow([full])  # ヘッダーなし
 
-print(f"抽出完了: {len(products)} 件の製品情報を {csv_filename} に保存しました。")
+
+if __name__ == "__main__":
+    reel, rod = extract_urls()
+
+    save_csv_with_base("./02_shimano_product/shimano_urls/shimano_products_reel.csv", reel)
+    save_csv_with_base("./02_shimano_product/shimano_urls/shimano_products_rod.csv", rod)
+
+    print("Reel:", len(reel), "件")
+    print("Rod:", len(rod), "件")

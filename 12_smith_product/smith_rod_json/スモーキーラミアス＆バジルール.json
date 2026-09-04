@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "SRM-S75",
+    "jan": null,
+    "price": 45000,
+    "url": "https://www.smith.jp/product/salt/smoky/smoky.html",
+    "product_name": "スモーキーラミアス＆バジルール",
+    "specs": {
+      "length": "7'5\"",
+      "weight": "81g",
+      "lure": "0.9〜11g",
+      "line": "PE：0.3〜0.8号",
+      "power": "Light",
+      "action": "Moderate Fast",
+      "griplength": "315mm",
+      "packlength": "117cm(2ピース)",
+      "blankmaterial": "#1:grass composite#2:40t Graphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:20.191622+09:00",
+    "updated_at": "2026-09-03T16:37:20.191622+09:00"
+  },
+  {
+    "item_name": "SBG-S75",
+    "jan": null,
+    "price": 46000,
+    "url": "https://www.smith.jp/product/salt/smoky/smoky.html",
+    "product_name": "スモーキーラミアス＆バジルール",
+    "specs": {
+      "length": "7'5\"",
+      "weight": "90g",
+      "lure": "1.2〜15g",
+      "line": "PE：0.3〜1.0号",
+      "power": "Medium Light",
+      "action": "Ex. Fast",
+      "griplength": "340mm",
+      "packlength": "117cm（2ピース）",
+      "blankmaterial": "#1:grass composite#2:40t Graphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:20.191622+09:00",
+    "updated_at": "2026-09-03T16:37:20.191622+09:00"
+  }
+]

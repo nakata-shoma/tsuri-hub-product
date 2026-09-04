@@ -1,0 +1,86 @@
+[
+  {
+    "item_name": "BL-C712XH/RF",
+    "jan": null,
+    "price": 36000,
+    "url": "https://www.smith.jp/product/salt/baylinerrf/baylinerrf.html",
+    "product_name": "ベイライナーRF",
+    "specs": {
+      "length": "7'1\"(216cm)",
+      "weight": "148g",
+      "lure": "〜56g",
+      "line": "〜4PE~30lb.フロロ",
+      "power": "Ex.Heavy",
+      "action": "Fast",
+      "griplength": "445mm",
+      "packlength": "160cm(変則2pcs)",
+      "blankmaterial": "30t+36tGraphite",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:11.460322+09:00",
+    "updated_at": "2026-09-03T16:37:11.460322+09:00"
+  },
+  {
+    "item_name": "BL-C792H/RF",
+    "jan": null,
+    "price": 37000,
+    "url": "https://www.smith.jp/product/salt/baylinerrf/baylinerrf.html",
+    "product_name": "ベイライナーRF",
+    "specs": {
+      "length": "7'9\"(236cm)",
+      "weight": "144g",
+      "lure": "〜48g",
+      "line": "〜3PE~25lb.フロロ",
+      "power": "Heavy",
+      "action": "Mod.Fast",
+      "griplength": "465mm",
+      "packlength": "122.5cm(2pcs)",
+      "blankmaterial": "30t+36tGraphite",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:11.460322+09:00",
+    "updated_at": "2026-09-03T16:37:11.460322+09:00"
+  },
+  {
+    "item_name": "BL-S732MH/RF",
+    "jan": null,
+    "price": 37000,
+    "url": "https://www.smith.jp/product/salt/baylinerrf/baylinerrf.html",
+    "product_name": "ベイライナーRF",
+    "specs": {
+      "length": "7'3\"(221cm)",
+      "weight": "127g",
+      "lure": "〜35g",
+      "line": "〜2PE~25lb.フロロ",
+      "power": "MediumHeavy",
+      "action": "Fast",
+      "griplength": "415mm",
+      "packlength": "166.5cm(変則2pcs)",
+      "blankmaterial": "30t+40tGraphite",
+      "tip dia": "1.9mm"
+    },
+    "created_at": "2026-09-03T16:37:11.460322+09:00",
+    "updated_at": "2026-09-03T16:37:11.460322+09:00"
+  },
+  {
+    "item_name": "BL-S802MH/RF",
+    "jan": null,
+    "price": 38000,
+    "url": "https://www.smith.jp/product/salt/baylinerrf/baylinerrf.html",
+    "product_name": "ベイライナーRF",
+    "specs": {
+      "length": "8'(245cm)",
+      "weight": "130g",
+      "lure": "〜35g",
+      "line": "〜2PE~16lb.フロロ",
+      "power": "MediumHeavy",
+      "action": "Mod.Fast",
+      "griplength": "440mm",
+      "packlength": "126.5cm(2pcs)",
+      "blankmaterial": "30t+40tGraphite",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:11.460322+09:00",
+    "updated_at": "2026-09-03T16:37:11.460322+09:00"
+  }
+]

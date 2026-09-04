@@ -1,0 +1,112 @@
+[
+  {
+    "item_name": "XSPC-63-1-MAX80",
+    "jan": "036282092754",
+    "product_code": "1552349",
+    "price": 28000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-slow-jigging",
+    "product_name": "SaltyStage KR-X Prototype SLOW JIGGING（ソルティーステージ プロトタイプ スロージギング）",
+    "specs": {
+      "レングス(ft/cm)": "6'3\"/190.5",
+      "テーパー/アクション": "RS",
+      "継数": 1,
+      "タイプ": "BC",
+      "PE(号)": "0.5 - 1.2",
+      "仕舞寸法(cm)": 190.5,
+      "先径(mm)": 1.62,
+      "ルアー(g)": "20 - 80",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:10.700544+09:00",
+    "updated_at": "2026-09-03T15:18:01.338031+09:00"
+  },
+  {
+    "item_name": "XSPC-63-1.5-MAX150",
+    "jan": "036282092761",
+    "product_code": "1552350",
+    "price": 28500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-slow-jigging",
+    "product_name": "SaltyStage KR-X Prototype SLOW JIGGING（ソルティーステージ プロトタイプ スロージギング）",
+    "specs": {
+      "レングス(ft/cm)": "6'3\"/190.5",
+      "テーパー/アクション": "RS",
+      "継数": 1,
+      "タイプ": "BC",
+      "PE(号)": "0.8 - 1.5",
+      "仕舞寸法(cm)": 190.5,
+      "先径(mm)": 1.8,
+      "ルアー(g)": "30 - 150",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:10.700544+09:00",
+    "updated_at": "2026-09-03T15:18:01.338031+09:00"
+  },
+  {
+    "item_name": "XSPC-63-2-MAX200",
+    "jan": "036282092778",
+    "product_code": "1552351",
+    "price": 29000,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-slow-jigging",
+    "product_name": "SaltyStage KR-X Prototype SLOW JIGGING（ソルティーステージ プロトタイプ スロージギング）",
+    "specs": {
+      "レングス(ft/cm)": "6'3\"/190.5",
+      "テーパー/アクション": "S",
+      "継数": 1,
+      "タイプ": "BC",
+      "PE(号)": "0.8 - 1.5",
+      "仕舞寸法(cm)": 190.5,
+      "先径(mm)": 1.46,
+      "ルアー(g)": "50 - 200",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:10.700544+09:00",
+    "updated_at": "2026-09-03T15:18:01.338031+09:00"
+  },
+  {
+    "item_name": "XSPC-63-3-MAX250",
+    "jan": "036282092785",
+    "product_code": "1552352",
+    "price": 29500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-slow-jigging",
+    "product_name": "SaltyStage KR-X Prototype SLOW JIGGING（ソルティーステージ プロトタイプ スロージギング）",
+    "specs": {
+      "レングス(ft/cm)": "6'3\"/190.5",
+      "テーパー/アクション": "S",
+      "継数": 1,
+      "タイプ": "BC",
+      "PE(号)": "1.0 - 2.0",
+      "仕舞寸法(cm)": 190.5,
+      "先径(mm)": 1.5,
+      "ルアー(g)": "70 - 250",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:10.700544+09:00",
+    "updated_at": "2026-09-03T15:18:01.338031+09:00"
+  },
+  {
+    "item_name": "XSPC-63-4-MAX300",
+    "jan": "036282092792",
+    "product_code": "1552353",
+    "price": 29500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-slow-jigging",
+    "product_name": "SaltyStage KR-X Prototype SLOW JIGGING（ソルティーステージ プロトタイプ スロージギング）",
+    "specs": {
+      "レングス(ft/cm)": "6'3\"/190.5",
+      "テーパー/アクション": "S",
+      "継数": 1,
+      "タイプ": "BC",
+      "PE(号)": "1.0 - 2.5",
+      "仕舞寸法(cm)": 190.5,
+      "先径(mm)": 1.67,
+      "ルアー(g)": "100 - 300",
+      "材料": "カーボン100%",
+      "製法": "TAF"
+    },
+    "created_at": "2026-09-03T00:40:10.700544+09:00",
+    "updated_at": "2026-09-03T15:18:01.338031+09:00"
+  }
+]

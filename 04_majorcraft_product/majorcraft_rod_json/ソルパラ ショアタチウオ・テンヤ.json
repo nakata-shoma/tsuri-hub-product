@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "SPX-862L/Tachi",
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/shore-tachiuo/",
+    "specs": {
+      "": "",
+      "Model": "SPX-862L/Tachi",
+      "全長": "8'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 20g",
+      "PEライン": "0.4 - 1.2号",
+      "アクション": "RF",
+      "JAN（4573236）": 271590,
+      "PRICE": "¥9600(税込 ¥10560)"
+    },
+    "created_at": "2026-04-27T17:51:17.570729+09:00",
+    "updated_at": "2026-04-27T17:51:17.570729+09:00"
+  },
+  {
+    "item_name": "SPX-902ML/Tachi",
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/shore-tachiuo/",
+    "specs": {
+      "": "",
+      "Model": "SPX-902ML/Tachi",
+      "全長": "9'0\"ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 30g",
+      "PEライン": "0.6 - 1.5号",
+      "アクション": "RF",
+      "JAN（4573236）": 271507,
+      "PRICE": "¥9800(税込 ¥10780)"
+    },
+    "created_at": "2026-04-27T17:51:17.570729+09:00",
+    "updated_at": "2026-04-27T17:51:17.570729+09:00"
+  },
+  {
+    "item_name": "SPX-962M/Tachi",
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/shore-tachiuo/",
+    "specs": {
+      "": "",
+      "Model": "SPX-962M/Tachi",
+      "全長": "9'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 40g",
+      "PEライン": "0.6 - 2.0号",
+      "アクション": "RF",
+      "JAN（4573236）": 271613,
+      "PRICE": "¥10000(税込 ¥11000)"
+    },
+    "created_at": "2026-04-27T17:51:17.570729+09:00",
+    "updated_at": "2026-04-27T17:51:17.570729+09:00"
+  }
+]

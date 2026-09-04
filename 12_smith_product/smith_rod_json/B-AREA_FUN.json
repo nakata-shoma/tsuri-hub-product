@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "BAF-CG47UL",
+    "jan": null,
+    "price": 14000,
+    "url": "https://www.smith.jp/product/bass/bareafun/bareafun.html",
+    "product_name": "B-AREA FUN",
+    "specs": {
+      "length": "4'7\"",
+      "weight": "80g",
+      "lure": "〜3/8oz",
+      "line": "〜12lb.",
+      "power": "Ultra Light",
+      "action": "Moderate",
+      "griplength": "240mm",
+      "packlength": "140cm",
+      "blankmaterial": "カーボン",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:34:53.061050+09:00",
+    "updated_at": "2026-09-03T16:37:08.938118+09:00"
+  },
+  {
+    "item_name": "BAF2-C47UL",
+    "jan": null,
+    "price": 14500,
+    "url": "https://www.smith.jp/product/bass/bareafun/bareafun.html",
+    "product_name": "B-AREA FUN",
+    "specs": {
+      "length": "4'7\"",
+      "weight": "81g",
+      "lure": "〜3/8oz",
+      "line": "〜12lb.",
+      "power": "Ultra Light",
+      "action": "Moderate",
+      "griplength": "240mm",
+      "packlength": "73cm（2pcs）",
+      "blankmaterial": "カーボン",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:34:53.061050+09:00",
+    "updated_at": "2026-09-03T16:37:08.938118+09:00"
+  },
+  {
+    "item_name": "BAF2-S47UL/MNB",
+    "jan": null,
+    "price": 14500,
+    "url": "https://www.smith.jp/product/bass/bareafun/bareafun.html",
+    "product_name": "B-AREA FUN",
+    "specs": {
+      "length": "4'7\"",
+      "weight": "65g",
+      "lure": "〜5/16oz",
+      "line": "〜8lb.",
+      "power": "Ultra Light",
+      "action": "Moderate",
+      "griplength": "215mm",
+      "packlength": "73cm（2ピース）",
+      "blankmaterial": "カーボン",
+      "tip dia": "1.5mm"
+    },
+    "created_at": "2026-09-03T16:34:53.061050+09:00",
+    "updated_at": "2026-09-03T16:37:08.938118+09:00"
+  }
+]

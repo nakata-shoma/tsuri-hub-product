@@ -1,0 +1,117 @@
+[
+  {
+    "item_name": "RF2292S-MLS",
+    "jan": "021423",
+    "price": 43000,
+    "url": "https://fishing.tenryu-magna.com/offshore/redflip_reactiontenya.html",
+    "product_name": "Red Flip ReAction-TENYA（レッドフリップ リアクション-テンヤ）",
+    "specs": {
+      "タイプ": "S",
+      "全長( m [ft])": 2.29,
+      "継数(本)": 2,
+      "調子": "7:3",
+      "仕舞寸法(cm)": 118,
+      "穂先形式": "MF/CS",
+      "錘負荷(号)": "1.5～12(MAX50g)",
+      "ライン(PE/号)": "MAX1.0",
+      "リアグリップ(mm)": 375,
+      "先径(mm)": 1.0,
+      "自重(g)": 102,
+      "使用繊維 カーボン/グラス(%)": "100/0"
+    },
+    "created_at": "2026-09-03T00:51:24.548482+09:00",
+    "updated_at": "2026-09-03T15:59:24.354398+09:00"
+  },
+  {
+    "item_name": "RF2342S-MS",
+    "jan": "021430",
+    "price": 44500,
+    "url": "https://fishing.tenryu-magna.com/offshore/redflip_reactiontenya.html",
+    "product_name": "Red Flip ReAction-TENYA（レッドフリップ リアクション-テンヤ）",
+    "specs": {
+      "タイプ": "S",
+      "全長( m [ft])": 2.34,
+      "継数(本)": 2,
+      "調子": "8:2",
+      "仕舞寸法(cm)": 121,
+      "穂先形式": "MF/CS",
+      "錘負荷(号)": "2～12(MAX50g)",
+      "ライン(PE/号)": "MAX1.0",
+      "リアグリップ(mm)": 375,
+      "先径(mm)": 1.0,
+      "自重(g)": 105,
+      "使用繊維 カーボン/グラス(%)": "95/5"
+    },
+    "created_at": "2026-09-03T00:51:24.548482+09:00",
+    "updated_at": "2026-09-03T15:59:24.354398+09:00"
+  },
+  {
+    "item_name": "RF2342S-MHS",
+    "jan": "021447",
+    "price": 45500,
+    "url": "https://fishing.tenryu-magna.com/offshore/redflip_reactiontenya.html",
+    "product_name": "Red Flip ReAction-TENYA（レッドフリップ リアクション-テンヤ）",
+    "specs": {
+      "タイプ": "S",
+      "全長( m [ft])": 2.34,
+      "継数(本)": 2,
+      "調子": "8:2",
+      "仕舞寸法(cm)": 121,
+      "穂先形式": "MF/CS",
+      "錘負荷(号)": "3～15(MAX60g)",
+      "ライン(PE/号)": "MAX1.2",
+      "リアグリップ(mm)": 375,
+      "先径(mm)": 1.2,
+      "自重(g)": 111,
+      "使用繊維 カーボン/グラス(%)": "95/5"
+    },
+    "created_at": "2026-09-03T00:51:24.548482+09:00",
+    "updated_at": "2026-09-03T15:59:24.354398+09:00"
+  },
+  {
+    "item_name": "RF2342S-HS",
+    "jan": "021737",
+    "price": 46000,
+    "url": "https://fishing.tenryu-magna.com/offshore/redflip_reactiontenya.html",
+    "product_name": "Red Flip ReAction-TENYA（レッドフリップ リアクション-テンヤ）",
+    "specs": {
+      "タイプ": "S",
+      "全長( m [ft])": 2.34,
+      "継数(本)": 2,
+      "調子": "8:2",
+      "仕舞寸法(cm)": 121,
+      "穂先形式": "MF/CS",
+      "錘負荷(号)": "5～20(MAX80g)",
+      "ライン(PE/号)": "MAX1.2",
+      "リアグリップ(mm)": 375,
+      "先径(mm)": 1.2,
+      "自重(g)": 115,
+      "使用繊維 カーボン/グラス(%)": "95/5"
+    },
+    "created_at": "2026-09-03T00:51:24.548482+09:00",
+    "updated_at": "2026-09-03T15:59:24.354398+09:00"
+  },
+  {
+    "item_name": "RF2112B-MHT",
+    "jan": "021416",
+    "price": 44500,
+    "url": "https://fishing.tenryu-magna.com/offshore/redflip_reactiontenya.html",
+    "product_name": "Red Flip ReAction-TENYA（レッドフリップ リアクション-テンヤ）",
+    "specs": {
+      "タイプ": "B",
+      "全長( m [ft])": 2.11,
+      "継数(本)": 2,
+      "調子": "8:2",
+      "仕舞寸法(cm)": 110,
+      "穂先形式": "MF/CT",
+      "錘負荷(号)": "3～15(MAX60g)",
+      "ライン(PE/号)": "MAX1.2",
+      "リアグリップ(mm)": 425,
+      "先径(mm)": 1.4,
+      "自重(g)": 133,
+      "使用繊維 カーボン/グラス(%)": "95/5"
+    },
+    "created_at": "2026-09-03T00:51:24.548482+09:00",
+    "updated_at": "2026-09-03T15:59:24.354398+09:00"
+  }
+]

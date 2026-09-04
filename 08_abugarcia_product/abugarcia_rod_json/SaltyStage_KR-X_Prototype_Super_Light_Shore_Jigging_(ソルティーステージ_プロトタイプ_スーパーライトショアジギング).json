@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "XSLS-952SL",
+    "jan": "036282115972",
+    "product_code": "1578901",
+    "price": 31500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting-1",
+    "product_name": "SaltyStage KR-X Prototype Super Light Shore Jigging (ソルティーステージ プロトタイプ スーパーライトショアジギング)",
+    "specs": {
+      "レングス(ft/cm)": "9'5\"/287",
+      "パワー": "SL(スーパーﾗｲﾄ）",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.4~1",
+      "仕舞寸法(cm)": 147.2,
+      "先径(mm)": 1.48,
+      "ルアー(g)": "3～30",
+      "製法": "TAF",
+      "ティップ": "チューブラ",
+      "使用材料": "カーボン100%"
+    },
+    "created_at": "2026-09-03T00:40:06.825055+09:00",
+    "updated_at": "2026-09-03T15:17:54.889771+09:00"
+  },
+  {
+    "item_name": "XSLS-1052SL",
+    "jan": "036282115989",
+    "product_code": "1578902",
+    "price": 32500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting-1",
+    "product_name": "SaltyStage KR-X Prototype Super Light Shore Jigging (ソルティーステージ プロトタイプ スーパーライトショアジギング)",
+    "specs": {
+      "レングス(ft/cm)": "10'5\"/317.5",
+      "パワー": "SL(スーパーﾗｲﾄ）",
+      "テーパー/アクション": "レギュラーファースト",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.4~1",
+      "仕舞寸法(cm)": 162.5,
+      "先径(mm)": 1.48,
+      "ルアー(g)": "3～30",
+      "製法": "TAF",
+      "ティップ": "チューブラ",
+      "使用材料": "カーボン100%"
+    },
+    "created_at": "2026-09-03T00:40:06.825055+09:00",
+    "updated_at": "2026-09-03T15:17:54.889771+09:00"
+  },
+  {
+    "item_name": "XSLC-942SL",
+    "jan": "036282115996",
+    "product_code": "1578903",
+    "price": 32500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting-1",
+    "product_name": "SaltyStage KR-X Prototype Super Light Shore Jigging (ソルティーステージ プロトタイプ スーパーライトショアジギング)",
+    "specs": {
+      "レングス(ft/cm)": "9'4\"/284.5",
+      "パワー": "SL(スーパーﾗｲﾄ）",
+      "テーパー/アクション": "レギュラー",
+      "継数": 2,
+      "タイプ": "PC",
+      "PE(号)": "0.5~1.2",
+      "仕舞寸法(cm)": 146,
+      "先径(mm)": 1.43,
+      "ルアー(g)": "3～30",
+      "製法": "TAF",
+      "ティップ": "チューブラ",
+      "使用材料": "カーボン100%"
+    },
+    "created_at": "2026-09-03T00:40:06.825055+09:00",
+    "updated_at": "2026-09-03T15:17:54.889771+09:00"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "item_name": "TS-S56UL",
+    "jan": null,
+    "price": 46200,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection_s/t-connection_stream/",
+    "product_name": "T-CONNECTION STREAM / Tコネクションストリーム",
+    "specs": {
+      "Length": "5’6”(1.68m)",
+      "PCS": 2,
+      "Power": "Ultra Light",
+      "Lure(g)": "3~7g",
+      "Line(lb.)": "PE MAX 0.8号"
+    },
+    "created_at": "2026-09-03T08:31:33.790670+09:00",
+    "updated_at": "2026-09-03T15:51:13.386363+09:00"
+  },
+  {
+    "item_name": "TS-S65L",
+    "jan": null,
+    "price": 47300,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection_s/t-connection_stream/",
+    "product_name": "T-CONNECTION STREAM / Tコネクションストリーム",
+    "specs": {
+      "Length": "6’5”(1.96m)",
+      "PCS": 2,
+      "Power": "Light",
+      "Lure(g)": "3~10g",
+      "Line(lb.)": "PE MAX 1.0号"
+    },
+    "created_at": "2026-09-03T08:31:33.790670+09:00",
+    "updated_at": "2026-09-03T15:51:13.386363+09:00"
+  },
+  {
+    "item_name": "TS-S72ML",
+    "jan": null,
+    "price": 48400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection_s/t-connection_stream/",
+    "product_name": "T-CONNECTION STREAM / Tコネクションストリーム",
+    "specs": {
+      "Length": "7’2”(2.19m)",
+      "PCS": 2,
+      "Power": "Medium Light",
+      "Lure(g)": "5~12g",
+      "Line(lb.)": "PE MAX 1.2号"
+    },
+    "created_at": "2026-09-03T08:31:33.790670+09:00",
+    "updated_at": "2026-09-03T15:51:13.386363+09:00"
+  },
+  {
+    "item_name": "TS-S77ML+",
+    "jan": null,
+    "price": 52250,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection_s/t-connection_stream/",
+    "product_name": "T-CONNECTION STREAM / Tコネクションストリーム",
+    "specs": {
+      "Length": "7’7”(2.31ｍ)",
+      "PCS": 2,
+      "Power": "Medium Light Plus",
+      "Lure(g)": "MAX15g",
+      "Line(lb.)": "PE MAX 1.2号"
+    },
+    "created_at": "2026-09-03T08:31:33.790670+09:00",
+    "updated_at": "2026-09-03T15:51:13.386363+09:00"
+  },
+  {
+    "item_name": "TS-S80M",
+    "jan": null,
+    "price": 54450,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection_s/t-connection_stream/",
+    "product_name": "T-CONNECTION STREAM / Tコネクションストリーム",
+    "specs": {
+      "Length": "8’(2.44ｍ)",
+      "PCS": 2,
+      "Power": "Medium",
+      "Lure(g)": "MAX18g",
+      "Line(lb.)": "PE MAX 1.2号"
+    },
+    "created_at": "2026-09-03T08:31:33.790670+09:00",
+    "updated_at": "2026-09-03T15:51:13.386363+09:00"
+  },
+  {
+    "item_name": "TS-S86M+",
+    "jan": null,
+    "price": 55550,
+    "url": "https://www.jackall.co.jp/timon/products/rod/t-connection_s/t-connection_stream/",
+    "product_name": "T-CONNECTION STREAM / Tコネクションストリーム",
+    "specs": {
+      "Length": "8’6”(2.59ｍ)",
+      "PCS": 2,
+      "Power": "Medium Plus",
+      "Lure(g)": "MAX21g",
+      "Line(lb.)": "PE MAX 1.2号"
+    },
+    "created_at": "2026-09-03T08:31:33.790670+09:00",
+    "updated_at": "2026-09-03T15:51:13.386363+09:00"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "item_name": "SSSS-710MH マグナムジャーク710",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheMagnumjerk710.html",
+    "product_name": "セカンドステージ",
+    "specs": {
+      "全長": "2.39m",
+      "継数": 2,
+      "標準自重": "112g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "3～4.5号",
+      "ライン範囲": "PE0.8～1.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.967272+09:00",
+    "updated_at": "2026-09-03T14:55:38.967272+09:00"
+  },
+  {
+    "item_name": "SSSS-84MH マグナムジャーク84",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheMagnumjerk84.html",
+    "product_name": "セカンドステージ",
+    "specs": {
+      "全長": "2.54m",
+      "継数": 2,
+      "標準自重": "122g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "3～4.5号",
+      "ライン範囲": "PE0.8～1.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.967272+09:00",
+    "updated_at": "2026-09-03T14:55:38.967272+09:00"
+  },
+  {
+    "item_name": "SSSS-86M レーザージャーク86",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheRazorjerk86.html",
+    "product_name": "セカンドステージ",
+    "specs": {
+      "全長": "2.59m",
+      "継数": 2,
+      "標準自重": "110g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "2.5～4号",
+      "ライン範囲": "PE0.5～1.2号"
+    },
+    "created_at": "2026-09-03T14:55:38.967272+09:00",
+    "updated_at": "2026-09-03T14:55:38.967272+09:00"
+  },
+  {
+    "item_name": "SSSS-90M レーザージャーク90",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheRazorjerk90.html",
+    "product_name": "セカンドステージ",
+    "specs": {
+      "全長": "2.74m",
+      "継数": 2,
+      "標準自重": "117g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "2.5～4号",
+      "ライン範囲": "PE0.5～1.2号"
+    },
+    "created_at": "2026-09-03T14:55:38.967272+09:00",
+    "updated_at": "2026-09-03T14:55:38.967272+09:00"
+  },
+  {
+    "item_name": "SSSS-88L スラックジャーク88",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSlackjerk88.html",
+    "product_name": "セカンドステージ",
+    "specs": {
+      "全長": "2.64m",
+      "継数": 2,
+      "標準自重": "106g",
+      "パワー": "ライト",
+      "ルアー範囲": "2.5～4号",
+      "ライン範囲": "PE0.5～1.2号"
+    },
+    "created_at": "2026-09-03T14:55:38.967272+09:00",
+    "updated_at": "2026-09-03T14:55:38.967272+09:00"
+  },
+  {
+    "item_name": "SSSS-92L スラックジャーク92",
+    "jan": null,
+    "price": 49000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSlackjerk92.html",
+    "product_name": "セカンドステージ",
+    "specs": {
+      "全長": "2.79m",
+      "継数": 2,
+      "標準自重": "114g",
+      "パワー": "ライト",
+      "ルアー範囲": "2.5～4号",
+      "ライン範囲": "PE0.5～1.2号"
+    },
+    "created_at": "2026-09-03T14:55:38.967272+09:00",
+    "updated_at": "2026-09-03T14:55:38.967272+09:00"
+  }
+]

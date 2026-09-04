@@ -1,0 +1,86 @@
+[
+  {
+    "item_name": "HIM-C52L-SJ1",
+    "jan": null,
+    "price": 41000,
+    "url": "https://www.smith.jp/product/bass/hiroism/calypso/calypso.html",
+    "product_name": "ヒロイズム　カリプソ",
+    "specs": {
+      "length": "5'2\"",
+      "weight": "95g",
+      "lure": "1/8〜3/8oz",
+      "line": "8〜20lb.",
+      "power": "Light",
+      "action": "Ex.Fast",
+      "reargriplength": "140mm",
+      "packlength": "157cm(1pcs)",
+      "blankmaterial": "40+30+24tGraphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:09.464309+09:00",
+    "updated_at": "2026-09-03T16:37:09.464309+09:00"
+  },
+  {
+    "item_name": "HIM-C52L-SJ2",
+    "jan": null,
+    "price": 41500,
+    "url": "https://www.smith.jp/product/bass/hiroism/calypso/calypso.html",
+    "product_name": "ヒロイズム　カリプソ",
+    "specs": {
+      "length": "5'2\"",
+      "weight": "97g",
+      "lure": "1/8〜3/8oz",
+      "line": "8〜20lb.",
+      "power": "Light",
+      "action": "Ex.Fast",
+      "reargriplength": "140mm",
+      "packlength": "82cm(2pcs)",
+      "blankmaterial": "30+24tGraphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:09.464309+09:00",
+    "updated_at": "2026-09-03T16:37:09.464309+09:00"
+  },
+  {
+    "item_name": "HIM-C52ML-LJ1",
+    "jan": null,
+    "price": 42000,
+    "url": "https://www.smith.jp/product/bass/hiroism/calypso/calypso.html",
+    "product_name": "ヒロイズム　カリプソ",
+    "specs": {
+      "length": "5'2\"",
+      "weight": "99g",
+      "lure": "3/16〜1/2oz",
+      "line": "8〜20lb.",
+      "power": "MediumLight",
+      "action": "Fast",
+      "reargriplength": "140mm",
+      "packlength": "157cm(1pcs)",
+      "blankmaterial": "40+30+24tGraphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:09.464309+09:00",
+    "updated_at": "2026-09-03T16:37:09.464309+09:00"
+  },
+  {
+    "item_name": "HIM-C52ML-LJ2",
+    "jan": null,
+    "price": 42500,
+    "url": "https://www.smith.jp/product/bass/hiroism/calypso/calypso.html",
+    "product_name": "ヒロイズム　カリプソ",
+    "specs": {
+      "length": "5'2\"",
+      "weight": "106g",
+      "lure": "3/16〜1/2oz",
+      "line": "8〜20lb.",
+      "power": "MediumLight",
+      "action": "Fast",
+      "reargriplength": "140mm",
+      "packlength": "82cm(2pcs)",
+      "blankmaterial": "30+24tGraphite",
+      "tip dia": "1.7mm"
+    },
+    "created_at": "2026-09-03T16:37:09.464309+09:00",
+    "updated_at": "2026-09-03T16:37:09.464309+09:00"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "item_name": "GSW-C178MH73",
+    "jan": null,
+    "price": 20680,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "178cm",
+      "継数": "2本",
+      "Weight": "117g",
+      "Power": "Medium Heavy",
+      "Action": "ー",
+      "Lure": "MAX120g",
+      "Lure Weight": "20〜80号(75~300g)",
+      "Line": "PE MAX3.0号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-C190H82",
+    "jan": null,
+    "price": 20680,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "190cm",
+      "継数": "2本",
+      "Weight": "122g",
+      "Power": "Heavy",
+      "Action": "ー",
+      "Lure": "錘",
+      "Lure Weight": "30〜100号(112~375g)、LURE MAX120g",
+      "Line": "PE MAX3.0号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-S68XSUL-ST",
+    "jan": null,
+    "price": 19360,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "6'8\"(2.03m)",
+      "継数": "2本",
+      "Weight": "106g",
+      "Power": "Extra Super Ultra Light",
+      "Action": "ー",
+      "Lure": "鯛ラバ",
+      "Lure Weight": "MAX80g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-S63SUL",
+    "jan": null,
+    "price": 18260,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "6'3\"(1.91m)",
+      "継数": "2本",
+      "Weight": "107g",
+      "Power": "Super Ultra Light",
+      "Action": "JIG",
+      "Lure": "MAX60g",
+      "Lure Weight": "ー",
+      "Line": "PE MAX1.2号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-C68SUL",
+    "jan": null,
+    "price": 19360,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "6'8\"(2.03m)",
+      "継数": "2本",
+      "Weight": "130g",
+      "Power": "Super Ultra Light",
+      "Action": "鯛ラバ",
+      "Lure": "MAX100g",
+      "Lure Weight": "ー",
+      "Line": "PE 0.6〜1.2号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-C66UL",
+    "jan": null,
+    "price": 19360,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "6'6\"(1.98m)",
+      "継数": "2本",
+      "Weight": "120g",
+      "Power": "Ultra Light",
+      "Action": "鯛ラバ",
+      "Lure": "MAX130g",
+      "Lure Weight": "ー",
+      "Line": "PE 0.6 – 1.5号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-C58M",
+    "jan": null,
+    "price": 18260,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "5'8\"(1.73m)",
+      "継数": "2本",
+      "Weight": "128g",
+      "Power": "Medium",
+      "Action": "ー",
+      "Lure": "JIG",
+      "Lure Weight": "MAX250g",
+      "Line": "PE MAX2.0号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-C72MH+",
+    "jan": null,
+    "price": 20460,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "7'2\"(2.18m)",
+      "継数": "2本",
+      "Weight": "165g",
+      "Power": "Medium Heavy+",
+      "Action": "ー",
+      "Lure": "ー",
+      "Lure Weight": "10 - 56g",
+      "Line": "PE MAX2.5号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  },
+  {
+    "item_name": "GSW-S68L",
+    "jan": null,
+    "price": 20460,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gsw/",
+    "product_name": "GSW",
+    "specs": {
+      "Length(ft/m)": "6'8\"(2.03m)",
+      "継数": "2本",
+      "Weight": "166g",
+      "Power": "Light",
+      "Action": "ー",
+      "Lure": "ー",
+      "Lure Weight": "10 - 45g",
+      "Line": "PE MAX2.0号"
+    },
+    "created_at": "2026-09-03T08:27:36.006794+09:00",
+    "updated_at": "2026-09-03T15:47:24.840650+09:00"
+  }
+]

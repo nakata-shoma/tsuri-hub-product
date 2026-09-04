@@ -1,0 +1,87 @@
+[
+  {
+    "item_name": "CSYC-70M+ マルチローラー",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheMultiRoler.html",
+    "product_name": "シナジー",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "172g",
+      "パワー": "ミディアム　プラス",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.141642+09:00",
+    "updated_at": "2026-09-03T14:55:38.969792+09:00"
+  },
+  {
+    "item_name": "CSYC-610ML リッピンフィート",
+    "jan": null,
+    "price": 76000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheRippinFeat.html",
+    "product_name": "シナジー",
+    "specs": {
+      "全長": "2.08m",
+      "継数": 1,
+      "標準自重": "133g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "3.5～17.5g(1/8～5/8oz)",
+      "ライン範囲": "8～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.141642+09:00",
+    "updated_at": "2026-09-03T14:55:38.969792+09:00"
+  },
+  {
+    "item_name": "CSYC-71H スーパーディトネーター",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSuperDetonator.html",
+    "product_name": "シナジー",
+    "specs": {
+      "全長": "2.16m",
+      "継数": 1,
+      "標準自重": "140g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "10.5～42g(3/8～1･1/2oz)",
+      "ライン範囲": "12～25lb"
+    },
+    "created_at": "2026-09-03T00:31:40.141642+09:00",
+    "updated_at": "2026-09-03T14:55:38.969792+09:00"
+  },
+  {
+    "item_name": "CSYC-77H スーパーマグナム",
+    "jan": null,
+    "price": 84000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSuperMagnum.html",
+    "product_name": "シナジー",
+    "specs": {
+      "全長": "2.31m",
+      "継数": 2,
+      "標準自重": "226g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "10.5～70g(3/8～2･1/2oz)",
+      "ライン範囲": "16～30lb/PE4～6号"
+    },
+    "created_at": "2026-09-03T00:31:40.141642+09:00",
+    "updated_at": "2026-09-03T14:55:38.969792+09:00"
+  },
+  {
+    "item_name": "CSYC-73MH＋ スーパートライアンフ",
+    "jan": null,
+    "price": 79000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSuperTriumph.html",
+    "product_name": "シナジー",
+    "specs": {
+      "全長": "2.21m",
+      "継数": 2,
+      "標準自重": "145g",
+      "パワー": "ミディアムヘビー　プラス",
+      "ルアー範囲": "10.5～35g(3/8～1・1/4oz)",
+      "ライン範囲": "12～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.141642+09:00",
+    "updated_at": "2026-09-03T14:55:38.969792+09:00"
+  }
+]

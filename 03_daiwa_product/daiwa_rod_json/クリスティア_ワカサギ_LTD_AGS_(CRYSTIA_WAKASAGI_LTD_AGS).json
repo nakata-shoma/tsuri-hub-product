@@ -1,0 +1,58 @@
+[
+  {
+    "item_name": "クリスティア　ワカサギ　ＬＴＤ　ＡＧＳ　速攻　３３５　ＳＳＳＳ",
+    "jan": "4550133260636",
+    "price": 16400,
+    "url": "https://www.daiwa.com/jp/product/jw3bsd1",
+    "product_name": "クリスティア ワカサギ LTD AGS (CRYSTIA WAKASAGI LTD AGS)",
+    "specs": {
+      "標準自重（g）": "約5",
+      "鉛負荷(g)": "0.5～5.0",
+      "全長（cm）": "約33.5"
+    },
+    "created_at": "2026-04-22T23:33:29.606822+09:00",
+    "updated_at": "2026-09-03T17:27:47.536209+09:00"
+  },
+  {
+    "item_name": "クリスティア　ワカサギ　ＬＴＤ　ＡＧＳ　誘惑　３３０　Ｓ",
+    "jan": "4550133260643",
+    "price": 16400,
+    "url": "https://www.daiwa.com/jp/product/jw3bsd1",
+    "product_name": "クリスティア ワカサギ LTD AGS (CRYSTIA WAKASAGI LTD AGS)",
+    "specs": {
+      "標準自重（g）": "約5",
+      "鉛負荷(g)": "5.0～10.0",
+      "全長（cm）": "約33.0"
+    },
+    "created_at": "2026-04-22T23:33:29.606822+09:00",
+    "updated_at": "2026-09-03T17:27:47.536209+09:00"
+  },
+  {
+    "item_name": "クリスティア　ワカサギ　ＬＴＤ　ＡＧＳ　速攻　２９０　ＳＳＳ",
+    "jan": "4550133361838",
+    "price": 16400,
+    "url": "https://www.daiwa.com/jp/product/jw3bsd1",
+    "product_name": "クリスティア ワカサギ LTD AGS (CRYSTIA WAKASAGI LTD AGS)",
+    "specs": {
+      "標準自重（g）": "約5",
+      "鉛負荷(g)": "0.5～6.0",
+      "全長（cm）": "約29.0"
+    },
+    "created_at": "2026-04-22T23:33:29.606822+09:00",
+    "updated_at": "2026-09-03T17:27:47.536209+09:00"
+  },
+  {
+    "item_name": "クリスティア　ワカサギ　ＬＴＤ　ＡＧＳ　誘惑　３３５　ＳＳ",
+    "jan": "4550133361845",
+    "price": 16400,
+    "url": "https://www.daiwa.com/jp/product/jw3bsd1",
+    "product_name": "クリスティア ワカサギ LTD AGS (CRYSTIA WAKASAGI LTD AGS)",
+    "specs": {
+      "標準自重（g）": "約5",
+      "鉛負荷(g)": "2.0～7.0",
+      "全長（cm）": "約33.5"
+    },
+    "created_at": "2026-04-22T23:33:29.606822+09:00",
+    "updated_at": "2026-09-03T17:27:47.536209+09:00"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "item_name": "SLC-610L-Ⅱ Sutte 5：5",
+    "jan": null,
+    "price": 20900,
+    "url": "https://www.golden-mean.co.jp/item/rod/slow-dancer-%e2%85%b1-sutte/",
+    "product_name": "スローダンサーⅡ スッテ",
+    "specs": {
+      "Length(ft.)": "6’10”",
+      "Sutte Weight(号)": "8〜20（30〜75g）",
+      "PE Line (号)": "0.4〜1",
+      "Rod Weight (g)": 104
+    },
+    "created_at": "2026-09-03T00:35:09.081464+09:00",
+    "updated_at": "2026-09-03T16:37:18.288131+09:00"
+  },
+  {
+    "item_name": "SLC-610ML-Ⅱ Sutte 6：4",
+    "jan": null,
+    "price": 20900,
+    "url": "https://www.golden-mean.co.jp/item/rod/slow-dancer-%e2%85%b1-sutte/",
+    "product_name": "スローダンサーⅡ スッテ",
+    "specs": {
+      "Length(ft.)": "6’10”",
+      "Sutte Weight(号)": "8〜25（30〜95g）",
+      "PE Line (号)": "0.4〜1",
+      "Rod Weight (g)": 105
+    },
+    "created_at": "2026-09-03T00:35:09.081464+09:00",
+    "updated_at": "2026-09-03T16:37:18.288131+09:00"
+  },
+  {
+    "item_name": "SLS-610L-Ⅱ Sutte 5：5",
+    "jan": null,
+    "price": 20900,
+    "url": "https://www.golden-mean.co.jp/item/rod/slow-dancer-%e2%85%b1-sutte/",
+    "product_name": "スローダンサーⅡ スッテ",
+    "specs": {
+      "Length(ft.)": "6’10”",
+      "Sutte Weight(号)": "5〜15（19〜75g）",
+      "PE Line (号)": "0.4〜0.8",
+      "Rod Weight (g)": 91
+    },
+    "created_at": "2026-09-03T00:35:09.081464+09:00",
+    "updated_at": "2026-09-03T16:37:18.288131+09:00"
+  },
+  {
+    "item_name": "SLS-610ML-Ⅱ Sutte 6：4",
+    "jan": null,
+    "price": 20900,
+    "url": "https://www.golden-mean.co.jp/item/rod/slow-dancer-%e2%85%b1-sutte/",
+    "product_name": "スローダンサーⅡ スッテ",
+    "specs": {
+      "Length(ft.)": "6’10”",
+      "Sutte Weight(号)": "8〜20（30〜75g）",
+      "PE Line (号)": "0.4〜1",
+      "Rod Weight (g)": 102
+    },
+    "created_at": "2026-09-03T00:35:09.081464+09:00",
+    "updated_at": "2026-09-03T16:37:18.288131+09:00"
+  }
+]

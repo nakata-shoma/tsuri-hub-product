@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "ICSS-60UL エアリアルレジェンド",
+    "jan": null,
+    "price": 75000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheAerial.html",
+    "product_name": "インスパイア（限定モデル）",
+    "specs": {
+      "全長": "1.83m",
+      "継数": 1,
+      "標準自重": "101g",
+      "パワー": "ウルトラライト",
+      "ルアー範囲": "0.9～7g(1/32～1/4oz)",
+      "ライン範囲": "2～8lb"
+    },
+    "created_at": "2026-09-03T00:31:40.128100+09:00",
+    "updated_at": "2026-09-03T14:55:38.847389+09:00"
+  },
+  {
+    "item_name": "ICSS-63UL スーパーエアリアルレジェンド",
+    "jan": null,
+    "price": 76000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSuperAerial.html",
+    "product_name": "インスパイア（限定モデル）",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "100g",
+      "パワー": "ウルトラライト",
+      "ルアー範囲": "0.9～7g(1/32～1/4oz)",
+      "ライン範囲": "2～8lb"
+    },
+    "created_at": "2026-09-03T00:31:40.128100+09:00",
+    "updated_at": "2026-09-03T14:55:38.847389+09:00"
+  }
+]

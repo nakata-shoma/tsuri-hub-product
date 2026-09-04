@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "TRF-49",
+    "jan": null,
+    "price": 40000,
+    "url": "https://www.smith.jp/product/trout/realflex/realflex.html",
+    "product_name": "トラウティンスピンリアルフレックス",
+    "specs": {
+      "length": "4'9\"",
+      "weight": "70g",
+      "lure": "〜8g",
+      "line": "〜6lb.",
+      "power": "Light",
+      "action": "Moderate Fast",
+      "griplength": "210mm",
+      "packlength": "74.5cm",
+      "blankmaterial": "30t+40tGraphite",
+      "tip dia": "1.4mm"
+    },
+    "created_at": "2026-09-03T16:37:24.013662+09:00",
+    "updated_at": "2026-09-03T16:37:24.013662+09:00"
+  },
+  {
+    "item_name": "TRF-53",
+    "jan": null,
+    "price": 41000,
+    "url": "https://www.smith.jp/product/trout/realflex/realflex.html",
+    "product_name": "トラウティンスピンリアルフレックス",
+    "specs": {
+      "length": "5'3\"",
+      "weight": "71.5g",
+      "lure": "〜8g",
+      "line": "〜6lb.",
+      "power": "Light",
+      "action": "Moderate Fast",
+      "griplength": "210mm",
+      "packlength": "82cm",
+      "blankmaterial": "30t+40tGraphite",
+      "tip dia": "1.6mm"
+    },
+    "created_at": "2026-09-03T16:37:24.013662+09:00",
+    "updated_at": "2026-09-03T16:37:24.013662+09:00"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "item_name": "BBRB-SLJ-S63L",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.91ｍ)",
+      "継数": 2,
+      "Power": "LIGHT",
+      "Weight": "108g",
+      "Lure Weight": "MAX 120g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-SJ-C633",
+    "jan": null,
+    "price": 20350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.91ｍ)",
+      "継数": 2,
+      "Power": 3,
+      "Weight": "127g",
+      "Lure Weight": "MAX 250g",
+      "Line": "PE MAX #2.5"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-C632",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.91ｍ)",
+      "継数": 2,
+      "Power": 2,
+      "Weight": "163g",
+      "Lure Weight": "MAX 160g",
+      "Line": "PE MAX #2.5"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-C633",
+    "jan": null,
+    "price": 20350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.91ｍ)",
+      "継数": 2,
+      "Power": 3,
+      "Weight": "168g",
+      "Lure Weight": "MAX 200g",
+      "Line": "PE MAX #3"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-S632",
+    "jan": null,
+    "price": 20350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.92ｍ)",
+      "継数": 2,
+      "Power": 2,
+      "Weight": "174g",
+      "Lure Weight": "MAX 160g",
+      "Line": "PE MAX #2.5"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-S633",
+    "jan": null,
+    "price": 20350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.92ｍ)",
+      "継数": 2,
+      "Power": 3,
+      "Weight": "184g",
+      "Lure Weight": "MAX 200g",
+      "Line": "PE MAX #3"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-LJ-C63L",
+    "jan": null,
+    "price": 18700,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.91ｍ)",
+      "継数": 2,
+      "Power": "LIGHT",
+      "Weight": "112g",
+      "Lure Weight": "MAX 160g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-LJ-C63ML",
+    "jan": null,
+    "price": 19250,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’3”(1.91ｍ)",
+      "継数": 2,
+      "Power": "MEDIUM LIGHT",
+      "Weight": "120g",
+      "Lure Weight": "MAX 200g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-SLJ-S64SUL",
+    "jan": null,
+    "price": 18700,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’4”(1.94ｍ)",
+      "継数": 2,
+      "Power": "SUPER ULTRA LIGHT",
+      "Weight": "112g",
+      "Lure Weight": "MAX 80g",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-SJ-C661",
+    "jan": null,
+    "price": 19250,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’6”(1.98ｍ)",
+      "継数": 2,
+      "Power": 1,
+      "Weight": "122g",
+      "Lure Weight": "MAX 160g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  },
+  {
+    "item_name": "BBRB-SJ-C662",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_rb/",
+    "product_name": "BamBluz RB / バンブルズRB",
+    "specs": {
+      "Length(ft/m)": "6’6”(1.98ｍ)",
+      "継数": 2,
+      "Power": 2,
+      "Weight": "131g",
+      "Lure Weight": "MAX 200g",
+      "Line": "PE MAX #2"
+    },
+    "created_at": "2026-09-03T08:26:31.855595+09:00",
+    "updated_at": "2026-09-03T15:46:12.119202+09:00"
+  }
+]

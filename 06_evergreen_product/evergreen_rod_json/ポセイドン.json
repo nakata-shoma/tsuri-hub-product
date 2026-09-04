@@ -1,0 +1,491 @@
+[
+  {
+    "item_name": "PHPJ 410 ハイピッチジャーカー410",
+    "jan": null,
+    "price": 74000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Phpj410.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.48m",
+      "継数": 1,
+      "標準自重": "149g",
+      "パワー": "",
+      "ルアー範囲": "150～300g(6oz)",
+      "ライン範囲": "PE3号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PHPJ 501 ハイピッチジャーカー501",
+    "jan": null,
+    "price": 74000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Phpj501.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.55m",
+      "継数": 1,
+      "標準自重": "150g",
+      "パワー": "",
+      "ルアー範囲": "90～200g(4oz)",
+      "ライン範囲": "PE2.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PHPJ 504 ハイピッチジャーカー504",
+    "jan": null,
+    "price": 74000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Phpj504.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.63m",
+      "継数": 1,
+      "標準自重": "150g",
+      "パワー": "",
+      "ルアー範囲": "60～150g(3oz)",
+      "ライン範囲": "PE2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PHPJ 600 ハイピッチジャーカー600",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Phpj600.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.83m",
+      "継数": 1,
+      "標準自重": "154g",
+      "パワー": "",
+      "ルアー範囲": "60～150g(3oz)",
+      "ライン範囲": "PE2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PHPJ606L-4 ハイピッチジャーカーライト606L-4",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Phpj606l4.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.98m",
+      "継数": 1,
+      "標準自重": "119g",
+      "パワー": "",
+      "ルアー範囲": "90～180g(4oz)",
+      "ライン範囲": "ＰＥ1.2～2.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PHPJ607L-3 ハイピッチジャーカーライト607L-3",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Phpj607l3.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.07m",
+      "継数": 1,
+      "標準自重": "111g",
+      "パワー": "",
+      "ルアー範囲": "60～150g(3oz)",
+      "ライン範囲": "ＰＥ1.2～2.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PLFJ710H-5 ロングフォールジャーカー710H-5",
+    "jan": null,
+    "price": 79000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Plfj710h5.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.38m",
+      "継数": 2,
+      "標準自重": "162g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "80～600g",
+      "ライン範囲": "PE0.6～5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PLFJ710H-6 ロングフォールジャーカー710H-6",
+    "jan": null,
+    "price": 79000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Plfj710h6.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.38m",
+      "継数": 2,
+      "標準自重": "166g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "80～600g",
+      "ライン範囲": "PE0.6～5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PLFJ710L-1.5 ロングフォールジャーカー710L-1.5",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Plfj710l15.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.38m",
+      "継数": 2,
+      "標準自重": "150g",
+      "パワー": "ライト",
+      "ルアー範囲": "80～400g",
+      "ライン範囲": "PE0.6～3号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PLFJ710M-3 ロングフォールジャーカー710M-3",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Plfj710m3.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.38m",
+      "継数": 2,
+      "標準自重": "148g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "80～600g",
+      "ライン範囲": "PE0.6～5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PLFJ710MH-4 ロングフォールジャーカー710MH-4",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Plfj710mh4.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.38m",
+      "継数": 2,
+      "標準自重": "158g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "80～600g",
+      "ライン範囲": "PE0.6～5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PLFJ710ML-2 ロングフォールジャーカー710ML-2",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Plfj710ml2.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.38m",
+      "継数": 2,
+      "標準自重": "146g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "80～600g",
+      "ライン範囲": "PE0.6～5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PLFJ77XH ロングフォールジャーカー77XH",
+    "jan": null,
+    "price": 78000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Plfj77xh.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "2.3m",
+      "継数": 2,
+      "標準自重": "184g",
+      "パワー": "エクストラヘビー",
+      "ルアー範囲": "120～800g",
+      "ライン範囲": "PE1～6号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PREJ508-2 リアルジャーカー508-2",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Prej5082.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.73m",
+      "継数": 1,
+      "標準自重": "116g",
+      "パワー": "",
+      "ルアー範囲": "80～320g",
+      "ライン範囲": "PE0.8～2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PREJ508-3 リアルジャーカー508-3",
+    "jan": null,
+    "price": 78000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Prej5083.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.73m",
+      "継数": 1,
+      "ルアー範囲": "100～420g",
+      "ライン範囲": "PE1～2.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PREJ508-4 リアルジャーカー508-4",
+    "jan": null,
+    "price": 80000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Prej5084.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.73m",
+      "継数": 1,
+      "ルアー範囲": "120～520g",
+      "ライン範囲": "PE1.2～3号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSLJ 603-1 スロージャーカー603-1",
+    "jan": null,
+    "price": 69000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pslj6031.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "118g",
+      "パワー": "",
+      "ルアー範囲": "20～60g(1oz)",
+      "ライン範囲": "PE1.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSLJ 603-1.5 スロージャーカー603-1.5",
+    "jan": null,
+    "price": 71000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pslj60315.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "117g",
+      "パワー": "",
+      "ルアー範囲": "30～70g(1.5oz)",
+      "ライン範囲": "PE1.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSLJ 603-2 スロージャーカー603-2",
+    "jan": null,
+    "price": 72000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pslj6032.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "115g",
+      "パワー": "",
+      "ルアー範囲": "45～100g(2oz)",
+      "ライン範囲": "PE2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSLJ 603-3 スロージャーカー603-3",
+    "jan": null,
+    "price": 72000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pslj6033.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "115g",
+      "パワー": "",
+      "ルアー範囲": "60～150g(3oz)",
+      "ライン範囲": "PE2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSLJ 603-4 スロージャーカー603-4",
+    "jan": null,
+    "price": 72000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pslj6034.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "128g",
+      "パワー": "",
+      "ルアー範囲": "90～200g(4oz)",
+      "ライン範囲": "PE2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSLJ 603-5 スロージャーカー603-5",
+    "jan": null,
+    "price": 73000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pslj6035.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "133g",
+      "パワー": "",
+      "ルアー範囲": "120～250g(5oz)",
+      "ライン範囲": "PE2.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSLJ 603-6 スロージャーカー603-6",
+    "jan": null,
+    "price": 75000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pslj6036.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "135g",
+      "パワー": "",
+      "ルアー範囲": "150～300g(6oz)",
+      "ライン範囲": "PE3号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSPJ 500 スピンジャーカー500",
+    "jan": null,
+    "price": 70000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pspj500.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.53m",
+      "継数": 1,
+      "標準自重": "204g",
+      "パワー": "",
+      "ルアー範囲": "90～200g(4oz)",
+      "ライン範囲": "PE3号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSPJ 502 スピンジャーカー502",
+    "jan": null,
+    "price": 71000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pspj502.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.58m",
+      "継数": 1,
+      "標準自重": "201g",
+      "パワー": "",
+      "ルアー範囲": "60～150g(3oz)",
+      "ライン範囲": "PE2.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSPJ 602 スピンジャーカー602",
+    "jan": null,
+    "price": 71000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pspj602.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.88m",
+      "継数": 1,
+      "標準自重": "207g",
+      "パワー": "",
+      "ルアー範囲": "60～150g(3oz)",
+      "ライン範囲": "PE2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSPJ 603L スピンジャーカーライト603L",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pspj603l.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "138g",
+      "パワー": "",
+      "ルアー範囲": "60～150g(3oz)",
+      "ライン範囲": "PE2号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSPJ 603L-1.5 スピンジャーカーライト603L-1.5",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pspj603l15.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "131g",
+      "パワー": "",
+      "ルアー範囲": "20～70g(1.5oz)",
+      "ライン範囲": "MAX25lb/PE1.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  },
+  {
+    "item_name": "PSPJ 603L-5 スピンジャーカーライト603L-5",
+    "jan": null,
+    "price": 65000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Pspj603l5.html",
+    "product_name": "ポセイドン",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "144g",
+      "パワー": "",
+      "ルアー範囲": "120～250g(5oz)",
+      "ライン範囲": "PE2.5号"
+    },
+    "created_at": "2026-09-03T14:55:38.805770+09:00",
+    "updated_at": "2026-09-03T14:55:38.805770+09:00"
+  }
+]

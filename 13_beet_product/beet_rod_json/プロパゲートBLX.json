@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "BLX 3+",
+    "jan": null,
+    "price": 71500,
+    "url": "https://beat-jig.com/product-item/221",
+    "product_name": "プロパゲートBLX",
+    "specs": {
+      "全長": "6.6ft(1.98m)",
+      "ジグウェイトアベレージ": "160g～300g",
+      "推奨ライン": "1.5～2.0号"
+    },
+    "created_at": "2026-09-03T16:48:59.481550+09:00",
+    "updated_at": "2026-09-03T16:48:59.481550+09:00"
+  },
+  {
+    "item_name": "BLX 4+",
+    "jan": null,
+    "price": 72500,
+    "url": "https://beat-jig.com/product-item/221",
+    "product_name": "プロパゲートBLX",
+    "specs": {
+      "全長": "6.3ft(1.91m)",
+      "ジグウェイトアベレージ": "200g～400g",
+      "推奨ライン": "1.5～2.5号"
+    },
+    "created_at": "2026-09-03T16:48:59.481550+09:00",
+    "updated_at": "2026-09-03T16:48:59.481550+09:00"
+  },
+  {
+    "item_name": "BLX 5+",
+    "jan": null,
+    "price": 72500,
+    "url": "https://beat-jig.com/product-item/221",
+    "product_name": "プロパゲートBLX",
+    "specs": {
+      "全長": "6.3ft(1.91m)",
+      "ジグウェイトアベレージ": "300g～500g",
+      "推奨ライン": "1.5～3.0号"
+    },
+    "created_at": "2026-09-03T16:48:59.481550+09:00",
+    "updated_at": "2026-09-03T16:48:59.481550+09:00"
+  }
+]

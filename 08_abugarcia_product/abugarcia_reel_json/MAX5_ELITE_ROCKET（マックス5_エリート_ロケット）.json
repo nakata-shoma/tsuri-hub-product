@@ -1,0 +1,38 @@
+[
+  {
+    "item_name": "MAX5 ELITE ROCKET",
+    "jan": "036282037748",
+    "product_code": "1635765",
+    "price": 21000,
+    "url": "https://abugarcia.jp/products/max5-elite-rocket",
+    "product_name": "MAX5 ELITE ROCKET（マックス5 エリート ロケット）",
+    "specs": {
+      "ギア比": "9.0:1",
+      "最大ドラグ力(kg)": 8,
+      "ボール/ローラーベアリング": "9+1",
+      "最大ライン巻取 (cm)": 93,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨPEﾗｲﾝ3号(m)": "PE3-100m",
+      "ラインキャパシティ/0.33mm/16lb": "16lb-100m"
+    },
+    "created_at": "2026-09-03T15:19:21.008154+09:00",
+    "updated_at": "2026-09-03T15:19:21.008154+09:00"
+  },
+  {
+    "item_name": "MAX5 ELITE ROCKET-L",
+    "jan": "036282037762",
+    "product_code": "1635767",
+    "price": 21000,
+    "url": "https://abugarcia.jp/products/max5-elite-rocket",
+    "product_name": "MAX5 ELITE ROCKET（マックス5 エリート ロケット）",
+    "specs": {
+      "ギア比": "9.0:1",
+      "最大ドラグ力(kg)": 8,
+      "ボール/ローラーベアリング": "9+1",
+      "最大ライン巻取 (cm)": 93,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨPEﾗｲﾝ3号(m)": "PE3-100m",
+      "ラインキャパシティ/0.33mm/16lb": "16lb-100m"
+    },
+    "created_at": "2026-09-03T15:19:21.008154+09:00",
+    "updated_at": "2026-09-03T15:19:21.008154+09:00"
+  }
+]

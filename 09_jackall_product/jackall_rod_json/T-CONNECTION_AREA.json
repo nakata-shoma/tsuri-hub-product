@@ -1,0 +1,206 @@
+[
+  {
+    "item_name": "TCA-S60ML-ST",
+    "jan": null,
+    "price": 62700,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6’0”(1.83m)",
+      "継数": 2,
+      "Weight": "ー",
+      "Power": "Medium Light Solid Tip",
+      "Lure Weight": "0.8-4.0g",
+      "Line": "ESTER MAX0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S57UL",
+    "jan": null,
+    "price": 61600,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "5’7”(1.70m)",
+      "継数": 2,
+      "Weight": "ー",
+      "Power": "Ultra Light",
+      "Lure Weight": "0.4-3.0g",
+      "Line": "1-3lb,ESTER MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S61L-RS",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6’1”(1.86m)",
+      "継数": 2,
+      "Weight": "ー",
+      "Power": "Light",
+      "Lure Weight": "0.4-3.0g",
+      "Line": "1-3lb Ester MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S60SUL-E",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6’0”(1.83ｍ)",
+      "継数": 2,
+      "Weight": "61g",
+      "Power": "Super Ultra Light",
+      "Lure Weight": "0.2-1.8g",
+      "Line": "Ester MAX #0.3"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S61L-G",
+    "jan": null,
+    "price": 60500,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6'1\"(1.86m)",
+      "継数": 2,
+      "Weight": "68g",
+      "Power": "Light Grass composite",
+      "Lure Weight": "1.2-4.5g",
+      "Line": "1-3lb PE MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S60UL-E",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6'0\"(1.83m)",
+      "継数": 2,
+      "Weight": "63.5g",
+      "Power": "Ultra Light Ester",
+      "Lure Weight": "0.4-2.0g",
+      "Line": "Ester MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S62M-ST",
+    "jan": null,
+    "price": 60500,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6'2\"(1.88m)",
+      "継数": 2,
+      "Weight": "69g",
+      "Power": "Medium Solid Tip",
+      "Lure Weight": "1.0-5.0g",
+      "Line": "PE MAX #0.6"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S61L+E",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6'1\"(1.85m)",
+      "継数": 2,
+      "Weight": "66g",
+      "Power": "Light Plus",
+      "Lure Weight": "0.4-3.5g",
+      "Line": "Ester MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S55LML-ST",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "5’5”",
+      "継数": 2,
+      "Weight": "59.5g",
+      "Power": "Light/Medium Light Solid Tip",
+      "Lure Weight": "0.4-2.0g",
+      "Line": "Ester MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S60UL",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6’0”",
+      "継数": 2,
+      "Weight": 60.2,
+      "Power": "Ultra Light",
+      "Lure Weight": "0.4-2.0g",
+      "Line": "1-3lb"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S61ML",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6’1”",
+      "継数": 2,
+      "Weight": "66.9g",
+      "Power": "Medium Light",
+      "Lure Weight": "1.0-4.5g",
+      "Line": "2-4lb PE MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  },
+  {
+    "item_name": "TCA-S60M",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/t-connection-area-4/",
+    "product_name": "T-CONNECTION AREA",
+    "specs": {
+      "Length(ft/m)": "6’0”(1.83m)",
+      "継数": 2,
+      "Weight": "65.0g",
+      "Power": "Medium",
+      "Lure Weight": "1.0-4.5g",
+      "Line": "2-4lb PE MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:31:38.269378+09:00",
+    "updated_at": "2026-09-03T15:51:18.638734+09:00"
+  }
+]

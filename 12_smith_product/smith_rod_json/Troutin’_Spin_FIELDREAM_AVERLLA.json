@@ -1,0 +1,112 @@
+[
+  {
+    "item_name": "FLA-T54MLスティル",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.smith.jp/product/trout/averlla/averlla.html",
+    "product_name": "Troutin’ Spin FIELDREAM AVERLLA",
+    "specs": {
+      "length": "5'4\"",
+      "section": 2,
+      "jointtype": "1＆ハーフ",
+      "Blanktype": "チューブラー",
+      "power": "MediumLight",
+      "weight": "49g",
+      "packlength": "95.5cm",
+      "lure": "1〜5g",
+      "line": "mono：0.3〜0.4PE：0.2〜0.4",
+      "action": "RegularFast",
+      "blankmaterial": "24t+40tGraphite"
+    },
+    "created_at": "2026-09-03T16:37:20.898470+09:00",
+    "updated_at": "2026-09-03T16:37:20.898470+09:00"
+  },
+  {
+    "item_name": "FLA-S510LF-TZキングラプター",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.smith.jp/product/trout/averlla/averlla.html",
+    "product_name": "Troutin’ Spin FIELDREAM AVERLLA",
+    "specs": {
+      "length": "5'10\"",
+      "section": 2,
+      "jointtype": "1＆ハーフ",
+      "Blanktype": "ソリッドティップ",
+      "power": "Light",
+      "weight": "53g",
+      "packlength": "111cm",
+      "lure": "〜4g",
+      "line": "mono：〜0.4PE：〜0.4",
+      "action": "Fast",
+      "blankmaterial": "24t+30tGraphite"
+    },
+    "created_at": "2026-09-03T16:37:20.898470+09:00",
+    "updated_at": "2026-09-03T16:37:20.898470+09:00"
+  },
+  {
+    "item_name": "FLA-S510ULF-TZグランドイーグル",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.smith.jp/product/trout/averlla/averlla.html",
+    "product_name": "Troutin’ Spin FIELDREAM AVERLLA",
+    "specs": {
+      "length": "5'10\"",
+      "section": 2,
+      "jointtype": "1＆ハーフ",
+      "Blanktype": "ソリッドティップ",
+      "power": "UltraLight",
+      "weight": "53g",
+      "packlength": "111cm",
+      "lure": "〜3.5g",
+      "line": "mono：〜0.4PE：〜0.4",
+      "action": "Fast",
+      "blankmaterial": "24tGraphite"
+    },
+    "created_at": "2026-09-03T16:37:20.898470+09:00",
+    "updated_at": "2026-09-03T16:37:20.898470+09:00"
+  },
+  {
+    "item_name": "FLA-S56L-TZハントホーク",
+    "jan": null,
+    "price": 61000,
+    "url": "https://www.smith.jp/product/trout/averlla/averlla.html",
+    "product_name": "Troutin’ Spin FIELDREAM AVERLLA",
+    "specs": {
+      "length": "5'10\"",
+      "section": 2,
+      "jointtype": "センターカット２ピース",
+      "Blanktype": "ソリッドティップ",
+      "power": "Light",
+      "weight": "51g",
+      "packlength": "86cm",
+      "lure": "〜3.5g",
+      "line": "mono：〜0.4PE：〜0.4",
+      "action": "Moderate",
+      "blankmaterial": "24tGraphite"
+    },
+    "created_at": "2026-09-03T16:37:20.898470+09:00",
+    "updated_at": "2026-09-03T16:37:20.898470+09:00"
+  },
+  {
+    "item_name": "FLA-S56MLF-TZクイックショット",
+    "jan": null,
+    "price": 61000,
+    "url": "https://www.smith.jp/product/trout/averlla/averlla.html",
+    "product_name": "Troutin’ Spin FIELDREAM AVERLLA",
+    "specs": {
+      "length": "5'6\"",
+      "section": 2,
+      "jointtype": "センターカット２ピース",
+      "Blanktype": "ソリッドティップ",
+      "power": "MediumLight",
+      "weight": "48g",
+      "packlength": "85.5cm",
+      "lure": "〜5g",
+      "line": "mono：〜0.4PE：〜0.4",
+      "action": "Fast",
+      "blankmaterial": "24t+30t+40tGraphite"
+    },
+    "created_at": "2026-09-03T16:37:20.898470+09:00",
+    "updated_at": "2026-09-03T16:37:20.898470+09:00"
+  }
+]

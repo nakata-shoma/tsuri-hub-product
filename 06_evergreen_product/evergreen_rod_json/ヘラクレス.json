@@ -1,0 +1,716 @@
+[
+  {
+    "item_name": "HCSC-60UL/MST スパークショット",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Sparkshot.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.83m",
+      "継数": 1,
+      "標準自重": "95g",
+      "パワー": "ウルトラライト／ミディアム",
+      "ルアー範囲": "1.8～7g(1/16～1/4)",
+      "ライン範囲": "6～10lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-74X アクテオン",
+    "jan": null,
+    "price": 64000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheActaeon.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.23m",
+      "継数": 2,
+      "標準自重": "163g",
+      "パワー": "エクストラヘビー",
+      "ルアー範囲": "14～112g(1/2～4oz)",
+      "ライン範囲": "14～30lb /PE40～80lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-82XX アクテオンマグナム",
+    "jan": null,
+    "price": 67000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheActaeonMagnum.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.49m",
+      "継数": 2,
+      "標準自重": "215g",
+      "パワー": "ダブルエクストラヘビー",
+      "ルアー範囲": "28～168g(1～6oz)",
+      "ライン範囲": "16～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-79XX アクテオンマグナムEX",
+    "jan": null,
+    "price": 68000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheActaeonMagnumEx.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.35m",
+      "継数": 2,
+      "標準自重": "187g",
+      "パワー": "ダブルエクストラヘビー",
+      "ルアー範囲": "28～168g(1～6oz)",
+      "ライン範囲": "16～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-66ML エアレギウス",
+    "jan": null,
+    "price": 55000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheAirregius.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.98m",
+      "継数": 1,
+      "標準自重": "121g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "5～21g(3/16～3/4oz)",
+      "ライン範囲": "8～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70ML エアレギウス7",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheAirregius7.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "132g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "5～21g(3/16～3/4oz)",
+      "ライン範囲": "8～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-66ML-LTS エアレギウスLTS",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheAirregiusLts.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.98m",
+      "継数": 1,
+      "標準自重": "105g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "3.5～17.5g(1/8～5/8oz)",
+      "ライン範囲": "6～14lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-75H エアリーフリップ",
+    "jan": null,
+    "price": 61000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheAiryFlip.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.26m",
+      "継数": 2,
+      "標準自重": "154g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "7～42g(1/4～1･1/2oz)",
+      "ライン範囲": "12～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSS-64ML ブラックレギウス",
+    "jan": null,
+    "price": 58000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheBlackRegius.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.93m",
+      "継数": 1,
+      "標準自重": "94g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "1.8～10.5g(1/16～3/8oz)",
+      "ライン範囲": "4～10lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-67MH ブルーマイスター",
+    "jan": null,
+    "price": 57000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheBluemeister.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "136g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "7～35g(1/4～1･1/4oz)",
+      "ライン範囲": "10～25lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70MH ブルーマイスター7",
+    "jan": null,
+    "price": 61000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheBluemeister7.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "151g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "7～35g(1/4～1･1/4oz)",
+      "ライン範囲": "10～25lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70MH-LTS ブルーマイスター7LTS",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheBluemeister7Lts.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "120g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "5～28g(3/16～１oz)",
+      "ライン範囲": "8～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-67MH-LTS ブルーマイスターLTS",
+    "jan": null,
+    "price": 58000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheBluemeisterLts.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "114g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "5～21g(3/16～3/4oz)",
+      "ライン範囲": "8～14lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-62M EGアクション",
+    "jan": null,
+    "price": 58000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheEgAction.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.88m",
+      "継数": 1,
+      "標準自重": "121g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "7～21g(1/4～3/4oz)",
+      "ライン範囲": "8～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-67M EGムービング",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheEgMoving.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "140g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-72MH EGスイミング",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheEgSwimming.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.18m",
+      "継数": 2,
+      "標準自重": "148g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "12～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-66M フォースグランディス",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheForcegrandis.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.98m",
+      "継数": 1,
+      "標準自重": "134g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70M フォースグランディス7",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheForcegrandis7.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "144g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70M-LTS フォースグランディス7LTS",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheForcegrandis7Lts.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "117g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "5～28g(3/16～１oz)",
+      "ライン範囲": "8～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-66M-LTS フォースグランディスLTS",
+    "jan": null,
+    "price": 58000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheForcegrandisLts.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.98m",
+      "継数": 1,
+      "標準自重": "113g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "5～21g(3/16～3/4oz)",
+      "ライン範囲": "8～14lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-69H ヘラクレス",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheHeracles.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.06m",
+      "継数": 1,
+      "標準自重": "142g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "10.5～42g(3/8～1･1/2oz)",
+      "ライン範囲": "12～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70H ヘラクレス7",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheHeracles7.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "156g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "10.5～42g(3/8～1･1/2oz)",
+      "ライン範囲": "12～30lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70H-LTS ヘラクレス7LTS",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheHeracles7Lts.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "120g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "7～35g(1/4～1･1/4oz)",
+      "ライン範囲": "12～20"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-69H-LTS ヘラクレスLTS",
+    "jan": null,
+    "price": 61000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheHeraclesLts.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.06m",
+      "継数": 1,
+      "標準自重": "120g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "12～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-73HG レパード",
+    "jan": null,
+    "price": 66000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheLeopard.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.21m",
+      "継数": 2,
+      "標準自重": "234g",
+      "パワー": "ヘビー",
+      "ルアー範囲": "14～56g(1/2～2oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-64M マニピュレーター",
+    "jan": null,
+    "price": 55000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheManipulator.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.93m",
+      "継数": 1,
+      "標準自重": "120g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "7～21g(1/4～3/4oz)",
+      "ライン範囲": "8～16lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-65ML+PLUS メタルウィップ",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheMetalWhip.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.96m",
+      "継数": 1,
+      "標準自重": "107g",
+      "パワー": "ミディアムライト　プラス",
+      "ルアー範囲": "3.5～14g(1/8～1/2oz)",
+      "ライン範囲": "6～12lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-68MG オセロット",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheOcelot.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.04m",
+      "継数": 1,
+      "標準自重": "175g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "10.5～28g(3/8～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSS-70UL ファランクス",
+    "jan": null,
+    "price": 59000,
+    "url": "https://www.evergreen-fishing.com/goods_list/ThePhalanx.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "104g",
+      "パワー": "ウルトラライト",
+      "ルアー範囲": "0.9～7g(1/32～1/4oz)",
+      "ライン範囲": "2～6lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSS-611M パワーシェイカー611M",
+    "jan": null,
+    "price": 62000,
+    "url": "https://www.evergreen-fishing.com/goods_list/ThePowerShaker611m.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.11m",
+      "継数": 1,
+      "標準自重": "127g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "3.5～14g(1/8～1/2oz)",
+      "ライン範囲": "4～12lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSS-68ML パワーシェイカー68ML",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/ThePowerShaker68ml.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.04m",
+      "継数": 1,
+      "標準自重": "126g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "1.8～10.5g(1/16～3/8oz)",
+      "ライン範囲": "3～12lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-68L/MH プロガイダンスC68",
+    "jan": null,
+    "price": 59000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheProGuidanceC68.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.03m",
+      "継数": 1,
+      "標準自重": "146g",
+      "パワー": "ライト／ミディアムヘビー",
+      "ルアー範囲": "3.5～14g(1/8～1/2oz)",
+      "ライン範囲": "8～14lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-67MHR レッドマイスター",
+    "jan": null,
+    "price": 58000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheRedmeister.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.01m",
+      "継数": 1,
+      "標準自重": "123g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "7～35g(1/4～1･1/4oz)",
+      "ライン範囲": "10～25lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-611MHG サーバル",
+    "jan": null,
+    "price": 64000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheServal.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.11m",
+      "継数": 1,
+      "標準自重": "187g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "10.5～42g(3/8～1･1/2oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSS-61ULST ソリッドセンサー61",
+    "jan": null,
+    "price": 61000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSolidSensor61.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.86m",
+      "継数": 1,
+      "標準自重": "91g",
+      "パワー": "ウルトラライト",
+      "ルアー範囲": "0.9～5g(1/32～3/16oz)",
+      "ライン範囲": "2～5lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-77MH ストライクマスター77",
+    "jan": null,
+    "price": 63000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheStrikeMaster77.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.31m",
+      "継数": 2,
+      "標準自重": "151g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "10.5～35g(3/8～1･1/4oz)",
+      "ライン範囲": "8～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-72X スーパーエクスプロージョン",
+    "jan": null,
+    "price": 64000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheSuperExplosion.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.18m",
+      "継数": 2,
+      "標準自重": "156g",
+      "パワー": "エクストラヘビー",
+      "ルアー範囲": "10.5～56g(3/8～2oz)",
+      "ライン範囲": "16～30lb /PE55～100lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-63MH テクニカルアクション",
+    "jan": null,
+    "price": 55000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheTechnicalAction.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.91m",
+      "継数": 1,
+      "標準自重": "132g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-66MG トルクアータ66",
+    "jan": null,
+    "price": 59000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheTorquata66.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.98m",
+      "継数": 1,
+      "標準自重": "148g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-70MG トルクアータ7",
+    "jan": null,
+    "price": 60000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheTorquata7.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "2.13m",
+      "継数": 1,
+      "標準自重": "157g",
+      "パワー": "ミディアム",
+      "ルアー範囲": "7～28g(1/4～1oz)",
+      "ライン範囲": "10～20lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSS-65L UTスピン",
+    "jan": null,
+    "price": 59000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheUtSpin.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.96m",
+      "継数": 1,
+      "標準自重": "98g",
+      "パワー": "ライト",
+      "ルアー範囲": "0.9～7g(1/32～1/4oz)",
+      "ライン範囲": "3～8lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  },
+  {
+    "item_name": "HCSC-64MＬ ウォレシア",
+    "jan": null,
+    "price": 56000,
+    "url": "https://www.evergreen-fishing.com/goods_list/TheWallacea.html",
+    "product_name": "ヘラクレス",
+    "specs": {
+      "全長": "1.93m",
+      "継数": 1,
+      "標準自重": "94g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "1.8～10.5g(1/16～3/8oz)",
+      "ライン範囲": "6～12lb"
+    },
+    "created_at": "2026-09-03T00:31:40.122176+09:00",
+    "updated_at": "2026-09-03T14:55:38.812202+09:00"
+  }
+]

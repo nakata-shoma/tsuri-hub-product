@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "SS-C551",
+    "jan": null,
+    "price": 49500,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/switch-stick/",
+    "product_name": "スイッチスティック",
+    "specs": {
+      "Length(ft/m)": "5'5\"/1.65m",
+      "継数": 1,
+      "Power": "SUPER ULTRA LIGHT",
+      "Weight": "97g",
+      "Lure(g)": "MAX 160g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:28:08.760427+09:00",
+    "updated_at": "2026-09-03T15:47:59.473151+09:00"
+  },
+  {
+    "item_name": "SS-C552",
+    "jan": null,
+    "price": 48400,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/switch-stick/",
+    "product_name": "スイッチスティック",
+    "specs": {
+      "Length(ft/m)": "5'5\"/1.65m",
+      "継数": 1,
+      "Power": "ULTRA LIGHT",
+      "Weight": "83g",
+      "Lure(g)": "MAX 160g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:28:08.760427+09:00",
+    "updated_at": "2026-09-03T15:47:59.473151+09:00"
+  },
+  {
+    "item_name": "SS-S553",
+    "jan": null,
+    "price": 47850,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/switch-stick/",
+    "product_name": "スイッチスティック",
+    "specs": {
+      "Length(ft/m)": "5'5\"/1.65m",
+      "継数": 1,
+      "Power": "LIGHT",
+      "Weight": "81g",
+      "Lure(g)": "MAX 60g",
+      "Line": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:28:08.760427+09:00",
+    "updated_at": "2026-09-03T15:47:59.473151+09:00"
+  }
+]

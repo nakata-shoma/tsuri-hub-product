@@ -1,0 +1,94 @@
+[
+  {
+    "item_name": "XEGS-832ML",
+    "jan": "036282097094",
+    "product_code": "1557398",
+    "price": 28800,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
+    "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
+    "specs": {
+      "レングス(ft/cm)": "8'3\"/190.5",
+      "ライン定格（Lb）": "Max12",
+      "テーパー/アクション": "RF",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.4 - 1.0",
+      "仕舞寸法(cm)": 129.0,
+      "先径(mm)": 1.35,
+      "材料": "カーボン100%",
+      "製法": "TAF",
+      "エギ(号)": "2 - 3.5"
+    },
+    "created_at": "2026-09-03T00:40:00.022443+09:00",
+    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+  },
+  {
+    "item_name": "XEGS-862M",
+    "jan": "036282097100",
+    "product_code": "1557399",
+    "price": 28800,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
+    "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
+    "specs": {
+      "レングス(ft/cm)": "8'6\"/190.5",
+      "ライン定格（Lb）": "Max16",
+      "テーパー/アクション": "R",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.6 - 1.0",
+      "仕舞寸法(cm)": 132.8,
+      "先径(mm)": 1.4,
+      "材料": "カーボン100%",
+      "製法": "TAF",
+      "エギ(号)": "2.5 - 4"
+    },
+    "created_at": "2026-09-03T00:40:00.022443+09:00",
+    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+  },
+  {
+    "item_name": "XEGS-802UL-ST",
+    "jan": "036282097117",
+    "product_code": "1557400",
+    "price": 28800,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
+    "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
+    "specs": {
+      "レングス(ft/cm)": "8'0\"/190.5",
+      "ライン定格（Lb）": "Max10",
+      "テーパー/アクション": "S",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.4 - 0.8",
+      "仕舞寸法(cm)": 125.1,
+      "先径(mm)": 1.25,
+      "材料": "カーボン100%",
+      "製法": "TAF",
+      "エギ(号)": "1.5 - 3"
+    },
+    "created_at": "2026-09-03T00:40:00.022443+09:00",
+    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+  },
+  {
+    "item_name": "XEGS-882LML-S",
+    "jan": "036282097124",
+    "product_code": "1557401",
+    "price": 28800,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
+    "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
+    "specs": {
+      "レングス(ft/cm)": "8'8\"/190.5",
+      "ライン定格（Lb）": "Max12",
+      "テーパー/アクション": "F",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "0.4 - 0.8",
+      "仕舞寸法(cm)": 135.3,
+      "先径(mm)": 0.9,
+      "材料": "カーボン100%",
+      "製法": "TAF",
+      "エギ(号)": "1.8 - 3"
+    },
+    "created_at": "2026-09-03T00:40:00.022443+09:00",
+    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+  }
+]

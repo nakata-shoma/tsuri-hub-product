@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "KKKC-82/180M",
+    "jan": "036282159785",
+    "product_code": "1660027",
+    "price": 48900,
+    "url": "https://abugarcia.jp/products/kurofune-miyabi-kawahagi",
+    "product_name": "KUROFUNE MIYABI KAWAHAGI（クロフネ　ミヤビ　カワハギ）",
+    "specs": {
+      "レングス(cm)": 180,
+      "調子": "8:2",
+      "継数": "※1",
+      "タイプ": "BC",
+      "PE(号)": "0.6 - 1.2",
+      "仕舞寸法(cm)": 145.8,
+      "先径(mm)": 1.06,
+      "材料": "カーボン100%",
+      "ティップ": "ソリッドティップ",
+      "錘(号)": "15 - 35"
+    },
+    "created_at": "2026-09-03T00:39:41.424402+09:00",
+    "updated_at": "2026-09-03T15:17:11.871067+09:00"
+  },
+  {
+    "item_name": "KKKC-91/180H",
+    "jan": "036282159792",
+    "product_code": "1660028",
+    "price": 49900,
+    "url": "https://abugarcia.jp/products/kurofune-miyabi-kawahagi",
+    "product_name": "KUROFUNE MIYABI KAWAHAGI（クロフネ　ミヤビ　カワハギ）",
+    "specs": {
+      "レングス(cm)": 180,
+      "調子": "9:1",
+      "継数": "※1",
+      "タイプ": "BC",
+      "PE(号)": "0.8 - 1.5",
+      "仕舞寸法(cm)": 145.8,
+      "先径(mm)": 1.1,
+      "材料": "カーボン100%",
+      "ティップ": "ソリッドティップ",
+      "錘(号)": "20 - 40"
+    },
+    "created_at": "2026-09-03T00:39:41.424402+09:00",
+    "updated_at": "2026-09-03T15:17:11.871067+09:00"
+  }
+]

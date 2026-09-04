@@ -1,0 +1,50 @@
+[
+  {
+    "item_name": "BBXS-S66-SLJ+PS",
+    "jan": null,
+    "price": 37400,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_extro_slj2/",
+    "product_name": "BamBluz EXTRO SLJ / バンブルズ エクストロ SLJ",
+    "specs": {
+      "Length(ft/m)": "6'6\"/1.98m",
+      "継数": 1,
+      "Weight": "156g",
+      "Lure(g)": "MAX 100g",
+      "Line": "PE ~ #1.5"
+    },
+    "created_at": "2026-09-03T08:26:29.946559+09:00",
+    "updated_at": "2026-09-03T15:46:09.863506+09:00"
+  },
+  {
+    "item_name": "BBXS-S66-SLJ",
+    "jan": null,
+    "price": 35200,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_extro_slj2/",
+    "product_name": "BamBluz EXTRO SLJ / バンブルズ エクストロ SLJ",
+    "specs": {
+      "Length(ft/m)": "6'6\"/1.98m",
+      "継数": 1,
+      "Weight": "157g",
+      "Lure(g)": "MAX 60g",
+      "Line": "PE ~ #1.2"
+    },
+    "created_at": "2026-09-03T08:26:29.946559+09:00",
+    "updated_at": "2026-09-03T15:46:09.863506+09:00"
+  },
+  {
+    "item_name": "BBXS-C64-SLJ",
+    "jan": null,
+    "price": 35200,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz_extro_slj2/",
+    "product_name": "BamBluz EXTRO SLJ / バンブルズ エクストロ SLJ",
+    "specs": {
+      "Length(ft/m)": "6'4\"/1.93m",
+      "継数": 1,
+      "Weight": "147g",
+      "Lure(g)": "MAX 80g",
+      "Line": "PE ~ #1.5"
+    },
+    "created_at": "2026-09-03T08:26:29.946559+09:00",
+    "updated_at": "2026-09-03T15:46:09.863506+09:00"
+  }
+]

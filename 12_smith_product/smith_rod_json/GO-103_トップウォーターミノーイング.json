@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "GO-103",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/go-103.html",
+    "product_name": "GO-103 トップウォーターミノーイング",
+    "specs": {
+      "length": "6’6”",
+      "pack length": "175cm",
+      "section": "1pcs",
+      "rod weight": "43g",
+      "power": "ライト",
+      "action": "モデレート"
+    },
+    "created_at": "2026-09-03T16:37:26.277733+09:00",
+    "updated_at": "2026-09-03T16:37:26.277733+09:00"
+  },
+  {
+    "item_name": "lure",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/go-103.html",
+    "product_name": "GO-103 トップウォーターミノーイング",
+    "specs": {
+      "length": "line",
+      "pack length": "tip dia",
+      "section": "blank material",
+      "rod weight": "guide",
+      "power": "price¥シングルグリップ（グレー）付",
+      "action": "price¥GO-103/B（グリップなし）"
+    },
+    "created_at": "2026-09-03T16:37:26.277733+09:00",
+    "updated_at": "2026-09-03T16:37:26.277733+09:00"
+  },
+  {
+    "item_name": "5～10g",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/go-103.html",
+    "product_name": "GO-103 トップウォーターミノーイング",
+    "specs": {
+      "length": "6～12Lb.",
+      "pack length": "1.9mm",
+      "section": "カーボン",
+      "rod weight": "FST(top),LNSG",
+      "power": "49,000円+税",
+      "action": "27,000円+税"
+    },
+    "created_at": "2026-09-03T16:37:26.277733+09:00",
+    "updated_at": "2026-09-03T16:37:26.277733+09:00"
+  }
+]

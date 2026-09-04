@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "総塗竿掛　凛　小仕舞２本物",
+    "jan": "4960652992701",
+    "price": 19500,
+    "url": "https://www.daiwa.com/jp/product/6q79afj",
+    "product_name": "総塗り 竿掛・玉ノ柄 凛 (SOUNURI SAOKAKE TAMANOE RIN)",
+    "specs": {
+      "全長（m）": 1.6,
+      "継数": 3,
+      "仕舞寸法（cm）": 84,
+      "標準自重（ｇ）": 142,
+      "竿受／弓受（mm）": "7.5/12.0",
+      "玉枠挿入部（mm）": "―"
+    },
+    "created_at": "2026-04-22T23:31:35.955836+09:00",
+    "updated_at": "2026-09-03T17:27:45.707169+09:00"
+  },
+  {
+    "item_name": "総塗竿掛　凛　２本物",
+    "jan": "4960652992695",
+    "price": 20500,
+    "url": "https://www.daiwa.com/jp/product/6q79afj",
+    "product_name": "総塗り 竿掛・玉ノ柄 凛 (SOUNURI SAOKAKE TAMANOE RIN)",
+    "specs": {
+      "全長（m）": 2.2,
+      "継数": 3,
+      "仕舞寸法（cm）": 115,
+      "標準自重（ｇ）": 210,
+      "竿受／弓受（mm）": "7.5/12.0",
+      "玉枠挿入部（mm）": "―"
+    },
+    "created_at": "2026-04-22T23:31:35.955836+09:00",
+    "updated_at": "2026-09-03T17:27:45.707169+09:00"
+  },
+  {
+    "item_name": "総塗玉ノ柄　凛　１本物",
+    "jan": "4960652992718",
+    "price": 15300,
+    "url": "https://www.daiwa.com/jp/product/6q79afj",
+    "product_name": "総塗り 竿掛・玉ノ柄 凛 (SOUNURI SAOKAKE TAMANOE RIN)",
+    "specs": {
+      "全長（m）": 1.15,
+      "継数": 1,
+      "仕舞寸法（cm）": 115,
+      "標準自重（ｇ）": 134,
+      "竿受／弓受（mm）": "―",
+      "玉枠挿入部（mm）": 12.1
+    },
+    "created_at": "2026-04-22T23:31:35.955836+09:00",
+    "updated_at": "2026-09-03T17:27:45.707169+09:00"
+  }
+]

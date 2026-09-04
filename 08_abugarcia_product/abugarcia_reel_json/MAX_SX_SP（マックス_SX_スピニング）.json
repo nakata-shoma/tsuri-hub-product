@@ -1,0 +1,138 @@
+[
+  {
+    "item_name": "Max SX 750S",
+    "jan": "036282021105",
+    "product_code": "1621902",
+    "price": 7400,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "5.2:1",
+      "最大ドラグ力(kg)": 2.9,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "2lb-75m/PE0.3-90m",
+      "最大ライン巻取 (cm)": 54
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  },
+  {
+    "item_name": "Max SX 1000S",
+    "jan": "036282021860",
+    "product_code": "1621903",
+    "price": 7600,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "5.2:1",
+      "最大ドラグ力(kg)": 2.9,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "2lb-100m/PE0.3-120m",
+      "最大ライン巻取 (cm)": 58
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  },
+  {
+    "item_name": "Max SX 2000SH",
+    "jan": "036282021884",
+    "product_code": "1621904",
+    "price": 7800,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 2.9,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "4lb-100m/PE0.6-100m",
+      "最大ライン巻取 (cm)": 76
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  },
+  {
+    "item_name": "Max SX 2500SH",
+    "jan": "036282021990",
+    "product_code": "1621905",
+    "price": 8000,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 3.2,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "6lb-100m/PE0.8-150m",
+      "最大ライン巻取 (cm)": 83
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  },
+  {
+    "item_name": "Max SX 2500SHD",
+    "jan": "036282022003",
+    "product_code": "1621906",
+    "price": 8400,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 3.2,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "6lb-100m/PE0.8-150m",
+      "最大ライン巻取 (cm)": 83
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  },
+  {
+    "item_name": "Max SX 3000SH",
+    "jan": "036282022027",
+    "product_code": "1621907",
+    "price": 8400,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 6.4,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "6lb-150m/PE1.2-150m",
+      "最大ライン巻取 (cm)": 89
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  },
+  {
+    "item_name": "Max SX 3000H",
+    "jan": "036282022034",
+    "product_code": "1621908",
+    "price": 8400,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "6.2:1",
+      "最大ドラグ力(kg)": 6.4,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "8lb-200m/PE2-160m",
+      "最大ライン巻取 (cm)": 89
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  },
+  {
+    "item_name": "Max SX 4000H",
+    "jan": "036282022072",
+    "product_code": "1621909",
+    "price": 8600,
+    "url": "https://abugarcia.jp/products/max-sx",
+    "product_name": "MAX SX SP（マックス SX スピニング）",
+    "specs": {
+      "ギア比": "5.2:1",
+      "最大ドラグ力(kg)": 6.4,
+      "ボール/ローラーベアリング": "6+1",
+      "PE糸巻量（号-ｍ）": "12lb-180m/PE2-220m",
+      "最大ライン巻取 (cm)": 96
+    },
+    "created_at": "2026-09-03T15:19:17.161813+09:00",
+    "updated_at": "2026-09-03T15:19:17.161813+09:00"
+  }
+]
