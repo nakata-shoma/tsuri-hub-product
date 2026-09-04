@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "SS-60GMH",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-60gmh.html",
+    "product_name": "SS-60GMH リザーバーグラファイトマグナム",
+    "specs": {
+      "length": "6'",
+      "pack length": "159cm",
+      "section": "1pcs",
+      "rod weight": "44g",
+      "power": "ミディアムヘビー",
+      "action": "モデレート"
+    },
+    "created_at": "2026-09-03T16:37:26.547045+09:00",
+    "updated_at": "2026-09-03T16:37:26.547045+09:00"
+  },
+  {
+    "item_name": "lure",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-60gmh.html",
+    "product_name": "SS-60GMH リザーバーグラファイトマグナム",
+    "specs": {
+      "length": "line",
+      "pack length": "tip dia",
+      "section": "blank material",
+      "rod weight": "guide",
+      "power": "price¥シングルグリップ（ガンメタリック）付",
+      "action": "price¥SS-60GMH/B（グリップなし）"
+    },
+    "created_at": "2026-09-03T16:37:26.547045+09:00",
+    "updated_at": "2026-09-03T16:37:26.547045+09:00"
+  },
+  {
+    "item_name": "12～28g",
+    "jan": null,
+    "price": null,
+    "url": "https://www.smith.jp/superstrike/product/ss-60gmh.html",
+    "product_name": "SS-60GMH リザーバーグラファイトマグナム",
+    "specs": {
+      "length": "12～24Lb.",
+      "pack length": "1.9mm",
+      "section": "カーボン",
+      "rod weight": "T-KGST(top),T-KWSG",
+      "power": "53,000円+税",
+      "action": "31,000円+税"
+    },
+    "created_at": "2026-09-03T16:37:26.547045+09:00",
+    "updated_at": "2026-09-03T16:37:26.547045+09:00"
+  }
+]

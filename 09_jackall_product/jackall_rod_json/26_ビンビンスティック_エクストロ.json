@@ -1,0 +1,70 @@
+[
+  {
+    "item_name": "BSX-C511UL",
+    "jan": null,
+    "price": 58300,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-extro/",
+    "product_name": "26 ビンビンスティック エクストロ",
+    "specs": {
+      "Length(ft/m)": "5'11\"/1.80m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "118g",
+      "Power": "ULTRA LIGHT",
+      "Lure Weight": "MAX 250g",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:26:15.812588+09:00",
+    "updated_at": "2026-09-03T15:45:53.155728+09:00"
+  },
+  {
+    "item_name": "BSX-C69L",
+    "jan": null,
+    "price": 60500,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-extro/",
+    "product_name": "26 ビンビンスティック エクストロ",
+    "specs": {
+      "Length(ft/m)": "6'9\"/2.06m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "123g",
+      "Power": "LIGHT",
+      "Lure Weight": "MAX 250g",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:26:15.812588+09:00",
+    "updated_at": "2026-09-03T15:45:53.155728+09:00"
+  },
+  {
+    "item_name": "BSX-C63ML",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-extro/",
+    "product_name": "26 ビンビンスティック エクストロ",
+    "specs": {
+      "Length(ft/m)": "6'3\"/1.91m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "126g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "MAX 300g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:26:15.812588+09:00",
+    "updated_at": "2026-09-03T15:45:53.155728+09:00"
+  },
+  {
+    "item_name": "BSX-C67M",
+    "jan": null,
+    "price": 60500,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/26-bin-bin-stick-extro/",
+    "product_name": "26 ビンビンスティック エクストロ",
+    "specs": {
+      "Length(ft/m)": "6'7\"/2.01m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "132g",
+      "Power": "MEDIUM",
+      "Lure Weight": "MAX 300g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:26:15.812588+09:00",
+    "updated_at": "2026-09-03T15:45:53.155728+09:00"
+  }
+]

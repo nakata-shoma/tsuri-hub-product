@@ -1,0 +1,70 @@
+[
+  {
+    "item_name": "SPX-832MLW",
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "specs": {
+      "": "",
+      "Model": "SPX-832MLW",
+      "全長": "8'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 17g",
+      "PEライン": "0.4 - 1.2号",
+      "アクション": "RF",
+      "JAN (4573236)": 271538,
+      "PRICE": "¥9000(税込 ¥9900)"
+    },
+    "created_at": "2026-04-27T17:51:18.518472+09:00",
+    "updated_at": "2026-04-27T17:51:18.518472+09:00"
+  },
+  {
+    "item_name": "SPX-832MW",
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "specs": {
+      "": "",
+      "Model": "SPX-832MW",
+      "全長": "8'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 21g",
+      "PEライン": "0.6 - 1.5号",
+      "アクション": "RF",
+      "JAN (4573236)": 271545,
+      "PRICE": "¥9000(税込 ¥9900)"
+    },
+    "created_at": "2026-04-27T17:51:18.518472+09:00",
+    "updated_at": "2026-04-27T17:51:18.518472+09:00"
+  },
+  {
+    "item_name": "SPX-862MW",
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "specs": {
+      "": "",
+      "Model": "SPX-862MW",
+      "全長": "8'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 21g",
+      "PEライン": "0.6 - 1.5号",
+      "アクション": "RF",
+      "JAN (4573236)": 271552,
+      "PRICE": "¥9200(税込 ¥10120)"
+    },
+    "created_at": "2026-04-27T17:51:18.518472+09:00",
+    "updated_at": "2026-04-27T17:51:18.518472+09:00"
+  },
+  {
+    "item_name": "SPX-862MHW",
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "specs": {
+      "": "",
+      "Model": "SPX-862MHW",
+      "全長": "8'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 28g",
+      "PEライン": "0.6 - 1.5号",
+      "アクション": "RF",
+      "JAN (4573236)": 271569,
+      "PRICE": "¥9400(税込 ¥10340)"
+    },
+    "created_at": "2026-04-27T17:51:18.518472+09:00",
+    "updated_at": "2026-04-27T17:51:18.518472+09:00"
+  }
+]

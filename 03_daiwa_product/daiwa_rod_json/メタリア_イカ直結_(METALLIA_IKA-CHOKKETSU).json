@@ -4,6 +4,7 @@
     "jan": "4960652227148",
     "price": 47000,
     "url": "https://www.daiwa.com/jp/product/yl4ff4s",
+    "product_name": "メタリア イカ直結 (METALLIA IKA-CHOKKETSU)",
     "specs": {
       "全長（m）": 1.5,
       "継数": 1,
@@ -15,6 +16,6 @@
       "適合クランプサイズ": "S"
     },
     "created_at": "2026-04-22T23:35:29.837458+09:00",
-    "updated_at": "2026-04-22T23:35:29.837458+09:00"
+    "updated_at": "2026-09-03T17:27:49.672360+09:00"
   }
 ]

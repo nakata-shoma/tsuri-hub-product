@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "GRVC-LCT60ML",
+    "jan": null,
+    "price": 40000,
+    "url": "https://www.smith.jp/product/salt/gravitation/gravitation.html",
+    "product_name": "グラビテーション",
+    "specs": {
+      "length": "6'",
+      "weight": "140g",
+      "lure": "〜100g（キャスト時〜60g）",
+      "line": "PE0.6〜1",
+      "power": "Med.Light",
+      "action": "ModerateFast",
+      "griplength": "500mm",
+      "packlength": "141.5cm",
+      "blankmaterial": "24tgraphite",
+      "tip dia": "1.9mm"
+    },
+    "created_at": "2026-09-03T16:37:17.982813+09:00",
+    "updated_at": "2026-09-03T16:37:17.982813+09:00"
+  },
+  {
+    "item_name": "GRVC-TRS69M",
+    "jan": null,
+    "price": 42000,
+    "url": "https://www.smith.jp/product/salt/gravitation/gravitation.html",
+    "product_name": "グラビテーション",
+    "specs": {
+      "length": "6'9\"",
+      "weight": "155g",
+      "lure": "〜150g",
+      "line": "PE0.6〜1",
+      "power": "Medium",
+      "action": "Ex.Fast",
+      "griplength": "500mm",
+      "packlength": "164.5cm",
+      "blankmaterial": "24t graphite（フルソリッド）",
+      "tip dia": "1.0mm"
+    },
+    "created_at": "2026-09-03T16:37:17.982813+09:00",
+    "updated_at": "2026-09-03T16:37:17.982813+09:00"
+  },
+  {
+    "item_name": "GRVS-VAS64M",
+    "jan": null,
+    "price": 43000,
+    "url": "https://www.smith.jp/product/salt/gravitation/gravitation.html",
+    "product_name": "グラビテーション",
+    "specs": {
+      "length": "6'4\"",
+      "weight": "140g",
+      "lure": "〜250g（キャスト時〜100g）",
+      "line": "PE0.6〜1",
+      "power": "Medium",
+      "action": "Moderate",
+      "griplength": "440mm",
+      "packlength": "152cm",
+      "blankmaterial": "24t graphite（フルソリッド）",
+      "tip dia": "1.4mm"
+    },
+    "created_at": "2026-09-03T16:37:17.982813+09:00",
+    "updated_at": "2026-09-03T16:37:17.982813+09:00"
+  }
+]

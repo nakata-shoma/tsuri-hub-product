@@ -1,13 +1,11 @@
-import csv
-import json
 import os
 import re
-import requests
-from bs4 import BeautifulSoup
-from datetime import datetime, timedelta, timezone
+import sys
+from pathlib import Path
 
-JST = timezone(timedelta(hours=9))
-now_jst = datetime.now(JST).isoformat()
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from common.scraper_utils import get_soup, read_urls_csv, sanitize_filename, save_json, to_number  # noqa: E402
 
 REEL_INPUT_CSV = "./03_daiwa_product/daiwa_urls/daiwa_products_reel.csv"
 ROD_INPUT_CSV = "./03_daiwa_product/daiwa_urls/daiwa_products_rod.csv"
@@ -16,26 +14,6 @@ ROD_OUTPUT_DIR = "./03_daiwa_product/daiwa_rod_json"
 
 os.makedirs(ROD_OUTPUT_DIR, exist_ok=True)
 os.makedirs(REEL_OUTPUT_DIR, exist_ok=True)
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
-
-def get_soup(url):
-    res = requests.get(url, headers=HEADERS)
-    res.raise_for_status()
-    return BeautifulSoup(res.text, "html.parser")
-
-def to_number(value):
-    if value is None:
-        return None
-    v = value.replace(",", "")
-    try:
-        if "." in v:
-            return float(v)
-        return int(v)
-    except ValueError:
-        return value
 
 def find_price_key(raw_dict):
     pattern = re.compile(r"価格")
@@ -63,15 +41,12 @@ def extract_product_name(soup):
         return f"{jp_name} ({en_name})"
     return jp_name
 
-def sanitize_filename(name):
-    name = re.sub(r'[\\/:*?"<>|]', '_', name)
-    name = name.replace(" ", "_").replace("　", "_")
-    return name
-
-def parse_multi_spec_table(soup, url):
+def parse_multi_spec_table(soup, url, product_name):
+    # 見出しは基本「製品スペック」だが、一部製品ページ（例: dg8tkt6）では「スペック概要」表記
     h2 = None
     for tag in soup.select("h2.font_Midashi"):
-        if "製品スペック" in tag.get_text(strip=True):
+        text = tag.get_text(strip=True)
+        if "製品スペック" in text or "スペック概要" in text:
             h2 = tag
             break
 
@@ -118,6 +93,7 @@ def parse_multi_spec_table(soup, url):
             "jan": jan,
             "price": price,
             "url": url,
+            "product_name": product_name,
             "specs": specs,
         }
 
@@ -125,40 +101,16 @@ def parse_multi_spec_table(soup, url):
 
     return products
 
-def save_json(filepath, data):
-    """
-    created_at は初回だけ保持し、updated_at は毎回更新する
-    """
-    now = datetime.now(JST).isoformat()
-
-    if os.path.exists(filepath):
-        with open(filepath, "r", encoding="utf-8") as f:
-            old = json.load(f)
-
-        for i in range(len(data)):
-            if i < len(old) and "created_at" in old[i]:
-                data[i]["created_at"] = old[i]["created_at"]
-            else:
-                data[i]["created_at"] = now
-
-            data[i]["updated_at"] = now
-
-    else:
-        for item in data:
-            item["created_at"] = now
-            item["updated_at"] = now
-
-    with open(filepath, "w", encoding="utf-8") as jf:
-        json.dump(data, jf, ensure_ascii=False, indent=2)
-
 def process_csv(input_csv, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
-    with open(input_csv, newline="", encoding="utf-8") as f:
-        reader = csv.reader(f)
-        urls = [row[0] for row in reader]
+    # product_name（表示名）が異なるURL間で偶然一致するケースがある
+    # （例: HRF® SXの通常仕様とGR仕様は別ページだがh1が同一）。
+    # URLごとに毎回save_jsonすると後勝ちで前のURLのアイテムが消えるため、
+    # 同一product_nameのアイテムを全URL分集約してから1回だけ保存する。
+    groups = {}
 
-    for url in urls:
+    for url in read_urls_csv(input_csv):
         print(f"解析中: {url}")
         soup = get_soup(url)
 
@@ -168,21 +120,21 @@ def process_csv(input_csv, output_dir):
             print("  → 製品名なし（スキップ）")
             continue
 
-        safe_name = sanitize_filename(product_name)
-
-        table_data = parse_multi_spec_table(soup, url)
+        table_data = parse_multi_spec_table(soup, url, product_name)
         if not table_data:
             print("  → テーブルなし")
             continue
 
+        groups.setdefault(product_name, []).extend(table_data)
+
+    for product_name, items in groups.items():
+        safe_name = sanitize_filename(product_name)
         filepath = os.path.join(output_dir, safe_name + ".json")
-
-        save_json(filepath, table_data)
-
-        print(f"  → 保存: {filepath}")
+        save_json(filepath, items)
+        print(f"保存: {filepath}（{len(items)}件）")
 
 def main():
-    # process_csv(REEL_INPUT_CSV, REEL_OUTPUT_DIR)
+    process_csv(REEL_INPUT_CSV, REEL_OUTPUT_DIR)
     process_csv(ROD_INPUT_CSV, ROD_OUTPUT_DIR)
 
 if __name__ == "__main__":

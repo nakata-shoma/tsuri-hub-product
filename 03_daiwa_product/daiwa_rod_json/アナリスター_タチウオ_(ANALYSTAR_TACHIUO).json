@@ -4,6 +4,7 @@
     "jan": "4550133070068",
     "price": 31500,
     "url": "https://www.daiwa.com/jp/product/1yb4ie3",
+    "product_name": "アナリスター タチウオ (ANALYSTAR TACHIUO)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -16,13 +17,14 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:31:01.421152+09:00",
-    "updated_at": "2026-04-22T23:31:01.421152+09:00"
+    "updated_at": "2026-09-03T17:27:45.121944+09:00"
   },
   {
     "item_name": "アナリスタータチウオ　Ｍ－１８０・Ｒ",
     "jan": "4550133070075",
     "price": 32000,
     "url": "https://www.daiwa.com/jp/product/1yb4ie3",
+    "product_name": "アナリスター タチウオ (ANALYSTAR TACHIUO)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -35,13 +37,14 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:31:01.421152+09:00",
-    "updated_at": "2026-04-22T23:31:01.421152+09:00"
+    "updated_at": "2026-09-03T17:27:45.121944+09:00"
   },
   {
     "item_name": "アナリスタータチウオ　ＭＨ－１８０・Ｒ",
     "jan": "4550133070082",
     "price": 32500,
     "url": "https://www.daiwa.com/jp/product/1yb4ie3",
+    "product_name": "アナリスター タチウオ (ANALYSTAR TACHIUO)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -54,6 +57,6 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:31:01.421152+09:00",
-    "updated_at": "2026-04-22T23:31:01.421152+09:00"
+    "updated_at": "2026-09-03T17:27:45.121944+09:00"
   }
 ]

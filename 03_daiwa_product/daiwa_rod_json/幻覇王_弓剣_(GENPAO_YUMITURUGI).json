@@ -4,6 +4,7 @@
     "jan": "4960652322133",
     "price": 94500,
     "url": "https://www.daiwa.com/jp/product/uypezyr",
+    "product_name": "幻覇王 弓剣 (GENPAO YUMITURUGI)",
     "specs": {
       "全長（m）": 5.4,
       "継数": 4,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.163817+09:00",
-    "updated_at": "2026-04-22T23:35:01.163817+09:00"
+    "updated_at": "2026-09-03T17:27:49.075577+09:00"
   },
   {
     "item_name": "幻覇王　弓剣　ライトクエ　４８４",
     "jan": "4550133069444",
     "price": 123500,
     "url": "https://www.daiwa.com/jp/product/uypezyr",
+    "product_name": "幻覇王 弓剣 (GENPAO YUMITURUGI)",
     "specs": {
       "全長（m）": 4.8,
       "継数": 4,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.163817+09:00",
-    "updated_at": "2026-04-22T23:35:01.163817+09:00"
+    "updated_at": "2026-09-03T17:27:49.075577+09:00"
   },
   {
     "item_name": "幻覇王　弓剣手持ち　４９４",
     "jan": "4960652247221",
     "price": 85000,
     "url": "https://www.daiwa.com/jp/product/uypezyr",
+    "product_name": "幻覇王 弓剣 (GENPAO YUMITURUGI)",
     "specs": {
       "全長（m）": 4.9,
       "継数": 4,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.163817+09:00",
-    "updated_at": "2026-04-22T23:35:01.163817+09:00"
+    "updated_at": "2026-09-03T17:27:49.075577+09:00"
   },
   {
     "item_name": "幻覇王　弓剣　５２４",
     "jan": "4960652247238",
     "price": 87500,
     "url": "https://www.daiwa.com/jp/product/uypezyr",
+    "product_name": "幻覇王 弓剣 (GENPAO YUMITURUGI)",
     "specs": {
       "全長（m）": 5.2,
       "継数": 4,
@@ -73,6 +77,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.163817+09:00",
-    "updated_at": "2026-04-22T23:35:01.163817+09:00"
+    "updated_at": "2026-09-03T17:27:49.075577+09:00"
   }
 ]

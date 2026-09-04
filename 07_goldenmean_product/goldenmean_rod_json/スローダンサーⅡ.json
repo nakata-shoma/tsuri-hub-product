@@ -1,0 +1,114 @@
+[
+  {
+    "item_name": "SLC-60L-Ⅱ",
+    "jan": null,
+    "price": 17100,
+    "url": "https://www.golden-mean.co.jp/item/rod/slowdancer2/",
+    "product_name": "スローダンサーⅡ",
+    "specs": {
+      "Length(ft.)": "6’0”",
+      "Power": "Light",
+      "Lure Weight(oz.)": "2〜3",
+      "PE Line (号)": "0.8〜1.5",
+      "Rod Weight (g)": 153
+    },
+    "created_at": "2026-09-03T00:35:09.330299+09:00",
+    "updated_at": "2026-09-03T16:37:18.592971+09:00"
+  },
+  {
+    "item_name": "SLC-63ML-Ⅱ",
+    "jan": null,
+    "price": 19300,
+    "url": "https://www.golden-mean.co.jp/item/rod/slowdancer2/",
+    "product_name": "スローダンサーⅡ",
+    "specs": {
+      "Length(ft.)": "6’3”",
+      "Power": "M-Light",
+      "Lure Weight(oz.)": "2〜4",
+      "PE Line (号)": "0.8〜1.5",
+      "Rod Weight (g)": 159
+    },
+    "created_at": "2026-09-03T00:35:09.330299+09:00",
+    "updated_at": "2026-09-03T16:37:18.592971+09:00"
+  },
+  {
+    "item_name": "SLC-63M-Ⅱ",
+    "jan": null,
+    "price": 19600,
+    "url": "https://www.golden-mean.co.jp/item/rod/slowdancer2/",
+    "product_name": "スローダンサーⅡ",
+    "specs": {
+      "Length(ft.)": "6’3”",
+      "Power": "Medium",
+      "Lure Weight(oz.)": "4〜5",
+      "PE Line (号)": "1〜2",
+      "Rod Weight (g)": 160
+    },
+    "created_at": "2026-09-03T00:35:09.330299+09:00",
+    "updated_at": "2026-09-03T16:37:18.592971+09:00"
+  },
+  {
+    "item_name": "SLC-68ML-Ⅱ",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.golden-mean.co.jp/item/rod/slowdancer2/",
+    "product_name": "スローダンサーⅡ",
+    "specs": {
+      "Length(ft.)": "6’8”",
+      "Power": "M-Light",
+      "Lure Weight(oz.)": "2〜4",
+      "PE Line (号)": "0.8〜1.5",
+      "Rod Weight (g)": 160
+    },
+    "created_at": "2026-09-03T00:35:09.330299+09:00",
+    "updated_at": "2026-09-03T16:37:18.592971+09:00"
+  },
+  {
+    "item_name": "SLS-60L-Ⅱ",
+    "jan": null,
+    "price": 18200,
+    "url": "https://www.golden-mean.co.jp/item/rod/slowdancer2/",
+    "product_name": "スローダンサーⅡ",
+    "specs": {
+      "Length(ft.)": "6’0”",
+      "Power": "Light",
+      "Lure Weight(oz.)": "2〜3",
+      "PE Line (号)": "0.8〜1.5",
+      "Rod Weight (g)": 155
+    },
+    "created_at": "2026-09-03T00:35:09.330299+09:00",
+    "updated_at": "2026-09-03T16:37:18.592971+09:00"
+  },
+  {
+    "item_name": "SLS-64L-Ⅱ",
+    "jan": null,
+    "price": 19300,
+    "url": "https://www.golden-mean.co.jp/item/rod/slowdancer2/",
+    "product_name": "スローダンサーⅡ",
+    "specs": {
+      "Length(ft.)": "6’4”",
+      "Power": "Light",
+      "Lure Weight(oz.)": "2〜3",
+      "PE Line (号)": "0.8〜1.5",
+      "Rod Weight (g)": 169
+    },
+    "created_at": "2026-09-03T00:35:09.330299+09:00",
+    "updated_at": "2026-09-03T16:37:18.592971+09:00"
+  },
+  {
+    "item_name": "SLS-74-Ⅱ Light Cast",
+    "jan": null,
+    "price": 19800,
+    "url": "https://www.golden-mean.co.jp/item/rod/slowdancer2/",
+    "product_name": "スローダンサーⅡ",
+    "specs": {
+      "Length(ft.)": "7’4”",
+      "Power": "Light",
+      "Lure Weight(oz.)": "1〜2",
+      "PE Line (号)": "0.8〜1.5",
+      "Rod Weight (g)": 132
+    },
+    "created_at": "2026-09-03T00:35:09.330299+09:00",
+    "updated_at": "2026-09-03T16:37:18.592971+09:00"
+  }
+]

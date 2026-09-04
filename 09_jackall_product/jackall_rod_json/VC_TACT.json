@@ -1,0 +1,92 @@
+[
+  {
+    "item_name": "VT-S68MH",
+    "jan": null,
+    "price": 32780,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/vc-tact/",
+    "product_name": "VC TACT",
+    "specs": {
+      "Length": "6'8\"",
+      "継数": "2pcs",
+      "Weight": "ー",
+      "Power": "MEDIUM HEAVY/SOLID TIP",
+      "Action": "Regular fast",
+      "Lure Weight": "Rig MAX 150g (40号)",
+      "Line": "PE MAX #0.8"
+    },
+    "created_at": "2026-09-03T08:28:22.307838+09:00",
+    "updated_at": "2026-09-03T15:48:16.433563+09:00"
+  },
+  {
+    "item_name": "VT-C66MH",
+    "jan": null,
+    "price": 32780,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/vc-tact/",
+    "product_name": "VC TACT",
+    "specs": {
+      "Length": "6'6\"",
+      "継数": "2pcs",
+      "Weight": "ー",
+      "Power": "MEDIUM HEAVY/SOLID TIP",
+      "Action": "Regular fast",
+      "Lure Weight": "Rig MAX 190g (50号)",
+      "Line": "PE MAX #0.8"
+    },
+    "created_at": "2026-09-03T08:28:22.307838+09:00",
+    "updated_at": "2026-09-03T15:48:16.433563+09:00"
+  },
+  {
+    "item_name": "VT-S66UL",
+    "jan": null,
+    "price": 31900,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/vc-tact/",
+    "product_name": "VC TACT",
+    "specs": {
+      "Length": "6'6\"",
+      "継数": "2pcs",
+      "Weight": "78g",
+      "Power": "ULTRA LIGHT/SOLID TIP",
+      "Action": "ー",
+      "Lure Weight": "Rig MAX 60g (15号)",
+      "Line": "PE MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:28:22.307838+09:00",
+    "updated_at": "2026-09-03T15:48:16.433563+09:00"
+  },
+  {
+    "item_name": "VT-S66L",
+    "jan": null,
+    "price": 31900,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/vc-tact/",
+    "product_name": "VC TACT",
+    "specs": {
+      "Length": "6'6\"",
+      "継数": "2pcs",
+      "Weight": "78g",
+      "Power": "LIGHT/SOLID TIP",
+      "Action": "ー",
+      "Lure Weight": "Rig MAX 80g (20号)",
+      "Line": "PE MAX #0.6"
+    },
+    "created_at": "2026-09-03T08:28:22.307838+09:00",
+    "updated_at": "2026-09-03T15:48:16.433563+09:00"
+  },
+  {
+    "item_name": "VT-C66ML",
+    "jan": null,
+    "price": 31900,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/vc-tact/",
+    "product_name": "VC TACT",
+    "specs": {
+      "Length": "6'6\"",
+      "継数": "2pcs",
+      "Weight": "94g",
+      "Power": "MEDIUM LIGHT/SOLID TIP",
+      "Action": "ー",
+      "Lure Weight": "Rig MAX 100g (25号)",
+      "Line": "PE MAX #0.6"
+    },
+    "created_at": "2026-09-03T08:28:22.307838+09:00",
+    "updated_at": "2026-09-03T15:48:16.433563+09:00"
+  }
+]

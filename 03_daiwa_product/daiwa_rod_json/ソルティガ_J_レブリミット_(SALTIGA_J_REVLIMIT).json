@@ -4,6 +4,7 @@
     "jan": "4550133339165",
     "price": 77500,
     "url": "https://www.daiwa.com/jp/product/xwjucba",
+    "product_name": "ソルティガ J レブリミット (SALTIGA J REVLIMIT)",
     "specs": {
       "全長（m）": 1.63,
       "継数": 1,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:23.331174+09:00",
-    "updated_at": "2026-04-22T23:35:23.331174+09:00"
+    "updated_at": "2026-09-03T17:27:49.517941+09:00"
   },
   {
     "item_name": "ソルティガ　Ｊ　レブリミット　５４Ｂ－６",
     "jan": "4550133339172",
     "price": 78500,
     "url": "https://www.daiwa.com/jp/product/xwjucba",
+    "product_name": "ソルティガ J レブリミット (SALTIGA J REVLIMIT)",
     "specs": {
       "全長（m）": 1.63,
       "継数": 1,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:23.331174+09:00",
-    "updated_at": "2026-04-22T23:35:23.331174+09:00"
+    "updated_at": "2026-09-03T17:27:49.517941+09:00"
   },
   {
     "item_name": "ソルティガ　Ｊ　レブリミット　５４Ｂ－８",
     "jan": "4550133339189",
     "price": 79500,
     "url": "https://www.daiwa.com/jp/product/xwjucba",
+    "product_name": "ソルティガ J レブリミット (SALTIGA J REVLIMIT)",
     "specs": {
       "全長（m）": 1.63,
       "継数": 1,
@@ -54,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:23.331174+09:00",
-    "updated_at": "2026-04-22T23:35:23.331174+09:00"
+    "updated_at": "2026-09-03T17:27:49.517941+09:00"
   }
 ]

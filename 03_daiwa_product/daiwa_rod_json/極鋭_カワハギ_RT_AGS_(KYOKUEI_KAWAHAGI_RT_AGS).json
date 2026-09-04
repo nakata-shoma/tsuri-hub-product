@@ -4,6 +4,7 @@
     "jan": "4960652312721",
     "price": 69000,
     "url": "https://www.daiwa.com/jp/product/12t3pnm",
+    "product_name": "極鋭 カワハギ RT AGS (KYOKUEI KAWAHAGI RT AGS)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 1,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:30:50.949723+09:00",
-    "updated_at": "2026-04-22T23:30:50.949723+09:00"
+    "updated_at": "2026-09-03T17:27:44.982502+09:00"
   },
   {
     "item_name": "極鋭カワハギＲＴ　ＡＧＳ　Ｎ－ＳＦ",
     "jan": "4550133069642",
     "price": 69000,
     "url": "https://www.daiwa.com/jp/product/12t3pnm",
+    "product_name": "極鋭 カワハギ RT AGS (KYOKUEI KAWAHAGI RT AGS)",
     "specs": {
       "全長（m）": 1.76,
       "継数": 1,
@@ -33,13 +35,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:30:50.949723+09:00",
-    "updated_at": "2026-04-22T23:30:50.949723+09:00"
+    "updated_at": "2026-09-03T17:27:44.982502+09:00"
   },
   {
     "item_name": "極鋭カワハギＲＴ　ＡＧＳ　Ｎ－ＭＣ",
     "jan": "4550133337819",
     "price": 69500,
     "url": "https://www.daiwa.com/jp/product/12t3pnm",
+    "product_name": "極鋭 カワハギ RT AGS (KYOKUEI KAWAHAGI RT AGS)",
     "specs": {
       "全長（m）": 1.78,
       "継数": 1,
@@ -51,13 +54,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:30:50.949723+09:00",
-    "updated_at": "2026-04-22T23:30:50.949723+09:00"
+    "updated_at": "2026-09-03T17:27:44.982502+09:00"
   },
   {
     "item_name": "極鋭カワハギＲＴ　ＡＧＳ　ＢＯＴＴＯＭ－２",
     "jan": "4550133546150",
     "price": 70000,
     "url": "https://www.daiwa.com/jp/product/12t3pnm",
+    "product_name": "極鋭 カワハギ RT AGS (KYOKUEI KAWAHAGI RT AGS)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -69,6 +73,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:30:50.949723+09:00",
-    "updated_at": "2026-04-22T23:30:50.949723+09:00"
+    "updated_at": "2026-09-03T17:27:44.982502+09:00"
   }
 ]

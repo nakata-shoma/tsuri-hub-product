@@ -4,6 +4,7 @@
     "jan": "4550133545917",
     "price": 88500,
     "url": "https://www.daiwa.com/jp/product/fizvj0z",
+    "product_name": "紅牙テンヤゲームEX (KOHGA TENYA GAME EX)",
     "specs": {
       "全長（m）": 2.36,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:55.966556+09:00",
-    "updated_at": "2026-04-22T23:32:55.966556+09:00"
+    "updated_at": "2026-09-03T17:27:46.986468+09:00"
   },
   {
     "item_name": "紅牙テンヤゲームＥＸ　ＭＨ－２３２・Ｊ",
     "jan": "4550133545986",
     "price": 87500,
     "url": "https://www.daiwa.com/jp/product/fizvj0z",
+    "product_name": "紅牙テンヤゲームEX (KOHGA TENYA GAME EX)",
     "specs": {
       "全長（m）": 2.32,
       "継数": 2,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:55.966556+09:00",
-    "updated_at": "2026-04-22T23:32:55.966556+09:00"
+    "updated_at": "2026-09-03T17:27:46.986468+09:00"
   },
   {
     "item_name": "紅牙テンヤゲームＥＸ　Ｈ－２１４・Ｊ",
     "jan": "4550133546112",
     "price": 87500,
     "url": "https://www.daiwa.com/jp/product/fizvj0z",
+    "product_name": "紅牙テンヤゲームEX (KOHGA TENYA GAME EX)",
     "specs": {
       "全長（m）": 2.14,
       "継数": 2,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:55.966556+09:00",
-    "updated_at": "2026-04-22T23:32:55.966556+09:00"
+    "updated_at": "2026-09-03T17:27:46.986468+09:00"
   },
   {
     "item_name": "紅牙テンヤゲームＥＸ　Ｈ－２３０ＳＭＴ・Ｊ",
     "jan": "4550133618642",
     "price": 88500,
     "url": "https://www.daiwa.com/jp/product/fizvj0z",
+    "product_name": "紅牙テンヤゲームEX (KOHGA TENYA GAME EX)",
     "specs": {
       "全長（m）": 2.3,
       "継数": 2,
@@ -73,6 +77,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:55.966556+09:00",
-    "updated_at": "2026-04-22T23:32:55.966556+09:00"
+    "updated_at": "2026-09-03T17:27:46.986468+09:00"
   }
 ]

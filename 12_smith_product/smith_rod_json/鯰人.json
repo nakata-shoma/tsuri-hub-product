@@ -1,0 +1,102 @@
+[
+  {
+    "item_name": "DNAZ-66M",
+    "jan": null,
+    "price": 38000,
+    "url": "https://www.smith.jp/product/catfish/namanchu/namanchu.html",
+    "product_name": "鯰人",
+    "specs": {
+      "length": "6'6\"",
+      "weight": "159g",
+      "power": "Medium",
+      "action": "Fast",
+      "lure": "〜7/8oz",
+      "line": "〜25lb.PE#3~5",
+      "griplength": "385mm",
+      "packlength": "198cm",
+      "tip dia": "2.3mm"
+    },
+    "created_at": "2026-09-03T16:37:10.032578+09:00",
+    "updated_at": "2026-09-03T16:37:10.032578+09:00"
+  },
+  {
+    "item_name": "DNAZ-69M",
+    "jan": null,
+    "price": 40000,
+    "url": "https://www.smith.jp/product/catfish/namanchu/namanchu.html",
+    "product_name": "鯰人",
+    "specs": {
+      "length": "6'9\"",
+      "weight": "167g",
+      "power": "Medium",
+      "action": "Fast",
+      "lure": "7/8oz",
+      "line": "〜25lb.PE#3~5",
+      "griplength": "400mm",
+      "packlength": "175.7cm",
+      "tip dia": "2.3mm"
+    },
+    "created_at": "2026-09-03T16:37:10.032578+09:00",
+    "updated_at": "2026-09-03T16:37:10.032578+09:00"
+  },
+  {
+    "item_name": "DNAZ-T71MH",
+    "jan": null,
+    "price": 42000,
+    "url": "https://www.smith.jp/product/catfish/namanchu/namanchu.html",
+    "product_name": "鯰人",
+    "specs": {
+      "length": "7'1\"",
+      "weight": "167g",
+      "power": "Medium Heavy",
+      "action": "Fast",
+      "lure": "〜1-1/4oz",
+      "line": "〜30lb.PE#3~5",
+      "griplength": "400mm",
+      "packlength": "192cm",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:10.032578+09:00",
+    "updated_at": "2026-09-03T16:37:10.032578+09:00"
+  },
+  {
+    "item_name": "DNAZ-67M-2",
+    "jan": null,
+    "price": 39000,
+    "url": "https://www.smith.jp/product/catfish/namanchu/namanchu.html",
+    "product_name": "鯰人",
+    "specs": {
+      "length": "6'7\"",
+      "weight": "196g",
+      "power": "Medium",
+      "action": "Moderate Fast",
+      "lure": "〜7/8oz",
+      "line": "〜25lb.",
+      "griplength": "385mm",
+      "packlength": "104cm",
+      "tip dia": "1.9mm"
+    },
+    "created_at": "2026-09-03T16:37:10.032578+09:00",
+    "updated_at": "2026-09-03T16:37:10.032578+09:00"
+  },
+  {
+    "item_name": "DNAZ-S67ML-2",
+    "jan": null,
+    "price": 39000,
+    "url": "https://www.smith.jp/product/catfish/namanchu/namanchu.html",
+    "product_name": "鯰人",
+    "specs": {
+      "length": "6'7\"",
+      "weight": "135g",
+      "power": "Medium Light",
+      "action": "Fast",
+      "lure": "〜5/8oz",
+      "line": "〜16lb.PE#1.5~3",
+      "griplength": "357mm",
+      "packlength": "104cm",
+      "tip dia": "1.9mm"
+    },
+    "created_at": "2026-09-03T16:37:10.032578+09:00",
+    "updated_at": "2026-09-03T16:37:10.032578+09:00"
+  }
+]

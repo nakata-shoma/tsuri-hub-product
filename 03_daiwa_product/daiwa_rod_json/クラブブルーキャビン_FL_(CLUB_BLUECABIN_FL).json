@@ -4,6 +4,7 @@
     "jan": "4550133341304",
     "price": 57000,
     "url": "https://www.daiwa.com/jp/product/fwy6eat",
+    "product_name": "クラブブルーキャビン FL (CLUB BLUECABIN FL)",
     "specs": {
       "全長（m）": 3,
       "継数": 3,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 92
     },
     "created_at": "2026-04-22T23:32:58.869883+09:00",
-    "updated_at": "2026-04-22T23:32:58.869883+09:00"
+    "updated_at": "2026-09-03T17:27:47.152597+09:00"
   },
   {
     "item_name": "クラブブルーキャビンＦＬ　Ｓ－３５０・Ｋ",
     "jan": "4550133341311",
     "price": 58000,
     "url": "https://www.daiwa.com/jp/product/fwy6eat",
+    "product_name": "クラブブルーキャビン FL (CLUB BLUECABIN FL)",
     "specs": {
       "全長（m）": 3.5,
       "継数": 3,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 93
     },
     "created_at": "2026-04-22T23:32:58.869883+09:00",
-    "updated_at": "2026-04-22T23:32:58.869883+09:00"
+    "updated_at": "2026-09-03T17:27:47.152597+09:00"
   },
   {
     "item_name": "クラブブルーキャビンＦＬ　ＭＨ－３００・Ｋ",
     "jan": "4550133341328",
     "price": 58000,
     "url": "https://www.daiwa.com/jp/product/fwy6eat",
+    "product_name": "クラブブルーキャビン FL (CLUB BLUECABIN FL)",
     "specs": {
       "全長（m）": 3,
       "継数": 3,
@@ -51,13 +54,14 @@
       "カーボン含有率（％）": 93
     },
     "created_at": "2026-04-22T23:32:58.869883+09:00",
-    "updated_at": "2026-04-22T23:32:58.869883+09:00"
+    "updated_at": "2026-09-03T17:27:47.152597+09:00"
   },
   {
     "item_name": "クラブブルーキャビンＦＬ　ＭＨ－３５０・Ｋ",
     "jan": "4550133341335",
     "price": 59000,
     "url": "https://www.daiwa.com/jp/product/fwy6eat",
+    "product_name": "クラブブルーキャビン FL (CLUB BLUECABIN FL)",
     "specs": {
       "全長（m）": 3.5,
       "継数": 3,
@@ -69,6 +73,6 @@
       "カーボン含有率（％）": 93
     },
     "created_at": "2026-04-22T23:32:58.869883+09:00",
-    "updated_at": "2026-04-22T23:32:58.869883+09:00"
+    "updated_at": "2026-09-03T17:27:47.152597+09:00"
   }
 ]

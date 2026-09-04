@@ -4,6 +4,7 @@
     "jan": "4550133428043",
     "price": 69000,
     "url": "https://www.daiwa.com/jp/product/n1ioiry",
+    "product_name": "バトルゲーム  タマン･ガーラモンスターEX (BATTLE GAME TAMAN･GARA  MONSTER EX)",
     "specs": {
       "全長（m）": 4.8,
       "継数": 5,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:53.600903+09:00",
-    "updated_at": "2026-04-22T23:33:53.600903+09:00"
+    "updated_at": "2026-09-03T17:27:48.101177+09:00"
   },
   {
     "item_name": "バトルゲーム　タマンモンスターＥＸ　１０－４８０",
     "jan": "4550133428050",
     "price": 70000,
     "url": "https://www.daiwa.com/jp/product/n1ioiry",
+    "product_name": "バトルゲーム  タマン･ガーラモンスターEX (BATTLE GAME TAMAN･GARA  MONSTER EX)",
     "specs": {
       "全長（m）": 4.8,
       "継数": 5,
@@ -33,13 +35,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:53.600903+09:00",
-    "updated_at": "2026-04-22T23:33:53.600903+09:00"
+    "updated_at": "2026-09-03T17:27:48.101177+09:00"
   },
   {
     "item_name": "バトルゲーム　ガーラモンスターＥＸ　１２－４８０",
     "jan": "4550133428067",
     "price": 73000,
     "url": "https://www.daiwa.com/jp/product/n1ioiry",
+    "product_name": "バトルゲーム  タマン･ガーラモンスターEX (BATTLE GAME TAMAN･GARA  MONSTER EX)",
     "specs": {
       "全長（m）": 4.8,
       "継数": 5,
@@ -51,6 +54,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:53.600903+09:00",
-    "updated_at": "2026-04-22T23:33:53.600903+09:00"
+    "updated_at": "2026-09-03T17:27:48.101177+09:00"
   }
 ]

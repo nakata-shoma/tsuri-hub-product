@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "AMSC-410",
+    "jan": null,
+    "price": 105000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Amsc410.html",
+    "product_name": "アルチザン・マウンテンストリーム",
+    "specs": {
+      "全長": "1.47m",
+      "継数": 3,
+      "標準自重": "85g",
+      "パワー": "",
+      "ルアー範囲": "3～7g",
+      "ライン範囲": "MF3～6lb／PE0.4～1号"
+    },
+    "created_at": "2026-09-03T14:55:38.593962+09:00",
+    "updated_at": "2026-09-03T14:55:38.593962+09:00"
+  },
+  {
+    "item_name": "AMSS-510",
+    "jan": null,
+    "price": 108000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Amss510.html",
+    "product_name": "アルチザン・マウンテンストリーム",
+    "specs": {
+      "全長": "1.78m",
+      "継数": 3,
+      "標準自重": "87g",
+      "パワー": "",
+      "ルアー範囲": "3.5～9g",
+      "ライン範囲": "MF4～6lb／PE0.4～1号"
+    },
+    "created_at": "2026-09-03T14:55:38.593962+09:00",
+    "updated_at": "2026-09-03T14:55:38.593962+09:00"
+  },
+  {
+    "item_name": "AMSS-52",
+    "jan": null,
+    "price": 103000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Amss52.html",
+    "product_name": "アルチザン・マウンテンストリーム",
+    "specs": {
+      "全長": "1.58m",
+      "継数": 3,
+      "標準自重": "83g",
+      "パワー": "ー",
+      "ルアー範囲": "3.5～9g",
+      "ライン範囲": "MF4～6lb／PE0.4～1号"
+    },
+    "created_at": "2026-09-03T14:55:38.593962+09:00",
+    "updated_at": "2026-09-03T14:55:38.593962+09:00"
+  }
+]

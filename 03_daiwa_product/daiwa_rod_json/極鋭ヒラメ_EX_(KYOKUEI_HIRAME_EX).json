@@ -4,6 +4,7 @@
     "jan": "4550133337833",
     "price": 89500,
     "url": "https://www.daiwa.com/jp/product/3jegyuj",
+    "product_name": "極鋭ヒラメ EX (KYOKUEI HIRAME EX)",
     "specs": {
       "全長（m）": 2.43,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:13.230021+09:00",
-    "updated_at": "2026-04-22T23:31:13.230021+09:00"
+    "updated_at": "2026-09-03T17:27:45.249633+09:00"
   },
   {
     "item_name": "極鋭ヒラメ　ＥＸ　Ｓ／ＭＨ－２７２",
     "jan": "4550133337840",
     "price": 91500,
     "url": "https://www.daiwa.com/jp/product/3jegyuj",
+    "product_name": "極鋭ヒラメ EX (KYOKUEI HIRAME EX)",
     "specs": {
       "全長（m）": 2.72,
       "継数": 2,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:13.230021+09:00",
-    "updated_at": "2026-04-22T23:31:13.230021+09:00"
+    "updated_at": "2026-09-03T17:27:45.249633+09:00"
   },
   {
     "item_name": "極鋭ヒラメ　ＥＸ　ＳＳ／ＭＨ－２４５",
     "jan": "4550133545931",
     "price": 89000,
     "url": "https://www.daiwa.com/jp/product/3jegyuj",
+    "product_name": "極鋭ヒラメ EX (KYOKUEI HIRAME EX)",
     "specs": {
       "全長（m）": 2.45,
       "継数": 2,
@@ -54,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:13.230021+09:00",
-    "updated_at": "2026-04-22T23:31:13.230021+09:00"
+    "updated_at": "2026-09-03T17:27:45.249633+09:00"
   }
 ]

@@ -1,0 +1,78 @@
+[
+  {
+    "item_name": "FCS-962LSJ",
+    "url": "https://www.majorcraft.co.jp/rod/fcs-sj/shore-jigging/",
+    "specs": {
+      "": "",
+      "Model": "FCS-962LSJ",
+      "全長": "9'6”ft",
+      "継数": "2pcs",
+      "ルアー": "15 - 50g",
+      "PEライン": "1.0 - 2.5号",
+      "標準自重": "169g",
+      "仕舞寸法": "150㎝",
+      "アクション": "RF",
+      "JAN (4560350)": 817209,
+      "PRICE": "OPEN"
+    },
+    "created_at": "2026-04-27T17:50:19.528810+09:00",
+    "updated_at": "2026-04-27T17:50:19.528810+09:00"
+  },
+  {
+    "item_name": "FCS-1002LSJ",
+    "url": "https://www.majorcraft.co.jp/rod/fcs-sj/shore-jigging/",
+    "specs": {
+      "": "",
+      "Model": "FCS-1002LSJ",
+      "全長": "10'0”ft",
+      "継数": "2pcs",
+      "ルアー": "15 - 50g",
+      "PEライン": "1.0 - 2.5号",
+      "標準自重": "177g",
+      "仕舞寸法": "156㎝",
+      "アクション": "RF",
+      "JAN (4560350)": 817193,
+      "PRICE": "OPEN"
+    },
+    "created_at": "2026-04-27T17:50:19.528810+09:00",
+    "updated_at": "2026-04-27T17:50:19.528810+09:00"
+  },
+  {
+    "item_name": "FCS-1002MH",
+    "url": "https://www.majorcraft.co.jp/rod/fcs-sj/shore-jigging/",
+    "specs": {
+      "": "",
+      "Model": "FCS-1002MH",
+      "全長": "10'0”ft",
+      "継数": "2pcs",
+      "ルアー": "30 - 80g",
+      "PEライン": "1.0 - 3.0号",
+      "標準自重": "250g",
+      "仕舞寸法": "158㎝",
+      "アクション": "RF",
+      "JAN (4560350)": 817216,
+      "PRICE": "OPEN"
+    },
+    "created_at": "2026-04-27T17:50:19.528810+09:00",
+    "updated_at": "2026-04-27T17:50:19.528810+09:00"
+  },
+  {
+    "item_name": "FCS-1002H",
+    "url": "https://www.majorcraft.co.jp/rod/fcs-sj/shore-jigging/",
+    "specs": {
+      "": "",
+      "Model": "FCS-1002H",
+      "全長": "10'0”ft",
+      "継数": "2pcs",
+      "ルアー": "50 - 100g",
+      "PEライン": "1.5 - 3.5号",
+      "標準自重": "258g",
+      "仕舞寸法": "158㎝",
+      "アクション": "RF",
+      "JAN (4560350)": 817223,
+      "PRICE": "OPEN"
+    },
+    "created_at": "2026-04-27T17:50:19.528810+09:00",
+    "updated_at": "2026-04-27T17:50:19.528810+09:00"
+  }
+]

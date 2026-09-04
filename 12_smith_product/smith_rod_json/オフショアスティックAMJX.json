@@ -1,0 +1,116 @@
+[
+  {
+    "item_name": "AMJX-C61L",
+    "jan": null,
+    "price": 48000,
+    "url": "https://www.smith.jp/product/salt/amjx/amjx.html",
+    "product_name": "オフショアスティックAMJX",
+    "specs": {
+      "length": "6'1\"",
+      "weight": "229g",
+      "lure": "〜210g",
+      "line": "〜4PE",
+      "griplength": "715mm",
+      "packlength": "186cm",
+      "blankmaterial": "アーマーナノックスグラファイト",
+      "tip dia": "2.3mm"
+    },
+    "created_at": "2026-09-03T16:37:10.428015+09:00",
+    "updated_at": "2026-09-03T16:37:10.428015+09:00"
+  },
+  {
+    "item_name": "AMJX-C61M",
+    "jan": null,
+    "price": 49000,
+    "url": "https://www.smith.jp/product/salt/amjx/amjx.html",
+    "product_name": "オフショアスティックAMJX",
+    "specs": {
+      "length": "6'1\"",
+      "weight": "236g",
+      "lure": "〜280g",
+      "line": "〜5PE",
+      "griplength": "715mm",
+      "packlength": "186cm",
+      "blankmaterial": "アーマーナノックスグラファイト",
+      "tip dia": "2.5mm"
+    },
+    "created_at": "2026-09-03T16:37:10.428015+09:00",
+    "updated_at": "2026-09-03T16:37:10.428015+09:00"
+  },
+  {
+    "item_name": "AMJX-C61H",
+    "jan": null,
+    "price": 51000,
+    "url": "https://www.smith.jp/product/salt/amjx/amjx.html",
+    "product_name": "オフショアスティックAMJX",
+    "specs": {
+      "length": "6'1\"",
+      "weight": "253g",
+      "lure": "〜330g",
+      "line": "〜6PE",
+      "griplength": "755mm",
+      "packlength": "186cm",
+      "blankmaterial": "アーマーナノックスグラファイト",
+      "tip dia": "2.7mm"
+    },
+    "created_at": "2026-09-03T16:37:10.428015+09:00",
+    "updated_at": "2026-09-03T16:37:10.428015+09:00"
+  },
+  {
+    "item_name": "AMJX-C61XH",
+    "jan": null,
+    "price": 53000,
+    "url": "https://www.smith.jp/product/salt/amjx/amjx.html",
+    "product_name": "オフショアスティックAMJX",
+    "specs": {
+      "length": "6'1\"",
+      "weight": "250g",
+      "lure": "〜400g",
+      "line": "〜6PE",
+      "griplength": "755mm",
+      "packlength": "186cm",
+      "blankmaterial": "アーマーナノックスグラファイト",
+      "tip dia": "2.7mm"
+    },
+    "created_at": "2026-09-03T16:37:10.428015+09:00",
+    "updated_at": "2026-09-03T16:37:10.428015+09:00"
+  },
+  {
+    "item_name": "AMJX-S62L",
+    "jan": null,
+    "price": 48000,
+    "url": "https://www.smith.jp/product/salt/amjx/amjx.html",
+    "product_name": "オフショアスティックAMJX",
+    "specs": {
+      "length": "6'2\"",
+      "weight": "215g",
+      "lure": "〜210g",
+      "line": "〜4PE",
+      "griplength": "700mm",
+      "packlength": "189cm",
+      "blankmaterial": "アーマーナノックスグラファイト",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:10.428015+09:00",
+    "updated_at": "2026-09-03T16:37:10.428015+09:00"
+  },
+  {
+    "item_name": "AMJX-S62M",
+    "jan": null,
+    "price": 49000,
+    "url": "https://www.smith.jp/product/salt/amjx/amjx.html",
+    "product_name": "オフショアスティックAMJX",
+    "specs": {
+      "length": "6'2\"",
+      "weight": "223g",
+      "lure": "〜280g",
+      "line": "〜5PE",
+      "griplength": "700mm",
+      "packlength": "189cm",
+      "blankmaterial": "アーマーナノックスグラファイト",
+      "tip dia": "2.4mm"
+    },
+    "created_at": "2026-09-03T16:37:10.428015+09:00",
+    "updated_at": "2026-09-03T16:37:10.428015+09:00"
+  }
+]

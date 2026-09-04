@@ -4,6 +4,7 @@
     "jan": "4550133449079",
     "price": 63000,
     "url": "https://www.daiwa.com/jp/product/alf3rvr",
+    "product_name": "極鋭カットウフグ (KYOKUEI KATTOU FUGU)",
     "specs": {
       "全長（m）": 1.78,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:15.065214+09:00",
-    "updated_at": "2026-04-22T23:32:15.065214+09:00"
+    "updated_at": "2026-09-03T17:27:46.197425+09:00"
   },
   {
     "item_name": "極鋭カットウフグ　ＨＨ－１５９",
     "jan": "4550133449086",
     "price": 61000,
     "url": "https://www.daiwa.com/jp/product/alf3rvr",
+    "product_name": "極鋭カットウフグ (KYOKUEI KATTOU FUGU)",
     "specs": {
       "全長（m）": 1.59,
       "継数": 1,
@@ -33,6 +35,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:15.065214+09:00",
-    "updated_at": "2026-04-22T23:32:15.065214+09:00"
+    "updated_at": "2026-09-03T17:27:46.197425+09:00"
   }
 ]

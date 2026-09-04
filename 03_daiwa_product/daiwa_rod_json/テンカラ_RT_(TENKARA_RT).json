@@ -4,6 +4,7 @@
     "jan": "4960652958639",
     "price": 10500,
     "url": "https://www.daiwa.com/jp/product/yxs1ilf",
+    "product_name": "テンカラ RT (TENKARA RT)",
     "specs": {
       "全長（m）": 2.66,
       "継数": 8,
@@ -14,13 +15,14 @@
       "カーボン含有率（％）": 86
     },
     "created_at": "2026-04-22T23:35:32.980286+09:00",
-    "updated_at": "2026-04-22T23:35:32.980286+09:00"
+    "updated_at": "2026-09-03T17:27:49.689566+09:00"
   },
   {
     "item_name": "テンカラＲＴ　３０",
     "jan": "4960652958646",
     "price": 11300,
     "url": "https://www.daiwa.com/jp/product/yxs1ilf",
+    "product_name": "テンカラ RT (TENKARA RT)",
     "specs": {
       "全長（m）": 2.98,
       "継数": 9,
@@ -31,13 +33,14 @@
       "カーボン含有率（％）": 87
     },
     "created_at": "2026-04-22T23:35:32.980286+09:00",
-    "updated_at": "2026-04-22T23:35:32.980286+09:00"
+    "updated_at": "2026-09-03T17:27:49.689566+09:00"
   },
   {
     "item_name": "テンカラＲＴ　３３",
     "jan": "4960652958653",
     "price": 11600,
     "url": "https://www.daiwa.com/jp/product/yxs1ilf",
+    "product_name": "テンカラ RT (TENKARA RT)",
     "specs": {
       "全長（m）": 3.3,
       "継数": 10,
@@ -48,13 +51,14 @@
       "カーボン含有率（％）": 88
     },
     "created_at": "2026-04-22T23:35:32.980286+09:00",
-    "updated_at": "2026-04-22T23:35:32.980286+09:00"
+    "updated_at": "2026-09-03T17:27:49.689566+09:00"
   },
   {
     "item_name": "テンカラＲＴ　３６",
     "jan": "4960652958660",
     "price": 12000,
     "url": "https://www.daiwa.com/jp/product/yxs1ilf",
+    "product_name": "テンカラ RT (TENKARA RT)",
     "specs": {
       "全長（m）": 3.61,
       "継数": 11,
@@ -65,6 +69,6 @@
       "カーボン含有率（％）": 89
     },
     "created_at": "2026-04-22T23:35:32.980286+09:00",
-    "updated_at": "2026-04-22T23:35:32.980286+09:00"
+    "updated_at": "2026-09-03T17:27:49.689566+09:00"
   }
 ]

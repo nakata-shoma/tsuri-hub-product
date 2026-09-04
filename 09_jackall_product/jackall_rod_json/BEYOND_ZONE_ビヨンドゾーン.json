@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "BZ-130M",
+    "jan": null,
+    "price": 32780,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/beyond-zone/",
+    "product_name": "BEYOND ZONE/ビヨンドゾーン",
+    "specs": {
+      "Length": "3.96m",
+      "係数(本)": "4本",
+      "Weight": "290g",
+      "Power": "Medium",
+      "Lure Weight": "MAX 60g",
+      "Line": "PE MAX#2.5"
+    },
+    "created_at": "2026-09-03T08:29:57.152405+09:00",
+    "updated_at": "2026-09-03T15:49:45.009193+09:00"
+  },
+  {
+    "item_name": "BZ-130MH",
+    "jan": null,
+    "price": 32780,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/beyond-zone/",
+    "product_name": "BEYOND ZONE/ビヨンドゾーン",
+    "specs": {
+      "Length": "3.96m",
+      "係数(本)": "4本",
+      "Weight": "300g",
+      "Power": "Medium",
+      "Lure Weight": "MAX 80g",
+      "Line": "PE MAX#3.0"
+    },
+    "created_at": "2026-09-03T08:29:57.152405+09:00",
+    "updated_at": "2026-09-03T15:49:45.009193+09:00"
+  }
+]

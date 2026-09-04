@@ -1,0 +1,71 @@
+[
+  {
+    "item_name": "ERFS-46Pro-ST",
+    "jan": "036282094208",
+    "product_code": "1554258",
+    "price": 50000,
+    "url": "https://abugarcia.jp/products/eradicator-realfinesse-prototype",
+    "product_name": "Eradicator Realfinesse Prototype (エラディケーター リアルフィネス プロトタイプ)",
+    "specs": {
+      "レングス(ft/cm)": "4'6\"/137.0",
+      "パワー": "SUL（スーパーウルトラライト）",
+      "テーパー/アクション": "スロー",
+      "継数": 1,
+      "タイプ": "SP",
+      "PE(号)": "～0.3",
+      "仕舞寸法(cm)": 137.0,
+      "先径(mm)": 1.0,
+      "ルアー(g)": "0.1-1.5",
+      "材料": "ｶｰﾎﾞﾝ100%",
+      "製法": "TAF+T1100G+M40X"
+    },
+    "created_at": "2026-09-03T00:39:27.351172+09:00",
+    "updated_at": "2026-09-03T15:16:55.650105+09:00"
+  },
+  {
+    "item_name": "ERFS-51Pro-FS",
+    "jan": "036282094215",
+    "product_code": "1554269",
+    "price": 50500,
+    "url": "https://abugarcia.jp/products/eradicator-realfinesse-prototype",
+    "product_name": "Eradicator Realfinesse Prototype (エラディケーター リアルフィネス プロトタイプ)",
+    "specs": {
+      "レングス(ft/cm)": "5'1\"/154.9",
+      "パワー": "L（ライト）",
+      "テーパー/アクション": "ファースト",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "～0.3",
+      "仕舞寸法(cm)": 79.0,
+      "先径(mm)": 0.8,
+      "ルアー(g)": "0.1-2",
+      "材料": "ｶｰﾎﾞﾝ100%",
+      "製法": "TAF+T1100G+M40X"
+    },
+    "created_at": "2026-09-03T00:39:27.351172+09:00",
+    "updated_at": "2026-09-03T15:16:55.650105+09:00"
+  },
+  {
+    "item_name": "ERFS-60Pro-FS",
+    "jan": "036282094222",
+    "product_code": "1554270",
+    "price": 51000,
+    "url": "https://abugarcia.jp/products/eradicator-realfinesse-prototype",
+    "product_name": "Eradicator Realfinesse Prototype (エラディケーター リアルフィネス プロトタイプ)",
+    "specs": {
+      "レングス(ft/cm)": "6'0\"/183.0",
+      "パワー": "L（ライト）",
+      "テーパー/アクション": "ファースト",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "～0.4",
+      "仕舞寸法(cm)": 93.0,
+      "先径(mm)": 0.8,
+      "ルアー(g)": "0.1-2.5",
+      "材料": "ｶｰﾎﾞﾝ100%",
+      "製法": "TAF+T1100G+M40X"
+    },
+    "created_at": "2026-09-03T00:39:27.351172+09:00",
+    "updated_at": "2026-09-03T15:16:55.650105+09:00"
+  }
+]

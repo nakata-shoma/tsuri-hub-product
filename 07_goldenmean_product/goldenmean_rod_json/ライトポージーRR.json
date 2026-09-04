@@ -1,0 +1,32 @@
+[
+  {
+    "item_name": "LPS-76RR",
+    "jan": null,
+    "price": 18500,
+    "url": "https://www.golden-mean.co.jp/item/rod/lightporgy_rr/",
+    "product_name": "ライトポージーRR",
+    "specs": {
+      "Length(ft.)": "7’6”",
+      "Rod Weight(g)": 112,
+      "Lure Weight(g)": "1.5～10",
+      "Line(lb.)": "6〜8（PE0.4 〜0.8号）"
+    },
+    "created_at": "2026-09-03T00:35:07.119964+09:00",
+    "updated_at": "2026-09-03T16:37:16.018461+09:00"
+  },
+  {
+    "item_name": "LPS-80RR",
+    "jan": null,
+    "price": 19000,
+    "url": "https://www.golden-mean.co.jp/item/rod/lightporgy_rr/",
+    "product_name": "ライトポージーRR",
+    "specs": {
+      "Length(ft.)": "8’0”",
+      "Rod Weight(g)": 120,
+      "Lure Weight(g)": "3～14",
+      "Line(lb.)": "6〜8（PE0.4 〜1.0号）"
+    },
+    "created_at": "2026-09-03T00:35:07.119964+09:00",
+    "updated_at": "2026-09-03T16:37:16.018461+09:00"
+  }
+]

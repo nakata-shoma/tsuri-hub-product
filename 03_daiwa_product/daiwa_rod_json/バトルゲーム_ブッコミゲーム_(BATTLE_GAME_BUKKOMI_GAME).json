@@ -4,6 +4,7 @@
     "jan": "4550133644757",
     "price": 78000,
     "url": "https://www.daiwa.com/jp/product/zl47g2n",
+    "product_name": "バトルゲーム ブッコミゲーム (BATTLE GAME BUKKOMI GAME)",
     "specs": {
       "全長（m）": 4.8,
       "継数": 4,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:36.408475+09:00",
-    "updated_at": "2026-04-22T23:35:36.408475+09:00"
+    "updated_at": "2026-09-03T17:27:49.774357+09:00"
   },
   {
     "item_name": "バトルゲーム　ブッコミゲーム　ＸＨ４８４Ｂ",
     "jan": "4550133644764",
     "price": 79500,
     "url": "https://www.daiwa.com/jp/product/zl47g2n",
+    "product_name": "バトルゲーム ブッコミゲーム (BATTLE GAME BUKKOMI GAME)",
     "specs": {
       "全長（m）": 4.8,
       "継数": 4,
@@ -33,6 +35,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:36.408475+09:00",
-    "updated_at": "2026-04-22T23:35:36.408475+09:00"
+    "updated_at": "2026-09-03T17:27:49.774357+09:00"
   }
 ]

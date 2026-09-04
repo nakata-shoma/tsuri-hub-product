@@ -1,0 +1,134 @@
+[
+  {
+    "item_name": "BST-EXS43UL/C",
+    "jan": null,
+    "price": 46000,
+    "url": "https://www.smith.jp/product/trout/bstc/bstc.html",
+    "product_name": "Be Sticky TroutHiro Motoyama Model",
+    "specs": {
+      "length": "4'3\"",
+      "weight": "69g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "UL.Light",
+      "action": "Moderate",
+      "griplength": "248mm",
+      "packlength": "55.0cm",
+      "blankmaterial": "30t+24t+15tGraphite",
+      "tip dia": "1.1mm",
+      "butt dia": "6.8mm"
+    },
+    "created_at": "2026-09-03T16:34:59.840238+09:00",
+    "updated_at": "2026-09-03T16:37:21.249160+09:00"
+  },
+  {
+    "item_name": "BST-EXS45UL/C",
+    "jan": null,
+    "price": 46000,
+    "url": "https://www.smith.jp/product/trout/bstc/bstc.html",
+    "product_name": "Be Sticky TroutHiro Motoyama Model",
+    "specs": {
+      "length": "4'5\"",
+      "weight": "73g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "UL.Light",
+      "action": "Moderate",
+      "griplength": "248mm",
+      "packlength": "57.5cm",
+      "blankmaterial": "30t+24t+15tGraphite",
+      "tip dia": "1.4mm",
+      "butt dia": "7.1mm"
+    },
+    "created_at": "2026-09-03T16:34:59.840238+09:00",
+    "updated_at": "2026-09-03T16:37:21.249160+09:00"
+  },
+  {
+    "item_name": "BST-EXS47UL/C3",
+    "jan": null,
+    "price": 47000,
+    "url": "https://www.smith.jp/product/trout/bstc/bstc.html",
+    "product_name": "Be Sticky TroutHiro Motoyama Model",
+    "specs": {
+      "length": "4'7\"",
+      "weight": "74g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "UL.Light",
+      "action": "Moderate",
+      "griplength": "248mm",
+      "packlength": "60cm",
+      "blankmaterial": "30t+24t+15tGraphite",
+      "tip dia": "1.4mm",
+      "butt dia": "7.4mm"
+    },
+    "created_at": "2026-09-03T16:34:59.840238+09:00",
+    "updated_at": "2026-09-03T16:37:21.249160+09:00"
+  },
+  {
+    "item_name": "BST-HM53UL/C",
+    "jan": null,
+    "price": 39000,
+    "url": "https://www.smith.jp/product/trout/bstc/bstc.html",
+    "product_name": "Be Sticky TroutHiro Motoyama Model",
+    "specs": {
+      "length": "5'3\"",
+      "weight": "78g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "UL.Light",
+      "action": "Moderate",
+      "griplength": "238mm",
+      "packlength": "82.5cm",
+      "blankmaterial": "30t+24tGraphite",
+      "tip dia": "1.4mm",
+      "butt dia": "5.9mm"
+    },
+    "created_at": "2026-09-03T16:34:59.840238+09:00",
+    "updated_at": "2026-09-03T16:37:21.249160+09:00"
+  },
+  {
+    "item_name": "BST-HM55UL/C",
+    "jan": null,
+    "price": 40000,
+    "url": "https://www.smith.jp/product/trout/bstc/bstc.html",
+    "product_name": "Be Sticky TroutHiro Motoyama Model",
+    "specs": {
+      "length": "5'5\"",
+      "weight": "80g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "UL.Light",
+      "action": "Moderate",
+      "griplength": "248mm",
+      "packlength": "85cm",
+      "blankmaterial": "30t+24tGraphite",
+      "tip dia": "1.4mm",
+      "butt dia": "6.2mm"
+    },
+    "created_at": "2026-09-03T16:34:59.840238+09:00",
+    "updated_at": "2026-09-03T16:37:21.249160+09:00"
+  },
+  {
+    "item_name": "BST-HM57UL/C",
+    "jan": null,
+    "price": 41000,
+    "url": "https://www.smith.jp/product/trout/bstc/bstc.html",
+    "product_name": "Be Sticky TroutHiro Motoyama Model",
+    "specs": {
+      "length": "5'7\"",
+      "weight": "82g",
+      "lure": "1〜7g",
+      "line": "2〜6lb.",
+      "power": "UL.Light",
+      "action": "Moderate",
+      "griplength": "258mm",
+      "packlength": "87.5cm",
+      "blankmaterial": "30t+24tGraphite",
+      "tip dia": "1.4mm",
+      "butt dia": "6.5mm"
+    },
+    "created_at": "2026-09-03T16:34:59.840238+09:00",
+    "updated_at": "2026-09-03T16:37:21.249160+09:00"
+  }
+]

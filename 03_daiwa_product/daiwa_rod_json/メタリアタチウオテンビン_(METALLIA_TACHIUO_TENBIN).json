@@ -4,6 +4,7 @@
     "jan": "4550133448997",
     "price": 45000,
     "url": "https://www.daiwa.com/jp/product/7z0j06r",
+    "product_name": "メタリアタチウオテンビン (METALLIA TACHIUO TENBIN)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:55.413673+09:00",
-    "updated_at": "2026-04-22T23:31:55.413673+09:00"
+    "updated_at": "2026-09-03T17:27:46.022633+09:00"
   },
   {
     "item_name": "メタリア　タチウオテンビン　ＭＨ－１７５",
     "jan": "4550133449000",
     "price": 45500,
     "url": "https://www.daiwa.com/jp/product/7z0j06r",
+    "product_name": "メタリアタチウオテンビン (METALLIA TACHIUO TENBIN)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:55.413673+09:00",
-    "updated_at": "2026-04-22T23:31:55.413673+09:00"
+    "updated_at": "2026-09-03T17:27:46.022633+09:00"
   },
   {
     "item_name": "メタリア　タチウオテンビン　Ｈ－１７５",
     "jan": "4550133449017",
     "price": 46000,
     "url": "https://www.daiwa.com/jp/product/7z0j06r",
+    "product_name": "メタリアタチウオテンビン (METALLIA TACHIUO TENBIN)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -54,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:55.413673+09:00",
-    "updated_at": "2026-04-22T23:31:55.413673+09:00"
+    "updated_at": "2026-09-03T17:27:46.022633+09:00"
   }
 ]

@@ -4,6 +4,7 @@
     "jan": "4960652876537",
     "price": 39000,
     "url": "https://www.daiwa.com/jp/product/w6je8jw",
+    "product_name": "ブラックジャック スナイパー 玉の柄 (BLACK JACK SNIPER TAMANOE)",
     "specs": {
       "全長（m）": 4.97,
       "継数": 9,
@@ -13,13 +14,14 @@
       "カーボン含有率（％）": 98
     },
     "created_at": "2026-04-22T23:35:10.199247+09:00",
-    "updated_at": "2026-04-22T23:35:10.199247+09:00"
+    "updated_at": "2026-09-03T17:27:49.333038+09:00"
   },
   {
     "item_name": "ブラックジャックスナイパー玉の柄６０・Ｑ",
     "jan": "4960652876544",
     "price": 43000,
     "url": "https://www.daiwa.com/jp/product/w6je8jw",
+    "product_name": "ブラックジャック スナイパー 玉の柄 (BLACK JACK SNIPER TAMANOE)",
     "specs": {
       "全長（m）": 5.97,
       "継数": 9,
@@ -29,6 +31,6 @@
       "カーボン含有率（％）": 98
     },
     "created_at": "2026-04-22T23:35:10.199247+09:00",
-    "updated_at": "2026-04-22T23:35:10.199247+09:00"
+    "updated_at": "2026-09-03T17:27:49.333038+09:00"
   }
 ]

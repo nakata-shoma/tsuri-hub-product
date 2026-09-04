@@ -1,0 +1,194 @@
+[
+  {
+    "item_name": "適合表はこちら",
+    "jan": null,
+    "price": null,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "ー",
+      "継数": "ー",
+      "Power": "ー",
+      "Lure Weight": "ー",
+      "Line": "ー"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S96M-SJ",
+    "jan": null,
+    "price": 25630,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "9'6\"/2.90m",
+      "継数": "2pcs",
+      "Power": "MEDIUM",
+      "Lure Weight": "JIG MAX60g",
+      "Line": "PE MAX #2.5"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S100MH-SJ",
+    "jan": null,
+    "price": 27280,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "10'0\"/3.05m",
+      "継数": "2pcs",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "JIG MAX80g",
+      "Line": "PE MAX #3.0"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S98L/M-SJ",
+    "jan": null,
+    "price": 25080,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "9'8\"/2.95m",
+      "継数": "2pcs",
+      "Power": "LIGHT",
+      "Lure Weight": "PLUG MAX40gJIG MAX50g",
+      "Line": "PE MAX #2.5"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S100ML/MH-SJ",
+    "jan": null,
+    "price": 27280,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "10'0\"/3.05m",
+      "継数": "2pcs",
+      "Power": "MEDIUM LIGHTMEDIUM HEAVY",
+      "Lure Weight": "PLUG MAX50gJIG MAX70g",
+      "Line": "PE MAX #3.0"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S106M-SURF",
+    "jan": null,
+    "price": 26180,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "10'6\"/3.20m",
+      "継数": "2pcs",
+      "Power": "MEDIUM",
+      "Lure Weight": "LURE MAX40g",
+      "Line": "PE MAX #2.0"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S84ML",
+    "jan": null,
+    "price": 21230,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "8'4\"/2.54m",
+      "継数": "2pcs",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "LURE MAX25gEGI MAX #3.5",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S86M",
+    "jan": null,
+    "price": 21780,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "8'6\"/2.59m",
+      "継数": "2pcs",
+      "Power": "MEDIUM",
+      "Lure Weight": "LURE MAX30gEGI MAX #4.0",
+      "Line": "PE MAX #1.2"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S56SUL-LG",
+    "jan": null,
+    "price": 17380,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "5'6\"/1.68m",
+      "継数": "2pcs",
+      "Power": "SUPER ULTRA LIGHT",
+      "Lure Weight": "RIG MAX 3g",
+      "Line": "MONO MAX 3lbPE MAX #0.4"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S64UL-LG",
+    "jan": null,
+    "price": 17930,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "6'4\"/1.93m",
+      "継数": "2pcs",
+      "Power": "ULTRA LIGHT",
+      "Lure Weight": "RIG MAX 5g",
+      "Line": "MONO MAX 4lbPE MAX #0.6"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S68L-LG",
+    "jan": null,
+    "price": 18480,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "6'8\"/2.03m",
+      "継数": "2pcs",
+      "Power": "LIGHT",
+      "Lure Weight": "LURE MAX 10g",
+      "Line": "MONO MAX 6lbPE MAX #0.8"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  },
+  {
+    "item_name": "BRS-S74ML-LG",
+    "jan": null,
+    "price": 20130,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/casting/26-brs/",
+    "product_name": "26 BRS",
+    "specs": {
+      "Length(ft/m)": "7'4\"/2.24m",
+      "継数": "2pcs",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "LURE MAX 14g",
+      "Line": "MONO MAX 8lbPE MAX #1.0"
+    },
+    "created_at": "2026-09-03T08:29:55.360573+09:00",
+    "updated_at": "2026-09-03T15:49:42.301796+09:00"
+  }
+]

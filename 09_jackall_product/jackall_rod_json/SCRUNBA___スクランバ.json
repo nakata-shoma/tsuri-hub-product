@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "SC-S70L",
+    "jan": null,
+    "price": 33550,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/scrunba/",
+    "product_name": "SCRUNBA / スクランバ",
+    "specs": {
+      "Length(ft/m)": "7'0\"/2.13m",
+      "継数": 2,
+      "Power": "LIGHT",
+      "Weight": "128g",
+      "Lure(g)": "10-45g",
+      "Line": "PE MAX #2"
+    },
+    "created_at": "2026-09-03T08:27:59.495858+09:00",
+    "updated_at": "2026-09-03T15:47:51.348853+09:00"
+  },
+  {
+    "item_name": "SC-S73ML",
+    "jan": null,
+    "price": 35750,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/scrunba/",
+    "product_name": "SCRUNBA / スクランバ",
+    "specs": {
+      "Length(ft/m)": "7'3\"/2.22m",
+      "継数": 2,
+      "Power": "MEDIUM LIGHT",
+      "Weight": "192g",
+      "Lure(g)": "15-50g",
+      "Line": "PE MAX #3"
+    },
+    "created_at": "2026-09-03T08:27:59.495858+09:00",
+    "updated_at": "2026-09-03T15:47:51.348853+09:00"
+  },
+  {
+    "item_name": "SC-S78M",
+    "jan": null,
+    "price": 36850,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/scrunba/",
+    "product_name": "SCRUNBA / スクランバ",
+    "specs": {
+      "Length(ft/m)": "7'8\"/2.34m",
+      "継数": 2,
+      "Power": "MEDIUM",
+      "Weight": "228g",
+      "Lure(g)": "20-60g",
+      "Line": "PE MAX #3"
+    },
+    "created_at": "2026-09-03T08:27:59.495858+09:00",
+    "updated_at": "2026-09-03T15:47:51.348853+09:00"
+  }
+]

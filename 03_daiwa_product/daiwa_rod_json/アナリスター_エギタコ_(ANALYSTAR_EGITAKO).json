@@ -4,6 +4,7 @@
     "jan": "4550133545856",
     "price": 29500,
     "url": "https://www.daiwa.com/jp/product/vl0l5j8",
+    "product_name": "アナリスター エギタコ (ANALYSTAR EGITAKO)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -16,13 +17,14 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:35:05.008279+09:00",
-    "updated_at": "2026-04-22T23:35:05.008279+09:00"
+    "updated_at": "2026-09-03T17:27:49.089575+09:00"
   },
   {
     "item_name": "アナリスターエギタコ　ＭＨ－１７０・Ｊ",
     "jan": "4550133545948",
     "price": 29500,
     "url": "https://www.daiwa.com/jp/product/vl0l5j8",
+    "product_name": "アナリスター エギタコ (ANALYSTAR EGITAKO)",
     "specs": {
       "全長（m）": 1.7,
       "継数": 2,
@@ -35,13 +37,14 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:35:05.008279+09:00",
-    "updated_at": "2026-04-22T23:35:05.008279+09:00"
+    "updated_at": "2026-09-03T17:27:49.089575+09:00"
   },
   {
     "item_name": "アナリスターエギタコ　Ｈ－１８０ＳＰ・Ｊ",
     "jan": "4550133546006",
     "price": 31500,
     "url": "https://www.daiwa.com/jp/product/vl0l5j8",
+    "product_name": "アナリスター エギタコ (ANALYSTAR EGITAKO)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -54,6 +57,6 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:35:05.008279+09:00",
-    "updated_at": "2026-04-22T23:35:05.008279+09:00"
+    "updated_at": "2026-09-03T17:27:49.089575+09:00"
   }
 ]

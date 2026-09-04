@@ -1,0 +1,62 @@
+[
+  {
+    "item_name": "MHN-742H",
+    "jan": null,
+    "price": 47000,
+    "url": "https://www.smith.jp/product/snakehead/mhnex/mhnex.html",
+    "product_name": "マグナムハスキーNEX",
+    "specs": {
+      "length": "7'4\"",
+      "weight": "246g",
+      "power": "Heavy",
+      "action": "ModerateFast",
+      "line": "6～8PE",
+      "griplength": "615mm",
+      "packlength": "115.5cm(2pcs)",
+      "blankmaterial": "グラス+24tグラファイト",
+      "tip dia": "2.7mm"
+    },
+    "created_at": "2026-09-03T16:37:20.739334+09:00",
+    "updated_at": "2026-09-03T16:37:20.739334+09:00"
+  },
+  {
+    "item_name": "MHN-752SH",
+    "jan": null,
+    "price": 48000,
+    "url": "https://www.smith.jp/product/snakehead/mhnex/mhnex.html",
+    "product_name": "マグナムハスキーNEX",
+    "specs": {
+      "length": "7'5\"",
+      "weight": "251g",
+      "power": "SuperHeavy",
+      "action": "ModerateFast",
+      "line": "6～10PE",
+      "griplength": "615mm",
+      "packlength": "116.5cm(2pcs)",
+      "blankmaterial": "グラス+24tグラファイト",
+      "tip dia": "2.7mm"
+    },
+    "created_at": "2026-09-03T16:37:20.739334+09:00",
+    "updated_at": "2026-09-03T16:37:20.739334+09:00"
+  },
+  {
+    "item_name": "MHN-762XH",
+    "jan": null,
+    "price": 49000,
+    "url": "https://www.smith.jp/product/snakehead/mhnex/mhnex.html",
+    "product_name": "マグナムハスキーNEX",
+    "specs": {
+      "length": "7'6\"",
+      "weight": "267g",
+      "power": "Ex.Heavy",
+      "action": "ModerateFast",
+      "line": "6～10PE",
+      "griplength": "615mm",
+      "packlength": "118cm(2pcs)",
+      "blankmaterial": "グラス+24tグラファイト",
+      "tip dia": "2.9mm"
+    },
+    "created_at": "2026-09-03T16:37:20.739334+09:00",
+    "updated_at": "2026-09-03T16:37:20.739334+09:00"
+  }
+]

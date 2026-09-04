@@ -4,6 +4,7 @@
     "jan": "4550133545740",
     "price": 30500,
     "url": "https://www.daiwa.com/jp/product/1bo1hh6",
+    "product_name": "アナリスター ライト テンヤタチウオ (ANALYSTAR LIGHT TENYATACHIUO)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -16,13 +17,14 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:30:56.601788+09:00",
-    "updated_at": "2026-04-22T23:30:56.601788+09:00"
+    "updated_at": "2026-09-03T17:27:45.050416+09:00"
   },
   {
     "item_name": "アナリスターライトテンヤタチウオ　８２－１７５",
     "jan": "4550133545849",
     "price": 30500,
     "url": "https://www.daiwa.com/jp/product/1bo1hh6",
+    "product_name": "アナリスター ライト テンヤタチウオ (ANALYSTAR LIGHT TENYATACHIUO)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -35,6 +37,6 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:30:56.601788+09:00",
-    "updated_at": "2026-04-22T23:30:56.601788+09:00"
+    "updated_at": "2026-09-03T17:27:45.050416+09:00"
   }
 ]

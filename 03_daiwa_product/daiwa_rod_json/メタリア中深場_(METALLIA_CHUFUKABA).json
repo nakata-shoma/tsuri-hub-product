@@ -4,6 +4,7 @@
     "jan": "4550133154256",
     "price": 46000,
     "url": "https://www.daiwa.com/jp/product/d6t6q5v",
+    "product_name": "メタリア中深場 (METALLIA CHUFUKABA)",
     "specs": {
       "全長（m）": 2,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:38.117378+09:00",
-    "updated_at": "2026-04-22T23:32:38.117378+09:00"
+    "updated_at": "2026-09-03T17:27:46.643256+09:00"
   },
   {
     "item_name": "メタリア中深場７３　Ｈ－２００",
     "jan": "4550133154263",
     "price": 46000,
     "url": "https://www.daiwa.com/jp/product/d6t6q5v",
+    "product_name": "メタリア中深場 (METALLIA CHUFUKABA)",
     "specs": {
       "全長（m）": 2,
       "継数": 2,
@@ -33,13 +35,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:38.117378+09:00",
-    "updated_at": "2026-04-22T23:32:38.117378+09:00"
+    "updated_at": "2026-09-03T17:27:46.643256+09:00"
   },
   {
     "item_name": "メタリア中深場７３　ＨＨ－２００",
     "jan": "4550133154270",
     "price": 46500,
     "url": "https://www.daiwa.com/jp/product/d6t6q5v",
+    "product_name": "メタリア中深場 (METALLIA CHUFUKABA)",
     "specs": {
       "全長（m）": 2,
       "継数": 2,
@@ -51,13 +54,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:38.117378+09:00",
-    "updated_at": "2026-04-22T23:32:38.117378+09:00"
+    "updated_at": "2026-09-03T17:27:46.643256+09:00"
   },
   {
     "item_name": "メタリア中深場７３　ＨＨＨ－２００",
     "jan": "4550133154287",
     "price": 47500,
     "url": "https://www.daiwa.com/jp/product/d6t6q5v",
+    "product_name": "メタリア中深場 (METALLIA CHUFUKABA)",
     "specs": {
       "全長（m）": 2,
       "継数": 2,
@@ -69,13 +73,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:38.117378+09:00",
-    "updated_at": "2026-04-22T23:32:38.117378+09:00"
+    "updated_at": "2026-09-03T17:27:46.643256+09:00"
   },
   {
     "item_name": "メタリア中深場８２　ＭＨ－１８５",
     "jan": "4550133154294",
     "price": 46000,
     "url": "https://www.daiwa.com/jp/product/d6t6q5v",
+    "product_name": "メタリア中深場 (METALLIA CHUFUKABA)",
     "specs": {
       "全長（m）": 1.85,
       "継数": 2,
@@ -87,6 +92,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:38.117378+09:00",
-    "updated_at": "2026-04-22T23:32:38.117378+09:00"
+    "updated_at": "2026-09-03T17:27:46.643256+09:00"
   }
 ]

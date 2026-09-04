@@ -4,6 +4,7 @@
     "jan": "4550133069789",
     "price": 54800,
     "url": "https://www.daiwa.com/jp/product/u6rpets",
+    "product_name": "紅牙 テンヤゲーム エア (KOHGA TENYA GAME AIR)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:52.907055+09:00",
-    "updated_at": "2026-04-22T23:34:52.907055+09:00"
+    "updated_at": "2026-09-03T17:27:48.949809+09:00"
   },
   {
     "item_name": "紅牙テンヤゲーム　ＡＩＲ　ＭＨ－２３５ＳＭＴ",
     "jan": "4550133069796",
     "price": 55300,
     "url": "https://www.daiwa.com/jp/product/u6rpets",
+    "product_name": "紅牙 テンヤゲーム エア (KOHGA TENYA GAME AIR)",
     "specs": {
       "全長（m）": 2.35,
       "継数": 2,
@@ -33,13 +35,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:52.907055+09:00",
-    "updated_at": "2026-04-22T23:34:52.907055+09:00"
+    "updated_at": "2026-09-03T17:27:48.949809+09:00"
   },
   {
     "item_name": "紅牙テンヤゲーム　ＡＩＲ　Ｈ－２３５ＳＭＴ",
     "jan": "4550133069802",
     "price": 55800,
     "url": "https://www.daiwa.com/jp/product/u6rpets",
+    "product_name": "紅牙 テンヤゲーム エア (KOHGA TENYA GAME AIR)",
     "specs": {
       "全長（m）": 2.35,
       "継数": 2,
@@ -51,13 +54,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:52.907055+09:00",
-    "updated_at": "2026-04-22T23:34:52.907055+09:00"
+    "updated_at": "2026-09-03T17:27:48.949809+09:00"
   },
   {
     "item_name": "紅牙テンヤゲーム　ＡＩＲ　Ｈ／ＸＨ－２２０ＳＭＴ",
     "jan": "4550133069819",
     "price": 54800,
     "url": "https://www.daiwa.com/jp/product/u6rpets",
+    "product_name": "紅牙 テンヤゲーム エア (KOHGA TENYA GAME AIR)",
     "specs": {
       "全長（m）": 2.2,
       "継数": 2,
@@ -69,13 +73,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:52.907055+09:00",
-    "updated_at": "2026-04-22T23:34:52.907055+09:00"
+    "updated_at": "2026-09-03T17:27:48.949809+09:00"
   },
   {
     "item_name": "紅牙テンヤゲーム　ＡＩＲ　ＭＨ－２３５ＳＭＴＢ",
     "jan": "4550133069826",
     "price": 55300,
     "url": "https://www.daiwa.com/jp/product/u6rpets",
+    "product_name": "紅牙 テンヤゲーム エア (KOHGA TENYA GAME AIR)",
     "specs": {
       "全長（m）": 2.35,
       "継数": 2,
@@ -87,6 +92,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:52.907055+09:00",
-    "updated_at": "2026-04-22T23:34:52.907055+09:00"
+    "updated_at": "2026-09-03T17:27:48.949809+09:00"
   }
 ]

@@ -4,6 +4,7 @@
     "jan": "4550133154362",
     "price": 42500,
     "url": "https://www.daiwa.com/jp/product/gsbyjzl",
+    "product_name": "メタリア マルイカ (METALLIA MARUIKA)",
     "specs": {
       "全長（m）": 1.55,
       "継数": 1,
@@ -14,13 +15,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:06.550358+09:00",
-    "updated_at": "2026-04-22T23:33:06.550358+09:00"
+    "updated_at": "2026-09-03T17:27:47.348416+09:00"
   },
   {
     "item_name": "メタリア　マルイカ　マルチ１４５",
     "jan": "4550133154379",
     "price": 42500,
     "url": "https://www.daiwa.com/jp/product/gsbyjzl",
+    "product_name": "メタリア マルイカ (METALLIA MARUIKA)",
     "specs": {
       "全長（m）": 1.45,
       "継数": 1,
@@ -31,6 +33,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:06.550358+09:00",
-    "updated_at": "2026-04-22T23:33:06.550358+09:00"
+    "updated_at": "2026-09-03T17:27:47.348416+09:00"
   }
 ]

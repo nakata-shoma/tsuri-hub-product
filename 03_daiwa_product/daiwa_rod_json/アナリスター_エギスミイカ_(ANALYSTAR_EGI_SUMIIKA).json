@@ -4,6 +4,7 @@
     "jan": "4960652983563",
     "price": 26500,
     "url": "https://www.daiwa.com/jp/product/e0rbmnr",
+    "product_name": "アナリスター エギスミイカ (ANALYSTAR EGI SUMIIKA)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -15,6 +16,6 @@
       "適合クランプサイズ": "SSS"
     },
     "created_at": "2026-04-22T23:32:46.795442+09:00",
-    "updated_at": "2026-04-22T23:32:46.795442+09:00"
+    "updated_at": "2026-09-03T17:27:46.809871+09:00"
   }
 ]

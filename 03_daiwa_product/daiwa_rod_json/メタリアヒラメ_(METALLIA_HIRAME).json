@@ -4,6 +4,7 @@
     "jan": "4550133546068",
     "price": 54500,
     "url": "https://www.daiwa.com/jp/product/vxxqqjb",
+    "product_name": "メタリアヒラメ (METALLIA HIRAME)",
     "specs": {
       "全長（m）": 2.45,
       "継数": 2,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:09.090766+09:00",
-    "updated_at": "2026-04-22T23:35:09.090766+09:00"
+    "updated_at": "2026-09-03T17:27:49.328515+09:00"
   },
   {
     "item_name": "メタリアヒラメ　ＭＨ－２６５・Ｊ",
     "jan": "4550133545795",
     "price": 55500,
     "url": "https://www.daiwa.com/jp/product/vxxqqjb",
+    "product_name": "メタリアヒラメ (METALLIA HIRAME)",
     "specs": {
       "全長（m）": 2.65,
       "継数": 2,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:09.090766+09:00",
-    "updated_at": "2026-04-22T23:35:09.090766+09:00"
+    "updated_at": "2026-09-03T17:27:49.328515+09:00"
   },
   {
     "item_name": "メタリアヒラメ　ＳＳ／ＭＨ－２４０・Ｊ",
     "jan": "4550133546037",
     "price": 55000,
     "url": "https://www.daiwa.com/jp/product/vxxqqjb",
+    "product_name": "メタリアヒラメ (METALLIA HIRAME)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 2,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:09.090766+09:00",
-    "updated_at": "2026-04-22T23:35:09.090766+09:00"
+    "updated_at": "2026-09-03T17:27:49.328515+09:00"
   },
   {
     "item_name": "メタリアヒラメ　Ｈ－２６５・Ｊ",
     "jan": "4550133545764",
     "price": 56500,
     "url": "https://www.daiwa.com/jp/product/vxxqqjb",
+    "product_name": "メタリアヒラメ (METALLIA HIRAME)",
     "specs": {
       "全長（m）": 2.65,
       "継数": 2,
@@ -73,6 +77,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:09.090766+09:00",
-    "updated_at": "2026-04-22T23:35:09.090766+09:00"
+    "updated_at": "2026-09-03T17:27:49.328515+09:00"
   }
 ]

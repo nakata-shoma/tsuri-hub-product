@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "GK5LJ-S64SLJ",
+    "url": "https://www.majorcraft.co.jp/rod/gk5/light-jigging/",
+    "specs": {
+      "": "",
+      "Model": "GK5LJ-S64SLJ",
+      "全長": "6'4”ft",
+      "継数": "1pcs",
+      "ジグ": "20 - 80g",
+      "PEライン": "MAX 1.0号",
+      "アクション": "RF",
+      "JAN (4573236)": 273211,
+      "PRICE": "¥34000(税込¥37400）"
+    },
+    "created_at": "2026-04-27T17:50:50.617564+09:00",
+    "updated_at": "2026-04-27T17:50:50.617564+09:00"
+  },
+  {
+    "item_name": "GK5LJ-S64L",
+    "url": "https://www.majorcraft.co.jp/rod/gk5/light-jigging/",
+    "specs": {
+      "": "",
+      "Model": "GK5LJ-S64L",
+      "全長": "6'4”ft",
+      "継数": "1pcs",
+      "ジグ": "30-120g",
+      "PEライン": "MAX 1.2号",
+      "アクション": "RF",
+      "JAN (4573236)": 273228,
+      "PRICE": "¥34500(税込¥37950）"
+    },
+    "created_at": "2026-04-27T17:50:50.617564+09:00",
+    "updated_at": "2026-04-27T17:50:50.617564+09:00"
+  },
+  {
+    "item_name": "GK5LJ-S64ML",
+    "url": "https://www.majorcraft.co.jp/rod/gk5/light-jigging/",
+    "specs": {
+      "": "",
+      "Model": "GK5LJ-S64ML",
+      "全長": "6'4”ft",
+      "継数": "1pcs",
+      "ジグ": "40 - 150g",
+      "PEライン": "MAX 1.5号",
+      "アクション": "RF",
+      "JAN (4573236)": 273235,
+      "PRICE": "¥35000(税込¥38500）"
+    },
+    "created_at": "2026-04-27T17:50:50.617564+09:00",
+    "updated_at": "2026-04-27T17:50:50.617564+09:00"
+  }
+]

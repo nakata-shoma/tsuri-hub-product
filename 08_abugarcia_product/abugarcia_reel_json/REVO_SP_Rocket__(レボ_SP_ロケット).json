@@ -1,0 +1,70 @@
+[
+  {
+    "item_name": "REVO SP Rocket 2000S",
+    "jan": "036282128149",
+    "product_code": "1590649",
+    "price": 29000,
+    "url": "https://abugarcia.jp/products/revo-sp-rocket",
+    "product_name": "REVO SP Rocket  (レボ SP ロケット)",
+    "specs": {
+      "ギア比": "7.0:1",
+      "最大ドラグ力(kg)": 3,
+      "ボール/ローラーベアリング": "10/1",
+      "ナイロン糸巻量 (yds/lb)✻USポンド基準となります": "0.165(4lb)-100/ PE0.6-100",
+      "最大ライン巻取 (cm)": 92
+    },
+    "created_at": "2026-09-03T15:19:35.071042+09:00",
+    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+  },
+  {
+    "item_name": "REVO SP Rocket 2500S",
+    "jan": "036282128156",
+    "product_code": "1590650",
+    "price": 29500,
+    "url": "https://abugarcia.jp/products/revo-sp-rocket",
+    "product_name": "REVO SP Rocket  (レボ SP ロケット)",
+    "specs": {
+      "ギア比": "7.6:1",
+      "最大ドラグ力(kg)": 5,
+      "ボール/ローラーベアリング": "10/1",
+      "ナイロン糸巻量 (yds/lb)✻USポンド基準となります": "0.205(6lb)-100/ PE0.8-150",
+      "最大ライン巻取 (cm)": 108
+    },
+    "created_at": "2026-09-03T15:19:35.071042+09:00",
+    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+  },
+  {
+    "item_name": "REVO SP Rocket 3000S",
+    "jan": "036282128163",
+    "product_code": "1590651",
+    "price": 30000,
+    "url": "https://abugarcia.jp/products/revo-sp-rocket",
+    "product_name": "REVO SP Rocket  (レボ SP ロケット)",
+    "specs": {
+      "ギア比": "7.6:1",
+      "最大ドラグ力(kg)": 5,
+      "ボール/ローラーベアリング": "10/1",
+      "ナイロン糸巻量 (yds/lb)✻USポンド基準となります": "0.235(8lb)-110/ PE1.2-150",
+      "最大ライン巻取 (cm)": 115
+    },
+    "created_at": "2026-09-03T15:19:35.071042+09:00",
+    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+  },
+  {
+    "item_name": "REVO SP Rocket 4000S",
+    "jan": "036282128170",
+    "product_code": "1590652",
+    "price": 30500,
+    "url": "https://abugarcia.jp/products/revo-sp-rocket",
+    "product_name": "REVO SP Rocket  (レボ SP ロケット)",
+    "specs": {
+      "ギア比": "7.6:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "10/1",
+      "ナイロン糸巻量 (yds/lb)✻USポンド基準となります": "0.33(16lb)-150/ PE2-220m",
+      "最大ライン巻取 (cm)": 124
+    },
+    "created_at": "2026-09-03T15:19:35.071042+09:00",
+    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+  }
+]

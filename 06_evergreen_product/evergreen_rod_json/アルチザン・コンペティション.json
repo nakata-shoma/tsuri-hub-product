@@ -1,0 +1,104 @@
+[
+  {
+    "item_name": "AATS-60MLST/F",
+    "jan": null,
+    "price": 84000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Aats60mlstf.html",
+    "product_name": "アルチザン・コンペティション",
+    "specs": {
+      "全長": "1.82m",
+      "継数": 2,
+      "標準自重": "75g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "0.8～4g",
+      "ライン範囲": "MF0.25～0.4号/PE0.2～0.4号"
+    },
+    "created_at": "2026-09-03T14:55:38.587430+09:00",
+    "updated_at": "2026-09-03T14:55:38.587430+09:00"
+  },
+  {
+    "item_name": "AATS-61L/RF",
+    "jan": null,
+    "price": 74000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Aats61lrf.html",
+    "product_name": "アルチザン・コンペティション",
+    "specs": {
+      "全長": "1.85m",
+      "継数": 2,
+      "標準自重": "73g",
+      "パワー": "ライト",
+      "ルアー範囲": "1～3g",
+      "ライン範囲": "MF0.25～0.5号/PE0.2～0.4号"
+    },
+    "created_at": "2026-09-03T14:55:38.587430+09:00",
+    "updated_at": "2026-09-03T14:55:38.587430+09:00"
+  },
+  {
+    "item_name": "AATS-61ML/RF",
+    "jan": null,
+    "price": 82000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Aats61mlrf.html",
+    "product_name": "アルチザン・コンペティション",
+    "specs": {
+      "全長": "1.85m",
+      "継数": 2,
+      "標準自重": "74g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "1.5～5g",
+      "ライン範囲": "MF0.3～0.6号/PE0.2～0.6号"
+    },
+    "created_at": "2026-09-03T14:55:38.587430+09:00",
+    "updated_at": "2026-09-03T14:55:38.587430+09:00"
+  },
+  {
+    "item_name": "AATS-61ML/S",
+    "jan": null,
+    "price": 79000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Aats61mls.html",
+    "product_name": "アルチザン・コンペティション",
+    "specs": {
+      "全長": "1.85m",
+      "継数": 2,
+      "標準自重": "78g",
+      "パワー": "ミディアムライト",
+      "ルアー範囲": "1.5～5g",
+      "ライン範囲": "MF0.3～0.6号/PE0.2～0.6号"
+    },
+    "created_at": "2026-09-03T14:55:38.587430+09:00",
+    "updated_at": "2026-09-03T14:55:38.587430+09:00"
+  },
+  {
+    "item_name": "AATS-61UL/R",
+    "jan": null,
+    "price": 77000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Aats61ulr.html",
+    "product_name": "アルチザン・コンペティション",
+    "specs": {
+      "全長": "1.85m",
+      "継数": 2,
+      "標準自重": "72g",
+      "パワー": "ウルトラライト",
+      "ルアー範囲": "0.3～1.5g",
+      "ライン範囲": "MF0.2～0.4号"
+    },
+    "created_at": "2026-09-03T14:55:38.587430+09:00",
+    "updated_at": "2026-09-03T14:55:38.587430+09:00"
+  },
+  {
+    "item_name": "AATS-62MH/R",
+    "jan": null,
+    "price": 85000,
+    "url": "https://www.evergreen-fishing.com/goods_list/Aats62mhr.html",
+    "product_name": "アルチザン・コンペティション",
+    "specs": {
+      "全長": "1.88m",
+      "継数": 2,
+      "標準自重": "80g",
+      "パワー": "ミディアムヘビー",
+      "ルアー範囲": "1～6g",
+      "ライン範囲": "MF0.3～0.6号/PE0.2～0.8号"
+    },
+    "created_at": "2026-09-03T14:55:38.587430+09:00",
+    "updated_at": "2026-09-03T14:55:38.587430+09:00"
+  }
+]

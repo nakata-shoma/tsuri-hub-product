@@ -4,6 +4,7 @@
     "jan": "4550133154188",
     "price": 79000,
     "url": "https://www.daiwa.com/jp/product/78u7qui",
+    "product_name": "極鋭 マルイカ EX LC (KYOKUEI MARUIKA EX LC)",
     "specs": {
       "全長（m）": 1.45,
       "継数": 1,
@@ -15,6 +16,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:47.857425+09:00",
-    "updated_at": "2026-04-22T23:31:47.857425+09:00"
+    "updated_at": "2026-09-03T17:27:45.907699+09:00"
   }
 ]

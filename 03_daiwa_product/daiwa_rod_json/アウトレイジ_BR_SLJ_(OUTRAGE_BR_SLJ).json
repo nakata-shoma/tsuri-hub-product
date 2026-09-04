@@ -4,6 +4,7 @@
     "jan": "4550133333835",
     "price": 28500,
     "url": "https://www.daiwa.com/jp/product/e9xoc65",
+    "product_name": "アウトレイジ BR SLJ (OUTRAGE BR SLJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 90
     },
     "created_at": "2026-04-22T23:32:49.824433+09:00",
-    "updated_at": "2026-04-22T23:32:49.824433+09:00"
+    "updated_at": "2026-09-03T17:27:46.866158+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＢＲ　ＳＬＪ　６３ＭＬＳ－Ｓ",
     "jan": "4550133333842",
     "price": 28800,
     "url": "https://www.daiwa.com/jp/product/e9xoc65",
+    "product_name": "アウトレイジ BR SLJ (OUTRAGE BR SLJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 90
     },
     "created_at": "2026-04-22T23:32:49.824433+09:00",
-    "updated_at": "2026-04-22T23:32:49.824433+09:00"
+    "updated_at": "2026-09-03T17:27:46.866158+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＢＲ　ＳＬＪ　６３ＭＳ－Ｓ",
     "jan": "4550133333859",
     "price": 29100,
     "url": "https://www.daiwa.com/jp/product/e9xoc65",
+    "product_name": "アウトレイジ BR SLJ (OUTRAGE BR SLJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -51,13 +54,14 @@
       "カーボン含有率（％）": 89
     },
     "created_at": "2026-04-22T23:32:49.824433+09:00",
-    "updated_at": "2026-04-22T23:32:49.824433+09:00"
+    "updated_at": "2026-09-03T17:27:46.866158+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＢＲ　ＳＬＪ　６１０ＭＳ",
     "jan": "4550133333866",
     "price": 29400,
     "url": "https://www.daiwa.com/jp/product/e9xoc65",
+    "product_name": "アウトレイジ BR SLJ (OUTRAGE BR SLJ)",
     "specs": {
       "全長（m）": 2.08,
       "継数": 2,
@@ -69,13 +73,14 @@
       "カーボン含有率（％）": 85
     },
     "created_at": "2026-04-22T23:32:49.824433+09:00",
-    "updated_at": "2026-04-22T23:32:49.824433+09:00"
+    "updated_at": "2026-09-03T17:27:46.866158+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＢＲ　ＳＬＪ　６３ＭＬＢ－Ｓ",
     "jan": "4550133333873",
     "price": 28800,
     "url": "https://www.daiwa.com/jp/product/e9xoc65",
+    "product_name": "アウトレイジ BR SLJ (OUTRAGE BR SLJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -87,13 +92,14 @@
       "カーボン含有率（％）": 86
     },
     "created_at": "2026-04-22T23:32:49.824433+09:00",
-    "updated_at": "2026-04-22T23:32:49.824433+09:00"
+    "updated_at": "2026-09-03T17:27:46.866158+09:00"
   },
   {
     "item_name": "ＯＵＴＲＡＧＥ　ＢＲ　ＳＬＪ　６３ＭＢ－Ｓ",
     "jan": "4550133333880",
     "price": 29100,
     "url": "https://www.daiwa.com/jp/product/e9xoc65",
+    "product_name": "アウトレイジ BR SLJ (OUTRAGE BR SLJ)",
     "specs": {
       "全長（m）": 1.91,
       "継数": 2,
@@ -105,6 +111,6 @@
       "カーボン含有率（％）": 85
     },
     "created_at": "2026-04-22T23:32:49.824433+09:00",
-    "updated_at": "2026-04-22T23:32:49.824433+09:00"
+    "updated_at": "2026-09-03T17:27:46.866158+09:00"
   }
 ]

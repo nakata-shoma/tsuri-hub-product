@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "XOCS-71M",
+    "jan": "036282110953",
+    "product_code": "1574369",
+    "price": 39500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting",
+    "product_name": "SaltyStage KR-X Prototype Offshore Casting (ソルティーステージ プロトタイプ オフショアキャスティング)",
+    "specs": {
+      "レングス(ft/cm)": "7'1\"/215.9",
+      "パワー": "M（ﾐﾃﾞｨｱﾑ）",
+      "ライン定格（Lb）": "～60",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "~4",
+      "仕舞寸法(cm)": 157.4,
+      "先径(mm)": 2.4,
+      "ルアー(g)": "～100",
+      "材料": "TAF",
+      "製法": "レギュラーファースト",
+      "使用材料": "ｶｰﾎﾞﾝ100%"
+    },
+    "created_at": "2026-09-03T00:40:06.088308+09:00",
+    "updated_at": "2026-09-03T15:17:53.965133+09:00"
+  },
+  {
+    "item_name": "XOCS-77MH",
+    "jan": "036282110960",
+    "product_code": "1574370",
+    "price": 41500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting",
+    "product_name": "SaltyStage KR-X Prototype Offshore Casting (ソルティーステージ プロトタイプ オフショアキャスティング)",
+    "specs": {
+      "レングス(ft/cm)": "7'7\"/231.1",
+      "パワー": "MH（ミディアムヘビー）",
+      "ライン定格（Lb）": "～100",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "~6",
+      "仕舞寸法(cm)": 168.6,
+      "先径(mm)": 2.6,
+      "ルアー(g)": "～140",
+      "材料": "TAF",
+      "製法": "レギュラーファースト",
+      "使用材料": "ｶｰﾎﾞﾝ100%"
+    },
+    "created_at": "2026-09-03T00:40:06.088308+09:00",
+    "updated_at": "2026-09-03T15:17:53.965133+09:00"
+  },
+  {
+    "item_name": "XOCS-83H",
+    "jan": "036282110977",
+    "product_code": "1574371",
+    "price": 44500,
+    "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting",
+    "product_name": "SaltyStage KR-X Prototype Offshore Casting (ソルティーステージ プロトタイプ オフショアキャスティング)",
+    "specs": {
+      "レングス(ft/cm)": "8'3\"/251.5",
+      "パワー": "H（ヘビー）",
+      "ライン定格（Lb）": "～120",
+      "継数": 2,
+      "タイプ": "SP",
+      "PE(号)": "~7",
+      "仕舞寸法(cm)": 185.5,
+      "先径(mm)": 2.7,
+      "ルアー(g)": "～160",
+      "材料": "TAF",
+      "製法": "レギュラーファースト",
+      "使用材料": "ｶｰﾎﾞﾝ100%"
+    },
+    "created_at": "2026-09-03T00:40:06.088308+09:00",
+    "updated_at": "2026-09-03T15:17:53.965133+09:00"
+  }
+]

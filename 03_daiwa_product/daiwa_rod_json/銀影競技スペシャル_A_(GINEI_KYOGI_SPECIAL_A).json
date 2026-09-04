@@ -4,6 +4,7 @@
     "jan": "4550133162237",
     "price": 380000,
     "url": "https://www.daiwa.com/jp/product/47ez4vq",
+    "product_name": "銀影競技スペシャル A (GINEI KYOGI SPECIAL A)",
     "specs": {
       "全長（m）": 8.49,
       "継数": 8,
@@ -19,13 +20,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:19.237106+09:00",
-    "updated_at": "2026-04-22T23:31:19.237106+09:00"
+    "updated_at": "2026-09-03T17:27:45.390298+09:00"
   },
   {
     "item_name": "銀影競技スペシャル　Ａ　Ｈ９０・Ｑ",
     "jan": "4550133162244",
     "price": 400000,
     "url": "https://www.daiwa.com/jp/product/47ez4vq",
+    "product_name": "銀影競技スペシャル A (GINEI KYOGI SPECIAL A)",
     "specs": {
       "全長（m）": 8.99,
       "継数": 8,
@@ -41,13 +43,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:19.237106+09:00",
-    "updated_at": "2026-04-22T23:31:19.237106+09:00"
+    "updated_at": "2026-09-03T17:27:45.390298+09:00"
   },
   {
     "item_name": "銀影競技スペシャル　Ａ　ＸＨ９０・Ｑ",
     "jan": "4550133162251",
     "price": 405000,
     "url": "https://www.daiwa.com/jp/product/47ez4vq",
+    "product_name": "銀影競技スペシャル A (GINEI KYOGI SPECIAL A)",
     "specs": {
       "全長（m）": 9,
       "継数": 8,
@@ -63,6 +66,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:19.237106+09:00",
-    "updated_at": "2026-04-22T23:31:19.237106+09:00"
+    "updated_at": "2026-09-03T17:27:45.390298+09:00"
   }
 ]

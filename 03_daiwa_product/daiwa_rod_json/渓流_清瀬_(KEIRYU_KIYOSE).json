@@ -4,6 +4,7 @@
     "jan": "4960652223317",
     "price": 15000,
     "url": "https://www.daiwa.com/jp/product/atpdzbt",
+    "product_name": "渓流 清瀬 (KEIRYU KIYOSE)",
     "specs": {
       "全長（m）": 4.3,
       "継数": 9,
@@ -15,13 +16,14 @@
       "マルチレングス（m）": "4.3⇔3.8"
     },
     "created_at": "2026-04-22T23:32:19.503980+09:00",
-    "updated_at": "2026-04-22T23:32:19.503980+09:00"
+    "updated_at": "2026-09-03T17:27:46.258638+09:00"
   },
   {
     "item_name": "渓流清瀬　硬調　５３Ｍ・Ｙ",
     "jan": "4960652223324",
     "price": 17000,
     "url": "https://www.daiwa.com/jp/product/atpdzbt",
+    "product_name": "渓流 清瀬 (KEIRYU KIYOSE)",
     "specs": {
       "全長（m）": 5.25,
       "継数": 11,
@@ -33,13 +35,14 @@
       "マルチレングス（m）": "5.3⇔4.8"
     },
     "created_at": "2026-04-22T23:32:19.503980+09:00",
-    "updated_at": "2026-04-22T23:32:19.503980+09:00"
+    "updated_at": "2026-09-03T17:27:46.258638+09:00"
   },
   {
     "item_name": "渓流清瀬　硬調　６２Ｍ・Ｙ",
     "jan": "4960652223331",
     "price": 20500,
     "url": "https://www.daiwa.com/jp/product/atpdzbt",
+    "product_name": "渓流 清瀬 (KEIRYU KIYOSE)",
     "specs": {
       "全長（m）": 6.19,
       "継数": 13,
@@ -51,6 +54,6 @@
       "マルチレングス（m）": "6.2⇔5.7"
     },
     "created_at": "2026-04-22T23:32:19.503980+09:00",
-    "updated_at": "2026-04-22T23:32:19.503980+09:00"
+    "updated_at": "2026-09-03T17:27:46.258638+09:00"
   }
 ]

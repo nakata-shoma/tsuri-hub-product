@@ -4,6 +4,7 @@
     "jan": "4550133254970",
     "price": 270000,
     "url": "https://www.daiwa.com/jp/product/3rppxak",
+    "product_name": "銀影競技 TYPE S (GINEI KYOGI TYPE S)",
     "specs": {
       "全長（m）": 8.5,
       "継数": 7,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:14.807250+09:00",
-    "updated_at": "2026-04-22T23:31:14.807250+09:00"
+    "updated_at": "2026-09-03T17:27:45.329870+09:00"
   },
   {
     "item_name": "銀影競技　ＴＹＰＥ　Ｓ　Ｈ９０・Ｗ",
     "jan": "4550133254987",
     "price": 275000,
     "url": "https://www.daiwa.com/jp/product/3rppxak",
+    "product_name": "銀影競技 TYPE S (GINEI KYOGI TYPE S)",
     "specs": {
       "全長（m）": 9,
       "継数": 7,
@@ -37,13 +39,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:14.807250+09:00",
-    "updated_at": "2026-04-22T23:31:14.807250+09:00"
+    "updated_at": "2026-09-03T17:27:45.329870+09:00"
   },
   {
     "item_name": "銀影競技　ＴＹＰＥ　Ｓ　ＸＨ９０・Ｗ",
     "jan": "4550133254994",
     "price": 280000,
     "url": "https://www.daiwa.com/jp/product/3rppxak",
+    "product_name": "銀影競技 TYPE S (GINEI KYOGI TYPE S)",
     "specs": {
       "全長（m）": 9,
       "継数": 7,
@@ -57,6 +60,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:14.807250+09:00",
-    "updated_at": "2026-04-22T23:31:14.807250+09:00"
+    "updated_at": "2026-09-03T17:27:45.329870+09:00"
   }
 ]

@@ -4,6 +4,7 @@
     "jan": "4550133551956",
     "price": 90000,
     "url": "https://www.daiwa.com/jp/product/prdjln8",
+    "product_name": "遡 フレイムホーク (NOBORI FLAME HAWK)",
     "specs": {
       "全長（m）": 8.5,
       "継数": 7,
@@ -17,13 +18,14 @@
       "マルチレングス（m）": "-"
     },
     "created_at": "2026-04-22T23:34:15.826737+09:00",
-    "updated_at": "2026-04-22T23:34:15.826737+09:00"
+    "updated_at": "2026-09-03T17:27:48.400045+09:00"
   },
   {
     "item_name": "遡　フレイムホーク　Ｐ－３　８０Ｍ・Ｅ",
     "jan": "4550133551963",
     "price": 90000,
     "url": "https://www.daiwa.com/jp/product/prdjln8",
+    "product_name": "遡 フレイムホーク (NOBORI FLAME HAWK)",
     "specs": {
       "全長（m）": 8.0,
       "継数": 8,
@@ -37,13 +39,14 @@
       "マルチレングス（m）": "80⇔75"
     },
     "created_at": "2026-04-22T23:34:15.826737+09:00",
-    "updated_at": "2026-04-22T23:34:15.826737+09:00"
+    "updated_at": "2026-09-03T17:27:48.400045+09:00"
   },
   {
     "item_name": "遡　フレイムホーク　Ｐ－３　９０Ｍ・Ｅ",
     "jan": "4550133551970",
     "price": 100000,
     "url": "https://www.daiwa.com/jp/product/prdjln8",
+    "product_name": "遡 フレイムホーク (NOBORI FLAME HAWK)",
     "specs": {
       "全長（m）": 9.0,
       "継数": 8,
@@ -57,13 +60,14 @@
       "マルチレングス（m）": "90⇔85"
     },
     "created_at": "2026-04-22T23:34:15.826737+09:00",
-    "updated_at": "2026-04-22T23:34:15.826737+09:00"
+    "updated_at": "2026-09-03T17:27:48.400045+09:00"
   },
   {
     "item_name": "遡　フレイムホーク　Ｐ－３　９５Ｍ・Ｅ",
     "jan": "4550133551987",
     "price": 105000,
     "url": "https://www.daiwa.com/jp/product/prdjln8",
+    "product_name": "遡 フレイムホーク (NOBORI FLAME HAWK)",
     "specs": {
       "全長（m）": 9.5,
       "継数": 9,
@@ -77,13 +81,14 @@
       "マルチレングス（m）": "95⇔90"
     },
     "created_at": "2026-04-22T23:34:15.826737+09:00",
-    "updated_at": "2026-04-22T23:34:15.826737+09:00"
+    "updated_at": "2026-09-03T17:27:48.400045+09:00"
   },
   {
     "item_name": "遡　フレイムホーク　Ｐ－５　９５Ｍ・Ｅ",
     "jan": "4550133551994",
     "price": 110000,
     "url": "https://www.daiwa.com/jp/product/prdjln8",
+    "product_name": "遡 フレイムホーク (NOBORI FLAME HAWK)",
     "specs": {
       "全長（m）": 9.5,
       "継数": 9,
@@ -97,6 +102,6 @@
       "マルチレングス（m）": "95⇔90"
     },
     "created_at": "2026-04-22T23:34:15.826737+09:00",
-    "updated_at": "2026-04-22T23:34:15.826737+09:00"
+    "updated_at": "2026-09-03T17:27:48.400045+09:00"
   }
 ]

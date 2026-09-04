@@ -1,0 +1,78 @@
+[
+  {
+    "item_name": "AMB 5500CS Rocket（右巻き）",
+    "jan": "036282310247",
+    "product_code": "1360779",
+    "price": 40000,
+    "url": "https://abugarcia.jp/products/ambassadeur-cs-rocketblue-grey",
+    "product_name": "Ambassadeur CS Rocket Blue Grey (5500/6500)",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "2/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.30mm/約3.5号": "255m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.35mm/約4.5号": "185m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "145m"
+    },
+    "created_at": "2026-09-03T15:18:59.625742+09:00",
+    "updated_at": "2026-09-03T15:18:59.625742+09:00"
+  },
+  {
+    "item_name": "AMB 5501CS Rocket（左巻き）",
+    "jan": "036282310254",
+    "product_code": "1360780",
+    "price": 40000,
+    "url": "https://abugarcia.jp/products/ambassadeur-cs-rocketblue-grey",
+    "product_name": "Ambassadeur CS Rocket Blue Grey (5500/6500)",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "2/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.30mm/約3.5号": "255m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.35mm/約4.5号": "185m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "145m"
+    },
+    "created_at": "2026-09-03T15:18:59.625742+09:00",
+    "updated_at": "2026-09-03T15:18:59.625742+09:00"
+  },
+  {
+    "item_name": "AMB 6500CS Rocket（右巻き）",
+    "jan": "036282310261",
+    "product_code": "1360781",
+    "price": 40000,
+    "url": "https://abugarcia.jp/products/ambassadeur-cs-rocketblue-grey",
+    "product_name": "Ambassadeur CS Rocket Blue Grey (5500/6500)",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "2/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.30mm/約3.5号": "-",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.35mm/約4.5号": "255m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "200m"
+    },
+    "created_at": "2026-09-03T15:18:59.625742+09:00",
+    "updated_at": "2026-09-03T15:18:59.625742+09:00"
+  },
+  {
+    "item_name": "AMB 6501CS Rocket（左巻き）",
+    "jan": "036282312807",
+    "product_code": "1366405",
+    "price": 40000,
+    "url": "https://abugarcia.jp/products/ambassadeur-cs-rocketblue-grey",
+    "product_name": "Ambassadeur CS Rocket Blue Grey (5500/6500)",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "2/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.30mm/約3.5号": "-",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.35mm/約4.5号": "255m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "200m"
+    },
+    "created_at": "2026-09-03T15:18:59.625742+09:00",
+    "updated_at": "2026-09-03T15:18:59.625742+09:00"
+  }
+]

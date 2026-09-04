@@ -4,6 +4,7 @@
     "jan": "4960652554046",
     "price": 9000,
     "url": "https://www.daiwa.com/jp/product/m5qwvcg",
+    "product_name": "チヌジャッカーHG／チヌジャッカー (CHINU JACKER HG／CHINU JACKER)",
     "specs": {
       "標準自重（ｇ）": 135,
       "巻き取り長さ（cm/ハンドル1回転）": 67,
@@ -16,13 +17,14 @@
       "ハンドルタイプ": "バランサー付きシングル"
     },
     "created_at": "2026-04-22T22:36:51.976420+09:00",
-    "updated_at": "2026-04-22T22:36:51.976420+09:00"
+    "updated_at": "2026-09-03T17:21:38.974450+09:00"
   },
   {
     "item_name": "チヌジャッカー",
     "jan": "4960652554053",
     "price": 7000,
     "url": "https://www.daiwa.com/jp/product/m5qwvcg",
+    "product_name": "チヌジャッカーHG／チヌジャッカー (CHINU JACKER HG／CHINU JACKER)",
     "specs": {
       "標準自重（ｇ）": 135,
       "巻き取り長さ（cm/ハンドル1回転）": 67,
@@ -35,6 +37,6 @@
       "ハンドルタイプ": "バランサー付きシングル"
     },
     "created_at": "2026-04-22T22:36:51.976420+09:00",
-    "updated_at": "2026-04-22T22:36:51.976420+09:00"
+    "updated_at": "2026-09-03T17:21:38.974450+09:00"
   }
 ]

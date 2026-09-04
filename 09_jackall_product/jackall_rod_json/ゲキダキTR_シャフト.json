@@ -1,0 +1,138 @@
+[
+  {
+    "item_name": "GDTR-S511L/RN",
+    "jan": null,
+    "price": 35750,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "5'11\"(1.80m)",
+      "継数": "※3pcs",
+      "Weight": "ー",
+      "Power": "LIGHT",
+      "Lure Weight": "20-70g",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  },
+  {
+    "item_name": "GDTR-S65ML/RN",
+    "jan": null,
+    "price": 36300,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "6'5\"(1.96m)",
+      "継数": "※3pcs",
+      "Weight": "ー",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "20-70g",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  },
+  {
+    "item_name": "GDTR-S510ML/F",
+    "jan": null,
+    "price": 33000,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "5'10\"/1.78m",
+      "継数": "※3pcs",
+      "Weight": "83g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "20-70g",
+      "Line": "PE 0.4-0.8 号"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  },
+  {
+    "item_name": "GDTR-S511ML/R",
+    "jan": null,
+    "price": 33000,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "5'11\"/1.80m",
+      "継数": "※3pcs",
+      "Weight": "84g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "20-70g",
+      "Line": "PE 0.4-0.8 号"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  },
+  {
+    "item_name": "GDTR-S64M/R",
+    "jan": null,
+    "price": 33770,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "6'4\"/1.93m",
+      "継数": "※3pcs",
+      "Weight": "87g",
+      "Power": "MEDIUM",
+      "Lure Weight": "20-100g",
+      "Line": "PE 0.4-0.8 号"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  },
+  {
+    "item_name": "GDTR-S67MH/R",
+    "jan": null,
+    "price": 34650,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "6'7\"/2.01m",
+      "継数": "※3pcs",
+      "Weight": "95g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "30-120g",
+      "Line": "PE 0.4-0.8 号"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  },
+  {
+    "item_name": "GDTR-S611ML/R",
+    "jan": null,
+    "price": 34650,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "6'11\"/2.11m",
+      "継数": "※3pcs",
+      "Weight": "91g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "20-70g Cast max 40g",
+      "Line": "PE 0.4-0.8 号"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  },
+  {
+    "item_name": "ー",
+    "jan": null,
+    "price": null,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft/",
+    "product_name": "ゲキダキTR シャフト",
+    "specs": {
+      "Length(ft/m)": "ー",
+      "継数": "※ソリッド穂先部着脱可能な変則3ピース",
+      "Weight": "ー",
+      "Power": "ー",
+      "Lure Weight": "ー",
+      "Line": "ー"
+    },
+    "created_at": "2026-09-03T08:27:34.163101+09:00",
+    "updated_at": "2026-09-03T15:47:22.981440+09:00"
+  }
+]

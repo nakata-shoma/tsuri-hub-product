@@ -1,0 +1,86 @@
+[
+  {
+    "item_name": "DSEX-73",
+    "jan": null,
+    "price": 43000,
+    "url": "https://www.smith.jp/product/salt/darkshadowex/darkshadowex.html",
+    "product_name": "ダークシャドゥEX",
+    "specs": {
+      "length": "7'3\"",
+      "weight": "82g",
+      "lure": "1〜7g",
+      "line": "PE：0.2〜0.4号",
+      "power": "Light",
+      "action": "Regular Fast",
+      "griplength": "330mm",
+      "packlength": "114cm",
+      "blankmaterial": "24t+30tGraphite",
+      "tip dia": "1.4mm"
+    },
+    "created_at": "2026-09-03T16:37:17.770902+09:00",
+    "updated_at": "2026-09-03T16:37:17.770902+09:00"
+  },
+  {
+    "item_name": "DSEX-710",
+    "jan": null,
+    "price": 46000,
+    "url": "https://www.smith.jp/product/salt/darkshadowex/darkshadowex.html",
+    "product_name": "ダークシャドゥEX",
+    "specs": {
+      "length": "7'10\"",
+      "weight": "84g",
+      "lure": "2〜12g",
+      "line": "PE：0.3〜0.6号",
+      "power": "Medium Light",
+      "action": "Fast",
+      "griplength": "375mm",
+      "packlength": "123cm",
+      "blankmaterial": "30t+40tGraphite",
+      "tip dia": "1.4mm"
+    },
+    "created_at": "2026-09-03T16:37:17.770902+09:00",
+    "updated_at": "2026-09-03T16:37:17.770902+09:00"
+  },
+  {
+    "item_name": "DSEX-C74",
+    "jan": null,
+    "price": 44000,
+    "url": "https://www.smith.jp/product/salt/darkshadowex/darkshadowex.html",
+    "product_name": "ダークシャドゥEX",
+    "specs": {
+      "length": "7'4\"",
+      "weight": "90g",
+      "lure": "2〜9g",
+      "line": "PE：0.3〜0.6号",
+      "power": "Light",
+      "action": "Regular Fast",
+      "griplength": "365mm",
+      "packlength": "116cm",
+      "blankmaterial": "24t+30tGraphite",
+      "tip dia": "1.4mm"
+    },
+    "created_at": "2026-09-03T16:37:17.770902+09:00",
+    "updated_at": "2026-09-03T16:37:17.770902+09:00"
+  },
+  {
+    "item_name": "DSEX-C711",
+    "jan": null,
+    "price": 47000,
+    "url": "https://www.smith.jp/product/salt/darkshadowex/darkshadowex.html",
+    "product_name": "ダークシャドゥEX",
+    "specs": {
+      "length": "7'11\"",
+      "weight": "94g",
+      "lure": "2〜14g",
+      "line": "PE：0.4〜0.8号",
+      "power": "Medium Light",
+      "action": "Fast",
+      "griplength": "385mm",
+      "packlength": "125cm",
+      "blankmaterial": "30t+40tGraphite",
+      "tip dia": "1.4mm"
+    },
+    "created_at": "2026-09-03T16:37:17.770902+09:00",
+    "updated_at": "2026-09-03T16:37:17.770902+09:00"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "item_name": "MAX5 SX WINCH",
+    "jan": "036282037700",
+    "product_code": "1635761",
+    "price": 14000,
+    "url": "https://abugarcia.jp/products/max5-sx-winch",
+    "product_name": "MAX5 SX WINCH（マックス5 SX ウィンチ）",
+    "specs": {
+      "ギア比": "5.6:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "7+1",
+      "最大ライン巻取 (cm)": 58,
+      "ラインキャパシティ１": "16lb(0.330㎜)-100m",
+      "ラインキャパシティ２": "PE3-100m"
+    },
+    "created_at": "2026-09-03T15:19:26.639751+09:00",
+    "updated_at": "2026-09-03T15:19:26.639751+09:00"
+  },
+  {
+    "item_name": "MAX5 SX WINCH-L",
+    "jan": "036282037724",
+    "product_code": "1635763",
+    "price": 14000,
+    "url": "https://abugarcia.jp/products/max5-sx-winch",
+    "product_name": "MAX5 SX WINCH（マックス5 SX ウィンチ）",
+    "specs": {
+      "ギア比": "5.6:1",
+      "最大ドラグ力(kg)": 7,
+      "ボール/ローラーベアリング": "7+1",
+      "最大ライン巻取 (cm)": 58,
+      "ラインキャパシティ１": "16lb(0.330㎜)-100m",
+      "ラインキャパシティ２": "PE3-100m"
+    },
+    "created_at": "2026-09-03T15:19:26.639751+09:00",
+    "updated_at": "2026-09-03T15:19:26.639751+09:00"
+  }
+]

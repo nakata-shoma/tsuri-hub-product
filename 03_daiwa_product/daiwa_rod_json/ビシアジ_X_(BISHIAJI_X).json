@@ -4,6 +4,7 @@
     "jan": "4550133454325",
     "price": 23000,
     "url": "https://www.daiwa.com/jp/product/qavae3r",
+    "product_name": "ビシアジ X (BISHIAJI X)",
     "specs": {
       "全長（m）": 1.9,
       "継数": 2,
@@ -15,13 +16,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:34:21.966880+09:00",
-    "updated_at": "2026-04-22T23:34:21.966880+09:00"
+    "updated_at": "2026-09-03T17:27:48.473390+09:00"
   },
   {
     "item_name": "ビシアジＸ　ＭＨ－１５０・Ｊ",
     "jan": "4550133454332",
     "price": 21000,
     "url": "https://www.daiwa.com/jp/product/qavae3r",
+    "product_name": "ビシアジ X (BISHIAJI X)",
     "specs": {
       "全長（m）": 1.5,
       "継数": 2,
@@ -33,13 +35,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:34:21.966880+09:00",
-    "updated_at": "2026-04-22T23:34:21.966880+09:00"
+    "updated_at": "2026-09-03T17:27:48.473390+09:00"
   },
   {
     "item_name": "ビシアジＸ　ＭＨ－１７０・Ｊ",
     "jan": "4550133454349",
     "price": 22000,
     "url": "https://www.daiwa.com/jp/product/qavae3r",
+    "product_name": "ビシアジ X (BISHIAJI X)",
     "specs": {
       "全長（m）": 1.7,
       "継数": 2,
@@ -51,6 +54,6 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:34:21.966880+09:00",
-    "updated_at": "2026-04-22T23:34:21.966880+09:00"
+    "updated_at": "2026-09-03T17:27:48.473390+09:00"
   }
 ]

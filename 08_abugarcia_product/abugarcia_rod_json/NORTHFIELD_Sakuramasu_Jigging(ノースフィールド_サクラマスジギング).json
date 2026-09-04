@@ -1,0 +1,52 @@
+[
+  {
+    "item_name": "NFSC-64-1-MAX150",
+    "jan": "036282115866",
+    "product_code": "1578880",
+    "price": 19500,
+    "url": "https://abugarcia.jp/products/northfield-sakuramasu-jigging",
+    "product_name": "NORTHFIELD Sakuramasu Jigging(ノースフィールド サクラマスジギング)",
+    "specs": {
+      "レングス(ft/cm)": "6'4\"/193",
+      "パワー": 1,
+      "テーパー/アクション": "レギュラー",
+      "継数": "１※グリップジョイント",
+      "タイプ": "BC",
+      "PE(号)": "Max1.2",
+      "仕舞寸法(cm)": 145,
+      "先径(mm)": 1.5,
+      "ルアー(g)": "Max 180",
+      "材料": "カーボン81%、グラス19%",
+      "ライン(Lb)": "MAX 30",
+      "ベスト(g)": 150,
+      "ティップ": "チューブラー"
+    },
+    "created_at": "2026-09-03T00:39:46.839520+09:00",
+    "updated_at": "2026-09-03T15:17:24.627084+09:00"
+  },
+  {
+    "item_name": "NFSC-64-2-MAX200",
+    "jan": "036282115873",
+    "product_code": "1578881",
+    "price": 19500,
+    "url": "https://abugarcia.jp/products/northfield-sakuramasu-jigging",
+    "product_name": "NORTHFIELD Sakuramasu Jigging(ノースフィールド サクラマスジギング)",
+    "specs": {
+      "レングス(ft/cm)": "6'4\"/193",
+      "パワー": 2,
+      "テーパー/アクション": "レギュラー",
+      "継数": "１※グリップジョイント",
+      "タイプ": "BC",
+      "PE(号)": "Max1.5",
+      "仕舞寸法(cm)": 145,
+      "先径(mm)": 1.5,
+      "ルアー(g)": "Max 230",
+      "材料": "カーボン83%、グラス17%",
+      "ライン(Lb)": "MAX 30",
+      "ベスト(g)": 200,
+      "ティップ": "チューブラー"
+    },
+    "created_at": "2026-09-03T00:39:46.839520+09:00",
+    "updated_at": "2026-09-03T15:17:24.627084+09:00"
+  }
+]

@@ -4,6 +4,7 @@
     "jan": "4550133339110",
     "price": 114000,
     "url": "https://www.daiwa.com/jp/product/jjaus22",
+    "product_name": "ソルティガ ブレイクスルー (SALTIGA BREAKTHROUGH)",
     "specs": {
       "全長（m）": 2.44,
       "継数": 2,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:27.617317+09:00",
-    "updated_at": "2026-04-22T23:33:27.617317+09:00"
+    "updated_at": "2026-09-03T17:27:47.528817+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＢＲＥＡＫＴＨＲＯＵＧＨ　Ｃ８３－６",
     "jan": "4550133339127",
     "price": 115000,
     "url": "https://www.daiwa.com/jp/product/jjaus22",
+    "product_name": "ソルティガ ブレイクスルー (SALTIGA BREAKTHROUGH)",
     "specs": {
       "全長（m）": 2.51,
       "継数": 2,
@@ -37,13 +39,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:27.617317+09:00",
-    "updated_at": "2026-04-22T23:33:27.617317+09:00"
+    "updated_at": "2026-09-03T17:27:47.528817+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＢＲＥＡＫＴＨＲＯＵＧＨ　Ｃ７１０－８",
     "jan": "4550133339134",
     "price": 115000,
     "url": "https://www.daiwa.com/jp/product/jjaus22",
+    "product_name": "ソルティガ ブレイクスルー (SALTIGA BREAKTHROUGH)",
     "specs": {
       "全長（m）": 2.39,
       "継数": 2,
@@ -57,13 +60,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:27.617317+09:00",
-    "updated_at": "2026-04-22T23:33:27.617317+09:00"
+    "updated_at": "2026-09-03T17:27:47.528817+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＢＲＥＡＫＴＨＲＯＵＧＨ　Ｃ８２－８",
     "jan": "4550133339141",
     "price": 116000,
     "url": "https://www.daiwa.com/jp/product/jjaus22",
+    "product_name": "ソルティガ ブレイクスルー (SALTIGA BREAKTHROUGH)",
     "specs": {
       "全長（m）": 2.49,
       "継数": 2,
@@ -77,13 +81,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:27.617317+09:00",
-    "updated_at": "2026-04-22T23:33:27.617317+09:00"
+    "updated_at": "2026-09-03T17:27:47.528817+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＢＲＥＡＫＴＨＲＯＵＧＨ　Ｃ８８－６／８",
     "jan": "4550133446351",
     "price": 120000,
     "url": "https://www.daiwa.com/jp/product/jjaus22",
+    "product_name": "ソルティガ ブレイクスルー (SALTIGA BREAKTHROUGH)",
     "specs": {
       "全長（m）": 2.64,
       "継数": 2,
@@ -97,13 +102,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:27.617317+09:00",
-    "updated_at": "2026-04-22T23:33:27.617317+09:00"
+    "updated_at": "2026-09-03T17:27:47.528817+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＢＲＥＡＫＴＨＲＯＵＧＨ　Ｃ８１－１０",
     "jan": "4550133446368",
     "price": 122000,
     "url": "https://www.daiwa.com/jp/product/jjaus22",
+    "product_name": "ソルティガ ブレイクスルー (SALTIGA BREAKTHROUGH)",
     "specs": {
       "全長（m）": 2.46,
       "継数": 2,
@@ -117,6 +123,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:27.617317+09:00",
-    "updated_at": "2026-04-22T23:33:27.617317+09:00"
+    "updated_at": "2026-09-03T17:27:47.528817+09:00"
   }
 ]

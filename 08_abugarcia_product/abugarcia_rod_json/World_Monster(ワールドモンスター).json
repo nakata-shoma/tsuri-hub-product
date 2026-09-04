@@ -1,0 +1,102 @@
+[
+  {
+    "item_name": "WOMC-5103MH",
+    "jan": "036282159716",
+    "product_code": "1660020",
+    "price": 35900,
+    "url": "https://abugarcia.jp/products/world-monster2026",
+    "product_name": "World Monster(ワールドモンスター)",
+    "specs": {
+      "レングス(ft/cm)": "5’10”/177.8",
+      "継数": 3,
+      "タイプ": "BC",
+      "PE(号)": -6,
+      "仕舞寸法(cm)": 62,
+      "先径(mm)": 2.25,
+      "ルアー(g)": -120,
+      "使用材料": "カーボン55%,グラス45%"
+    },
+    "created_at": "2026-09-03T00:40:26.473366+09:00",
+    "updated_at": "2026-09-03T15:18:35.742702+09:00"
+  },
+  {
+    "item_name": "WOMC-704MH",
+    "jan": "036282159723",
+    "product_code": "1660021",
+    "price": 38900,
+    "url": "https://abugarcia.jp/products/world-monster2026",
+    "product_name": "World Monster(ワールドモンスター)",
+    "specs": {
+      "レングス(ft/cm)": "7’0”/213.4",
+      "継数": 4,
+      "タイプ": "BC",
+      "PE(号)": -6,
+      "仕舞寸法(cm)": 59,
+      "先径(mm)": 2.05,
+      "ルアー(g)": -120,
+      "使用材料": "カーボン70%,グラス30%"
+    },
+    "created_at": "2026-09-03T00:40:26.473366+09:00",
+    "updated_at": "2026-09-03T15:18:35.742702+09:00"
+  },
+  {
+    "item_name": "WOMC-7104XH",
+    "jan": "036282159730",
+    "product_code": "1660022",
+    "price": 41900,
+    "url": "https://abugarcia.jp/products/world-monster2026",
+    "product_name": "World Monster(ワールドモンスター)",
+    "specs": {
+      "レングス(ft/cm)": "7’10”/238.8",
+      "継数": 4,
+      "タイプ": "BC",
+      "PE(号)": -12,
+      "仕舞寸法(cm)": 63,
+      "先径(mm)": 2.4,
+      "ルアー(g)": -300,
+      "使用材料": "カーボン80%,グラス20%"
+    },
+    "created_at": "2026-09-03T00:40:26.473366+09:00",
+    "updated_at": "2026-09-03T15:18:35.742702+09:00"
+  },
+  {
+    "item_name": "WOMS-865M",
+    "jan": "036282159747",
+    "product_code": "1660023",
+    "price": 39900,
+    "url": "https://abugarcia.jp/products/world-monster2026",
+    "product_name": "World Monster(ワールドモンスター)",
+    "specs": {
+      "レングス(ft/cm)": "8’6”/259.1",
+      "継数": 5,
+      "タイプ": "SP",
+      "PE(号)": -4,
+      "仕舞寸法(cm)": 57.5,
+      "先径(mm)": 1.7,
+      "ルアー(g)": -60,
+      "使用材料": "カーボン70%,グラス25%"
+    },
+    "created_at": "2026-09-03T00:40:26.473366+09:00",
+    "updated_at": "2026-09-03T15:18:35.742702+09:00"
+  },
+  {
+    "item_name": "WOMS-805XXH",
+    "jan": "036282159754",
+    "product_code": "1660024",
+    "price": 45900,
+    "url": "https://abugarcia.jp/products/world-monster2026",
+    "product_name": "World Monster(ワールドモンスター)",
+    "specs": {
+      "レングス(ft/cm)": "8’0”/243.8",
+      "継数": 5,
+      "タイプ": "SP",
+      "PE(号)": -12,
+      "仕舞寸法(cm)": 57.5,
+      "先径(mm)": 3.02,
+      "ルアー(g)": -200,
+      "使用材料": "カーボン70%,グラス25%"
+    },
+    "created_at": "2026-09-03T00:40:26.473366+09:00",
+    "updated_at": "2026-09-03T15:18:35.742702+09:00"
+  }
+]

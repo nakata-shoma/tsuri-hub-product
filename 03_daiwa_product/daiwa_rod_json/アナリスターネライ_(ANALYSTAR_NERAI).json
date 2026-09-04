@@ -4,6 +4,7 @@
     "jan": "4550133455544",
     "price": 32000,
     "url": "https://www.daiwa.com/jp/product/bcw1yiy",
+    "product_name": "アナリスターネライ (ANALYSTAR NERAI)",
     "specs": {
       "全長（m）": 2.1,
       "継数": 2,
@@ -15,13 +16,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:24.001705+09:00",
-    "updated_at": "2026-04-22T23:32:24.001705+09:00"
+    "updated_at": "2026-09-03T17:27:46.484123+09:00"
   },
   {
     "item_name": "アナリスターネライ　Ｍ－２４０",
     "jan": "4550133455551",
     "price": 33500,
     "url": "https://www.daiwa.com/jp/product/bcw1yiy",
+    "product_name": "アナリスターネライ (ANALYSTAR NERAI)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 2,
@@ -33,13 +35,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:24.001705+09:00",
-    "updated_at": "2026-04-22T23:32:24.001705+09:00"
+    "updated_at": "2026-09-03T17:27:46.484123+09:00"
   },
   {
     "item_name": "アナリスターネライ　ＭＨ－１８０",
     "jan": "4550133455568",
     "price": 31500,
     "url": "https://www.daiwa.com/jp/product/bcw1yiy",
+    "product_name": "アナリスターネライ (ANALYSTAR NERAI)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -51,13 +54,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:24.001705+09:00",
-    "updated_at": "2026-04-22T23:32:24.001705+09:00"
+    "updated_at": "2026-09-03T17:27:46.484123+09:00"
   },
   {
     "item_name": "アナリスターネライ　ＭＨ－２１０",
     "jan": "4550133455575",
     "price": 33000,
     "url": "https://www.daiwa.com/jp/product/bcw1yiy",
+    "product_name": "アナリスターネライ (ANALYSTAR NERAI)",
     "specs": {
       "全長（m）": 2.1,
       "継数": 2,
@@ -69,13 +73,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:24.001705+09:00",
-    "updated_at": "2026-04-22T23:32:24.001705+09:00"
+    "updated_at": "2026-09-03T17:27:46.484123+09:00"
   },
   {
     "item_name": "アナリスターネライ　ＭＨ－２４０",
     "jan": "4550133455582",
     "price": 34500,
     "url": "https://www.daiwa.com/jp/product/bcw1yiy",
+    "product_name": "アナリスターネライ (ANALYSTAR NERAI)",
     "specs": {
       "全長（m）": 2.4,
       "継数": 2,
@@ -87,13 +92,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:24.001705+09:00",
-    "updated_at": "2026-04-22T23:32:24.001705+09:00"
+    "updated_at": "2026-09-03T17:27:46.484123+09:00"
   },
   {
     "item_name": "アナリスターネライ　Ｈ－２１０",
     "jan": "4550133455599",
     "price": 34000,
     "url": "https://www.daiwa.com/jp/product/bcw1yiy",
+    "product_name": "アナリスターネライ (ANALYSTAR NERAI)",
     "specs": {
       "全長（m）": 2.11,
       "継数": 2,
@@ -105,6 +111,6 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:24.001705+09:00",
-    "updated_at": "2026-04-22T23:32:24.001705+09:00"
+    "updated_at": "2026-09-03T17:27:46.484123+09:00"
   }
 ]

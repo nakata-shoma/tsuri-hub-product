@@ -4,6 +4,7 @@
     "jan": "4550133441424",
     "price": 110000,
     "url": "https://www.daiwa.com/jp/product/69hcsrq",
+    "product_name": "銀狼王牙 (GINRO OHGA)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:34.276252+09:00",
-    "updated_at": "2026-04-22T23:31:34.276252+09:00"
+    "updated_at": "2026-09-03T17:27:45.701120+09:00"
   },
   {
     "item_name": "銀狼王牙　Ｓ　０３－５３",
     "jan": "4550133441431",
     "price": 110500,
     "url": "https://www.daiwa.com/jp/product/69hcsrq",
+    "product_name": "銀狼王牙 (GINRO OHGA)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:34.276252+09:00",
-    "updated_at": "2026-04-22T23:31:34.276252+09:00"
+    "updated_at": "2026-09-03T17:27:45.701120+09:00"
   },
   {
     "item_name": "銀狼王牙　Ｓ　０６－５３",
     "jan": "4550133441448",
     "price": 111000,
     "url": "https://www.daiwa.com/jp/product/69hcsrq",
+    "product_name": "銀狼王牙 (GINRO OHGA)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:34.276252+09:00",
-    "updated_at": "2026-04-22T23:31:34.276252+09:00"
+    "updated_at": "2026-09-03T17:27:45.701120+09:00"
   },
   {
     "item_name": "銀狼王牙　Ｓ　１－５３",
     "jan": "4550133441455",
     "price": 112000,
     "url": "https://www.daiwa.com/jp/product/69hcsrq",
+    "product_name": "銀狼王牙 (GINRO OHGA)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -73,13 +77,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:34.276252+09:00",
-    "updated_at": "2026-04-22T23:31:34.276252+09:00"
+    "updated_at": "2026-09-03T17:27:45.701120+09:00"
   },
   {
     "item_name": "銀狼王牙　Ｆ　０６－５０",
     "jan": "4550133441462",
     "price": 110000,
     "url": "https://www.daiwa.com/jp/product/69hcsrq",
+    "product_name": "銀狼王牙 (GINRO OHGA)",
     "specs": {
       "全長（m）": 5.0,
       "継数": 5,
@@ -92,13 +97,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:34.276252+09:00",
-    "updated_at": "2026-04-22T23:31:34.276252+09:00"
+    "updated_at": "2026-09-03T17:27:45.701120+09:00"
   },
   {
     "item_name": "銀狼王牙　Ｆ　０６－５３",
     "jan": "4550133441479",
     "price": 111000,
     "url": "https://www.daiwa.com/jp/product/69hcsrq",
+    "product_name": "銀狼王牙 (GINRO OHGA)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -111,13 +117,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:34.276252+09:00",
-    "updated_at": "2026-04-22T23:31:34.276252+09:00"
+    "updated_at": "2026-09-03T17:27:45.701120+09:00"
   },
   {
     "item_name": "銀狼王牙　Ｆ　１－５３",
     "jan": "4550133441486",
     "price": 112000,
     "url": "https://www.daiwa.com/jp/product/69hcsrq",
+    "product_name": "銀狼王牙 (GINRO OHGA)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -130,6 +137,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:34.276252+09:00",
-    "updated_at": "2026-04-22T23:31:34.276252+09:00"
+    "updated_at": "2026-09-03T17:27:45.701120+09:00"
   }
 ]

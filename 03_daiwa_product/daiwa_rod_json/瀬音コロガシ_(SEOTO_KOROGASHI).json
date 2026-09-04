@@ -4,6 +4,7 @@
     "jan": "4960652875929",
     "price": 56000,
     "url": "https://www.daiwa.com/jp/product/syktyrx",
+    "product_name": "瀬音コロガシ (SEOTO KOROGASHI)",
     "specs": {
       "全長（m）": 8.1,
       "継数": 7,
@@ -17,13 +18,14 @@
       "カーボン含有率（％）": 99
     },
     "created_at": "2026-04-22T23:34:41.655428+09:00",
-    "updated_at": "2026-04-22T23:34:41.655428+09:00"
+    "updated_at": "2026-09-03T17:27:48.837576+09:00"
   },
   {
     "item_name": "瀬音コロガシ　９０",
     "jan": "4960652875936",
     "price": 63000,
     "url": "https://www.daiwa.com/jp/product/syktyrx",
+    "product_name": "瀬音コロガシ (SEOTO KOROGASHI)",
     "specs": {
       "全長（m）": 9,
       "継数": 8,
@@ -37,6 +39,6 @@
       "カーボン含有率（％）": 99
     },
     "created_at": "2026-04-22T23:34:41.655428+09:00",
-    "updated_at": "2026-04-22T23:34:41.655428+09:00"
+    "updated_at": "2026-09-03T17:27:48.837576+09:00"
   }
 ]

@@ -1,0 +1,98 @@
+[
+  {
+    "item_name": "STPC-210H-TT",
+    "jan": null,
+    "price": 31350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/seitei_priza_detail/",
+    "product_name": "青帝 PRIZA",
+    "specs": {
+      "Length(ft)": "2.10m",
+      "Power": "HEAVY",
+      "weight (optimal weight)": "~130g",
+      "Line": "0.6~1.2号/PE",
+      "Type": "TUBULAR TIP"
+    },
+    "created_at": "2026-09-03T08:28:01.858077+09:00",
+    "updated_at": "2026-09-03T15:47:53.002824+09:00"
+  },
+  {
+    "item_name": "STPS-210M-ST",
+    "jan": null,
+    "price": 31350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/seitei_priza_detail/",
+    "product_name": "青帝 PRIZA",
+    "specs": {
+      "Length(ft)": "2.10m",
+      "Power": "MEDIUM",
+      "weight (optimal weight)": "1～15号(3～10号)",
+      "Line": "0.4～1.0号/PE",
+      "Type": "SOLID TIP"
+    },
+    "created_at": "2026-09-03T08:28:01.858077+09:00",
+    "updated_at": "2026-09-03T15:47:53.002824+09:00"
+  },
+  {
+    "item_name": "STPC-230MH-ST",
+    "jan": null,
+    "price": 31350,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/seitei_priza_detail/",
+    "product_name": "青帝 PRIZA",
+    "specs": {
+      "Length(ft)": "2.30m",
+      "Power": "MEDIUM HEAVY",
+      "weight (optimal weight)": "3～15号(8～15号)",
+      "Line": "0.4～1.0号/PE",
+      "Type": "SOLID TIP"
+    },
+    "created_at": "2026-09-03T08:28:01.858077+09:00",
+    "updated_at": "2026-09-03T15:47:53.002824+09:00"
+  },
+  {
+    "item_name": "STPS-245ML-TT",
+    "jan": null,
+    "price": 30250,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/seitei_priza_detail/",
+    "product_name": "青帝 PRIZA",
+    "specs": {
+      "Length(ft)": "2.45m",
+      "Power": "MEDIUM LIGHT",
+      "weight (optimal weight)": "1～15号(3～10号)",
+      "Line": "0.4～1.0号/PE",
+      "Type": "TUBULAR TIP"
+    },
+    "created_at": "2026-09-03T08:28:01.858077+09:00",
+    "updated_at": "2026-09-03T15:47:53.002824+09:00"
+  },
+  {
+    "item_name": "STPS-260ML-ST",
+    "jan": null,
+    "price": 30250,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/seitei_priza_detail/",
+    "product_name": "青帝 PRIZA",
+    "specs": {
+      "Length(ft)": "2.60m",
+      "Power": "MEDIUM LIGHT",
+      "weight (optimal weight)": "1～15号(3～10号)",
+      "Line": "0.4～1.0号/PE",
+      "Type": "SOLID TIP"
+    },
+    "created_at": "2026-09-03T08:28:01.858077+09:00",
+    "updated_at": "2026-09-03T15:47:53.002824+09:00"
+  },
+  {
+    "item_name": "STPS-245MH-ST",
+    "jan": null,
+    "price": 30250,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/seitei_priza_detail/",
+    "product_name": "青帝 PRIZA",
+    "specs": {
+      "Length(ft)": "2.45m",
+      "Power": "MEDIUM HEAVY",
+      "weight (optimal weight)": "3～15号(8～15号)",
+      "Line": "0.4～1.0号/PE",
+      "Type": "SOLID TIP"
+    },
+    "created_at": "2026-09-03T08:28:01.858077+09:00",
+    "updated_at": "2026-09-03T15:47:53.002824+09:00"
+  }
+]

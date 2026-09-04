@@ -1,0 +1,77 @@
+[
+  {
+    "item_name": "2017NEW SWS-58JH-TT",
+    "jan": null,
+    "price": 43780,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/light-game/scadwall/",
+    "product_name": "SCADWALL",
+    "specs": {
+      "Length(ft)": "5'8\"",
+      "継数": "1本",
+      "Lure": "~5.0g",
+      "Line": "mono~4lb/PE~0.6号"
+    },
+    "created_at": "2026-09-03T08:30:05.985516+09:00",
+    "updated_at": "2026-09-03T15:49:54.524208+09:00"
+  },
+  {
+    "item_name": "2017NEW SWS-80CL-ST",
+    "jan": null,
+    "price": 47300,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/light-game/scadwall/",
+    "product_name": "SCADWALL",
+    "specs": {
+      "Length(ft)": "8'0\"",
+      "継数": "2本",
+      "Lure": "~14.0g",
+      "Line": "mono~4lb/PE~0.6号"
+    },
+    "created_at": "2026-09-03T08:30:05.985516+09:00",
+    "updated_at": "2026-09-03T15:49:54.524208+09:00"
+  },
+  {
+    "item_name": "SWS-56JH-ST",
+    "jan": null,
+    "price": 43780,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/light-game/scadwall/",
+    "product_name": "SCADWALL",
+    "specs": {
+      "Length(ft)": "5'6\"",
+      "継数": "1本",
+      "Lure": "~3.0g",
+      "Line": "mono~4lb/PE~0.6号"
+    },
+    "created_at": "2026-09-03T08:30:05.985516+09:00",
+    "updated_at": "2026-09-03T15:49:54.524208+09:00"
+  },
+  {
+    "item_name": "SWS-62HS-ST",
+    "jan": null,
+    "price": 43780,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/light-game/scadwall/",
+    "product_name": "SCADWALL",
+    "specs": {
+      "Length(ft)": "6'2\"",
+      "継数": "2本",
+      "Lure": "~5.0g",
+      "Line": "mono~4lb/PE~0.6号"
+    },
+    "created_at": "2026-09-03T08:30:05.985516+09:00",
+    "updated_at": "2026-09-03T15:49:54.524208+09:00"
+  },
+  {
+    "item_name": "SWS-610LC-ST",
+    "jan": null,
+    "price": 43780,
+    "url": "https://www.jackall.co.jp/saltwater/shore-casting/products/rod/light-game/scadwall/",
+    "product_name": "SCADWALL",
+    "specs": {
+      "Length(ft)": "6'10\"",
+      "継数": "2本",
+      "Lure": "~7.0g",
+      "Line": "mono~4lb/PE~0.6号"
+    },
+    "created_at": "2026-09-03T08:30:05.985516+09:00",
+    "updated_at": "2026-09-03T15:49:54.524208+09:00"
+  }
+]

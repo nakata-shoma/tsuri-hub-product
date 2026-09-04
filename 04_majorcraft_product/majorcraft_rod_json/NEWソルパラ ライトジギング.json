@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "SPJLJ-S64ML",
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "specs": {
+      "": "",
+      "Model": "SPJLJ-S64ML",
+      "全長": "6'4\"",
+      "継数": "グリップ脱着式",
+      "ルアー": "40 - 150g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "104g",
+      "アクション": "RF",
+      "JAN (4573236)": 269276,
+      "PRICE": "¥10600(税込 ¥11660)"
+    },
+    "created_at": "2026-04-27T17:50:57.789232+09:00",
+    "updated_at": "2026-04-27T17:50:57.789232+09:00"
+  },
+  {
+    "item_name": "SPJLJ-S64M",
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "specs": {
+      "": "",
+      "Model": "SPJLJ-S64M",
+      "全長": "6'4\"",
+      "継数": "グリップ脱着式",
+      "ルアー": "60 - 180g",
+      "PEライン": "MAX 2.0号",
+      "標準自重": "106g",
+      "アクション": "RF",
+      "JAN (4573236)": 269283,
+      "PRICE": "¥11100(税込 ¥12210)"
+    },
+    "created_at": "2026-04-27T17:50:57.789232+09:00",
+    "updated_at": "2026-04-27T17:50:57.789232+09:00"
+  },
+  {
+    "item_name": "SPJLJ-S642ML",
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "specs": {
+      "": "",
+      "Model": "SPJLJ-S642ML",
+      "全長": "6'4\"",
+      "継数": 2,
+      "ルアー": "40 - 150g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "未定",
+      "アクション": "RF",
+      "JAN (4573236)": 269313,
+      "PRICE": "¥10600(¥11660)"
+    },
+    "created_at": "2026-04-27T17:50:57.789232+09:00",
+    "updated_at": "2026-04-27T17:50:57.789232+09:00"
+  },
+  {
+    "item_name": "SPJLJ-S642M",
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "specs": {
+      "": "",
+      "Model": "SPJLJ-S642M",
+      "全長": "6'4\"",
+      "継数": 2,
+      "ルアー": "60 - 180g",
+      "PEライン": "MAX 2.0号",
+      "標準自重": "未定",
+      "アクション": "RF",
+      "JAN (4573236)": 269320,
+      "PRICE": "¥11100(¥12210)"
+    },
+    "created_at": "2026-04-27T17:50:57.789232+09:00",
+    "updated_at": "2026-04-27T17:50:57.789232+09:00"
+  }
+]

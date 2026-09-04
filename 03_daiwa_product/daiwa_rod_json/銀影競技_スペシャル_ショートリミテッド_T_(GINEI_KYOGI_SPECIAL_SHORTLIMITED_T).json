@@ -4,6 +4,7 @@
     "jan": "4550133612244",
     "price": 370000,
     "url": "https://www.daiwa.com/jp/product/3ouf3fr",
+    "product_name": "銀影競技 スペシャル ショートリミテッド T (GINEI KYOGI SPECIAL SHORTLIMITED T)",
     "specs": {
       "全長（m）": 8.5,
       "継数": 7,
@@ -19,6 +20,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:14.303238+09:00",
-    "updated_at": "2026-04-22T23:31:14.303238+09:00"
+    "updated_at": "2026-09-03T17:27:45.254677+09:00"
   }
 ]

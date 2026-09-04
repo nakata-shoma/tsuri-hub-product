@@ -1,0 +1,146 @@
+[
+  {
+    "item_name": "AT2-S60UL-E",
+    "jan": null,
+    "price": 39600,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.83m",
+      "継数": "2pcs",
+      "仕舞寸法": "94.0cm",
+      "Weight": "65g",
+      "Lure": "0.4-2.0g",
+      "Line": "Ester MAX #0.4",
+      "Action": "Regular fast"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  },
+  {
+    "item_name": "AT2-S61L+E",
+    "jan": null,
+    "price": 39600,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.86m",
+      "継数": "2pcs",
+      "仕舞寸法": "95.5cm",
+      "Weight": "67g",
+      "Lure": "0.4-3.5g",
+      "Line": "Ester MAX #0.4",
+      "Action": "Fast"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  },
+  {
+    "item_name": "AT3-S60UL-E",
+    "jan": null,
+    "price": 39600,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.83m",
+      "継数": "3pcs",
+      "仕舞寸法": "64.5cm",
+      "Weight": "64g",
+      "Lure": "0.4-2.0g",
+      "Line": "Ester MAX #0.4",
+      "Action": "Regular fast"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  },
+  {
+    "item_name": "AT3-S61L+E",
+    "jan": null,
+    "price": 39600,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.85m",
+      "継数": "3pcs",
+      "仕舞寸法": "65.0cm",
+      "Weight": "66g",
+      "Lure": "0.4-3.5g",
+      "Line": "Ester MAX #0.4",
+      "Action": "Fast"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  },
+  {
+    "item_name": "AT3-S60L",
+    "jan": null,
+    "price": 39600,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.83m",
+      "継数": "3pcs",
+      "仕舞寸法": "64.5cm",
+      "Weight": "66g",
+      "Lure": "1.0-4.5g",
+      "Line": "MAX 3lb/PE #0.6",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  },
+  {
+    "item_name": "AT3-S63M",
+    "jan": null,
+    "price": 39930,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.91m",
+      "継数": "3pcs",
+      "仕舞寸法": "67.0cm",
+      "Weight": "72g",
+      "Lure": "1.6-5.0g",
+      "Line": "MAX 5lb/PE #0.8",
+      "Action": "Regular fast"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  },
+  {
+    "item_name": "AT3-S60L-E",
+    "jan": null,
+    "price": 39600,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.83m",
+      "継数": "3pcs",
+      "仕舞寸法": "64.5cm",
+      "Weight": "64g",
+      "Lure": "0.4-2.4g",
+      "Line": "Ester MAX #0.4",
+      "Action": "Regular fast"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  },
+  {
+    "item_name": "AT3-S60L-ST",
+    "jan": null,
+    "price": 39930,
+    "url": "https://www.jackall.co.jp/timon/products/rod/tconnection/another-t-connection/",
+    "product_name": "ANOTHER T-CONNECTION",
+    "specs": {
+      "Length": "1.83m",
+      "継数": "3pcs",
+      "仕舞寸法": "64.5cm",
+      "Weight": "66g",
+      "Lure": "0.6-2.4g",
+      "Line": "Ester MAX #0.4",
+      "Action": "Fast"
+    },
+    "created_at": "2026-09-03T08:31:35.939490+09:00",
+    "updated_at": "2026-09-03T15:51:15.884227+09:00"
+  }
+]

@@ -4,6 +4,7 @@
     "jan": "4550133288166",
     "price": 89000,
     "url": "https://www.daiwa.com/jp/product/5yjp4r7",
+    "product_name": "剛徹 (GOUTETSU)",
     "specs": {
       "全長（m）": 5,
       "継数": 5,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:31.227423+09:00",
-    "updated_at": "2026-04-22T23:31:31.227423+09:00"
+    "updated_at": "2026-09-03T17:27:45.631365+09:00"
   },
   {
     "item_name": "剛徹　ＭＨ－５３・Ｗ",
     "jan": "4550133288173",
     "price": 90000,
     "url": "https://www.daiwa.com/jp/product/5yjp4r7",
+    "product_name": "剛徹 (GOUTETSU)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:31.227423+09:00",
-    "updated_at": "2026-04-22T23:31:31.227423+09:00"
+    "updated_at": "2026-09-03T17:27:45.631365+09:00"
   },
   {
     "item_name": "剛徹　Ｈ－５０・Ｗ",
     "jan": "4550133288180",
     "price": 91000,
     "url": "https://www.daiwa.com/jp/product/5yjp4r7",
+    "product_name": "剛徹 (GOUTETSU)",
     "specs": {
       "全長（m）": 5,
       "継数": 5,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:31.227423+09:00",
-    "updated_at": "2026-04-22T23:31:31.227423+09:00"
+    "updated_at": "2026-09-03T17:27:45.631365+09:00"
   },
   {
     "item_name": "剛徹　ＨＨ－５０・Ｗ",
     "jan": "4550133288197",
     "price": 97000,
     "url": "https://www.daiwa.com/jp/product/5yjp4r7",
+    "product_name": "剛徹 (GOUTETSU)",
     "specs": {
       "全長（m）": 5,
       "継数": 5,
@@ -73,6 +77,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:31.227423+09:00",
-    "updated_at": "2026-04-22T23:31:31.227423+09:00"
+    "updated_at": "2026-09-03T17:27:45.631365+09:00"
   }
 ]

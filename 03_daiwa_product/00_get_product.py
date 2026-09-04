@@ -1,16 +1,14 @@
-import csv
-import requests
-from bs4 import BeautifulSoup
+import sys
+from pathlib import Path
 from urllib.parse import urljoin
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from common.scraper_utils import get_soup, save_urls_csv  # noqa: E402
 
 BASE_URL = "https://www.daiwa.com"
 REEL_URL = "https://www.daiwa.com/jp/product/productlist?category1=%E3%83%AA%E3%83%BC%E3%83%AB"
 ROD_URL  = "https://www.daiwa.com/jp/product/productlist?category1=%E3%83%AD%E3%83%83%E3%83%89"
-
-def get_soup(url):
-    res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
-    res.raise_for_status()
-    return BeautifulSoup(res.text, "html.parser")
 
 def extract_product_links(soup):
     links = []
@@ -65,26 +63,14 @@ def scrape_all_pages(start_url):
 
     return sorted(all_links)
 
-def save_to_csv(urls, filename="./03_daiwa_product/daiwa_urls/daiwa_products.csv"):
-    with open(filename, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        for url in urls:
-            writer.writerow([url])
-
 if __name__ == "__main__":
     # リール
     reel_urls = scrape_all_pages(REEL_URL)
-    save_to_csv(
-        reel_urls,
-        filename="./03_daiwa_product/daiwa_urls/daiwa_products_reel.csv"
-    )
+    save_urls_csv("./03_daiwa_product/daiwa_urls/daiwa_products_reel.csv", reel_urls)
     print(f"リール完了: {len(reel_urls)} 件")
 
     # ロッド
     rod_urls = scrape_all_pages(ROD_URL)
-    save_to_csv(
-        rod_urls,
-        filename="./03_daiwa_product/daiwa_urls/daiwa_products_rod.csv"
-    )
+    save_urls_csv("./03_daiwa_product/daiwa_urls/daiwa_products_rod.csv", rod_urls)
     print(f"ロッド完了: {len(rod_urls)} 件")
 

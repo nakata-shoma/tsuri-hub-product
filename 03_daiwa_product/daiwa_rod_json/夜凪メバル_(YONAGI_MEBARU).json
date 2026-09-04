@@ -4,6 +4,7 @@
     "jan": "4960652958677",
     "price": 21900,
     "url": "https://www.daiwa.com/jp/product/x6ibwtc",
+    "product_name": "夜凪メバル (YONAGI MEBARU)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -13,13 +14,14 @@
       "カーボン含有率（％）": 93
     },
     "created_at": "2026-04-22T23:35:16.637484+09:00",
-    "updated_at": "2026-04-22T23:35:16.637484+09:00"
+    "updated_at": "2026-09-03T17:27:49.443265+09:00"
   },
   {
     "item_name": "夜凪メバル　硬調６０",
     "jan": "4960652958684",
     "price": 25200,
     "url": "https://www.daiwa.com/jp/product/x6ibwtc",
+    "product_name": "夜凪メバル (YONAGI MEBARU)",
     "specs": {
       "全長（m）": 6,
       "継数": 6,
@@ -29,13 +31,14 @@
       "カーボン含有率（％）": 97
     },
     "created_at": "2026-04-22T23:35:16.637484+09:00",
-    "updated_at": "2026-04-22T23:35:16.637484+09:00"
+    "updated_at": "2026-09-03T17:27:49.443265+09:00"
   },
   {
     "item_name": "夜凪メバル　硬調７０",
     "jan": "4960652958691",
     "price": 30800,
     "url": "https://www.daiwa.com/jp/product/x6ibwtc",
+    "product_name": "夜凪メバル (YONAGI MEBARU)",
     "specs": {
       "全長（m）": 7,
       "継数": 7,
@@ -45,13 +48,14 @@
       "カーボン含有率（％）": 98
     },
     "created_at": "2026-04-22T23:35:16.637484+09:00",
-    "updated_at": "2026-04-22T23:35:16.637484+09:00"
+    "updated_at": "2026-09-03T17:27:49.443265+09:00"
   },
   {
     "item_name": "夜凪メバル　硬調硬６０",
     "jan": "4960652958707",
     "price": 26300,
     "url": "https://www.daiwa.com/jp/product/x6ibwtc",
+    "product_name": "夜凪メバル (YONAGI MEBARU)",
     "specs": {
       "全長（m）": 6,
       "継数": 6,
@@ -61,6 +65,6 @@
       "カーボン含有率（％）": 97
     },
     "created_at": "2026-04-22T23:35:16.637484+09:00",
-    "updated_at": "2026-04-22T23:35:16.637484+09:00"
+    "updated_at": "2026-09-03T17:27:49.443265+09:00"
   }
 ]

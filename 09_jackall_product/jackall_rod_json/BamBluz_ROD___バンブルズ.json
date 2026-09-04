@@ -1,0 +1,66 @@
+[
+  {
+    "item_name": "BB-C62-2S",
+    "jan": null,
+    "price": 32450,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz-rod/",
+    "product_name": "BamBluz ROD / バンブルズ",
+    "specs": {
+      "Length(ft/m)": "6'2\"(1.88m)",
+      "継数": "1本",
+      "Power": "#2Power-Slow Action",
+      "Lure Weight": "MAX160g",
+      "Line": "PE MAX 2.5号"
+    },
+    "created_at": "2026-09-03T08:26:27.552448+09:00",
+    "updated_at": "2026-09-03T15:46:07.185460+09:00"
+  },
+  {
+    "item_name": "BB-C62-3S",
+    "jan": null,
+    "price": 32450,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz-rod/",
+    "product_name": "BamBluz ROD / バンブルズ",
+    "specs": {
+      "Length(ft/m)": "6'2\"(1.88m)",
+      "継数": "1本",
+      "Power": "#3Power-Slow Action",
+      "Lure Weight": "MAX200g",
+      "Line": "PE MAX3.0号"
+    },
+    "created_at": "2026-09-03T08:26:27.552448+09:00",
+    "updated_at": "2026-09-03T15:46:07.185460+09:00"
+  },
+  {
+    "item_name": "BB-S510-3F",
+    "jan": null,
+    "price": 32450,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz-rod/",
+    "product_name": "BamBluz ROD / バンブルズ",
+    "specs": {
+      "Length(ft/m)": "5'10\"(1.78m)",
+      "継数": "1本",
+      "Power": "#3Power-Fast Action",
+      "Lure Weight": "MAX200g",
+      "Line": "PE MAX3.0号"
+    },
+    "created_at": "2026-09-03T08:26:27.552448+09:00",
+    "updated_at": "2026-09-03T15:46:07.185460+09:00"
+  },
+  {
+    "item_name": "BB-S60-3R",
+    "jan": null,
+    "price": 32450,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bambluz-rod/",
+    "product_name": "BamBluz ROD / バンブルズ",
+    "specs": {
+      "Length(ft/m)": "6'0\"(1.83m)",
+      "継数": "1本",
+      "Power": "#3Power-Regular Action",
+      "Lure Weight": "MAX200g",
+      "Line": "PE MAX3.0号"
+    },
+    "created_at": "2026-09-03T08:26:27.552448+09:00",
+    "updated_at": "2026-09-03T15:46:07.185460+09:00"
+  }
+]

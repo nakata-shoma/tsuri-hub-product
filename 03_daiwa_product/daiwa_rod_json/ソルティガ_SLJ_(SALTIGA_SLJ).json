@@ -4,6 +4,7 @@
     "jan": "4550133067761",
     "price": 51000,
     "url": "https://www.daiwa.com/jp/product/kd0msi2",
+    "product_name": "ソルティガ SLJ (SALTIGA SLJ)",
     "specs": {
       "全長（m）": 1.78,
       "継数": 1,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:33.952255+09:00",
-    "updated_at": "2026-04-22T23:33:33.952255+09:00"
+    "updated_at": "2026-09-03T17:27:47.571110+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＳＬＪ　６４ＭＬＳ－ＳＭＴ",
     "jan": "4550133067778",
     "price": 52000,
     "url": "https://www.daiwa.com/jp/product/kd0msi2",
+    "product_name": "ソルティガ SLJ (SALTIGA SLJ)",
     "specs": {
       "全長（m）": 1.93,
       "継数": 1,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:33.952255+09:00",
-    "updated_at": "2026-04-22T23:33:33.952255+09:00"
+    "updated_at": "2026-09-03T17:27:47.571110+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＳＬＪ　６２ＭＳ－ＳＭＴ",
     "jan": "4550133067785",
     "price": 53000,
     "url": "https://www.daiwa.com/jp/product/kd0msi2",
+    "product_name": "ソルティガ SLJ (SALTIGA SLJ)",
     "specs": {
       "全長（m）": 1.88,
       "継数": 1,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:33.952255+09:00",
-    "updated_at": "2026-04-22T23:33:33.952255+09:00"
+    "updated_at": "2026-09-03T17:27:47.571110+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＳＬＪ　６１ＭＳ　ＴＧ",
     "jan": "4550133067792",
     "price": 54000,
     "url": "https://www.daiwa.com/jp/product/kd0msi2",
+    "product_name": "ソルティガ SLJ (SALTIGA SLJ)",
     "specs": {
       "全長（m）": 1.85,
       "継数": 1,
@@ -73,13 +77,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:33.952255+09:00",
-    "updated_at": "2026-04-22T23:33:33.952255+09:00"
+    "updated_at": "2026-09-03T17:27:47.571110+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＳＬＪ　６０ＭＢ－ＳＭＴ",
     "jan": "4550133067808",
     "price": 53000,
     "url": "https://www.daiwa.com/jp/product/kd0msi2",
+    "product_name": "ソルティガ SLJ (SALTIGA SLJ)",
     "specs": {
       "全長（m）": 1.83,
       "継数": 1,
@@ -92,13 +97,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:33.952255+09:00",
-    "updated_at": "2026-04-22T23:33:33.952255+09:00"
+    "updated_at": "2026-09-03T17:27:47.571110+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＳＬＪ　６１ＭＬＳ　ＴＧ",
     "jan": "4550133163661",
     "price": 53000,
     "url": "https://www.daiwa.com/jp/product/kd0msi2",
+    "product_name": "ソルティガ SLJ (SALTIGA SLJ)",
     "specs": {
       "全長（m）": 1.85,
       "継数": 1,
@@ -111,13 +117,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:33.952255+09:00",
-    "updated_at": "2026-04-22T23:33:33.952255+09:00"
+    "updated_at": "2026-09-03T17:27:47.571110+09:00"
   },
   {
     "item_name": "ＳＡＬＴＩＧＡ　ＳＬＪ　６０ＭＬＢ－ＳＭＴ",
     "jan": "4550133163678",
     "price": 52000,
     "url": "https://www.daiwa.com/jp/product/kd0msi2",
+    "product_name": "ソルティガ SLJ (SALTIGA SLJ)",
     "specs": {
       "全長（m）": 1.83,
       "継数": 1,
@@ -130,6 +137,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:33.952255+09:00",
-    "updated_at": "2026-04-22T23:33:33.952255+09:00"
+    "updated_at": "2026-09-03T17:27:47.571110+09:00"
   }
 ]

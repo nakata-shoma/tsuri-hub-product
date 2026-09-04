@@ -4,6 +4,7 @@
     "jan": "4550133069482",
     "price": 55500,
     "url": "https://www.daiwa.com/jp/product/ey8s7ly",
+    "product_name": "BJスナイパー MTヘチ (BJ SNIPER MT HECHI)",
     "specs": {
       "全長（m）": 2.8,
       "継数": 4,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:53.943605+09:00",
-    "updated_at": "2026-04-22T23:32:53.943605+09:00"
+    "updated_at": "2026-09-03T17:27:46.890767+09:00"
   },
   {
     "item_name": "ＢＪスナイパーメタルチューン　ヘチ　極３１０",
     "jan": "4550133069499",
     "price": 57000,
     "url": "https://www.daiwa.com/jp/product/ey8s7ly",
+    "product_name": "BJスナイパー MTヘチ (BJ SNIPER MT HECHI)",
     "specs": {
       "全長（m）": 3.1,
       "継数": 4,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:53.943605+09:00",
-    "updated_at": "2026-04-22T23:32:53.943605+09:00"
+    "updated_at": "2026-09-03T17:27:46.890767+09:00"
   },
   {
     "item_name": "ＢＪスナイパーメタルチューン　ヘチ　２８０",
     "jan": "4550133069505",
     "price": 55500,
     "url": "https://www.daiwa.com/jp/product/ey8s7ly",
+    "product_name": "BJスナイパー MTヘチ (BJ SNIPER MT HECHI)",
     "specs": {
       "全長（m）": 2.8,
       "継数": 4,
@@ -54,6 +57,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:53.943605+09:00",
-    "updated_at": "2026-04-22T23:32:53.943605+09:00"
+    "updated_at": "2026-09-03T17:27:46.890767+09:00"
   }
 ]

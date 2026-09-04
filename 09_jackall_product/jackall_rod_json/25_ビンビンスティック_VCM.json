@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "BSV-C511UL",
+    "jan": null,
+    "price": 32780,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020binbinstickvcm/",
+    "product_name": "25 ビンビンスティック VCM",
+    "specs": {
+      "Length(ft/m)": "5'11\"/1.80m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "113g",
+      "Power": "ULTRA LIGHT",
+      "Lure Weight": "DOTERA MAX 300g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:25:28.908103+09:00",
+    "updated_at": "2026-09-03T15:45:01.062957+09:00"
+  },
+  {
+    "item_name": "BSV-C68ML",
+    "jan": null,
+    "price": 33330,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020binbinstickvcm/",
+    "product_name": "25 ビンビンスティック VCM",
+    "specs": {
+      "Length(ft/m)": "6'8\"/2.03m",
+      "継数": "2pcs(handle joint)",
+      "Weight": "122g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "DOTERA MAX 300g",
+      "Line": "PE MAX #1.5"
+    },
+    "created_at": "2026-09-03T08:25:28.908103+09:00",
+    "updated_at": "2026-09-03T15:45:01.062957+09:00"
+  }
+]

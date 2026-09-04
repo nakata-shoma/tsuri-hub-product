@@ -1,0 +1,66 @@
+[
+  {
+    "item_name": "GTRB-S511ML/R",
+    "jan": null,
+    "price": 24200,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft-rb/",
+    "product_name": "ゲキダキTR シャフト RB",
+    "specs": {
+      "Length(ft/m)": "5'11\"(1.80m)",
+      "継数": "3pcs",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "20-70g",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:32.355893+09:00",
+    "updated_at": "2026-09-03T15:47:20.818633+09:00"
+  },
+  {
+    "item_name": "GTRB-S65ML/RN",
+    "jan": null,
+    "price": 25300,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft-rb/",
+    "product_name": "ゲキダキTR シャフト RB",
+    "specs": {
+      "Length(ft/m)": "6'5\"(1.96m)",
+      "継数": "3pcs",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "20-70g",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:32.355893+09:00",
+    "updated_at": "2026-09-03T15:47:20.818633+09:00"
+  },
+  {
+    "item_name": "GTRB-S65M/R",
+    "jan": null,
+    "price": 24970,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft-rb/",
+    "product_name": "ゲキダキTR シャフト RB",
+    "specs": {
+      "Length(ft/m)": "6'5\"(1.96m)",
+      "継数": "3pcs",
+      "Power": "MEDIUM",
+      "Lure Weight": "20-100g",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:32.355893+09:00",
+    "updated_at": "2026-09-03T15:47:20.818633+09:00"
+  },
+  {
+    "item_name": "GTRB-S70ML/R",
+    "jan": null,
+    "price": 25520,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/gekidaki-tr-shaft-rb/",
+    "product_name": "ゲキダキTR シャフト RB",
+    "specs": {
+      "Length(ft/m)": "7'0\"(2.13m)",
+      "継数": "3pcs",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "Cast max 40g",
+      "Line": "PE 0.4-0.8号"
+    },
+    "created_at": "2026-09-03T08:27:32.355893+09:00",
+    "updated_at": "2026-09-03T15:47:20.818633+09:00"
+  }
+]

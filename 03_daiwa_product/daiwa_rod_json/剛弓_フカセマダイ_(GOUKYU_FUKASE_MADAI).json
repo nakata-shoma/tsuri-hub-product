@@ -4,6 +4,7 @@
     "jan": "4550133164248",
     "price": 75000,
     "url": "https://www.daiwa.com/jp/product/2yjjt5f",
+    "product_name": "剛弓 フカセマダイ (GOUKYU FUKASE MADAI)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -16,6 +17,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:07.001427+09:00",
-    "updated_at": "2026-04-22T23:31:07.001427+09:00"
+    "updated_at": "2026-09-03T17:27:45.181415+09:00"
   }
 ]

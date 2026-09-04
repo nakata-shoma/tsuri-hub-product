@@ -4,6 +4,7 @@
     "jan": "4550133440861",
     "price": 22800,
     "url": "https://www.daiwa.com/jp/product/fraz6wr",
+    "product_name": "エメラルダス X IL（インターラインモデル） (EMERALDAS X IL（INTERLINE MODEL）)",
     "specs": {
       "全長（m）": 2.36,
       "継数": 2,
@@ -17,13 +18,14 @@
       "カーボン含有率（％）": 93
     },
     "created_at": "2026-04-22T23:32:58.269847+09:00",
-    "updated_at": "2026-04-22T23:32:58.269847+09:00"
+    "updated_at": "2026-09-03T17:27:47.149531+09:00"
   },
   {
     "item_name": "エメラルダス　Ｘ　ＩＬ　７９Ｍ・Ｊ",
     "jan": "4550133440878",
     "price": 23100,
     "url": "https://www.daiwa.com/jp/product/fraz6wr",
+    "product_name": "エメラルダス X IL（インターラインモデル） (EMERALDAS X IL（INTERLINE MODEL）)",
     "specs": {
       "全長（m）": 2.36,
       "継数": 2,
@@ -37,13 +39,14 @@
       "カーボン含有率（％）": 94
     },
     "created_at": "2026-04-22T23:32:58.269847+09:00",
-    "updated_at": "2026-04-22T23:32:58.269847+09:00"
+    "updated_at": "2026-09-03T17:27:47.149531+09:00"
   },
   {
     "item_name": "エメラルダス　Ｘ　ＩＬ　８３ＭＬ・Ｊ",
     "jan": "4550133440885",
     "price": 23300,
     "url": "https://www.daiwa.com/jp/product/fraz6wr",
+    "product_name": "エメラルダス X IL（インターラインモデル） (EMERALDAS X IL（INTERLINE MODEL）)",
     "specs": {
       "全長（m）": 2.51,
       "継数": 2,
@@ -57,13 +60,14 @@
       "カーボン含有率（％）": 94
     },
     "created_at": "2026-04-22T23:32:58.269847+09:00",
-    "updated_at": "2026-04-22T23:32:58.269847+09:00"
+    "updated_at": "2026-09-03T17:27:47.149531+09:00"
   },
   {
     "item_name": "エメラルダス　Ｘ　ＩＬ　８３Ｍ・Ｊ",
     "jan": "4550133440892",
     "price": 23600,
     "url": "https://www.daiwa.com/jp/product/fraz6wr",
+    "product_name": "エメラルダス X IL（インターラインモデル） (EMERALDAS X IL（INTERLINE MODEL）)",
     "specs": {
       "全長（m）": 2.51,
       "継数": 2,
@@ -77,13 +81,14 @@
       "カーボン含有率（％）": 94
     },
     "created_at": "2026-04-22T23:32:58.269847+09:00",
-    "updated_at": "2026-04-22T23:32:58.269847+09:00"
+    "updated_at": "2026-09-03T17:27:47.149531+09:00"
   },
   {
     "item_name": "エメラルダス　Ｘ　ＩＬ　８６ＭＬ・Ｊ",
     "jan": "4550133440908",
     "price": 23800,
     "url": "https://www.daiwa.com/jp/product/fraz6wr",
+    "product_name": "エメラルダス X IL（インターラインモデル） (EMERALDAS X IL（INTERLINE MODEL）)",
     "specs": {
       "全長（m）": 2.59,
       "継数": 2,
@@ -97,13 +102,14 @@
       "カーボン含有率（％）": 94
     },
     "created_at": "2026-04-22T23:32:58.269847+09:00",
-    "updated_at": "2026-04-22T23:32:58.269847+09:00"
+    "updated_at": "2026-09-03T17:27:47.149531+09:00"
   },
   {
     "item_name": "エメラルダス　Ｘ　ＩＬ　８６Ｍ・Ｊ",
     "jan": "4550133450488",
     "price": 24100,
     "url": "https://www.daiwa.com/jp/product/fraz6wr",
+    "product_name": "エメラルダス X IL（インターラインモデル） (EMERALDAS X IL（INTERLINE MODEL）)",
     "specs": {
       "全長（m）": 2.59,
       "継数": 2,
@@ -117,6 +123,6 @@
       "カーボン含有率（％）": 94
     },
     "created_at": "2026-04-22T23:32:58.269847+09:00",
-    "updated_at": "2026-04-22T23:32:58.269847+09:00"
+    "updated_at": "2026-09-03T17:27:47.149531+09:00"
   }
 ]

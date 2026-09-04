@@ -4,6 +4,7 @@
     "jan": "4960652209038",
     "price": 38000,
     "url": "https://www.daiwa.com/jp/product/uuxm1p1",
+    "product_name": "ブラックジャック スナイパー ヘチ (BLACK JACK SNIPER HECHI)",
     "specs": {
       "全長（m）": 3,
       "継数": 3,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:59.575890+09:00",
-    "updated_at": "2026-04-22T23:34:59.575890+09:00"
+    "updated_at": "2026-09-03T17:27:49.038222+09:00"
   },
   {
     "item_name": "ブラックジャックスナイパーヘチ　ＸＨ－２７０ＭＫ・Ｖ",
     "jan": "4960652209045",
     "price": 33500,
     "url": "https://www.daiwa.com/jp/product/uuxm1p1",
+    "product_name": "ブラックジャック スナイパー ヘチ (BLACK JACK SNIPER HECHI)",
     "specs": {
       "全長（m）": 2.7,
       "継数": 3,
@@ -35,6 +37,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:59.575890+09:00",
-    "updated_at": "2026-04-22T23:34:59.575890+09:00"
+    "updated_at": "2026-09-03T17:27:49.038222+09:00"
   }
 ]

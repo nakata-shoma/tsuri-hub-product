@@ -4,6 +4,7 @@
     "jan": "4550133255250",
     "price": 69000,
     "url": "https://www.daiwa.com/jp/product/bhmbwyp",
+    "product_name": "ドラッガー ブレイクスルー (DRAGGER BREAK THROUGH)",
     "specs": {
       "全長（m）": 3.05,
       "継数": 3,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:25.950818+09:00",
-    "updated_at": "2026-04-22T23:32:25.950818+09:00"
+    "updated_at": "2026-09-03T17:27:46.536276+09:00"
   },
   {
     "item_name": "ＤＲＡＧＧＥＲ　ＢＲＥＡＫ　ＴＨＲＯＵＧＨ　１００Ｈ－３",
     "jan": "4550133255267",
     "price": 70500,
     "url": "https://www.daiwa.com/jp/product/bhmbwyp",
+    "product_name": "ドラッガー ブレイクスルー (DRAGGER BREAK THROUGH)",
     "specs": {
       "全長（m）": 3.05,
       "継数": 3,
@@ -37,13 +39,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:25.950818+09:00",
-    "updated_at": "2026-04-22T23:32:25.950818+09:00"
+    "updated_at": "2026-09-03T17:27:46.536276+09:00"
   },
   {
     "item_name": "ＤＲＡＧＧＥＲ　ＢＲＥＡＫ　ＴＨＲＯＵＧＨ　１００ＨＨ－３",
     "jan": "4550133255274",
     "price": 72000,
     "url": "https://www.daiwa.com/jp/product/bhmbwyp",
+    "product_name": "ドラッガー ブレイクスルー (DRAGGER BREAK THROUGH)",
     "specs": {
       "全長（m）": 3.05,
       "継数": 3,
@@ -57,13 +60,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:25.950818+09:00",
-    "updated_at": "2026-04-22T23:32:25.950818+09:00"
+    "updated_at": "2026-09-03T17:27:46.536276+09:00"
   },
   {
     "item_name": "ＤＲＡＧＧＥＲ　ＢＲＥＡＫ　ＴＨＲＯＵＧＨ　９３ＸＨ－３",
     "jan": "4550133255281",
     "price": 73500,
     "url": "https://www.daiwa.com/jp/product/bhmbwyp",
+    "product_name": "ドラッガー ブレイクスルー (DRAGGER BREAK THROUGH)",
     "specs": {
       "全長（m）": 2.82,
       "継数": 3,
@@ -77,13 +81,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:25.950818+09:00",
-    "updated_at": "2026-04-22T23:32:25.950818+09:00"
+    "updated_at": "2026-09-03T17:27:46.536276+09:00"
   },
   {
     "item_name": "ＤＲＡＧＧＥＲ　ＢＲＥＡＫ　ＴＨＲＯＵＧＨ　８３ＸＸＨ－３",
     "jan": "4550133255298",
     "price": 75000,
     "url": "https://www.daiwa.com/jp/product/bhmbwyp",
+    "product_name": "ドラッガー ブレイクスルー (DRAGGER BREAK THROUGH)",
     "specs": {
       "全長（m）": 2.51,
       "継数": 3,
@@ -97,13 +102,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:25.950818+09:00",
-    "updated_at": "2026-04-22T23:32:25.950818+09:00"
+    "updated_at": "2026-09-03T17:27:46.536276+09:00"
   },
   {
     "item_name": "ＤＲＡＧＧＥＲ　ＢＲＥＡＫ　ＴＨＲＯＵＧＨ　９１０Ｈ－３　ＪＳ",
     "jan": "4550133353642",
     "price": 79500,
     "url": "https://www.daiwa.com/jp/product/bhmbwyp",
+    "product_name": "ドラッガー ブレイクスルー (DRAGGER BREAK THROUGH)",
     "specs": {
       "全長（m）": 3,
       "継数": 3,
@@ -117,6 +123,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:32:25.950818+09:00",
-    "updated_at": "2026-04-22T23:32:25.950818+09:00"
+    "updated_at": "2026-09-03T17:27:46.536276+09:00"
   }
 ]

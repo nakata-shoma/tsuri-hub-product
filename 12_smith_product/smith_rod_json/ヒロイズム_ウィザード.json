@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "HIM-W64MH-CSW1",
+    "jan": null,
+    "price": 46000,
+    "url": "https://www.smith.jp/product/bass/hiroism/wizard/wizard.html",
+    "product_name": "ヒロイズム　ウィザード",
+    "specs": {
+      "length": "6'4\"",
+      "weight": "120g",
+      "lure": "3/16〜1oz",
+      "line": "10〜20lb.",
+      "power": "Medium Heavy",
+      "action": "ModerateFast",
+      "reargriplength": "225mm",
+      "packlength": "193cm(1pcs)",
+      "blankmaterial": "40tGraphite",
+      "tip dia": "2.1mm"
+    },
+    "created_at": "2026-09-03T16:37:09.851114+09:00",
+    "updated_at": "2026-09-03T16:37:09.851114+09:00"
+  },
+  {
+    "item_name": "HIM-W64MH-CSW2",
+    "jan": null,
+    "price": 46500,
+    "url": "https://www.smith.jp/product/bass/hiroism/wizard/wizard.html",
+    "product_name": "ヒロイズム　ウィザード",
+    "specs": {
+      "length": "6'4\"",
+      "weight": "121g",
+      "lure": "3/16〜1oz",
+      "line": "10〜20lb.",
+      "power": "Medium Heavy",
+      "action": "ModerateFast",
+      "reargriplength": "225mm",
+      "packlength": "99.5cm(2pcs)",
+      "blankmaterial": "40tGraphite",
+      "tip dia": "2.3mm"
+    },
+    "created_at": "2026-09-03T16:37:09.851114+09:00",
+    "updated_at": "2026-09-03T16:37:09.851114+09:00"
+  }
+]

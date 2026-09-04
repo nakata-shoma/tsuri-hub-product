@@ -4,6 +4,7 @@
     "jan": "4550133444951",
     "price": 54000,
     "url": "https://www.daiwa.com/jp/product/mf1qeth",
+    "product_name": "シルバークリーク Aurum (SILVER CREEK AURUM)",
     "specs": {
       "全長（m）": 1.42,
       "継数": 2,
@@ -18,13 +19,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:48.016338+09:00",
-    "updated_at": "2026-04-22T23:33:48.016338+09:00"
+    "updated_at": "2026-09-03T17:27:47.824626+09:00"
   },
   {
     "item_name": "Ｓｉｌｖｅｒ　Ｃｒｅｅｋ　Ａｕｒｕｍ　４１０Ｌ",
     "jan": "4550133444968",
     "price": 55000,
     "url": "https://www.daiwa.com/jp/product/mf1qeth",
+    "product_name": "シルバークリーク Aurum (SILVER CREEK AURUM)",
     "specs": {
       "全長（m）": 1.47,
       "継数": 2,
@@ -39,13 +41,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:48.016338+09:00",
-    "updated_at": "2026-04-22T23:33:48.016338+09:00"
+    "updated_at": "2026-09-03T17:27:47.824626+09:00"
   },
   {
     "item_name": "Ｓｉｌｖｅｒ　Ｃｒｅｅｋ　Ａｕｒｕｍ　５３ＵＬ",
     "jan": "4550133444975",
     "price": 56000,
     "url": "https://www.daiwa.com/jp/product/mf1qeth",
+    "product_name": "シルバークリーク Aurum (SILVER CREEK AURUM)",
     "specs": {
       "全長（m）": 1.6,
       "継数": 2,
@@ -60,13 +63,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:48.016338+09:00",
-    "updated_at": "2026-04-22T23:33:48.016338+09:00"
+    "updated_at": "2026-09-03T17:27:47.824626+09:00"
   },
   {
     "item_name": "Ｓｉｌｖｅｒ　Ｃｒｅｅｋ　Ａｕｒｕｍ　４６ＵＬＢ",
     "jan": "4550133444982",
     "price": 54000,
     "url": "https://www.daiwa.com/jp/product/mf1qeth",
+    "product_name": "シルバークリーク Aurum (SILVER CREEK AURUM)",
     "specs": {
       "全長（m）": 1.37,
       "継数": 2,
@@ -81,6 +85,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:33:48.016338+09:00",
-    "updated_at": "2026-04-22T23:33:48.016338+09:00"
+    "updated_at": "2026-09-03T17:27:47.824626+09:00"
   }
 ]

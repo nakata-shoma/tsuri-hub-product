@@ -4,6 +4,7 @@
     "jan": "4960652081092",
     "price": 39100,
     "url": "https://www.daiwa.com/jp/product/dotvoub",
+    "product_name": "メタリア カレイ (METALLIA KAREI)",
     "specs": {
       "全長（m）": 1.65,
       "継数": 2,
@@ -15,13 +16,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:44.666457+09:00",
-    "updated_at": "2026-04-22T23:32:44.666457+09:00"
+    "updated_at": "2026-09-03T17:27:46.799817+09:00"
   },
   {
     "item_name": "メタリアカレイ　８２　ＭＨ－１８０",
     "jan": "4960652081108",
     "price": 40700,
     "url": "https://www.daiwa.com/jp/product/dotvoub",
+    "product_name": "メタリア カレイ (METALLIA KAREI)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -33,13 +35,14 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:44.666457+09:00",
-    "updated_at": "2026-04-22T23:32:44.666457+09:00"
+    "updated_at": "2026-09-03T17:27:46.799817+09:00"
   },
   {
     "item_name": "メタリアカレイ　９１　ＭＨ－１８０",
     "jan": "4960652081115",
     "price": 40700,
     "url": "https://www.daiwa.com/jp/product/dotvoub",
+    "product_name": "メタリア カレイ (METALLIA KAREI)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -51,6 +54,6 @@
       "適合クランプサイズ": "SS"
     },
     "created_at": "2026-04-22T23:32:44.666457+09:00",
-    "updated_at": "2026-04-22T23:32:44.666457+09:00"
+    "updated_at": "2026-09-03T17:27:46.799817+09:00"
   }
 ]

@@ -4,6 +4,7 @@
     "jan": "4550133405297",
     "price": 53000,
     "url": "https://www.daiwa.com/jp/product/d1oyrhr",
+    "product_name": "鏡牙AIR (KYOHGA AIR)",
     "specs": {
       "全長（m）": 1.73,
       "継数": 2,
@@ -15,13 +16,14 @@
       "カーボン含有率（％）": 77
     },
     "created_at": "2026-04-22T23:32:37.029261+09:00",
-    "updated_at": "2026-04-22T23:32:37.029261+09:00"
+    "updated_at": "2026-09-03T17:27:46.639244+09:00"
   },
   {
     "item_name": "鏡牙ＡＩＲ　６４Ｂ－ＭＥＴＡＬ",
     "jan": "4550133405303",
     "price": 53500,
     "url": "https://www.daiwa.com/jp/product/d1oyrhr",
+    "product_name": "鏡牙AIR (KYOHGA AIR)",
     "specs": {
       "全長（m）": 1.93,
       "継数": 2,
@@ -33,13 +35,14 @@
       "カーボン含有率（％）": 73
     },
     "created_at": "2026-04-22T23:32:37.029261+09:00",
-    "updated_at": "2026-04-22T23:32:37.029261+09:00"
+    "updated_at": "2026-09-03T17:27:46.639244+09:00"
   },
   {
     "item_name": "鏡牙ＡＩＲ　６２Ｂ　ＴＨＲＩＬＬ　ＧＡＭＥ",
     "jan": "4550133405310",
     "price": 55000,
     "url": "https://www.daiwa.com/jp/product/d1oyrhr",
+    "product_name": "鏡牙AIR (KYOHGA AIR)",
     "specs": {
       "全長（m）": 1.88,
       "継数": 2,
@@ -51,6 +54,6 @@
       "カーボン含有率（％）": 91
     },
     "created_at": "2026-04-22T23:32:37.029261+09:00",
-    "updated_at": "2026-04-22T23:32:37.029261+09:00"
+    "updated_at": "2026-09-03T17:27:46.639244+09:00"
   }
 ]

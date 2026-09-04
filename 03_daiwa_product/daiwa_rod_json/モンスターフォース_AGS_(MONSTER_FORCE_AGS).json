@@ -4,6 +4,7 @@
     "jan": "4550133254000",
     "price": 116000,
     "url": "https://www.daiwa.com/jp/product/xz0zf6w",
+    "product_name": "モンスターフォース AGS (MONSTER FORCE AGS)",
     "specs": {
       "全長（m）": 5,
       "継数": 5,
@@ -16,13 +17,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:24.524429+09:00",
-    "updated_at": "2026-04-22T23:35:24.524429+09:00"
+    "updated_at": "2026-09-03T17:27:49.554343+09:00"
   },
   {
     "item_name": "ＭＯＮＳＴＥＲ　ＦＯＲＣＥ　ＡＧＳ　口太５３",
     "jan": "4550133254017",
     "price": 118000,
     "url": "https://www.daiwa.com/jp/product/xz0zf6w",
+    "product_name": "モンスターフォース AGS (MONSTER FORCE AGS)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -35,13 +37,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:24.524429+09:00",
-    "updated_at": "2026-04-22T23:35:24.524429+09:00"
+    "updated_at": "2026-09-03T17:27:49.554343+09:00"
   },
   {
     "item_name": "ＭＯＮＳＴＥＲ　ＦＯＲＣＥ　ＡＧＳ　尾長５０",
     "jan": "4550133254024",
     "price": 126000,
     "url": "https://www.daiwa.com/jp/product/xz0zf6w",
+    "product_name": "モンスターフォース AGS (MONSTER FORCE AGS)",
     "specs": {
       "全長（m）": 5,
       "継数": 5,
@@ -54,13 +57,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:24.524429+09:00",
-    "updated_at": "2026-04-22T23:35:24.524429+09:00"
+    "updated_at": "2026-09-03T17:27:49.554343+09:00"
   },
   {
     "item_name": "ＭＯＮＳＴＥＲ　ＦＯＲＣＥ　ＡＧＳ　尾長５３",
     "jan": "4550133254031",
     "price": 128000,
     "url": "https://www.daiwa.com/jp/product/xz0zf6w",
+    "product_name": "モンスターフォース AGS (MONSTER FORCE AGS)",
     "specs": {
       "全長（m）": 5.3,
       "継数": 5,
@@ -73,13 +77,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:24.524429+09:00",
-    "updated_at": "2026-04-22T23:35:24.524429+09:00"
+    "updated_at": "2026-09-03T17:27:49.554343+09:00"
   },
   {
     "item_name": "ＭＯＮＳＴＥＲ　ＦＯＲＣＥ　ＡＧＳ　尾長Ｈ５０",
     "jan": "4550133341052",
     "price": 133000,
     "url": "https://www.daiwa.com/jp/product/xz0zf6w",
+    "product_name": "モンスターフォース AGS (MONSTER FORCE AGS)",
     "specs": {
       "全長（m）": 5,
       "継数": 5,
@@ -92,6 +97,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:24.524429+09:00",
-    "updated_at": "2026-04-22T23:35:24.524429+09:00"
+    "updated_at": "2026-09-03T17:27:49.554343+09:00"
   }
 ]

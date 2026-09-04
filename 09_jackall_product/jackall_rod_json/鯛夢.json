@@ -1,0 +1,53 @@
+[
+  {
+    "item_name": "TU-S198MH-ST",
+    "jan": null,
+    "price": 55000,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020_taimu_rod/",
+    "product_name": "鯛夢",
+    "specs": {
+      "Length": "1.98m",
+      "継数": "2pcs",
+      "Weight": "104g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "3-20号",
+      "Line": "PE 0.4-1.2号"
+    },
+    "created_at": "2026-09-03T08:25:24.237352+09:00",
+    "updated_at": "2026-09-03T15:44:55.880006+09:00"
+  },
+  {
+    "item_name": "TU-S245ML-ST",
+    "jan": null,
+    "price": 58300,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020_taimu_rod/",
+    "product_name": "鯛夢",
+    "specs": {
+      "Length": "2.45m",
+      "継数": "2pcs",
+      "Weight": "106g",
+      "Power": "MEDIUM LIGHT",
+      "Lure Weight": "3-15号",
+      "Line": "PE 0.4-1.2号"
+    },
+    "created_at": "2026-09-03T08:25:24.237352+09:00",
+    "updated_at": "2026-09-03T15:44:55.880006+09:00"
+  },
+  {
+    "item_name": "TU-S245MH-ST",
+    "jan": null,
+    "price": 59400,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/2020_taimu_rod/",
+    "product_name": "鯛夢",
+    "specs": {
+      "Length": "2.45m",
+      "継数": "2pcs",
+      "Weight": "110g",
+      "Power": "MEDIUM HEAVY",
+      "Lure Weight": "3-20号",
+      "Line": "PE 0.4-1.2号"
+    },
+    "created_at": "2026-09-03T08:25:24.237352+09:00",
+    "updated_at": "2026-09-03T15:44:55.880006+09:00"
+  }
+]

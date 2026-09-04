@@ -4,6 +4,7 @@
     "jan": "4550133193590",
     "price": 58000,
     "url": "https://www.daiwa.com/jp/product/u3ekte3",
+    "product_name": "極鋭 キス (KYOKUEI KISU)",
     "specs": {
       "全長（m）": 1.68,
       "継数": 2,
@@ -15,13 +16,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:48.724506+09:00",
-    "updated_at": "2026-04-22T23:34:48.724506+09:00"
+    "updated_at": "2026-09-03T17:27:48.930682+09:00"
   },
   {
     "item_name": "極鋭キス　Ｈ－１７５",
     "jan": "4550133193606",
     "price": 58500,
     "url": "https://www.daiwa.com/jp/product/u3ekte3",
+    "product_name": "極鋭 キス (KYOKUEI KISU)",
     "specs": {
       "全長（m）": 1.75,
       "継数": 2,
@@ -33,6 +35,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:34:48.724506+09:00",
-    "updated_at": "2026-04-22T23:34:48.724506+09:00"
+    "updated_at": "2026-09-03T17:27:48.930682+09:00"
   }
 ]

@@ -4,6 +4,7 @@
     "jan": "4550133442070",
     "price": 88000,
     "url": "https://www.daiwa.com/jp/product/v0p4xdm",
+    "product_name": "スティーズ ショアコンペティション（スピニングモデル） (STEEZ SHORE COMPETITION（SPINNING MODEL）)",
     "specs": {
       "コードネーム": "FIRE FLASH F-SPEC",
       "全長（m）": 1.88,
@@ -21,13 +22,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.955026+09:00",
-    "updated_at": "2026-04-22T23:35:01.955026+09:00"
+    "updated_at": "2026-09-03T17:27:49.080013+09:00"
   },
   {
     "item_name": "スティーズ　ＳＣ　Ｓ６４Ｌ－ＳＶ・ＳＴ",
     "jan": "4550133066757",
     "price": 76500,
     "url": "https://www.daiwa.com/jp/product/v0p4xdm",
+    "product_name": "スティーズ ショアコンペティション（スピニングモデル） (STEEZ SHORE COMPETITION（SPINNING MODEL）)",
     "specs": {
       "コードネーム": "FIRE FLASH",
       "全長（m）": 1.93,
@@ -45,13 +47,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.955026+09:00",
-    "updated_at": "2026-04-22T23:35:01.955026+09:00"
+    "updated_at": "2026-09-03T17:27:49.080013+09:00"
   },
   {
     "item_name": "スティーズ　ＳＣ　Ｓ６４Ｌ－２・ＳＶ・ＳＴ",
     "jan": "4550133455315",
     "price": 78500,
     "url": "https://www.daiwa.com/jp/product/v0p4xdm",
+    "product_name": "スティーズ ショアコンペティション（スピニングモデル） (STEEZ SHORE COMPETITION（SPINNING MODEL）)",
     "specs": {
       "コードネーム": "FIRE FLASH",
       "全長（m）": 1.93,
@@ -69,13 +72,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.955026+09:00",
-    "updated_at": "2026-04-22T23:35:01.955026+09:00"
+    "updated_at": "2026-09-03T17:27:49.080013+09:00"
   },
   {
     "item_name": "スティーズ　ＳＣ　Ｓ６９ＵＬ",
     "jan": "4550133551604",
     "price": 85500,
     "url": "https://www.daiwa.com/jp/product/v0p4xdm",
+    "product_name": "スティーズ ショアコンペティション（スピニングモデル） (STEEZ SHORE COMPETITION（SPINNING MODEL）)",
     "specs": {
       "コードネーム": "KINGBOLT FINESSE SPEC 69",
       "全長（m）": 2.06,
@@ -93,6 +97,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:01.955026+09:00",
-    "updated_at": "2026-04-22T23:35:01.955026+09:00"
+    "updated_at": "2026-09-03T17:27:49.080013+09:00"
   }
 ]

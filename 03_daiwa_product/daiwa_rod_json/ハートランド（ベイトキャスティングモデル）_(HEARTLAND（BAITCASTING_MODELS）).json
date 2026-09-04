@@ -4,6 +4,7 @@
     "jan": "4550133340772",
     "price": 54000,
     "url": "https://www.daiwa.com/jp/product/8fqqixq",
+    "product_name": "ハートランド（ベイトキャスティングモデル） (HEARTLAND（BAITCASTING MODELS）)",
     "specs": {
       "全長（m）": 2.18,
       "継数": 2,
@@ -19,13 +20,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:57.748767+09:00",
-    "updated_at": "2026-04-22T23:31:57.748767+09:00"
+    "updated_at": "2026-09-03T17:27:46.034692+09:00"
   },
   {
     "item_name": "ハートランド　７２２ＭＬ＋ＦＢ－ＳＴ２０",
     "jan": "4960652218184",
     "price": 56000,
     "url": "https://www.daiwa.com/jp/product/8fqqixq",
+    "product_name": "ハートランド（ベイトキャスティングモデル） (HEARTLAND（BAITCASTING MODELS）)",
     "specs": {
       "全長（m）": 2.18,
       "継数": 2,
@@ -41,13 +43,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:57.748767+09:00",
-    "updated_at": "2026-04-22T23:31:57.748767+09:00"
+    "updated_at": "2026-09-03T17:27:46.034692+09:00"
   },
   {
     "item_name": "ハートランド　７２２ＭＲＢ－２０",
     "jan": "4960652286640",
     "price": 55000,
     "url": "https://www.daiwa.com/jp/product/8fqqixq",
+    "product_name": "ハートランド（ベイトキャスティングモデル） (HEARTLAND（BAITCASTING MODELS）)",
     "specs": {
       "全長（m）": 2.18,
       "継数": 2,
@@ -63,13 +66,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:57.748767+09:00",
-    "updated_at": "2026-04-22T23:31:57.748767+09:00"
+    "updated_at": "2026-09-03T17:27:46.034692+09:00"
   },
   {
     "item_name": "ハートランド　７２２ＭＨＲＢ－１９",
     "jan": "4960652218160",
     "price": 53000,
     "url": "https://www.daiwa.com/jp/product/8fqqixq",
+    "product_name": "ハートランド（ベイトキャスティングモデル） (HEARTLAND（BAITCASTING MODELS）)",
     "specs": {
       "全長（m）": 2.18,
       "継数": 2,
@@ -85,13 +89,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:57.748767+09:00",
-    "updated_at": "2026-04-22T23:31:57.748767+09:00"
+    "updated_at": "2026-09-03T17:27:46.034692+09:00"
   },
   {
     "item_name": "ハートランド　７５２ＨＲＢ－２１",
     "jan": "4550133066788",
     "price": 57000,
     "url": "https://www.daiwa.com/jp/product/8fqqixq",
+    "product_name": "ハートランド（ベイトキャスティングモデル） (HEARTLAND（BAITCASTING MODELS）)",
     "specs": {
       "全長（m）": 2.26,
       "継数": 2,
@@ -107,13 +112,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:57.748767+09:00",
-    "updated_at": "2026-04-22T23:31:57.748767+09:00"
+    "updated_at": "2026-09-03T17:27:46.034692+09:00"
   },
   {
     "item_name": "ハートランド　７１１２ＭＲＢ－２５",
     "jan": "4550133434167",
     "price": 58000,
     "url": "https://www.daiwa.com/jp/product/8fqqixq",
+    "product_name": "ハートランド（ベイトキャスティングモデル） (HEARTLAND（BAITCASTING MODELS）)",
     "specs": {
       "全長（m）": 2.41,
       "継数": 2,
@@ -129,13 +135,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:57.748767+09:00",
-    "updated_at": "2026-04-22T23:31:57.748767+09:00"
+    "updated_at": "2026-09-03T17:27:46.034692+09:00"
   },
   {
     "item_name": "ハートランド　８０２ＭＨＲＢ－２１",
     "jan": "4550133086496",
     "price": 60000,
     "url": "https://www.daiwa.com/jp/product/8fqqixq",
+    "product_name": "ハートランド（ベイトキャスティングモデル） (HEARTLAND（BAITCASTING MODELS）)",
     "specs": {
       "全長（m）": 2.44,
       "継数": 2,
@@ -151,6 +158,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:31:57.748767+09:00",
-    "updated_at": "2026-04-22T23:31:57.748767+09:00"
+    "updated_at": "2026-09-03T17:27:46.034692+09:00"
   }
 ]

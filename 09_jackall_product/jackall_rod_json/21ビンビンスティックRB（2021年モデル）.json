@@ -1,0 +1,87 @@
+[
+  {
+    "item_name": "BSRB-C66XSUL",
+    "jan": null,
+    "price": 18480,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-rb/",
+    "product_name": "21ビンビンスティックRB（2021年モデル）",
+    "specs": {
+      "Length": "6’6\"(1.98m)",
+      "PCS(継数)": 2,
+      "Power": "EXTRA SUPER ULTRA LIGHT",
+      "Weight": "117g",
+      "Lure(g)": "ＭＡＸ120g",
+      "Line(lb.)": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:26:37.295304+09:00",
+    "updated_at": "2026-09-03T15:46:20.665840+09:00"
+  },
+  {
+    "item_name": "BSRB-C66SUL",
+    "jan": null,
+    "price": 18480,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-rb/",
+    "product_name": "21ビンビンスティックRB（2021年モデル）",
+    "specs": {
+      "Length": "6’6\"(1.98m)",
+      "PCS(継数)": 2,
+      "Power": "SUPER ULTRA LIGHT",
+      "Weight": "117g",
+      "Lure(g)": "ＭＡＸ120g",
+      "Line(lb.)": "PE 0.6〜1.0号"
+    },
+    "created_at": "2026-09-03T08:26:37.295304+09:00",
+    "updated_at": "2026-09-03T15:46:20.665840+09:00"
+  },
+  {
+    "item_name": "BSRB-C66M",
+    "jan": null,
+    "price": 19030,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-rb/",
+    "product_name": "21ビンビンスティックRB（2021年モデル）",
+    "specs": {
+      "Length": "6’6\"(1.98m)",
+      "PCS(継数)": 2,
+      "Power": "MEDIUM",
+      "Weight": "120g",
+      "Lure(g)": "ＭＡＸ160g",
+      "Line(lb.)": "PE 0.6〜1.2号"
+    },
+    "created_at": "2026-09-03T08:26:37.295304+09:00",
+    "updated_at": "2026-09-03T15:46:20.665840+09:00"
+  },
+  {
+    "item_name": "BSRB-C69SUL",
+    "jan": null,
+    "price": 19030,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-rb/",
+    "product_name": "21ビンビンスティックRB（2021年モデル）",
+    "specs": {
+      "Length": "6’9\"(2.05m)",
+      "PCS(継数)": 2,
+      "Power": "SUPER ULTRA LIGHT",
+      "Weight": "119g",
+      "Lure(g)": "DOTERA MAX 300g",
+      "Line(lb.)": "PE 0.6〜1.2号"
+    },
+    "created_at": "2026-09-03T08:26:37.295304+09:00",
+    "updated_at": "2026-09-03T15:46:20.665840+09:00"
+  },
+  {
+    "item_name": "BSRB-S66ML",
+    "jan": null,
+    "price": 18480,
+    "url": "https://www.jackall.co.jp/saltwater/offshore-casting/products/bin-bin-stick-rb/",
+    "product_name": "21ビンビンスティックRB（2021年モデル）",
+    "specs": {
+      "Length": "6’6\"(1.98m)",
+      "PCS(継数)": 2,
+      "Power": "MEDIUM LIGHT",
+      "Weight": "100g",
+      "Lure(g)": "CAST ＭＡＸ80g",
+      "Line(lb.)": "PE 0.6〜1.2号"
+    },
+    "created_at": "2026-09-03T08:26:37.295304+09:00",
+    "updated_at": "2026-09-03T15:46:20.665840+09:00"
+  }
+]

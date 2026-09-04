@@ -4,6 +4,7 @@
     "jan": "4550133546129",
     "price": 64500,
     "url": "https://www.daiwa.com/jp/product/zmotvf2",
+    "product_name": "極鋭 テンヤタチウオ (KYOKUEI TENYATACHIUO)",
     "specs": {
       "全長（m）": 1.8,
       "継数": 2,
@@ -17,13 +18,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:37.105127+09:00",
-    "updated_at": "2026-04-22T23:35:37.105127+09:00"
+    "updated_at": "2026-09-03T17:27:49.777161+09:00"
   },
   {
     "item_name": "極鋭テンヤタチウオ　８２－１７７",
     "jan": "4550133545788",
     "price": 64500,
     "url": "https://www.daiwa.com/jp/product/zmotvf2",
+    "product_name": "極鋭 テンヤタチウオ (KYOKUEI TENYATACHIUO)",
     "specs": {
       "全長（m）": 1.77,
       "継数": 2,
@@ -37,13 +39,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:37.105127+09:00",
-    "updated_at": "2026-04-22T23:35:37.105127+09:00"
+    "updated_at": "2026-09-03T17:27:49.777161+09:00"
   },
   {
     "item_name": "極鋭テンヤタチウオ　９１－１７２",
     "jan": "4550133545962",
     "price": 64500,
     "url": "https://www.daiwa.com/jp/product/zmotvf2",
+    "product_name": "極鋭 テンヤタチウオ (KYOKUEI TENYATACHIUO)",
     "specs": {
       "全長（m）": 1.72,
       "継数": 2,
@@ -57,13 +60,14 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:37.105127+09:00",
-    "updated_at": "2026-04-22T23:35:37.105127+09:00"
+    "updated_at": "2026-09-03T17:27:49.777161+09:00"
   },
   {
     "item_name": "極鋭テンヤタチウオ　９１Ｈ－１６１",
     "jan": "4550133545979",
     "price": 64500,
     "url": "https://www.daiwa.com/jp/product/zmotvf2",
+    "product_name": "極鋭 テンヤタチウオ (KYOKUEI TENYATACHIUO)",
     "specs": {
       "全長（m）": 1.61,
       "継数": 2,
@@ -77,6 +81,6 @@
       "*": "*"
     },
     "created_at": "2026-04-22T23:35:37.105127+09:00",
-    "updated_at": "2026-04-22T23:35:37.105127+09:00"
+    "updated_at": "2026-09-03T17:27:49.777161+09:00"
   }
 ]

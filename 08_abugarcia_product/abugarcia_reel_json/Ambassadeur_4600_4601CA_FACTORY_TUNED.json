@@ -1,0 +1,40 @@
+[
+  {
+    "item_name": "Amb 4600CA Factory-tuned Black",
+    "jan": "036282114876",
+    "product_code": "1574621",
+    "price": 58500,
+    "url": "https://abugarcia.jp/products/ambassadeur-46004601ca-factory-tuned",
+    "product_name": "Ambassadeur 4600/4601CA FACTORY TUNED",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7.5,
+      "ボール/ローラーベアリング": "6/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨPEﾗｲﾝ3号(m)": "165m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨPEﾗｲﾝ2号(m)": "250m",
+      "ｲﾝｷｬﾊﾟｼﾃｨ/PE/4号": "125m"
+    },
+    "created_at": "2026-09-03T15:18:49.509303+09:00",
+    "updated_at": "2026-09-03T15:18:49.509303+09:00"
+  },
+  {
+    "item_name": "Amb 4601CA Factory-tuned Black",
+    "jan": "036282114883",
+    "product_code": "1574622",
+    "price": 58500,
+    "url": "https://abugarcia.jp/products/ambassadeur-46004601ca-factory-tuned",
+    "product_name": "Ambassadeur 4600/4601CA FACTORY TUNED",
+    "specs": {
+      "ギア比": "5.3:1",
+      "最大ドラグ力(kg)": 7.5,
+      "ボール/ローラーベアリング": "6/1",
+      "最大ライン巻取 (cm)": 65,
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨPEﾗｲﾝ3号(m)": "165m",
+      "ﾗｲﾝｷｬﾊﾟｼﾃｨPEﾗｲﾝ2号(m)": "250m",
+      "ｲﾝｷｬﾊﾟｼﾃｨ/PE/4号": "125m"
+    },
+    "created_at": "2026-09-03T15:18:49.509303+09:00",
+    "updated_at": "2026-09-03T15:18:49.509303+09:00"
+  }
+]
