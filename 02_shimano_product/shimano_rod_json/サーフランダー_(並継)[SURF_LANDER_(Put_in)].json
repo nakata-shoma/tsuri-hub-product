@@ -1,0 +1,178 @@
+[
+  {
+    "item_name": "385EX",
+    "jan": "4969363244925",
+    "product_code": "244925",
+    "price": 49300,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 3.87,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 136.6,
+      "自重(g)": 335,
+      "先径(mm)": 2.5,
+      "錘負荷(号)": "20-30",
+      "標準錘負荷(号)": 25,
+      "リールシート位置(mm)": 740,
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  },
+  {
+    "item_name": "385DX",
+    "jan": "4969363244932",
+    "product_code": "244932",
+    "price": 51400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 3.87,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 136.6,
+      "自重(g)": 365,
+      "先径(mm)": 2.8,
+      "錘負荷(号)": "23-30",
+      "標準錘負荷(号)": 27,
+      "リールシート位置(mm)": 760,
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  },
+  {
+    "item_name": "405EX",
+    "jan": "4969363244949",
+    "product_code": "244949",
+    "price": 50400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 4.07,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 143.1,
+      "自重(g)": 365,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "20-30",
+      "標準錘負荷(号)": 25,
+      "リールシート位置(mm)": 780,
+      "カーボン含有率(％)": 99.5
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  },
+  {
+    "item_name": "405DX",
+    "jan": "4969363244956",
+    "product_code": "244956",
+    "price": 52500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 4.07,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 143.1,
+      "自重(g)": 400,
+      "先径(mm)": 2.7,
+      "錘負荷(号)": "23-30",
+      "標準錘負荷(号)": 27,
+      "リールシート位置(mm)": 800,
+      "カーボン含有率(％)": 99.5
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  },
+  {
+    "item_name": "405CX",
+    "jan": "4969363244963",
+    "product_code": "244963",
+    "price": 53500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 4.07,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 143.1,
+      "自重(g)": 425,
+      "先径(mm)": 3.0,
+      "錘負荷(号)": "25-35",
+      "標準錘負荷(号)": 30,
+      "リールシート位置(mm)": 820,
+      "カーボン含有率(％)": 99.6
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  },
+  {
+    "item_name": "405BX",
+    "jan": "4969363244970",
+    "product_code": "244970",
+    "price": 55600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 4.07,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 143.1,
+      "自重(g)": 455,
+      "先径(mm)": 3.2,
+      "錘負荷(号)": "27-35",
+      "標準錘負荷(号)": 33,
+      "リールシート位置(mm)": 840,
+      "カーボン含有率(％)": 99.6
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  },
+  {
+    "item_name": "425CX",
+    "jan": "4969363244987",
+    "product_code": "244987",
+    "price": 55600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 4.27,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 150.1,
+      "自重(g)": 465,
+      "先径(mm)": 3.0,
+      "錘負荷(号)": "25-35",
+      "標準錘負荷(号)": 30,
+      "リールシート位置(mm)": 840,
+      "カーボン含有率(％)": 99.6
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  },
+  {
+    "item_name": "425BX",
+    "jan": "4969363244994",
+    "product_code": "244994",
+    "price": 56600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/nage/namitsugi/a075f00003cx3hrqak.html",
+    "product_name": "サーフランダー (並継)[SURF LANDER (Put in)]",
+    "specs": {
+      "全長(m)": 4.27,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 150.1,
+      "自重(g)": 500,
+      "先径(mm)": 3.2,
+      "錘負荷(号)": "27-35",
+      "標準錘負荷(号)": 33,
+      "リールシート位置(mm)": 860,
+      "カーボン含有率(％)": 99.6
+    },
+    "created_at": "2026-09-04T21:14:41.926765+09:00",
+    "updated_at": "2026-09-04T21:14:41.926765+09:00"
+  }
+]

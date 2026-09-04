@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "82MH170",
+    "jan": "4969363272898",
+    "product_code": "272898",
+    "price": 69000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a07f900004fn4qgiat.html",
+    "product_name": "サーベルマスター エクスチューン 攻 テンヤ[SABERMASTER XTUNE SEME TENYA]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 170,
+      "自重(g)": 77,
+      "先径(mm)": 1.1,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:45.316975+09:00",
+    "updated_at": "2026-09-04T21:14:45.316975+09:00"
+  },
+  {
+    "item_name": "91H170-MS",
+    "jan": "4969363272904",
+    "product_code": "272904",
+    "price": 69000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a07f900004fn4qgiat.html",
+    "product_name": "サーベルマスター エクスチューン 攻 テンヤ[SABERMASTER XTUNE SEME TENYA]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 170,
+      "自重(g)": 82,
+      "先径(mm)": 1.1,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 97.7,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:45.316975+09:00",
+    "updated_at": "2026-09-04T21:14:45.316975+09:00"
+  }
+]

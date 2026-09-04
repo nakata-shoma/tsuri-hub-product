@@ -1,0 +1,94 @@
+[
+  {
+    "item_name": "64MH195",
+    "jan": "4969363273451",
+    "product_code": "273451",
+    "price": 64500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a075f00003wnzpjqai.html",
+    "product_name": "サーベルマスター エクスチューン テンヤ[SABERMASTER XTUNE TENYA]",
+    "specs": {
+      "全長(m)": 1.95,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 147.3,
+      "自重(g)": 137,
+      "先径(mm)": 2.0,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 413,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 86,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:44.710135+09:00",
+    "updated_at": "2026-09-04T21:14:44.710135+09:00"
+  },
+  {
+    "item_name": "82M/MH178",
+    "jan": "4969363271372",
+    "product_code": "271372",
+    "price": 64000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a075f00003wnzpjqai.html",
+    "product_name": "サーベルマスター エクスチューン テンヤ[SABERMASTER XTUNE TENYA]",
+    "specs": {
+      "全長(m)": 1.78,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 130.3,
+      "自重(g)": 139,
+      "先径(mm)": 1.1,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 413,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:44.710135+09:00",
+    "updated_at": "2026-09-04T21:14:44.710135+09:00"
+  },
+  {
+    "item_name": "82H172",
+    "jan": "4969363271365",
+    "product_code": "271365",
+    "price": 64000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a075f00003wnzpjqai.html",
+    "product_name": "サーベルマスター エクスチューン テンヤ[SABERMASTER XTUNE TENYA]",
+    "specs": {
+      "全長(m)": 1.72,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 124.3,
+      "自重(g)": 140,
+      "先径(mm)": 1.1,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 413,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.2,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:44.710135+09:00",
+    "updated_at": "2026-09-04T21:14:44.710135+09:00"
+  },
+  {
+    "item_name": "91H164",
+    "jan": "4969363271389",
+    "product_code": "271389",
+    "price": 63500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a075f00003wnzpjqai.html",
+    "product_name": "サーベルマスター エクスチューン テンヤ[SABERMASTER XTUNE TENYA]",
+    "specs": {
+      "全長(m)": 1.64,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 116.3,
+      "自重(g)": 143,
+      "先径(mm)": 1.1,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 413,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 96.2,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:44.710135+09:00",
+    "updated_at": "2026-09-04T21:14:44.710135+09:00"
+  }
+]

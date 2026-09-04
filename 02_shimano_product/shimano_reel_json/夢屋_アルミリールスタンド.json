@@ -1,0 +1,77 @@
+[
+  {
+    "item_name": "ブルー",
+    "jan": "4969363041012",
+    "product_code": "041012",
+    "price": 3000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyareelstand/a075f00002kofoqqao_p.html",
+    "product_name": "夢屋 アルミリールスタンド",
+    "specs": {
+      "自重(g)": 6,
+      "夢屋リールスタンドタイプ": "C",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:10.705594+09:00",
+    "updated_at": "2026-09-04T21:13:10.705594+09:00"
+  },
+  {
+    "item_name": "レッド",
+    "jan": "4969363039774",
+    "product_code": "039774",
+    "price": 3000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyareelstand/a075f00002kofoqqao_p.html",
+    "product_name": "夢屋 アルミリールスタンド",
+    "specs": {
+      "自重(g)": 6,
+      "夢屋リールスタンドタイプ": "C",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:10.705594+09:00",
+    "updated_at": "2026-09-04T21:13:10.705594+09:00"
+  },
+  {
+    "item_name": "グレー",
+    "jan": "4969363030214",
+    "product_code": "030214",
+    "price": 3000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyareelstand/a075f00002kofoqqao_p.html",
+    "product_name": "夢屋 アルミリールスタンド",
+    "specs": {
+      "自重(g)": 6,
+      "夢屋リールスタンドタイプ": "C",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:10.705594+09:00",
+    "updated_at": "2026-09-04T21:13:10.705594+09:00"
+  },
+  {
+    "item_name": "シルバー",
+    "jan": "4969363030221",
+    "product_code": "030221",
+    "price": 3000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyareelstand/a075f00002kofoqqao_p.html",
+    "product_name": "夢屋 アルミリールスタンド",
+    "specs": {
+      "自重(g)": 6,
+      "夢屋リールスタンドタイプ": "C",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:10.705594+09:00",
+    "updated_at": "2026-09-04T21:13:10.705594+09:00"
+  },
+  {
+    "item_name": "ゴールド",
+    "jan": "4969363030238",
+    "product_code": "030238",
+    "price": 3000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyareelstand/a075f00002kofoqqao_p.html",
+    "product_name": "夢屋 アルミリールスタンド",
+    "specs": {
+      "自重(g)": 6,
+      "夢屋リールスタンドタイプ": "C",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:10.705594+09:00",
+    "updated_at": "2026-09-04T21:13:10.705594+09:00"
+  }
+]

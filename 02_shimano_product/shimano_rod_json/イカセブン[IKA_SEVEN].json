@@ -1,0 +1,112 @@
+[
+  {
+    "item_name": "M185/RIGHT",
+    "jan": "4969363261007",
+    "product_code": "261007",
+    "price": 47500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c5vwaqae.html",
+    "product_name": "イカセブン[IKA SEVEN]",
+    "specs": {
+      "全長(m)": 1.85,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 118.2,
+      "自重(g)": 220,
+      "先径(mm)": 2.0,
+      "錘負荷(号)": "60-150",
+      "リールシート位置(mm)": 461,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 76.6
+    },
+    "created_at": "2026-09-04T21:13:37.136066+09:00",
+    "updated_at": "2026-09-04T21:13:37.136066+09:00"
+  },
+  {
+    "item_name": "MH155/RIGHT",
+    "jan": "4969363271051",
+    "product_code": "271051",
+    "price": 47500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c5vwaqae.html",
+    "product_name": "イカセブン[IKA SEVEN]",
+    "specs": {
+      "全長(m)": 1.55,
+      "継ぎ方式": "-",
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 155,
+      "自重(g)": 245,
+      "先径(mm)": 2.0,
+      "錘負荷(号)": "80-180",
+      "リールシート位置(mm)": 461,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 89.3
+    },
+    "created_at": "2026-09-04T21:13:37.136066+09:00",
+    "updated_at": "2026-09-04T21:13:37.136066+09:00"
+  },
+  {
+    "item_name": "MH170/RIGHT",
+    "jan": "4969363261014",
+    "product_code": "261014",
+    "price": 47500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c5vwaqae.html",
+    "product_name": "イカセブン[IKA SEVEN]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 103.2,
+      "自重(g)": 230,
+      "先径(mm)": 1.8,
+      "錘負荷(号)": "80-180",
+      "リールシート位置(mm)": 461,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 84
+    },
+    "created_at": "2026-09-04T21:13:37.136066+09:00",
+    "updated_at": "2026-09-04T21:13:37.136066+09:00"
+  },
+  {
+    "item_name": "H155/RIGHT",
+    "jan": "4969363261021",
+    "product_code": "261021",
+    "price": 47500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c5vwaqae.html",
+    "product_name": "イカセブン[IKA SEVEN]",
+    "specs": {
+      "全長(m)": 1.55,
+      "継ぎ方式": "-",
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 155,
+      "自重(g)": 255,
+      "先径(mm)": 2.3,
+      "錘負荷(号)": "100-180",
+      "リールシート位置(mm)": 461,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 87.7
+    },
+    "created_at": "2026-09-04T21:13:37.136066+09:00",
+    "updated_at": "2026-09-04T21:13:37.136066+09:00"
+  },
+  {
+    "item_name": "HH155/RIGHT",
+    "jan": "4969363261038",
+    "product_code": "261038",
+    "price": 48500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a075f00003c5vwaqae.html",
+    "product_name": "イカセブン[IKA SEVEN]",
+    "specs": {
+      "全長(m)": 1.55,
+      "継ぎ方式": "-",
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 155,
+      "自重(g)": 260,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "100-200",
+      "リールシート位置(mm)": 461,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 88.9
+    },
+    "created_at": "2026-09-04T21:13:37.136066+09:00",
+    "updated_at": "2026-09-04T21:13:37.136066+09:00"
+  }
+]

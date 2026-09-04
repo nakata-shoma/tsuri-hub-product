@@ -1,0 +1,94 @@
+[
+  {
+    "item_name": "64 M270/RIGHT",
+    "jan": "4969363212863",
+    "product_code": "212863",
+    "price": 52500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003poa6tqag.html",
+    "product_name": "リアランサー ヒラメ[REALANCER HIRAME]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.5,
+      "自重(g)": 188,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "30-100",
+      "グリップタイプ": "セパレート",
+      "リールシート位置(mm)": 390,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-04T21:16:30.936967+09:00",
+    "updated_at": "2026-09-04T21:16:30.936967+09:00"
+  },
+  {
+    "item_name": "64 M270/LEFT",
+    "jan": "4969363212870",
+    "product_code": "212870",
+    "price": 52500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003poa6tqag.html",
+    "product_name": "リアランサー ヒラメ[REALANCER HIRAME]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.5,
+      "自重(g)": 188,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "30-100",
+      "グリップタイプ": "セパレート",
+      "リールシート位置(mm)": 390,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-04T21:16:30.936967+09:00",
+    "updated_at": "2026-09-04T21:16:30.936967+09:00"
+  },
+  {
+    "item_name": "73 MH270/RIGHT",
+    "jan": "4969363216175",
+    "product_code": "216175",
+    "price": 53000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003poa6tqag.html",
+    "product_name": "リアランサー ヒラメ[REALANCER HIRAME]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.5,
+      "自重(g)": 190,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "40-120",
+      "グリップタイプ": "セパレート",
+      "リールシート位置(mm)": 390,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.3
+    },
+    "created_at": "2026-09-04T21:16:30.936967+09:00",
+    "updated_at": "2026-09-04T21:16:30.936967+09:00"
+  },
+  {
+    "item_name": "73 MH270/LEFT",
+    "jan": "4969363216182",
+    "product_code": "216182",
+    "price": 53000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003poa6tqag.html",
+    "product_name": "リアランサー ヒラメ[REALANCER HIRAME]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.5,
+      "自重(g)": 190,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "40-120",
+      "グリップタイプ": "セパレート",
+      "リールシート位置(mm)": 390,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.3
+    },
+    "created_at": "2026-09-04T21:16:30.936967+09:00",
+    "updated_at": "2026-09-04T21:16:30.936967+09:00"
+  }
+]

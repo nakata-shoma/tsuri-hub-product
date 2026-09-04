@@ -1,0 +1,65 @@
+[
+  {
+    "item_name": "155",
+    "jan": "4969363250414",
+    "product_code": "250414",
+    "price": 30100,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a071000002bjtyoaag.html",
+    "product_name": "ベイゲーム X ヤリイカ",
+    "specs": {
+      "全長(m)": 1.55,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 81.5,
+      "自重(g)": 155,
+      "先径(mm)": 1.6,
+      "錘負荷(号)": "100-150",
+      "リールシート位置(mm)": 396,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 80.8
+    },
+    "created_at": "2026-09-04T21:16:02.558517+09:00",
+    "updated_at": "2026-09-04T21:16:02.558517+09:00"
+  },
+  {
+    "item_name": "175",
+    "jan": "4969363250421",
+    "product_code": "250421",
+    "price": 30600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a071000002bjtyoaag.html",
+    "product_name": "ベイゲーム X ヤリイカ",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 91.5,
+      "自重(g)": 170,
+      "先径(mm)": 1.7,
+      "錘負荷(号)": "100-150",
+      "リールシート位置(mm)": 396,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 85.9
+    },
+    "created_at": "2026-09-04T21:16:02.558517+09:00",
+    "updated_at": "2026-09-04T21:16:02.558517+09:00"
+  },
+  {
+    "item_name": "190",
+    "jan": "4969363250438",
+    "product_code": "250438",
+    "price": 31100,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/yariikasurumeika/a071000002bjtyoaag.html",
+    "product_name": "ベイゲーム X ヤリイカ",
+    "specs": {
+      "全長(m)": 1.9,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 99,
+      "自重(g)": 180,
+      "先径(mm)": 1.7,
+      "錘負荷(号)": "100-150",
+      "リールシート位置(mm)": 396,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 86.4
+    },
+    "created_at": "2026-09-04T21:16:02.558517+09:00",
+    "updated_at": "2026-09-04T21:16:02.558517+09:00"
+  }
+]

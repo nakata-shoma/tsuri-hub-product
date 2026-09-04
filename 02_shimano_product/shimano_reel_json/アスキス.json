@@ -1,0 +1,38 @@
+[
+  {
+    "item_name": "#3,4",
+    "jan": "4969363035530",
+    "product_code": "035530",
+    "price": 41600,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/chinuwakasagiother/a0710000028b1onaaq.html",
+    "product_name": "アスキス",
+    "specs": {
+      "ギア比": 1,
+      "最大ドラグ力(Kg)": 0.5,
+      "自重(g)": 105,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "67/24",
+      "最大巻上長(cm/ハンドル1回転)": 21,
+      "ベアリング数BB/ローラ―": "2/1"
+    },
+    "created_at": "2026-09-04T21:11:55.074490+09:00",
+    "updated_at": "2026-09-04T21:11:55.074490+09:00"
+  },
+  {
+    "item_name": "#7,8",
+    "jan": "4969363035547",
+    "product_code": "035547",
+    "price": 52000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/chinuwakasagiother/a0710000028b1onaaq.html",
+    "product_name": "アスキス",
+    "specs": {
+      "ギア比": 1,
+      "最大ドラグ力(Kg)": 3,
+      "自重(g)": 235,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "88/33",
+      "最大巻上長(cm/ハンドル1回転)": 28,
+      "ベアリング数BB/ローラ―": "2/1"
+    },
+    "created_at": "2026-09-04T21:11:55.074490+09:00",
+    "updated_at": "2026-09-04T21:11:55.074490+09:00"
+  }
+]

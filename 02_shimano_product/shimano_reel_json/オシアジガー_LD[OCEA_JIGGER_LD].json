@@ -1,0 +1,90 @@
+[
+  {
+    "item_name": "2500MG RIGHT",
+    "jan": "4969363046581",
+    "product_code": "046581",
+    "price": 72000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/ryojikuoffshorefuneishidailarge/a075f00003ze5htqay.html",
+    "product_name": "オシアジガー LD[OCEA JIGGER LD]",
+    "specs": {
+      "ギア比": 5.7,
+      "最大ドラグ力(Kg)": 20,
+      "自重(g)": 690,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "60/33",
+      "糸巻量PE(号-m)": "3-670, 4-500, 5-400",
+      "最大巻上長(cm/ハンドル1回転)": 107,
+      "ハンドル長さ(mm)": 105,
+      "ベアリング数BB/ローラ―": "8/1",
+      "夢屋ハンドルノブタイプ": "D",
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:12:06.402219+09:00",
+    "updated_at": "2026-09-04T21:12:06.402219+09:00"
+  },
+  {
+    "item_name": "2501MG LEFT",
+    "jan": "4969363048653",
+    "product_code": "048653",
+    "price": 72000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/ryojikuoffshorefuneishidailarge/a075f00003ze5htqay.html",
+    "product_name": "オシアジガー LD[OCEA JIGGER LD]",
+    "specs": {
+      "ギア比": 5.7,
+      "最大ドラグ力(Kg)": 20,
+      "自重(g)": 690,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "60/33",
+      "糸巻量PE(号-m)": "3-670, 4-500, 5-400",
+      "最大巻上長(cm/ハンドル1回転)": 107,
+      "ハンドル長さ(mm)": 105,
+      "ベアリング数BB/ローラ―": "8/1",
+      "夢屋ハンドルノブタイプ": "D",
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:12:06.402219+09:00",
+    "updated_at": "2026-09-04T21:12:06.402219+09:00"
+  },
+  {
+    "item_name": "2500HG RIGHT",
+    "jan": "4969363046598",
+    "product_code": "046598",
+    "price": 72000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/ryojikuoffshorefuneishidailarge/a075f00003ze5htqay.html",
+    "product_name": "オシアジガー LD[OCEA JIGGER LD]",
+    "specs": {
+      "ギア比": 6.2,
+      "最大ドラグ力(Kg)": 20,
+      "自重(g)": 690,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "60/33",
+      "糸巻量PE(号-m)": "3-670, 4-500, 5-400",
+      "最大巻上長(cm/ハンドル1回転)": 117,
+      "ハンドル長さ(mm)": 105,
+      "ベアリング数BB/ローラ―": "8/1",
+      "夢屋ハンドルノブタイプ": "D",
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:12:06.402219+09:00",
+    "updated_at": "2026-09-04T21:12:06.402219+09:00"
+  },
+  {
+    "item_name": "2501HG LEFT",
+    "jan": "4969363048660",
+    "product_code": "048660",
+    "price": 72000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/ryojikuoffshorefuneishidailarge/a075f00003ze5htqay.html",
+    "product_name": "オシアジガー LD[OCEA JIGGER LD]",
+    "specs": {
+      "ギア比": 6.2,
+      "最大ドラグ力(Kg)": 20,
+      "自重(g)": 690,
+      "スプール　径(ｍｍ)/幅(ｍｍ)": "60/33",
+      "糸巻量PE(号-m)": "3-670, 4-500, 5-400",
+      "最大巻上長(cm/ハンドル1回転)": 117,
+      "ハンドル長さ(mm)": 105,
+      "ベアリング数BB/ローラ―": "8/1",
+      "夢屋ハンドルノブタイプ": "D",
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:12:06.402219+09:00",
+    "updated_at": "2026-09-04T21:12:06.402219+09:00"
+  }
+]

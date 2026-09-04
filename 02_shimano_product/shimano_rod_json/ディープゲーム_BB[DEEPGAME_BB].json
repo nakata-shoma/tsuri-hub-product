@@ -1,0 +1,200 @@
+[
+  {
+    "item_name": "120-180",
+    "jan": "4969363212771",
+    "product_code": "212771",
+    "price": 20500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 93.5,
+      "自重(g)": 208,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "80-250",
+      "リールシート位置(mm)": 372,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 58.2
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "120-210",
+    "jan": "4969363212788",
+    "product_code": "212788",
+    "price": 21300,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 2.1,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 109.5,
+      "自重(g)": 222,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "80-250",
+      "リールシート位置(mm)": 302,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 57.3
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "120-240",
+    "jan": "4969363212795",
+    "product_code": "212795",
+    "price": 21800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 2.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 124.5,
+      "自重(g)": 248,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "80-250",
+      "リールシート位置(mm)": 310,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 53.9
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "120-270",
+    "jan": "4969363212801",
+    "product_code": "212801",
+    "price": 22400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 139.5,
+      "自重(g)": 285,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "80-250",
+      "リールシート位置(mm)": 310,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 56.2
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "150-180",
+    "jan": "4969363212818",
+    "product_code": "212818",
+    "price": 21800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 93.5,
+      "自重(g)": 222,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "100-300",
+      "リールシート位置(mm)": 310,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 58.2
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "150-210",
+    "jan": "4969363212825",
+    "product_code": "212825",
+    "price": 22400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 2.1,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 109.5,
+      "自重(g)": 247,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "100-300",
+      "リールシート位置(mm)": 302,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 59.6
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "150-240",
+    "jan": "4969363212832",
+    "product_code": "212832",
+    "price": 22900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 2.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 124.5,
+      "自重(g)": 270,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "100-300",
+      "リールシート位置(mm)": 310,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 55.6
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "200-210",
+    "jan": "4969363212849",
+    "product_code": "212849",
+    "price": 23400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 2.1,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 109.5,
+      "自重(g)": 255,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "120-400",
+      "リールシート位置(mm)": 302,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 59.3
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  },
+  {
+    "item_name": "200-240",
+    "jan": "4969363212856",
+    "product_code": "212856",
+    "price": 24100,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hokkaido/a075f00003cvwf1qak.html",
+    "product_name": "ディープゲーム BB[DEEPGAME BB]",
+    "specs": {
+      "全長(m)": 2.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 124.5,
+      "自重(g)": 268,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "120-400",
+      "リールシート位置(mm)": 310,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 55.6
+    },
+    "created_at": "2026-09-04T21:15:37.792984+09:00",
+    "updated_at": "2026-09-04T21:15:37.792984+09:00"
+  }
+]

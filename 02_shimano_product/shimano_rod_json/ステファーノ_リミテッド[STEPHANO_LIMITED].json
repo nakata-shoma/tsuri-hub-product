@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "M175",
+    "jan": "4969363272164",
+    "product_code": "272164",
+    "price": 87000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003rgu7kqac.html",
+    "product_name": "ステファーノ リミテッド[STEPHANO LIMITED]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 175,
+      "自重(g)": 54,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.9,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:58.993041+09:00",
+    "updated_at": "2026-09-04T21:14:58.993041+09:00"
+  },
+  {
+    "item_name": "MH175",
+    "jan": "4969363276988",
+    "product_code": "276988",
+    "price": 87000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003rgu7kqac.html",
+    "product_name": "ステファーノ リミテッド[STEPHANO LIMITED]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 175,
+      "自重(g)": 56,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.9,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:58.993041+09:00",
+    "updated_at": "2026-09-04T21:14:58.993041+09:00"
+  }
+]

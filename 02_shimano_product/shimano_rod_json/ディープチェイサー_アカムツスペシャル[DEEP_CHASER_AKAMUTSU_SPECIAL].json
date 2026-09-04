@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "M210",
+    "jan": "4969363207319",
+    "product_code": "207319",
+    "price": 57300,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/middepth/a075f00003poagzqa4.html",
+    "product_name": "ディープチェイサー　アカムツスペシャル[DEEP CHASER AKAMUTSU SPECIAL]",
+    "specs": {
+      "全長(m)": 2.1,
+      "継ぎ方式": "その他",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 173.5,
+      "自重(g)": 350,
+      "先径(mm)": 2.7,
+      "錘負荷(号)": "80-200",
+      "リールシート位置(mm)": 361,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 34.1
+    },
+    "created_at": "2026-09-04T21:15:39.622162+09:00",
+    "updated_at": "2026-09-04T21:15:39.622162+09:00"
+  },
+  {
+    "item_name": "M245",
+    "jan": "4969363207326",
+    "product_code": "207326",
+    "price": 65000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/middepth/a075f00003poagzqa4.html",
+    "product_name": "ディープチェイサー　アカムツスペシャル[DEEP CHASER AKAMUTSU SPECIAL]",
+    "specs": {
+      "全長(m)": 2.45,
+      "継ぎ方式": "その他",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 208.2,
+      "自重(g)": 360,
+      "先径(mm)": 2.7,
+      "錘負荷(号)": "80-200",
+      "リールシート位置(mm)": 361,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 31.5
+    },
+    "created_at": "2026-09-04T21:15:39.622162+09:00",
+    "updated_at": "2026-09-04T21:15:39.622162+09:00"
+  },
+  {
+    "item_name": "MH245",
+    "jan": "4969363216366",
+    "product_code": "216366",
+    "price": 66000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/middepth/a075f00003poagzqa4.html",
+    "product_name": "ディープチェイサー　アカムツスペシャル[DEEP CHASER AKAMUTSU SPECIAL]",
+    "specs": {
+      "全長(m)": 2.45,
+      "継ぎ方式": "その他",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 208.2,
+      "自重(g)": 390,
+      "先径(mm)": 2.7,
+      "錘負荷(号)": "100-250",
+      "リールシート位置(mm)": 361,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 27.3
+    },
+    "created_at": "2026-09-04T21:15:39.622162+09:00",
+    "updated_at": "2026-09-04T21:15:39.622162+09:00"
+  }
+]

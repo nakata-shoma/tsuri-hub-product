@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "0-530",
+    "jan": "4969363219374",
+    "product_code": "219374",
+    "price": 152600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/uwamonochinu/a075f00003cx3fiqak.html",
+    "product_name": "鱗海(りんかい) リミテッド[RINKAI LIMITED]",
+    "specs": {
+      "全長(m)": 5.3,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 117.1,
+      "自重(g)": 187,
+      "先径(mm)": 0.8,
+      "錘負荷(号)": "0.5-1.5",
+      "適合ハリス(号)": "0.4-1.5",
+      "カーボン含有率(％)": 99.5,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:17:05.843052+09:00",
+    "updated_at": "2026-09-04T21:17:05.843052+09:00"
+  },
+  {
+    "item_name": "0.6-530",
+    "jan": "4969363219381",
+    "product_code": "219381",
+    "price": 154700,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/uwamonochinu/a075f00003cx3fiqak.html",
+    "product_name": "鱗海(りんかい) リミテッド[RINKAI LIMITED]",
+    "specs": {
+      "全長(m)": 5.3,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 117.1,
+      "自重(g)": 195,
+      "先径(mm)": 0.8,
+      "錘負荷(号)": "1-2",
+      "適合ハリス(号)": "0.6-1.5",
+      "カーボン含有率(％)": 99.5,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:17:05.843052+09:00",
+    "updated_at": "2026-09-04T21:17:05.843052+09:00"
+  },
+  {
+    "item_name": "1-530",
+    "jan": "4969363219398",
+    "product_code": "219398",
+    "price": 156800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/uwamonochinu/a075f00003cx3fiqak.html",
+    "product_name": "鱗海(りんかい) リミテッド[RINKAI LIMITED]",
+    "specs": {
+      "全長(m)": 5.3,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 117.1,
+      "自重(g)": 210,
+      "先径(mm)": 0.8,
+      "錘負荷(号)": "1-3",
+      "適合ハリス(号)": "0.8-2",
+      "カーボン含有率(％)": 99.5,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:17:05.843052+09:00",
+    "updated_at": "2026-09-04T21:17:05.843052+09:00"
+  }
+]

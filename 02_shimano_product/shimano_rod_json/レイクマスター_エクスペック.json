@@ -1,0 +1,182 @@
+[
+  {
+    "item_name": "S01F MICRO FINESSE",
+    "jan": "4969363388919",
+    "product_code": "388919",
+    "price": 7800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.21,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 21,
+      "先厚み(mm)": 0.12,
+      "先径(mm)": 2.0,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "1-4",
+      "適合ラインPE(号)": "0.15-0.4"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "MX0E GEKISHIBU EXCITE",
+    "jan": "4969363388926",
+    "product_code": "388926",
+    "price": 8600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.26,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 25.8,
+      "先厚み(mm)": 0.19,
+      "先径(mm)": 2.2,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "0-2",
+      "適合ラインPE(号)": "0.15-0.4"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "M00E SHIBUSHIBU EXCITE",
+    "jan": "4969363395047",
+    "product_code": "395047",
+    "price": 10000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.27,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 27.2,
+      "先厚み(mm)": 0.65,
+      "先径(mm)": 1.1,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "0-3",
+      "適合ラインPE(号)": "0.15-0.4"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "M01E REACTION BITE",
+    "jan": "4969363395658",
+    "product_code": "395658",
+    "price": 9000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.29,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 29,
+      "先厚み(mm)": 0.5,
+      "先径(mm)": 0.8,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "0.5-4",
+      "適合ラインPE(号)": "0.15-0.4"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "M02E REACTION BITE",
+    "jan": "4969363388933",
+    "product_code": "388933",
+    "price": 9000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.29,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 29,
+      "先厚み(mm)": 0.65,
+      "先径(mm)": 0.9,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "1.5-6",
+      "適合ラインPE(号)": "0.2-0.6"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "M01K KAMISORI FINESSE",
+    "jan": "4969363395030",
+    "product_code": "395030",
+    "price": 8100,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.27,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 27,
+      "先厚み(mm)": 0.17,
+      "先径(mm)": 1.0,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "0.5-3.5",
+      "適合ラインPE(号)": "0.15-0.4"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "M02K KAMISORI SHALLOW",
+    "jan": "4969363388940",
+    "product_code": "388940",
+    "price": 8100,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.27,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 27,
+      "先厚み(mm)": 0.2,
+      "先径(mm)": 1.0,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "1.5-6",
+      "適合ラインPE(号)": "0.2-0.6"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "M03K KAMISORI VERSATILE",
+    "jan": "4969363388957",
+    "product_code": "388957",
+    "price": 8200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.27,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 27,
+      "先厚み(mm)": 0.23,
+      "先径(mm)": 1.0,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "2-8",
+      "適合ラインPE(号)": "0.2-0.6"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  },
+  {
+    "item_name": "L05S SPARK MONSTER",
+    "jan": "4969363388964",
+    "product_code": "388964",
+    "price": 8400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/wakasagi/a075f000032ym6kqae_p.html",
+    "product_name": "レイクマスター エクスペック",
+    "specs": {
+      "全長(m)": 0.34,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 34,
+      "先厚み(mm)": 0.16,
+      "先径(mm)": 2.5,
+      "元径(mm)": 5.0,
+      "錘負荷(g)": "6-14",
+      "適合ラインPE(号)": "0.2-0.8"
+    },
+    "created_at": "2026-09-04T21:16:42.465964+09:00",
+    "updated_at": "2026-09-04T21:16:42.465964+09:00"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "item_name": "64M/MH245",
+    "jan": "4969363271426",
+    "product_code": "271426",
+    "price": 160000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f000044ughoqaw.html",
+    "product_name": "チェルマーレ 落し込み[CHERMARE OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.45,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 208.5,
+      "自重(g)": 563,
+      "先径(mm)": 2.3,
+      "錘負荷(号)": "40-180",
+      "リールシート位置(mm)": 357,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 57.1,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:33.730108+09:00",
+    "updated_at": "2026-09-04T21:15:33.730108+09:00"
+  },
+  {
+    "item_name": "73H235",
+    "jan": "4969363271433",
+    "product_code": "271433",
+    "price": 160000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/otoshikomi/a075f000044ughoqaw.html",
+    "product_name": "チェルマーレ 落し込み[CHERMARE OTOSHIKOMI]",
+    "specs": {
+      "全長(m)": 2.35,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 198.5,
+      "自重(g)": 594,
+      "先径(mm)": 2.3,
+      "錘負荷(号)": "80-200",
+      "リールシート位置(mm)": 357,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 62.4,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:33.730108+09:00",
+    "updated_at": "2026-09-04T21:15:33.730108+09:00"
+  }
+]

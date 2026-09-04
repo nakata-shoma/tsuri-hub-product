@@ -1,0 +1,86 @@
+[
+  {
+    "item_name": "500 手持",
+    "jan": "4969363256706",
+    "product_code": "256706",
+    "price": 202200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/sokomono/a075f00003mcmstqah.html",
+    "product_name": "イシダイ リミテッド",
+    "specs": {
+      "全長(m)": 5.0,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 136.3,
+      "自重(g)": 570,
+      "先径(mm)": 1.9,
+      "錘負荷(号)": "15-35",
+      "カーボン含有率(％)": 98.1,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:13:38.363474+09:00",
+    "updated_at": "2026-09-04T21:13:38.363474+09:00"
+  },
+  {
+    "item_name": "540 遠投",
+    "jan": "4969363250001",
+    "product_code": "250001",
+    "price": 202200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/sokomono/a075f00003mcmstqah.html",
+    "product_name": "イシダイ リミテッド",
+    "specs": {
+      "全長(m)": 5.42,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 146.3,
+      "自重(g)": 680,
+      "先径(mm)": 2.3,
+      "錘負荷(号)": "20-50",
+      "カーボン含有率(％)": 98.2,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:13:38.363474+09:00",
+    "updated_at": "2026-09-04T21:13:38.363474+09:00"
+  },
+  {
+    "item_name": "560 置竿",
+    "jan": "4969363250018",
+    "product_code": "250018",
+    "price": 202200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/sokomono/a075f00003mcmstqah.html",
+    "product_name": "イシダイ リミテッド",
+    "specs": {
+      "全長(m)": 5.6,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 151.4,
+      "自重(g)": 680,
+      "先径(mm)": 2.0,
+      "錘負荷(号)": "15-30",
+      "カーボン含有率(％)": 97.5,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:13:38.363474+09:00",
+    "updated_at": "2026-09-04T21:13:38.363474+09:00"
+  },
+  {
+    "item_name": "H540",
+    "jan": "4969363256713",
+    "product_code": "256713",
+    "price": 202200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/sokomono/a075f00003mcmstqah.html",
+    "product_name": "イシダイ リミテッド",
+    "specs": {
+      "全長(m)": 5.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 146.3,
+      "自重(g)": 805,
+      "先径(mm)": 1.9,
+      "錘負荷(号)": "20-40",
+      "カーボン含有率(％)": 97.8,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:13:38.363474+09:00",
+    "updated_at": "2026-09-04T21:13:38.363474+09:00"
+  }
+]

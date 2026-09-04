@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "SSS175-MS",
+    "jan": "4969363276995",
+    "product_code": "276995",
+    "price": 75000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003zddvuqae.html",
+    "product_name": "ステファーノ 攻 SSS175-MS/LS175/H177SP[STEPHANO SEME]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 175.1,
+      "自重(g)": 63,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "5-35",
+      "リールシート位置(mm)": 293,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.9,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:59.482990+09:00",
+    "updated_at": "2026-09-04T21:14:59.482990+09:00"
+  },
+  {
+    "item_name": "LS175",
+    "jan": "4969363273703",
+    "product_code": "273703",
+    "price": 75000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003zddvuqae.html",
+    "product_name": "ステファーノ 攻 SSS175-MS/LS175/H177SP[STEPHANO SEME]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 141.8,
+      "自重(g)": 61,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "5-35",
+      "リールシート位置(mm)": 293,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.2,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:59.482990+09:00",
+    "updated_at": "2026-09-04T21:14:59.482990+09:00"
+  },
+  {
+    "item_name": "H177SP",
+    "jan": "4969363273697",
+    "product_code": "273697",
+    "price": 75000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003zddvuqae.html",
+    "product_name": "ステファーノ 攻 SSS175-MS/LS175/H177SP[STEPHANO SEME]",
+    "specs": {
+      "全長(m)": 1.77,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 155.7,
+      "自重(g)": 81,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 331,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 97.8,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:59.482990+09:00",
+    "updated_at": "2026-09-04T21:14:59.482990+09:00"
+  }
+]

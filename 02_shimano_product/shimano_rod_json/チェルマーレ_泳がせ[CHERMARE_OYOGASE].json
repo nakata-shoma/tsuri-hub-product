@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "H170",
+    "jan": "4969363266958",
+    "product_code": "266958",
+    "price": 155000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/oyogase/a075f000044ugbfqaw.html",
+    "product_name": "チェルマーレ 泳がせ[CHERMARE OYOGASE]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 170.1,
+      "自重(g)": 600,
+      "先径(mm)": 2.6,
+      "錘負荷(号)": "60-300",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 63.2,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:33.385587+09:00",
+    "updated_at": "2026-09-04T21:15:33.385587+09:00"
+  },
+  {
+    "item_name": "HH170",
+    "jan": "4969363273468",
+    "product_code": "273468",
+    "price": 160000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/oyogase/a075f000044ugbfqaw.html",
+    "product_name": "チェルマーレ 泳がせ[CHERMARE OYOGASE]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 170,
+      "自重(g)": 635,
+      "先径(mm)": 3.1,
+      "錘負荷(号)": "100-500",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 51,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:15:33.385587+09:00",
+    "updated_at": "2026-09-04T21:15:33.385587+09:00"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "item_name": "64M230",
+    "jan": "4969363272799",
+    "product_code": "272799",
+    "price": 51000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 2.3,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 171.4,
+      "自重(g)": 178,
+      "先径(mm)": 1.4,
+      "錘負荷(号)": "40-120",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 86
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "64MH240",
+    "jan": "4969363272805",
+    "product_code": "272805",
+    "price": 52000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 2.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 181.4,
+      "自重(g)": 193,
+      "先径(mm)": 1.4,
+      "錘負荷(号)": "40-150",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 86.6
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "73MH190",
+    "jan": "4969363272812",
+    "product_code": "272812",
+    "price": 50000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 1.9,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 119.4,
+      "自重(g)": 180,
+      "先径(mm)": 1.2,
+      "錘負荷(号)": "40-150",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 85
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "73MH230",
+    "jan": "4969363272829",
+    "product_code": "272829",
+    "price": 52000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 2.3,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 159.4,
+      "自重(g)": 196,
+      "先径(mm)": 1.2,
+      "錘負荷(号)": "40-150",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 82.6
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "73H190",
+    "jan": "4969363272836",
+    "product_code": "272836",
+    "price": 50000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 1.9,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 119.4,
+      "自重(g)": 187,
+      "先径(mm)": 1.4,
+      "錘負荷(号)": "50-200",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 82.5
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "73H230",
+    "jan": "4969363272843",
+    "product_code": "272843",
+    "price": 53000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 2.3,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 159.4,
+      "自重(g)": 203,
+      "先径(mm)": 1.4,
+      "錘負荷(号)": "50-200",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 80.7
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "73HH210/RIGHT",
+    "jan": "4969363272850",
+    "product_code": "272850",
+    "price": 53000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 2.1,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 139.4,
+      "自重(g)": 201,
+      "先径(mm)": 1.4,
+      "錘負荷(号)": "50-250",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 85.1
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "82MH180",
+    "jan": "4969363272867",
+    "product_code": "272867",
+    "price": 50000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 109.4,
+      "自重(g)": 182,
+      "先径(mm)": 1.2,
+      "錘負荷(号)": "40-150",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 85.2
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  },
+  {
+    "item_name": "82H190",
+    "jan": "4969363272874",
+    "product_code": "272874",
+    "price": 51000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funehanyou/midgame/a075f00003xgwtrqai.html",
+    "product_name": "ミッドゲーム XR[MIDGAME XR]",
+    "specs": {
+      "全長(m)": 1.9,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 119.4,
+      "自重(g)": 187,
+      "先径(mm)": 1.2,
+      "錘負荷(号)": "50-200",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 86.4
+    },
+    "created_at": "2026-09-04T21:16:23.512542+09:00",
+    "updated_at": "2026-09-04T21:16:23.512542+09:00"
+  }
+]

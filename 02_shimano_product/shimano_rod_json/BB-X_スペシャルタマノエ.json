@@ -1,0 +1,42 @@
+[
+  {
+    "item_name": "550",
+    "jan": "4969363259356",
+    "product_code": "259356",
+    "price": 80400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/tamanoe/a075f00003cwys0qao.html",
+    "product_name": "BB-X スペシャルタマノエ",
+    "specs": {
+      "全長(m)": 5.5,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 128.9,
+      "自重(g)": 440,
+      "先径(mm)": 16.2,
+      "カーボン含有率(％)": 99.1,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:13:24.970226+09:00",
+    "updated_at": "2026-09-04T21:13:24.970226+09:00"
+  },
+  {
+    "item_name": "650",
+    "jan": "4969363259363",
+    "product_code": "259363",
+    "price": 94000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/tamanoe/a075f00003cwys0qao.html",
+    "product_name": "BB-X スペシャルタマノエ",
+    "specs": {
+      "全長(m)": 6.5,
+      "継ぎ方式": "振出",
+      "継数(本)": 6,
+      "仕舞寸法(cm)": 128.9,
+      "自重(g)": 570,
+      "先径(mm)": 16.2,
+      "カーボン含有率(％)": 99.1,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:13:24.970226+09:00",
+    "updated_at": "2026-09-04T21:13:24.970226+09:00"
+  }
+]

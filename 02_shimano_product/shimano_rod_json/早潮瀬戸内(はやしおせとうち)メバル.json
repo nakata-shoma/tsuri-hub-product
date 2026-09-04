@@ -1,0 +1,107 @@
+[
+  {
+    "item_name": "300SI-T",
+    "jan": "4969363200457",
+    "product_code": "200457",
+    "price": 44000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00002km9etqas.html",
+    "product_name": "早潮瀬戸内(はやしおせとうち)メバル",
+    "specs": {
+      "全長(m)": 3.0,
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 106,
+      "自重(g)": 120,
+      "先内径(mm)/先外径(mm)": "1.6/2.6",
+      "錘負荷(号)": "10-40",
+      "リールシート位置(mm)": 367,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 97.9
+    },
+    "created_at": "2026-09-04T21:16:51.548671+09:00",
+    "updated_at": "2026-09-04T21:16:51.548671+09:00"
+  },
+  {
+    "item_name": "330SI-T",
+    "jan": "4969363200464",
+    "product_code": "200464",
+    "price": 45000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00002km9etqas.html",
+    "product_name": "早潮瀬戸内(はやしおせとうち)メバル",
+    "specs": {
+      "全長(m)": 3.3,
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 116,
+      "自重(g)": 128,
+      "先内径(mm)/先外径(mm)": "1.6/2.6",
+      "錘負荷(号)": "10-40",
+      "リールシート位置(mm)": 367,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98
+    },
+    "created_at": "2026-09-04T21:16:51.548671+09:00",
+    "updated_at": "2026-09-04T21:16:51.548671+09:00"
+  },
+  {
+    "item_name": "360SI-T",
+    "jan": "4969363200471",
+    "product_code": "200471",
+    "price": 47000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00002km9etqas.html",
+    "product_name": "早潮瀬戸内(はやしおせとうち)メバル",
+    "specs": {
+      "全長(m)": 3.6,
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 126,
+      "自重(g)": 132,
+      "先内径(mm)/先外径(mm)": "1.6/2.6",
+      "錘負荷(号)": "10-40",
+      "リールシート位置(mm)": 367,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 97.6
+    },
+    "created_at": "2026-09-04T21:16:51.548671+09:00",
+    "updated_at": "2026-09-04T21:16:51.548671+09:00"
+  },
+  {
+    "item_name": "420SI-T",
+    "jan": "4969363200488",
+    "product_code": "200488",
+    "price": 48000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00002km9etqas.html",
+    "product_name": "早潮瀬戸内(はやしおせとうち)メバル",
+    "specs": {
+      "全長(m)": 4.2,
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 112.5,
+      "自重(g)": 162,
+      "先内径(mm)/先外径(mm)": "1.6/2.6",
+      "錘負荷(号)": "10-40",
+      "リールシート位置(mm)": 369,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.4
+    },
+    "created_at": "2026-09-04T21:16:51.548671+09:00",
+    "updated_at": "2026-09-04T21:16:51.548671+09:00"
+  },
+  {
+    "item_name": "480SI-T",
+    "jan": "4969363200495",
+    "product_code": "200495",
+    "price": 51000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/othersenyou/a075f00002km9etqas.html",
+    "product_name": "早潮瀬戸内(はやしおせとうち)メバル",
+    "specs": {
+      "全長(m)": 4.8,
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 127.5,
+      "自重(g)": 175,
+      "先内径(mm)/先外径(mm)": "1.6/2.6",
+      "錘負荷(号)": "10-40",
+      "リールシート位置(mm)": 369,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.5
+    },
+    "created_at": "2026-09-04T21:16:51.548671+09:00",
+    "updated_at": "2026-09-04T21:16:51.548671+09:00"
+  }
+]
