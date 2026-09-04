@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "M500 SI",
+    "jan": "4969363241573",
+    "product_code": "241573",
+    "price": 40300,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/other/a075f00003mjfqaqaa.html",
+    "product_name": "アオリスタ SI",
+    "specs": {
+      "全長(m)": 5.02,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 107.5,
+      "自重(g)": 220,
+      "先内径(mm)/先外径(mm)": "1.7/2.8",
+      "錘負荷(号)": "1.5-3",
+      "適合ウキ止(錦糸系)": "SS~S",
+      "カーボン含有率(％)": 97.2
+    },
+    "created_at": "2026-09-04T21:13:28.512341+09:00",
+    "updated_at": "2026-09-04T21:13:28.512341+09:00"
+  },
+  {
+    "item_name": "H500 SI",
+    "jan": "4969363241580",
+    "product_code": "241580",
+    "price": 41300,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/other/a075f00003mjfqaqaa.html",
+    "product_name": "アオリスタ SI",
+    "specs": {
+      "全長(m)": 5.02,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 107.5,
+      "自重(g)": 230,
+      "先内径(mm)/先外径(mm)": "1.7/2.9",
+      "錘負荷(号)": "2-5",
+      "適合ウキ止(錦糸系)": "SS~S",
+      "カーボン含有率(％)": 96.9
+    },
+    "created_at": "2026-09-04T21:13:28.512341+09:00",
+    "updated_at": "2026-09-04T21:13:28.512341+09:00"
+  }
+]

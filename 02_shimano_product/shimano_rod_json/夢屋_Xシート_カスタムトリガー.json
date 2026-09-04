@@ -1,0 +1,32 @@
+[
+  {
+    "item_name": "Type F",
+    "jan": "4969363380630",
+    "product_code": "380630",
+    "price": 3600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/yumeyacustomparts/a075f00002znnohqa2.html",
+    "product_name": "夢屋 Xシート カスタムトリガー",
+    "specs": {
+      "継数(本)": 1,
+      "自重(g)": 8,
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:16:48.621830+09:00",
+    "updated_at": "2026-09-04T21:16:48.621830+09:00"
+  },
+  {
+    "item_name": "Type WR",
+    "jan": "4969363380647",
+    "product_code": "380647",
+    "price": 3600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/yumeyacustomparts/a075f00002znnohqa2.html",
+    "product_name": "夢屋 Xシート カスタムトリガー",
+    "specs": {
+      "継数(本)": 1,
+      "自重(g)": 9,
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:16:48.621830+09:00",
+    "updated_at": "2026-09-04T21:16:48.621830+09:00"
+  }
+]

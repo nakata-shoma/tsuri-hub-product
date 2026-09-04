@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "M165",
+    "jan": "4969363201812",
+    "product_code": "201812",
+    "price": 62500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/oyogase/a075f00003cvwbvqak.html",
+    "product_name": "バンディット BG[BANDIT BG]",
+    "specs": {
+      "全長(m)": 1.65,
+      "継ぎ方式": "その他",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 133.1,
+      "自重(g)": 350,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "60-250",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 60.3
+    },
+    "created_at": "2026-09-04T21:15:51.056794+09:00",
+    "updated_at": "2026-09-04T21:15:51.056794+09:00"
+  },
+  {
+    "item_name": "MH175",
+    "jan": "4969363201829",
+    "product_code": "201829",
+    "price": 63500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/oyogase/a075f00003cvwbvqak.html",
+    "product_name": "バンディット BG[BANDIT BG]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継ぎ方式": "その他",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 143.1,
+      "自重(g)": 362,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "60-250",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 57.4
+    },
+    "created_at": "2026-09-04T21:15:51.056794+09:00",
+    "updated_at": "2026-09-04T21:15:51.056794+09:00"
+  },
+  {
+    "item_name": "H170",
+    "jan": "4969363201836",
+    "product_code": "201836",
+    "price": 63500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/oyogase/a075f00003cvwbvqak.html",
+    "product_name": "バンディット BG[BANDIT BG]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継ぎ方式": "その他",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.1,
+      "自重(g)": 360,
+      "先径(mm)": 2.4,
+      "錘負荷(号)": "60-300",
+      "リールシート位置(mm)": 307,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 57
+    },
+    "created_at": "2026-09-04T21:15:51.056794+09:00",
+    "updated_at": "2026-09-04T21:15:51.056794+09:00"
+  }
+]

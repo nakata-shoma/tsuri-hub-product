@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "220",
+    "jan": "4969363261229",
+    "product_code": "261229",
+    "price": 21000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003c8pxkqaz.html",
+    "product_name": "ライトヒラメBB",
+    "specs": {
+      "全長(m)": 2.2,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 113,
+      "自重(g)": 117,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "20-80",
+      "リールシート位置(mm)": 415,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 81.4
+    },
+    "created_at": "2026-09-04T21:16:28.907797+09:00",
+    "updated_at": "2026-09-04T21:16:28.907797+09:00"
+  },
+  {
+    "item_name": "240",
+    "jan": "4969363261236",
+    "product_code": "261236",
+    "price": 21500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003c8pxkqaz.html",
+    "product_name": "ライトヒラメBB",
+    "specs": {
+      "全長(m)": 2.4,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 123,
+      "自重(g)": 120,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "20-80",
+      "リールシート位置(mm)": 415,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 81.8
+    },
+    "created_at": "2026-09-04T21:16:28.907797+09:00",
+    "updated_at": "2026-09-04T21:16:28.907797+09:00"
+  }
+]

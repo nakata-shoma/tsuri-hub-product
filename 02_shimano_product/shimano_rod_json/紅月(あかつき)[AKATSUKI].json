@@ -1,0 +1,212 @@
+[
+  {
+    "item_name": "6",
+    "jan": "4969363304520",
+    "product_code": "304520",
+    "price": 26400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 1.81,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 67,
+      "自重(g)": 29,
+      "先径(mm)": 0.9,
+      "元径(mm)": 7.7,
+      "カーボン含有率(％)": 84.4
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "7",
+    "jan": "4969363304537",
+    "product_code": "304537",
+    "price": 26600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 2.11,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 77,
+      "自重(g)": 34,
+      "先径(mm)": 0.9,
+      "元径(mm)": 7.8,
+      "カーボン含有率(％)": 94.7
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "8",
+    "jan": "4969363304544",
+    "product_code": "304544",
+    "price": 27200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 2.41,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 87,
+      "自重(g)": 43,
+      "先径(mm)": 0.9,
+      "元径(mm)": 8.2,
+      "カーボン含有率(％)": 96.7
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "9",
+    "jan": "4969363304551",
+    "product_code": "304551",
+    "price": 28800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 97,
+      "自重(g)": 53,
+      "先径(mm)": 0.9,
+      "元径(mm)": 9.0,
+      "カーボン含有率(％)": 97.3
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "10.5",
+    "jan": "4969363304568",
+    "product_code": "304568",
+    "price": 32550,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 3.15,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 113.5,
+      "自重(g)": 61,
+      "先径(mm)": 0.9,
+      "元径(mm)": 9.4,
+      "カーボン含有率(％)": 97.7
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "12",
+    "jan": "4969363304575",
+    "product_code": "304575",
+    "price": 36000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 3.61,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 100.5,
+      "自重(g)": 76,
+      "先径(mm)": 0.9,
+      "元径(mm)": 10.1,
+      "カーボン含有率(％)": 98
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "13.5",
+    "jan": "4969363304582",
+    "product_code": "304582",
+    "price": 39150,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 4.06,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 112,
+      "自重(g)": 81,
+      "先径(mm)": 0.9,
+      "元径(mm)": 11.1,
+      "カーボン含有率(％)": 97.8
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "15",
+    "jan": "4969363304599",
+    "product_code": "304599",
+    "price": 43500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 4.51,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 102.5,
+      "自重(g)": 87,
+      "先径(mm)": 0.9,
+      "元径(mm)": 12.1,
+      "カーボン含有率(％)": 97.9
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "16.5",
+    "jan": "4969363304605",
+    "product_code": "304605",
+    "price": 47850,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 4.96,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 111.5,
+      "自重(g)": 92,
+      "先径(mm)": 0.9,
+      "元径(mm)": 12.7,
+      "カーボン含有率(％)": 97.7
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  },
+  {
+    "item_name": "18",
+    "jan": "4969363304612",
+    "product_code": "304612",
+    "price": 52200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003ksqczqaw.html",
+    "product_name": "紅月(あかつき)[AKATSUKI]",
+    "specs": {
+      "全長(m)": 5.41,
+      "継ぎ方式": "並継",
+      "調子": "先調子",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 119.5,
+      "自重(g)": 107,
+      "先径(mm)": 0.9,
+      "元径(mm)": 13.1,
+      "カーボン含有率(％)": 97.7
+    },
+    "created_at": "2026-09-04T21:16:59.478456+09:00",
+    "updated_at": "2026-09-04T21:16:59.478456+09:00"
+  }
+]

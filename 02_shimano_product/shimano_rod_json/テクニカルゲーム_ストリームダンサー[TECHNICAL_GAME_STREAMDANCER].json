@@ -1,0 +1,42 @@
+[
+  {
+    "item_name": "47",
+    "jan": "4969363339362",
+    "product_code": "339362",
+    "price": 44600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/keiryu/keiryu/a075f00003xgtseqay.html",
+    "product_name": "テクニカルゲーム ストリームダンサー[TECHNICAL GAME STREAMDANCER]",
+    "specs": {
+      "全長(m)": 4.7,
+      "継数(本)": 8,
+      "仕舞寸法(cm)": 68.8,
+      "自重(g)": 66,
+      "先径(mm)": 0.6,
+      "元径(mm)": 20.4,
+      "適合水中糸(ナイロン・号)": "0.1-0.5",
+      "カーボン含有率(％)": 95.6
+    },
+    "created_at": "2026-09-04T21:15:34.074996+09:00",
+    "updated_at": "2026-09-04T21:15:34.074996+09:00"
+  },
+  {
+    "item_name": "53",
+    "jan": "4969363339379",
+    "product_code": "339379",
+    "price": 50400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/keiryu/keiryu/a075f00003xgtseqay.html",
+    "product_name": "テクニカルゲーム ストリームダンサー[TECHNICAL GAME STREAMDANCER]",
+    "specs": {
+      "全長(m)": 5.3,
+      "継数(本)": 9,
+      "仕舞寸法(cm)": 68.8,
+      "自重(g)": 76,
+      "先径(mm)": 0.6,
+      "元径(mm)": 20.4,
+      "適合水中糸(ナイロン・号)": "0.1-0.5",
+      "カーボン含有率(％)": 95.1
+    },
+    "created_at": "2026-09-04T21:15:34.074996+09:00",
+    "updated_at": "2026-09-04T21:15:34.074996+09:00"
+  }
+]

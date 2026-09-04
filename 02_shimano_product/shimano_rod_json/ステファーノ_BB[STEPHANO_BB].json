@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "M180",
+    "jan": "4969363277756",
+    "product_code": "277756",
+    "price": 22500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003zddhyqau.html",
+    "product_name": "ステファーノ BB[STEPHANO BB]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 93.5,
+      "自重(g)": 94,
+      "先径(mm)": 0.9,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 83.7
+    },
+    "created_at": "2026-09-04T21:14:56.132126+09:00",
+    "updated_at": "2026-09-04T21:14:56.132126+09:00"
+  },
+  {
+    "item_name": "MH180",
+    "jan": "4969363277763",
+    "product_code": "277763",
+    "price": 22500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003zddhyqau.html",
+    "product_name": "ステファーノ BB[STEPHANO BB]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 93.5,
+      "自重(g)": 96,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 83.2
+    },
+    "created_at": "2026-09-04T21:14:56.132126+09:00",
+    "updated_at": "2026-09-04T21:14:56.132126+09:00"
+  },
+  {
+    "item_name": "H175",
+    "jan": "4969363277749",
+    "product_code": "277749",
+    "price": 22500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003zddhyqau.html",
+    "product_name": "ステファーノ BB[STEPHANO BB]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 91.5,
+      "自重(g)": 95,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 83.4
+    },
+    "created_at": "2026-09-04T21:14:56.132126+09:00",
+    "updated_at": "2026-09-04T21:14:56.132126+09:00"
+  }
+]

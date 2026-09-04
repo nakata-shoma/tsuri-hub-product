@@ -1,0 +1,59 @@
+[
+  {
+    "item_name": "110",
+    "jan": "4969363388261",
+    "product_code": "388261",
+    "price": 23500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/freestyle/borderless/a075f000032zljvqam.html",
+    "product_name": "ボーダレス ランディングシャフト",
+    "specs": {
+      "全長(m)": 1.1,
+      "継ぎ方式": "-",
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 110.6,
+      "自重(g)": 141,
+      "先径(mm)": 16.7,
+      "カーボン含有率(％)": 70.9
+    },
+    "created_at": "2026-09-04T21:16:14.313655+09:00",
+    "updated_at": "2026-09-04T21:16:14.313655+09:00"
+  },
+  {
+    "item_name": "210",
+    "jan": "4969363388278",
+    "product_code": "388278",
+    "price": 31700,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/freestyle/borderless/a075f000032zljvqam.html",
+    "product_name": "ボーダレス ランディングシャフト",
+    "specs": {
+      "全長(m)": 2.12,
+      "継ぎ方式": "振出",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 111,
+      "自重(g)": 265,
+      "先径(mm)": 16.7,
+      "カーボン含有率(％)": 78.9
+    },
+    "created_at": "2026-09-04T21:16:14.313655+09:00",
+    "updated_at": "2026-09-04T21:16:14.313655+09:00"
+  },
+  {
+    "item_name": "310",
+    "jan": "4969363388285",
+    "product_code": "388285",
+    "price": 38700,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/freestyle/borderless/a075f000032zljvqam.html",
+    "product_name": "ボーダレス ランディングシャフト",
+    "specs": {
+      "全長(m)": 3.11,
+      "継ぎ方式": "振出",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 111.1,
+      "自重(g)": 285,
+      "先径(mm)": 16.7,
+      "カーボン含有率(％)": 99.3
+    },
+    "created_at": "2026-09-04T21:16:14.313655+09:00",
+    "updated_at": "2026-09-04T21:16:14.313655+09:00"
+  }
+]

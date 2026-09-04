@@ -1,0 +1,38 @@
+[
+  {
+    "item_name": "スーパーエアロハンドル70mm",
+    "jan": "4969363031761",
+    "product_code": "031761",
+    "price": 8000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyahandlespinning/a075f00002kofahqag.html",
+    "product_name": "夢屋 スーパーエアロハンドル 70mm/80mm",
+    "specs": {
+      "自重(g)": 24,
+      "ハンドル長さ(mm)": 70,
+      "ベアリング数BB/ローラ―": "2/0",
+      "夢屋ハンドルノブタイプ": "A",
+      "夢屋ハンドルタイプ": "NH-2",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:12.114010+09:00",
+    "updated_at": "2026-09-04T21:13:12.114010+09:00"
+  },
+  {
+    "item_name": "スーパーエアロハンドル80mm",
+    "jan": "4969363031778",
+    "product_code": "031778",
+    "price": 8000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyahandlespinning/a075f00002kofahqag.html",
+    "product_name": "夢屋 スーパーエアロハンドル 70mm/80mm",
+    "specs": {
+      "自重(g)": 25,
+      "ハンドル長さ(mm)": 80,
+      "ベアリング数BB/ローラ―": "2/0",
+      "夢屋ハンドルノブタイプ": "A",
+      "夢屋ハンドルタイプ": "NH-2",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:12.114010+09:00",
+    "updated_at": "2026-09-04T21:13:12.114010+09:00"
+  }
+]

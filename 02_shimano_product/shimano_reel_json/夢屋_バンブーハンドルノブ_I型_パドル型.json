@@ -1,0 +1,32 @@
+[
+  {
+    "item_name": "I TYPE",
+    "jan": "4969363040718",
+    "product_code": "040718",
+    "price": 9000,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyahandleknobtypea/a075f00003lw2uaqab_p.html",
+    "product_name": "夢屋 バンブーハンドルノブ I型/パドル型",
+    "specs": {
+      "自重(g)": 8,
+      "夢屋ハンドルノブタイプ": "A",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:16.454851+09:00",
+    "updated_at": "2026-09-04T21:13:16.454851+09:00"
+  },
+  {
+    "item_name": "PADDLE TYPE",
+    "jan": "4969363040725",
+    "product_code": "040725",
+    "price": 8500,
+    "url": "https://fish.shimano.com/ja-JP/product/reel/yumeyacustomparts/yumeyahandleknobtypea/a075f00003lw2uaqab_p.html",
+    "product_name": "夢屋 バンブーハンドルノブ I型/パドル型",
+    "specs": {
+      "自重(g)": 9,
+      "夢屋ハンドルノブタイプ": "A",
+      "": "**"
+    },
+    "created_at": "2026-09-04T21:13:16.454851+09:00",
+    "updated_at": "2026-09-04T21:13:16.454851+09:00"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "item_name": "82 MH180",
+    "jan": "4969363244383",
+    "product_code": "244383",
+    "price": 86000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a075f00003x6sy4qab.html",
+    "product_name": "サーベルマスター リミテッド[SABERMASTER LIMITED]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 134.2,
+      "自重(g)": 148,
+      "先径(mm)": 1.1,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 413,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.8,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:46.153923+09:00",
+    "updated_at": "2026-09-04T21:14:46.153923+09:00"
+  },
+  {
+    "item_name": "91 HH170",
+    "jan": "4969363244390",
+    "product_code": "244390",
+    "price": 86000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tachiuo/a075f00003x6sy4qab.html",
+    "product_name": "サーベルマスター リミテッド[SABERMASTER LIMITED]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継ぎ方式": "グリップジョイント",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 124.2,
+      "自重(g)": 153,
+      "先径(mm)": 1.4,
+      "テンヤ号数(号)": "30-60",
+      "リールシート位置(mm)": 413,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.8,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:46.153923+09:00",
+    "updated_at": "2026-09-04T21:14:46.153923+09:00"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "item_name": "8",
+    "jan": "4969363394828",
+    "product_code": "394828",
+    "price": 69600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 2.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 87,
+      "自重(g)": 56,
+      "先径(mm)": 1.1,
+      "元径(mm)": 7.4,
+      "カーボン含有率(％)": 95.5
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  },
+  {
+    "item_name": "9",
+    "jan": "4969363394835",
+    "product_code": "394835",
+    "price": 70200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 97,
+      "自重(g)": 66,
+      "先径(mm)": 1.1,
+      "元径(mm)": 7.8,
+      "カーボン含有率(％)": 96.8
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  },
+  {
+    "item_name": "10.5",
+    "jan": "4969363394842",
+    "product_code": "394842",
+    "price": 72450,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 3.15,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 113,
+      "自重(g)": 83,
+      "先径(mm)": 1.1,
+      "元径(mm)": 8.1,
+      "カーボン含有率(％)": 97.2
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  },
+  {
+    "item_name": "12",
+    "jan": "4969363394859",
+    "product_code": "394859",
+    "price": 81600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 3.6,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 99,
+      "自重(g)": 85,
+      "先径(mm)": 1.1,
+      "元径(mm)": 8.5,
+      "カーボン含有率(％)": 98.8
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  },
+  {
+    "item_name": "13.5",
+    "jan": "4969363394866",
+    "product_code": "394866",
+    "price": 91800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 4.05,
+      "継ぎ方式": "並継",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 112,
+      "自重(g)": 87,
+      "先径(mm)": 1.1,
+      "元径(mm)": 8.5,
+      "カーボン含有率(％)": 98.9
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  },
+  {
+    "item_name": "15",
+    "jan": "4969363394873",
+    "product_code": "394873",
+    "price": 102000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 4.5,
+      "継ぎ方式": "並継",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 101,
+      "自重(g)": 92,
+      "先径(mm)": 1.1,
+      "元径(mm)": 8.9,
+      "カーボン含有率(％)": 97.4
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  },
+  {
+    "item_name": "16.5",
+    "jan": "4969363394880",
+    "product_code": "394880",
+    "price": 112200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 4.95,
+      "継ぎ方式": "並継",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 111.5,
+      "自重(g)": 95,
+      "先径(mm)": 1.1,
+      "元径(mm)": 9.0,
+      "カーボン含有率(％)": 97.4
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  },
+  {
+    "item_name": "18",
+    "jan": "4969363394897",
+    "product_code": "394897",
+    "price": 122400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f000032bhqqqae.html",
+    "product_name": "飛天弓 柳",
+    "specs": {
+      "全長(m)": 5.4,
+      "継ぎ方式": "並継",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 120,
+      "自重(g)": 100,
+      "先径(mm)": 1.1,
+      "元径(mm)": 9.3,
+      "カーボン含有率(％)": 97.5
+    },
+    "created_at": "2026-09-04T21:17:01.920682+09:00",
+    "updated_at": "2026-09-04T21:17:01.920682+09:00"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "item_name": "7",
+    "jan": "4969363301604",
+    "product_code": "301604",
+    "price": 26600,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003vwxjvqad.html",
+    "product_name": "風切",
+    "specs": {
+      "全長(m)": 2.1,
+      "継ぎ方式": "並継",
+      "調子": "本調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 77,
+      "自重(g)": 35,
+      "先径(mm)": 0.9,
+      "元径(mm)": 7.0,
+      "カーボン含有率(％)": 90
+    },
+    "created_at": "2026-09-04T21:17:01.312526+09:00",
+    "updated_at": "2026-09-04T21:17:01.312526+09:00"
+  },
+  {
+    "item_name": "8",
+    "jan": "4969363301611",
+    "product_code": "301611",
+    "price": 27200,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003vwxjvqad.html",
+    "product_name": "風切",
+    "specs": {
+      "全長(m)": 2.4,
+      "継ぎ方式": "並継",
+      "調子": "本調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 87,
+      "自重(g)": 41,
+      "先径(mm)": 0.9,
+      "元径(mm)": 7.4,
+      "カーボン含有率(％)": 93.8
+    },
+    "created_at": "2026-09-04T21:17:01.312526+09:00",
+    "updated_at": "2026-09-04T21:17:01.312526+09:00"
+  },
+  {
+    "item_name": "9",
+    "jan": "4969363301628",
+    "product_code": "301628",
+    "price": 28800,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003vwxjvqad.html",
+    "product_name": "風切",
+    "specs": {
+      "全長(m)": 2.7,
+      "継ぎ方式": "並継",
+      "調子": "本調子",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 97,
+      "自重(g)": 48,
+      "先径(mm)": 0.9,
+      "元径(mm)": 7.9,
+      "カーボン含有率(％)": 94.7
+    },
+    "created_at": "2026-09-04T21:17:01.312526+09:00",
+    "updated_at": "2026-09-04T21:17:01.312526+09:00"
+  },
+  {
+    "item_name": "10.5",
+    "jan": "4969363301635",
+    "product_code": "301635",
+    "price": 32550,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003vwxjvqad.html",
+    "product_name": "風切",
+    "specs": {
+      "全長(m)": 3.15,
+      "継ぎ方式": "並継",
+      "調子": "本調子",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 87,
+      "自重(g)": 56,
+      "先径(mm)": 0.9,
+      "元径(mm)": 9.1,
+      "カーボン含有率(％)": 93.6
+    },
+    "created_at": "2026-09-04T21:17:01.312526+09:00",
+    "updated_at": "2026-09-04T21:17:01.312526+09:00"
+  },
+  {
+    "item_name": "12",
+    "jan": "4969363301642",
+    "product_code": "301642",
+    "price": 36000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003vwxjvqad.html",
+    "product_name": "風切",
+    "specs": {
+      "全長(m)": 3.6,
+      "継ぎ方式": "並継",
+      "調子": "本調子",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 99,
+      "自重(g)": 71,
+      "先径(mm)": 0.9,
+      "元径(mm)": 9.8,
+      "カーボン含有率(％)": 95.6
+    },
+    "created_at": "2026-09-04T21:17:01.312526+09:00",
+    "updated_at": "2026-09-04T21:17:01.312526+09:00"
+  },
+  {
+    "item_name": "13.5",
+    "jan": "4969363301659",
+    "product_code": "301659",
+    "price": 39150,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003vwxjvqad.html",
+    "product_name": "風切",
+    "specs": {
+      "全長(m)": 4.05,
+      "継ぎ方式": "並継",
+      "調子": "本調子",
+      "継数(本)": 4,
+      "仕舞寸法(cm)": 109.5,
+      "自重(g)": 77,
+      "先径(mm)": 0.9,
+      "元径(mm)": 10.0,
+      "カーボン含有率(％)": 94.9
+    },
+    "created_at": "2026-09-04T21:17:01.312526+09:00",
+    "updated_at": "2026-09-04T21:17:01.312526+09:00"
+  },
+  {
+    "item_name": "15",
+    "jan": "4969363301666",
+    "product_code": "301666",
+    "price": 43500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/herakoi/namitsugi/a075f00003vwxjvqad.html",
+    "product_name": "風切",
+    "specs": {
+      "全長(m)": 4.5,
+      "継ぎ方式": "並継",
+      "調子": "本調子",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 100.2,
+      "自重(g)": 85,
+      "先径(mm)": 0.9,
+      "元径(mm)": 11.0,
+      "カーボン含有率(％)": 95.2
+    },
+    "created_at": "2026-09-04T21:17:01.312526+09:00",
+    "updated_at": "2026-09-04T21:17:01.312526+09:00"
+  }
+]

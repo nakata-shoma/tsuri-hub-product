@@ -1,0 +1,90 @@
+[
+  {
+    "item_name": "S180-2",
+    "jan": "4969363242020",
+    "product_code": "242020",
+    "price": 41500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003poamdqa4.html",
+    "product_name": "ステファーノ SS[STEPHANO SS]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 94.5,
+      "自重(g)": 70,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-35",
+      "リールシート位置(mm)": 297,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.3
+    },
+    "created_at": "2026-09-04T21:14:57.345283+09:00",
+    "updated_at": "2026-09-04T21:14:57.345283+09:00"
+  },
+  {
+    "item_name": "M180-2",
+    "jan": "4969363242037",
+    "product_code": "242037",
+    "price": 41500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003poamdqa4.html",
+    "product_name": "ステファーノ SS[STEPHANO SS]",
+    "specs": {
+      "全長(m)": 1.8,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 94.5,
+      "自重(g)": 74,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-35",
+      "リールシート位置(mm)": 297,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:14:57.345283+09:00",
+    "updated_at": "2026-09-04T21:14:57.345283+09:00"
+  },
+  {
+    "item_name": "MH175-2",
+    "jan": "4969363242044",
+    "product_code": "242044",
+    "price": 42000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003poamdqa4.html",
+    "product_name": "ステファーノ SS[STEPHANO SS]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 92,
+      "自重(g)": 74,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 297,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:14:57.345283+09:00",
+    "updated_at": "2026-09-04T21:14:57.345283+09:00"
+  },
+  {
+    "item_name": "HH170-2",
+    "jan": "4969363242051",
+    "product_code": "242051",
+    "price": 42500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/kawahagi/a075f00003poamdqa4.html",
+    "product_name": "ステファーノ SS[STEPHANO SS]",
+    "specs": {
+      "全長(m)": 1.7,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 89.5,
+      "自重(g)": 73,
+      "先径(mm)": 1.0,
+      "錘負荷(号)": "20-40",
+      "リールシート位置(mm)": 297,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:14:57.345283+09:00",
+    "updated_at": "2026-09-04T21:14:57.345283+09:00"
+  }
+]

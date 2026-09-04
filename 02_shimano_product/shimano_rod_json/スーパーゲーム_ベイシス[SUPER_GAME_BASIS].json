@@ -1,0 +1,107 @@
+[
+  {
+    "item_name": "MH70-75Z",
+    "jan": "4969363339409",
+    "product_code": "339409",
+    "price": 45700,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/keiryu/honryu/a075f00003c4ykjqau.html",
+    "product_name": "スーパーゲーム ベイシス[SUPER GAME BASIS]",
+    "specs": {
+      "全長(m)": 7.5,
+      "継数(本)": 10,
+      "仕舞寸法(cm)": 101.3,
+      "自重(g)": 233,
+      "先径(mm)": 1.9,
+      "元径(mm)": 23.7,
+      "適合水中糸(ナイロン・号)": "0.25-1.5",
+      "ズーム(cm)": "7.0-7.5m",
+      "カーボン含有率(％)": 98.2
+    },
+    "created_at": "2026-09-04T21:15:11.640769+09:00",
+    "updated_at": "2026-09-04T21:15:11.640769+09:00"
+  },
+  {
+    "item_name": "MH80-85Z",
+    "jan": "4969363358851",
+    "product_code": "358851",
+    "price": 47900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/keiryu/honryu/a075f00003c4ykjqau.html",
+    "product_name": "スーパーゲーム ベイシス[SUPER GAME BASIS]",
+    "specs": {
+      "全長(m)": 8.5,
+      "継数(本)": 9,
+      "仕舞寸法(cm)": 122.7,
+      "自重(g)": 295,
+      "先径(mm)": 1.7,
+      "元径(mm)": 25.7,
+      "適合水中糸(ナイロン・号)": "0.25-1.5",
+      "ズーム(cm)": "8.0-8.5m",
+      "カーボン含有率(％)": 97.8
+    },
+    "created_at": "2026-09-04T21:15:11.640769+09:00",
+    "updated_at": "2026-09-04T21:15:11.640769+09:00"
+  },
+  {
+    "item_name": "H80-85Z",
+    "jan": "4969363358868",
+    "product_code": "358868",
+    "price": 47900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/keiryu/honryu/a075f00003c4ykjqau.html",
+    "product_name": "スーパーゲーム ベイシス[SUPER GAME BASIS]",
+    "specs": {
+      "全長(m)": 8.5,
+      "継数(本)": 9,
+      "仕舞寸法(cm)": 122.7,
+      "自重(g)": 298,
+      "先径(mm)": 1.7,
+      "元径(mm)": 25.8,
+      "適合水中糸(ナイロン・号)": "0.3-2",
+      "ズーム(cm)": "8.0-8.5m",
+      "カーボン含有率(％)": 97.8
+    },
+    "created_at": "2026-09-04T21:15:11.640769+09:00",
+    "updated_at": "2026-09-04T21:15:11.640769+09:00"
+  },
+  {
+    "item_name": "H85-90Z",
+    "jan": "4969363339669",
+    "product_code": "339669",
+    "price": 47900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/keiryu/honryu/a075f00003c4ykjqau.html",
+    "product_name": "スーパーゲーム ベイシス[SUPER GAME BASIS]",
+    "specs": {
+      "全長(m)": 9.0,
+      "継数(本)": 9,
+      "仕舞寸法(cm)": 126.3,
+      "自重(g)": 320,
+      "先径(mm)": 1.8,
+      "元径(mm)": 25.9,
+      "適合水中糸(ナイロン・号)": "0.3-2",
+      "ズーム(cm)": "8.5-9.0m",
+      "カーボン含有率(％)": 98.5
+    },
+    "created_at": "2026-09-04T21:15:11.640769+09:00",
+    "updated_at": "2026-09-04T21:15:11.640769+09:00"
+  },
+  {
+    "item_name": "HH80-85Z",
+    "jan": "4969363339867",
+    "product_code": "339867",
+    "price": 47900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/keiryu/honryu/a075f00003c4ykjqau.html",
+    "product_name": "スーパーゲーム ベイシス[SUPER GAME BASIS]",
+    "specs": {
+      "全長(m)": 8.5,
+      "継数(本)": 9,
+      "仕舞寸法(cm)": 122.5,
+      "自重(g)": 356,
+      "先径(mm)": 1.9,
+      "元径(mm)": 25.5,
+      "適合水中糸(ナイロン・号)": "0.6-3",
+      "ズーム(cm)": "8.0-8.5m",
+      "カーボン含有率(％)": 98.4
+    },
+    "created_at": "2026-09-04T21:15:11.640769+09:00",
+    "updated_at": "2026-09-04T21:15:11.640769+09:00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "S175",
+    "jan": "4969363277268",
+    "product_code": "277268",
+    "price": 49500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tako/a075f000043papzqaw.html",
+    "product_name": "タコマスター XR[TAKOMASTER XR]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 111.4,
+      "自重(g)": 149,
+      "先径(mm)": 1.4,
+      "錘負荷(号)": "10-80",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 91.3
+    },
+    "created_at": "2026-09-04T21:15:31.159639+09:00",
+    "updated_at": "2026-09-04T21:15:31.159639+09:00"
+  },
+  {
+    "item_name": "M175",
+    "jan": "4969363277251",
+    "product_code": "277251",
+    "price": 49500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/tako/a075f000043papzqaw.html",
+    "product_name": "タコマスター XR[TAKOMASTER XR]",
+    "specs": {
+      "全長(m)": 1.75,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 111.1,
+      "自重(g)": 146,
+      "先径(mm)": 1.9,
+      "錘負荷(号)": "10-100",
+      "リールシート位置(mm)": 410,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 92.8
+    },
+    "created_at": "2026-09-04T21:15:31.159639+09:00",
+    "updated_at": "2026-09-04T21:15:31.159639+09:00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "item_name": "M270",
+    "jan": "4969363258823",
+    "product_code": "258823",
+    "price": 24500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003c8peyqaj.html",
+    "product_name": "ヒラメBB",
+    "specs": {
+      "全長(m)": 2.7,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.5,
+      "自重(g)": 162,
+      "先径(mm)": 1.2,
+      "錘負荷(号)": "30-100",
+      "リールシート位置(mm)": 378,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 93.8
+    },
+    "created_at": "2026-09-04T21:15:53.022855+09:00",
+    "updated_at": "2026-09-04T21:15:53.022855+09:00"
+  },
+  {
+    "item_name": "MH270",
+    "jan": "4969363258830",
+    "product_code": "258830",
+    "price": 25000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003c8peyqaj.html",
+    "product_name": "ヒラメBB",
+    "specs": {
+      "全長(m)": 2.7,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 138.2,
+      "自重(g)": 168,
+      "先径(mm)": 1.4,
+      "錘負荷(号)": "40-120",
+      "リールシート位置(mm)": 378,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 93.3
+    },
+    "created_at": "2026-09-04T21:15:53.022855+09:00",
+    "updated_at": "2026-09-04T21:15:53.022855+09:00"
+  }
+]

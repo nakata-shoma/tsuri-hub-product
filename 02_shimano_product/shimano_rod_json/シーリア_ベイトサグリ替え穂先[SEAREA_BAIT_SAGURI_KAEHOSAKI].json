@@ -1,0 +1,46 @@
+[
+  {
+    "item_name": "Type-1",
+    "jan": "4969363273239",
+    "product_code": "273239",
+    "price": 8000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/kaijyouturibori/a075f00004dh5y8qal.html",
+    "product_name": "シーリア ベイトサグリ替え穂先[SEAREA BAIT SAGURI KAEHOSAKI]",
+    "specs": {
+      "全長(m)": 0.49,
+      "穂先タイプ": "ウキウキトップ",
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 49,
+      "自重(g)": 5.3,
+      "先径(mm)": 0.8,
+      "錘負荷(号)": "0-4",
+      "適合ハリス(号)": "2-6",
+      "ガラス他含有率(％)": 100,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:52.749524+09:00",
+    "updated_at": "2026-09-04T21:14:52.749524+09:00"
+  },
+  {
+    "item_name": "Type-2",
+    "jan": "4969363273222",
+    "product_code": "273222",
+    "price": 8000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/kaijyouturibori/a075f00004dh5y8qal.html",
+    "product_name": "シーリア ベイトサグリ替え穂先[SEAREA BAIT SAGURI KAEHOSAKI]",
+    "specs": {
+      "全長(m)": 0.49,
+      "穂先タイプ": "ウキウキトップ",
+      "継数(本)": 1,
+      "仕舞寸法(cm)": 49,
+      "自重(g)": 4.8,
+      "先径(mm)": 0.8,
+      "錘負荷(号)": "0-4",
+      "適合ハリス(号)": "2-6",
+      "ガラス他含有率(％)": 100,
+      "": "*"
+    },
+    "created_at": "2026-09-04T21:14:52.749524+09:00",
+    "updated_at": "2026-09-04T21:14:52.749524+09:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "item_name": "500",
+    "jan": "4969363245519",
+    "product_code": "245519",
+    "price": 50900,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/tamanoe/a075f00003xhaw4qam.html",
+    "product_name": "マスターチューン タマノエ[MASTER TUNE TAMANOE]",
+    "specs": {
+      "全長(m)": 5.0,
+      "継ぎ方式": "振出",
+      "継数(本)": 5,
+      "仕舞寸法(cm)": 118.5,
+      "自重(g)": 395,
+      "先径(mm)": 16.2,
+      "カーボン含有率(％)": 98.9
+    },
+    "created_at": "2026-09-04T21:16:19.050387+09:00",
+    "updated_at": "2026-09-04T21:16:19.050387+09:00"
+  },
+  {
+    "item_name": "600",
+    "jan": "4969363245526",
+    "product_code": "245526",
+    "price": 62500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/isobouhatei/tamanoe/a075f00003xhaw4qam.html",
+    "product_name": "マスターチューン タマノエ[MASTER TUNE TAMANOE]",
+    "specs": {
+      "全長(m)": 6.0,
+      "継ぎ方式": "振出",
+      "継数(本)": 6,
+      "仕舞寸法(cm)": 128.5,
+      "自重(g)": 530,
+      "先径(mm)": 16.2,
+      "カーボン含有率(％)": 99.2
+    },
+    "created_at": "2026-09-04T21:16:19.050387+09:00",
+    "updated_at": "2026-09-04T21:16:19.050387+09:00"
+  }
+]

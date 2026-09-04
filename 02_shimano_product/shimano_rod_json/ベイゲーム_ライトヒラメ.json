@@ -1,0 +1,86 @@
+[
+  {
+    "item_name": "64 M230/RIGHT",
+    "jan": "4969363201676",
+    "product_code": "201676",
+    "price": 31500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003yg0ejqab.html",
+    "product_name": "ベイゲーム ライトヒラメ",
+    "specs": {
+      "全長(m)": 2.3,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 117.8,
+      "自重(g)": 138,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "20-80",
+      "リールシート位置(mm)": 414,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.5
+    },
+    "created_at": "2026-09-04T21:16:05.225447+09:00",
+    "updated_at": "2026-09-04T21:16:05.225447+09:00"
+  },
+  {
+    "item_name": "64 M230/LEFT",
+    "jan": "4969363201683",
+    "product_code": "201683",
+    "price": 31500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003yg0ejqab.html",
+    "product_name": "ベイゲーム ライトヒラメ",
+    "specs": {
+      "全長(m)": 2.3,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 117.8,
+      "自重(g)": 138,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "20-80",
+      "リールシート位置(mm)": 414,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.5
+    },
+    "created_at": "2026-09-04T21:16:05.225447+09:00",
+    "updated_at": "2026-09-04T21:16:05.225447+09:00"
+  },
+  {
+    "item_name": "73 MH230/RIGHT",
+    "jan": "4969363201690",
+    "product_code": "201690",
+    "price": 32500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003yg0ejqab.html",
+    "product_name": "ベイゲーム ライトヒラメ",
+    "specs": {
+      "全長(m)": 2.3,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 118.2,
+      "自重(g)": 143,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "20-100",
+      "リールシート位置(mm)": 414,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.7
+    },
+    "created_at": "2026-09-04T21:16:05.225447+09:00",
+    "updated_at": "2026-09-04T21:16:05.225447+09:00"
+  },
+  {
+    "item_name": "73 MH230/LEFT",
+    "jan": "4969363201706",
+    "product_code": "201706",
+    "price": 32500,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/hirame/a075f00003yg0ejqab.html",
+    "product_name": "ベイゲーム ライトヒラメ",
+    "specs": {
+      "全長(m)": 2.3,
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 118.2,
+      "自重(g)": 143,
+      "先径(mm)": 1.1,
+      "錘負荷(号)": "20-100",
+      "リールシート位置(mm)": 414,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 98.7
+    },
+    "created_at": "2026-09-04T21:16:05.225447+09:00",
+    "updated_at": "2026-09-04T21:16:05.225447+09:00"
+  }
+]

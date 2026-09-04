@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "73 145",
+    "jan": "4969363202277",
+    "product_code": "202277",
+    "price": 43000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/maruika/a075f00003c5vutqae.html",
+    "product_name": "リアランサー マルイカ[REALANCER MARUIKA]",
+    "specs": {
+      "全長(m)": 1.45,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 75,
+      "自重(g)": 84,
+      "先径(mm)": 0.75,
+      "錘負荷(号)": "10-80",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 87.8
+    },
+    "created_at": "2026-09-04T21:16:31.447153+09:00",
+    "updated_at": "2026-09-04T21:16:31.447153+09:00"
+  },
+  {
+    "item_name": "82 SS155",
+    "jan": "4969363202284",
+    "product_code": "202284",
+    "price": 48000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/maruika/a075f00003c5vutqae.html",
+    "product_name": "リアランサー マルイカ[REALANCER MARUIKA]",
+    "specs": {
+      "全長(m)": 1.55,
+      "継ぎ方式": "並継",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 86,
+      "自重(g)": 87,
+      "先径(mm)": 0.75,
+      "錘負荷(号)": "10-60",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 91.3
+    },
+    "created_at": "2026-09-04T21:16:31.447153+09:00",
+    "updated_at": "2026-09-04T21:16:31.447153+09:00"
+  },
+  {
+    "item_name": "82 S160",
+    "jan": "4969363202291",
+    "product_code": "202291",
+    "price": 47000,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/funesenyou/maruika/a075f00003c5vutqae.html",
+    "product_name": "リアランサー マルイカ[REALANCER MARUIKA]",
+    "specs": {
+      "全長(m)": 1.6,
+      "継ぎ方式": "並継",
+      "継数(本)": 2,
+      "仕舞寸法(cm)": 84,
+      "自重(g)": 97,
+      "先径(mm)": 0.75,
+      "錘負荷(号)": "10-80",
+      "リールシート位置(mm)": 300,
+      "リールシートタイプ": "DOWNLOCK",
+      "カーボン含有率(％)": 87
+    },
+    "created_at": "2026-09-04T21:16:31.447153+09:00",
+    "updated_at": "2026-09-04T21:16:31.447153+09:00"
+  }
+]
