@@ -1,0 +1,87 @@
+[
+  {
+    "item_name": "Avarice 104F",
+    "jan": "4580397942177",
+    "price": 88000,
+    "url": "https://ripplefisher.com/product/shore-game/avarice",
+    "product_name": "Avarice / Black fin Seabass",
+    "specs": {
+      "Length": "10ft 4in（仕舞寸法1610mm）",
+      "Weight": "219g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "10~38g",
+      "Line": "MAX PE 2",
+      "Action": "Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.734048+09:00",
+    "updated_at": "2026-09-04T22:28:37.734048+09:00"
+  },
+  {
+    "item_name": "Avarice 103M Nano",
+    "jan": "4580397942085",
+    "price": 77000,
+    "url": "https://ripplefisher.com/product/shore-game/avarice",
+    "product_name": "Avarice / Black fin Seabass",
+    "specs": {
+      "Length": "10ft 3in（仕舞寸法1600mm）",
+      "Weight": "198g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "MAX 40g",
+      "Line": "MAX PE 1.5",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.734048+09:00",
+    "updated_at": "2026-09-04T22:28:37.734048+09:00"
+  },
+  {
+    "item_name": "Avarice 110M Nano",
+    "jan": "4580397948162",
+    "price": 79000,
+    "url": "https://ripplefisher.com/product/shore-game/avarice",
+    "product_name": "Avarice / Black fin Seabass",
+    "specs": {
+      "Length": "11ft (仕舞寸法 1726mm)",
+      "Weight": "213g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "MAX 40g",
+      "Line": "MAX PE 2",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.734048+09:00",
+    "updated_at": "2026-09-04T22:28:37.734048+09:00"
+  },
+  {
+    "item_name": "Avarice 106MH Nano",
+    "jan": "4580397942092",
+    "price": 78000,
+    "url": "https://ripplefisher.com/product/shore-game/avarice",
+    "product_name": "Avarice / Black fin Seabass",
+    "specs": {
+      "Length": "10ft 6in（仕舞寸法 1640mm）",
+      "Weight": "219g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "MAX 50g",
+      "Line": "MAX PE 2",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.734048+09:00",
+    "updated_at": "2026-09-04T22:28:37.734048+09:00"
+  },
+  {
+    "item_name": "Avarice 110H Nano",
+    "jan": "4580397942108",
+    "price": 80000,
+    "url": "https://ripplefisher.com/product/shore-game/avarice",
+    "product_name": "Avarice / Black fin Seabass",
+    "specs": {
+      "Length": "11ft（仕舞寸法 1730mm）",
+      "Weight": "253g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "MAX 60g",
+      "Line": "MAX PE 2.5",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.734048+09:00",
+    "updated_at": "2026-09-04T22:28:37.734048+09:00"
+  }
+]

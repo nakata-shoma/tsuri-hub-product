@@ -1,0 +1,66 @@
+[
+  {
+    "item_name": "SilverStream 81 Stiletto MX（2026 NEW MODEL）",
+    "jan": "4580397942702",
+    "price": 83000,
+    "url": "https://ripplefisher.com/product/shore-game/ss-stiletto-mx",
+    "product_name": "SilverStream Stiletto MX",
+    "specs": {
+      "Length": "8ft 1in（仕舞寸法 1274mm）",
+      "Weight": "122g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "7~28g",
+      "Line": "PE 0.6~1.2"
+    },
+    "created_at": "2026-09-04T22:28:37.931883+09:00",
+    "updated_at": "2026-09-04T22:28:37.931883+09:00"
+  },
+  {
+    "item_name": "SilverStream 95 Stiletto MX（2026 NEW MODEL）",
+    "jan": "4580397942719",
+    "price": 106000,
+    "url": "https://ripplefisher.com/product/shore-game/ss-stiletto-mx",
+    "product_name": "SilverStream Stiletto MX",
+    "specs": {
+      "Length": "9ft 5in（仕舞寸法  1474mm）",
+      "Weight": "156g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "10~32g",
+      "Line": "PE 0.8~1.5"
+    },
+    "created_at": "2026-09-04T22:28:37.931883+09:00",
+    "updated_at": "2026-09-04T22:28:37.931883+09:00"
+  },
+  {
+    "item_name": "SilverStream 100 Stiletto MX（2026 NEW MODEL）",
+    "jan": "4580397942726",
+    "price": 120000,
+    "url": "https://ripplefisher.com/product/shore-game/ss-stiletto-mx",
+    "product_name": "SilverStream Stiletto MX",
+    "specs": {
+      "Length": "10ft(仕舞寸法:1566mm)",
+      "Weight": "166g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "12~45g",
+      "Line": "PE 0.8~2"
+    },
+    "created_at": "2026-09-04T22:28:37.931883+09:00",
+    "updated_at": "2026-09-04T22:28:37.931883+09:00"
+  },
+  {
+    "item_name": "SilverStream 911B Stiletto MX（2026 NEW MODEL）",
+    "jan": "4580397942733",
+    "price": 120000,
+    "url": "https://ripplefisher.com/product/shore-game/ss-stiletto-mx",
+    "product_name": "SilverStream Stiletto MX",
+    "specs": {
+      "Length": "9ft 11in（仕舞寸法1556mm）",
+      "Weight": "173g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "15~50g",
+      "Line": "PE 1.2~3"
+    },
+    "created_at": "2026-09-04T22:28:37.931883+09:00",
+    "updated_at": "2026-09-04T22:28:37.931883+09:00"
+  }
+]

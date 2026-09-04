@@ -1,0 +1,87 @@
+[
+  {
+    "item_name": "OceanArrow 5910B",
+    "jan": "4580397940951",
+    "price": 67000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanarrow-jigging-game",
+    "product_name": "OceanArrow / Jigging Game",
+    "specs": {
+      "Length": "5ft 9in（仕舞寸法1140mm）",
+      "Weight": "297g",
+      "Section": "2pcs グリップジョイント",
+      "Lure": "ComfortWeight 180~350g*",
+      "Line": "MAX PE 5",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.663681+09:00",
+    "updated_at": "2026-09-04T22:28:37.663681+09:00"
+  },
+  {
+    "item_name": "OceanArrow 5320",
+    "jan": "4580397940968",
+    "price": 69000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanarrow-jigging-game",
+    "product_name": "OceanArrow / Jigging Game",
+    "specs": {
+      "Length": "5ft 3in（仕舞寸法1624mm）",
+      "Weight": "316g",
+      "Section": "1pc",
+      "Lure": "ComfortWeight 200~600g*",
+      "Line": "MAX PE 6",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.663681+09:00",
+    "updated_at": "2026-09-04T22:28:37.663681+09:00"
+  },
+  {
+    "item_name": "OceanArrow 5930B",
+    "jan": "4580397940975",
+    "price": 70000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanarrow-jigging-game",
+    "product_name": "OceanArrow / Jigging Game",
+    "specs": {
+      "Length": "5ft 9in（仕舞寸法1777mm）",
+      "Weight": "354g",
+      "Section": "1pc",
+      "Lure": "ComfortWeight 200~800g*",
+      "Line": "MAX PE 8",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.663681+09:00",
+    "updated_at": "2026-09-04T22:28:37.663681+09:00"
+  },
+  {
+    "item_name": "OceanArrow 6615  Spinning Model",
+    "jan": "4580397948964",
+    "price": 68000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanarrow-jigging-game",
+    "product_name": "OceanArrow / Jigging Game",
+    "specs": {
+      "Length": "6ft 6in（仕舞寸法1295mm）",
+      "Weight": "362g",
+      "Section": "2pcs / グリップジョイント",
+      "Lure": "JIG MAX 400ｇ",
+      "Line": "MAX PE 6",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.663681+09:00",
+    "updated_at": "2026-09-04T22:28:37.663681+09:00"
+  },
+  {
+    "item_name": "OceanArrow 5930  Spinning Model",
+    "jan": "4580397948957",
+    "price": 70000,
+    "url": "https://ripplefisher.com/product/off-shore-game/oceanarrow-jigging-game",
+    "product_name": "OceanArrow / Jigging Game",
+    "specs": {
+      "Length": "5ft 9in（仕舞寸法1775mm）",
+      "Weight": "382g",
+      "Section": "1pc",
+      "Lure": "JIG MAX 800ｇ",
+      "Line": "MAX PE 8",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.663681+09:00",
+    "updated_at": "2026-09-04T22:28:37.663681+09:00"
+  }
+]

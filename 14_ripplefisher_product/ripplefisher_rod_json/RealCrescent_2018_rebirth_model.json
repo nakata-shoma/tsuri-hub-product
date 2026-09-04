@@ -1,0 +1,121 @@
+[
+  {
+    "item_name": "RealCrescent RC-55",
+    "jan": "4580397948216",
+    "price": 46000,
+    "url": "https://ripplefisher.com/product/shore-game/realcrescent-new",
+    "product_name": "RealCrescent 2018 rebirth model",
+    "specs": {
+      "Length": "5ft 5in（仕舞寸法853mm）",
+      "Weight": "54g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "JH0.2～3g",
+      "Line": "Pe0.2~0.4 / FC・NY~3lb",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.868196+09:00",
+    "updated_at": "2026-09-04T22:28:37.868196+09:00"
+  },
+  {
+    "item_name": "RealCrescent  RC-65",
+    "jan": "4580397948223",
+    "price": 48000,
+    "url": "https://ripplefisher.com/product/shore-game/realcrescent-new",
+    "product_name": "RealCrescent 2018 rebirth model",
+    "specs": {
+      "Length": "6ft 5in（仕舞寸法1004mm）",
+      "Weight": "61g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "JH0.3~6g / Plug1.8~4.5g",
+      "Line": "Pe0.2~0.4 / FC・NY~3lb",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.868196+09:00",
+    "updated_at": "2026-09-04T22:28:37.868196+09:00"
+  },
+  {
+    "item_name": "RealCrescent RC-75",
+    "jan": "4580397948230",
+    "price": 54000,
+    "url": "https://ripplefisher.com/product/shore-game/realcrescent-new",
+    "product_name": "RealCrescent 2018 rebirth model",
+    "specs": {
+      "Length": "7ft 5in（仕舞寸法1157mm）",
+      "Weight": "79g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "Rig2~14g / Plug2.5~11g",
+      "Line": "Pe0.3~0.8",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.868196+09:00",
+    "updated_at": "2026-09-04T22:28:37.868196+09:00"
+  },
+  {
+    "item_name": "RealCrescent RC-81",
+    "jan": "4580397948247",
+    "price": 58000,
+    "url": "https://ripplefisher.com/product/shore-game/realcrescent-new",
+    "product_name": "RealCrescent 2018 rebirth model",
+    "specs": {
+      "Length": "8ft 1in（仕舞寸法1265mm）",
+      "Weight": "86g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "2~17g",
+      "Line": "Pe0.4~0.8",
+      "Action": "Regular Slow"
+    },
+    "created_at": "2026-09-04T22:28:37.868196+09:00",
+    "updated_at": "2026-09-04T22:28:37.868196+09:00"
+  },
+  {
+    "item_name": "RealCrescent  RC-57 (Bait-Model)",
+    "jan": "4580397948254",
+    "price": 48000,
+    "url": "https://ripplefisher.com/product/shore-game/realcrescent-new",
+    "product_name": "RealCrescent 2018 rebirth model",
+    "specs": {
+      "Length": "5ft 7in（仕舞寸法876mm）",
+      "Weight": "69g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "0.5~5g",
+      "Line": "Pe0.2~0.5",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.868196+09:00",
+    "updated_at": "2026-09-04T22:28:37.868196+09:00"
+  },
+  {
+    "item_name": "RealCrescent  RC-67 (Bait-Model)",
+    "jan": "4580397948261",
+    "price": 52000,
+    "url": "https://ripplefisher.com/product/shore-game/realcrescent-new",
+    "product_name": "RealCrescent 2018 rebirth model",
+    "specs": {
+      "Length": "6ft 7in（仕舞寸法1025mm）",
+      "Weight": "78g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "0.8~8g",
+      "Line": "Pe0.3~0.6",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.868196+09:00",
+    "updated_at": "2026-09-04T22:28:37.868196+09:00"
+  },
+  {
+    "item_name": "RealCrescent RC-77(Bait-Model)",
+    "jan": "4580397948278",
+    "price": 54000,
+    "url": "https://ripplefisher.com/product/shore-game/realcrescent-new",
+    "product_name": "RealCrescent 2018 rebirth model",
+    "specs": {
+      "Length": "7ft 7in（仕舞寸法1190mm）",
+      "Weight": "92g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "2~15g",
+      "Line": "Pe0.4~0.8",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.868196+09:00",
+    "updated_at": "2026-09-04T22:28:37.868196+09:00"
+  }
+]
