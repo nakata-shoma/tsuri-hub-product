@@ -1,0 +1,54 @@
+[
+  {
+    "item_name": "S100M-T",
+    "jan": "4969363351517",
+    "product_code": "351517",
+    "price": 25400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/shoresalt/shorejigging/a075f00003e2g2kqaq_p.html",
+    "product_name": "コルトスナイパー BB 振出[COLTSNIPER BB Telescopic]",
+    "specs": {
+      "全長(ft.)": "10'0\"",
+      "全長(m)": 3.05,
+      "継ぎ方式": "振出",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 116.5,
+      "自重(g)": 255,
+      "先径(mm)": 2.1,
+      "ジグウェイト(g)": "MAX 60",
+      "プラグウェイト(g)": "MAX 45",
+      "適合ラインPE(号)": "MAX 2.5",
+      "グリップタイプ": "ストレート",
+      "リールシート位置(mm)": 489,
+      "リールシートタイプ": "UPLOCK",
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-03T22:50:24.814603+09:00",
+    "updated_at": "2026-09-03T22:50:24.814603+09:00"
+  },
+  {
+    "item_name": "S100MH-T",
+    "jan": "4969363351524",
+    "product_code": "351524",
+    "price": 26400,
+    "url": "https://fish.shimano.com/ja-JP/product/rod/shoresalt/shorejigging/a075f00003e2g2kqaq_p.html",
+    "product_name": "コルトスナイパー BB 振出[COLTSNIPER BB Telescopic]",
+    "specs": {
+      "全長(ft.)": "10'0\"",
+      "全長(m)": 3.05,
+      "継ぎ方式": "振出",
+      "継数(本)": 3,
+      "仕舞寸法(cm)": 116.5,
+      "自重(g)": 282,
+      "先径(mm)": 2.2,
+      "ジグウェイト(g)": "MAX 80",
+      "プラグウェイト(g)": "MAX 65",
+      "適合ラインPE(号)": "MAX 3",
+      "グリップタイプ": "ストレート",
+      "リールシート位置(mm)": 492,
+      "リールシートタイプ": "UPLOCK",
+      "カーボン含有率(％)": 99.4
+    },
+    "created_at": "2026-09-03T22:50:24.814603+09:00",
+    "updated_at": "2026-09-03T22:50:24.814603+09:00"
+  }
+]
