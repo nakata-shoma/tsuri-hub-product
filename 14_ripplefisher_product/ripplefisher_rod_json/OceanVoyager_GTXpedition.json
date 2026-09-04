@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "GTXpedition 81M",
+    "jan": "4580397948094",
+    "price": 81000,
+    "url": "https://ripplefisher.com/product/off-shore-game/gtxpedition",
+    "product_name": "OceanVoyager GTXpedition",
+    "specs": {
+      "Length": "8ft 1in（仕舞寸法：887mm）",
+      "Weight": "380g",
+      "Section": "3pcs  / 印籠継 + Grip-Joint",
+      "Lure": "MAX 140g",
+      "Line": "MAX PE 6",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.656033+09:00",
+    "updated_at": "2026-09-04T22:28:37.656033+09:00"
+  },
+  {
+    "item_name": "GTXpedition 81MH",
+    "jan": "4580397948100",
+    "price": 84000,
+    "url": "https://ripplefisher.com/product/off-shore-game/gtxpedition",
+    "product_name": "OceanVoyager GTXpedition",
+    "specs": {
+      "Length": "8ft 1in (仕舞寸法：887mm)",
+      "Weight": "386g",
+      "Section": "3pcs / 印籠継+Grip-Joint",
+      "Lure": "MAX 180g",
+      "Line": "MAX PE 8",
+      "Action": "Regular"
+    },
+    "created_at": "2026-09-04T22:28:37.656033+09:00",
+    "updated_at": "2026-09-04T22:28:37.656033+09:00"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "item_name": "SilverStream 106 Northern Nano",
+    "jan": "4580397940036",
+    "price": 77000,
+    "url": "https://ripplefisher.com/product/shore-game/ss-northern",
+    "product_name": "SilverSteam Northern",
+    "specs": {
+      "Length": "10ft 6in（仕舞寸法1640mm）",
+      "Weight": "220g",
+      "Section": "2pcs / 印籠継",
+      "Lure": "30~50g",
+      "Line": "MAX PE 1.5",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.916447+09:00",
+    "updated_at": "2026-09-04T22:28:37.916447+09:00"
+  },
+  {
+    "item_name": "SilverStream 112 Northern",
+    "jan": "4580397940029",
+    "price": 86000,
+    "url": "https://ripplefisher.com/product/shore-game/ss-northern",
+    "product_name": "SilverSteam Northern",
+    "specs": {
+      "Length": "11ft2in（仕舞寸法1754mm）",
+      "Weight": "255g",
+      "Section": "2pcs / 逆並継",
+      "Lure": "30~60g",
+      "Line": "MAX PE 1.5",
+      "Action": "Regular Fast"
+    },
+    "created_at": "2026-09-04T22:28:37.916447+09:00",
+    "updated_at": "2026-09-04T22:28:37.916447+09:00"
+  }
+]
