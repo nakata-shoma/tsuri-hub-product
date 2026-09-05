@@ -4,7 +4,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from common.scraper_utils import extract_canonical_url, load_soup, sanitize_filename, save_json, to_number  # noqa: E402
+from common.scraper_utils import extract_canonical_url, is_junk_spec_key, load_soup, sanitize_filename, save_json, to_number  # noqa: E402
 
 REEL_HTML_DIR = "./02_shimano_product/input/reel"
 ROD_HTML_DIR  = "./02_shimano_product/input/rod"
@@ -74,7 +74,11 @@ def parse_shimano_spec_table(soup, url, product_name):
             price = to_number(price.replace("円", "").replace("（税別）", ""))
 
         exclude = ["品番", "JANコード", "商品コード", "本体価格(円)"]
-        specs = {k: to_number(v) for k, v in raw.items() if k not in exclude}
+        specs = {
+            k: to_number(v)
+            for k, v in raw.items()
+            if k not in exclude and not is_junk_spec_key(k)
+        }
 
         products.append({
             "item_name": item_name,
