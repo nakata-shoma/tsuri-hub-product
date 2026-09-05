@@ -1,0 +1,154 @@
+[
+  {
+    "item_name": "RB1-B69UL/S",
+    "jan": "4573236275321",
+    "price": 14500,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B69UL/S",
+      "全長": "6'9\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "タイラバ": "MAX100gドテラMAX130g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "106g",
+      "仕舞寸法": "157cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  },
+  {
+    "item_name": "RB1-B69L/S",
+    "jan": "4573236275338",
+    "price": 14900,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B69L/S",
+      "全長": "6'9\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "タイラバ": "MAX100gドテラMAX150g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "110g",
+      "仕舞寸法": "157cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  },
+  {
+    "item_name": "RB1-B69ML/S",
+    "jan": "4573236275345",
+    "price": 15100,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B69ML/S",
+      "全長": "6'9\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "タイラバ": "MAX160gドテラMAX200g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "116g",
+      "仕舞寸法": "157cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  },
+  {
+    "item_name": "RB1-B69M/S",
+    "jan": "4573236275352",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B69M/S",
+      "全長": "6'9\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "タイラバ": "MAX200gドテラMAX300g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "123g",
+      "仕舞寸法": "157cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  },
+  {
+    "item_name": "RB1-B692UL/S",
+    "jan": "4573236275406",
+    "price": 14500,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B692UL/S",
+      "全長": "6'9\"ft",
+      "継数": "2pcs",
+      "タイラバ": "MAX100gドテラMAX130g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "111g",
+      "仕舞寸法": "108cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  },
+  {
+    "item_name": "RB1-B692L/S",
+    "jan": "4573236275413",
+    "price": 14900,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B692L/S",
+      "全長": "6'9\"ft",
+      "継数": "2pcs",
+      "タイラバ": "MAX100gドテラMAX150g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "117g",
+      "仕舞寸法": "108cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  },
+  {
+    "item_name": "RB1-B692ML/S",
+    "jan": "4573236275420",
+    "price": 15100,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B692ML/S",
+      "全長": "6'9\"ft",
+      "継数": "2pcs",
+      "タイラバ": "MAX160gドテラMAX200g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "124g",
+      "仕舞寸法": "108cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  },
+  {
+    "item_name": "RB1-B692M/S",
+    "jan": "4573236275437",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/rb1/tairubber/",
+    "product_name": "レッドバック1G タイラバモデル",
+    "specs": {
+      "Model": "RB1-B692M/S",
+      "全長": "6'9\"ft",
+      "継数": "2pcs",
+      "タイラバ": "MAX200gドテラMAX300g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "131g",
+      "仕舞寸法": "108cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:30.437160+09:00",
+    "updated_at": "2026-09-05T16:23:30.437160+09:00"
+  }
+]

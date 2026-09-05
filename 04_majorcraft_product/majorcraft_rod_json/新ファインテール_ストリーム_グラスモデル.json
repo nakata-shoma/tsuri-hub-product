@@ -1,0 +1,110 @@
+[
+  {
+    "item_name": "FSG-382UL",
+    "jan": "4560350822104",
+    "price": 19000,
+    "url": "https://www.majorcraft.co.jp/rod/finetail-native/fsg/",
+    "product_name": "新ファインテール ストリーム グラスモデル",
+    "specs": {
+      "Model": "FSG-382UL",
+      "全長": "3'8”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:01.117211+09:00",
+    "updated_at": "2026-09-05T16:23:01.117211+09:00"
+  },
+  {
+    "item_name": "FSG-422UL",
+    "jan": "4560350822111",
+    "price": 19500,
+    "url": "https://www.majorcraft.co.jp/rod/finetail-native/fsg/",
+    "product_name": "新ファインテール ストリーム グラスモデル",
+    "specs": {
+      "Model": "FSG-422UL",
+      "全長": "4'2”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:01.117211+09:00",
+    "updated_at": "2026-09-05T16:23:01.117211+09:00"
+  },
+  {
+    "item_name": "FSG-462UL",
+    "jan": "4560350822128",
+    "price": 19700,
+    "url": "https://www.majorcraft.co.jp/rod/finetail-native/fsg/",
+    "product_name": "新ファインテール ストリーム グラスモデル",
+    "specs": {
+      "Model": "FSG-462UL",
+      "全長": "4'6”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:01.117211+09:00",
+    "updated_at": "2026-09-05T16:23:01.117211+09:00"
+  },
+  {
+    "item_name": "FSG-4102UL",
+    "jan": "4560350822135",
+    "price": 20300,
+    "url": "https://www.majorcraft.co.jp/rod/finetail-native/fsg/",
+    "product_name": "新ファインテール ストリーム グラスモデル",
+    "specs": {
+      "Model": "FSG-4102UL",
+      "全長": "4'10”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:01.117211+09:00",
+    "updated_at": "2026-09-05T16:23:01.117211+09:00"
+  },
+  {
+    "item_name": "FSG-532UL＋",
+    "jan": "4560350277783",
+    "price": 23300,
+    "url": "https://www.majorcraft.co.jp/rod/finetail-native/fsg/",
+    "product_name": "新ファインテール ストリーム グラスモデル",
+    "specs": {
+      "Model": "FSG-532UL＋",
+      "全長": "5'3”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 10g",
+      "ライン": "2 - 8lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:01.117211+09:00",
+    "updated_at": "2026-09-05T16:23:01.117211+09:00"
+  },
+  {
+    "item_name": "FSG-632L＋",
+    "jan": "4560350277790",
+    "price": 24900,
+    "url": "https://www.majorcraft.co.jp/rod/finetail-native/fsg/",
+    "product_name": "新ファインテール ストリーム グラスモデル",
+    "specs": {
+      "Model": "FSG-632L＋",
+      "全長": "6'3”ft",
+      "継数": "2pcs",
+      "ルアー": "2 - 14g",
+      "ライン": "2 - 8lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:01.117211+09:00",
+    "updated_at": "2026-09-05T16:23:01.117211+09:00"
+  }
+]

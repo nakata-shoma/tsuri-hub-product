@@ -1,0 +1,70 @@
+[
+  {
+    "item_name": "SPX-832MLW",
+    "jan": "4573236271538",
+    "price": 9000,
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "product_name": "ソルパラ タチウオ・ワインド",
+    "specs": {
+      "Model": "SPX-832MLW",
+      "全長": "8'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 17g",
+      "PEライン": "0.4 - 1.2号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:39.329907+09:00",
+    "updated_at": "2026-09-05T16:23:39.329907+09:00"
+  },
+  {
+    "item_name": "SPX-832MW",
+    "jan": "4573236271545",
+    "price": 9000,
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "product_name": "ソルパラ タチウオ・ワインド",
+    "specs": {
+      "Model": "SPX-832MW",
+      "全長": "8'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 21g",
+      "PEライン": "0.6 - 1.5号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:39.329907+09:00",
+    "updated_at": "2026-09-05T16:23:39.329907+09:00"
+  },
+  {
+    "item_name": "SPX-862MW",
+    "jan": "4573236271552",
+    "price": 9200,
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "product_name": "ソルパラ タチウオ・ワインド",
+    "specs": {
+      "Model": "SPX-862MW",
+      "全長": "8'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 21g",
+      "PEライン": "0.6 - 1.5号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:39.329907+09:00",
+    "updated_at": "2026-09-05T16:23:39.329907+09:00"
+  },
+  {
+    "item_name": "SPX-862MHW",
+    "jan": "4573236271569",
+    "price": 9400,
+    "url": "https://www.majorcraft.co.jp/rod/sp-shore-tachi/wind/",
+    "product_name": "ソルパラ タチウオ・ワインド",
+    "specs": {
+      "Model": "SPX-862MHW",
+      "全長": "8'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 28g",
+      "PEライン": "0.6 - 1.5号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:39.329907+09:00",
+    "updated_at": "2026-09-05T16:23:39.329907+09:00"
+  }
+]

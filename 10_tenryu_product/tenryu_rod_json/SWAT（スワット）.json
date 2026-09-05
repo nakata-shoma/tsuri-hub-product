@@ -1,7 +1,7 @@
 [
   {
     "item_name": "SW842S-LML",
-    "jan": "021744",
+    "jan": "4533933021744",
     "price": 55000,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -20,11 +20,11 @@
       "使用繊維 カーボン/グラス(%)": "97/3"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW922S-M",
-    "jan": "021751",
+    "jan": "4533933021751",
     "price": 60000,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -43,11 +43,11 @@
       "使用繊維 カーボン/グラス(%)": "96/4"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW932S-LML",
-    "jan": "021768",
+    "jan": "4533933021768",
     "price": 57500,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -66,11 +66,11 @@
       "使用繊維 カーボン/グラス(%)": "96/4"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW972S-ML",
-    "jan": "021775",
+    "jan": "4533933021775",
     "price": 59500,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -89,11 +89,11 @@
       "使用繊維 カーボン/グラス(%)": "96/4"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW1072S-ML",
-    "jan": "023311",
+    "jan": "4533933023311",
     "price": 65500,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -112,11 +112,11 @@
       "使用繊維 カーボン/グラス(%)": "99/1"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW1163S-M",
-    "jan": "021782",
+    "jan": "4533933021782",
     "price": 75500,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -135,11 +135,11 @@
       "使用繊維 カーボン/グラス(%)": "97/3"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW1253S-MMH",
-    "jan": "021799",
+    "jan": "4533933021799",
     "price": 78000,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -158,11 +158,11 @@
       "使用繊維 カーボン/グラス(%)": "99/1"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW842B-ML/M",
-    "jan": "022789",
+    "jan": "4533933022789",
     "price": 56000,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -181,11 +181,11 @@
       "使用繊維 カーボン/グラス(%)": "96/4"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   },
   {
     "item_name": "SW932B-ML/MH",
-    "jan": "022796",
+    "jan": "4533933022796",
     "price": 59500,
     "url": "https://fishing.tenryu-magna.com/shore/swat.html",
     "product_name": "SWAT（スワット）",
@@ -204,6 +204,6 @@
       "使用繊維 カーボン/グラス(%)": "96/4"
     },
     "created_at": "2026-09-03T00:51:30.085563+09:00",
-    "updated_at": "2026-09-03T15:59:32.541623+09:00"
+    "updated_at": "2026-09-05T21:33:03.226165+09:00"
   }
 ]

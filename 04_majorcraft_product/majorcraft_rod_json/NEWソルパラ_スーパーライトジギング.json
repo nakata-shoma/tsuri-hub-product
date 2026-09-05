@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "SPJSLJ-S64UL",
+    "jan": "4573236269351",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/spjslj/",
+    "product_name": "NEWソルパラ スーパーライトジギング",
+    "specs": {
+      "Model": "SPJSLJ-S64UL",
+      "全長": "6'4\"",
+      "継数": "グリップ脱着式",
+      "ルアー": "15 - 80g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "99g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:23.824502+09:00",
+    "updated_at": "2026-09-05T16:23:23.824502+09:00"
+  },
+  {
+    "item_name": "SPJSLJ-S64L",
+    "jan": "4573236269368",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/spjslj/",
+    "product_name": "NEWソルパラ スーパーライトジギング",
+    "specs": {
+      "Model": "SPJSLJ-S64L",
+      "全長": "6'4\"",
+      "継数": "グリップ脱着式",
+      "ルアー": "20 - 100g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "101g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:23.824502+09:00",
+    "updated_at": "2026-09-05T16:23:23.824502+09:00"
+  },
+  {
+    "item_name": "SPJSLJ-S642UL",
+    "jan": "4573236269399",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/spjslj/",
+    "product_name": "NEWソルパラ スーパーライトジギング",
+    "specs": {
+      "Model": "SPJSLJ-S642UL",
+      "全長": "6'4\"",
+      "継数": 2,
+      "ルアー": "15 - 80g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "未定",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:23.824502+09:00",
+    "updated_at": "2026-09-05T16:23:23.824502+09:00"
+  },
+  {
+    "item_name": "SPJSLJ-S642L",
+    "jan": "4573236269405",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/spjslj/",
+    "product_name": "NEWソルパラ スーパーライトジギング",
+    "specs": {
+      "Model": "SPJSLJ-S642L",
+      "全長": "6'4\"",
+      "継数": 2,
+      "ルアー": "20 - 100g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "未定",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:23.824502+09:00",
+    "updated_at": "2026-09-05T16:23:23.824502+09:00"
+  }
+]

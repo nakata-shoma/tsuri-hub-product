@@ -8,6 +8,7 @@ CONTRACT.md の対応表と turi 側 import_products_from_repo.py の SOURCE_DIR
 （manufacturer_slug="gamakatsu", category="rod"）。
 """
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -19,6 +20,16 @@ INPUT_CSV = "./05_gamakatsu_product/gamakatsu_urls/gamakatsu_products_rod.csv"
 OUTPUT_DIR = "./05_gamakatsu_product/gamakatsu_rod_json"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+PRICE_NUMBER_RE = re.compile(r"[\d,]+")
+
+
+def extract_price(value):
+    """"29,800●"のように脚注記号（●等）が混ざることがあるため数字部分のみ抽出する"""
+    if not value:
+        return None
+    match = PRICE_NUMBER_RE.search(value)
+    return to_number(match.group()) if match else None
 
 
 def find_spec_heading(soup):
@@ -78,9 +89,7 @@ def parse_spec_table(soup, url, product_name):
         jan = raw.get("JANコード")
         product_code = raw.get("品名コード")
 
-        price = raw.get("希望本体価格(円)")
-        if price:
-            price = to_number(price)
+        price = extract_price(raw.get("希望本体価格(円)"))
 
         exclude = ["", "品番", "JANコード", "品名コード", "希望本体価格(円)"]
         specs = {k: to_number(v) for k, v in raw.items() if k not in exclude}

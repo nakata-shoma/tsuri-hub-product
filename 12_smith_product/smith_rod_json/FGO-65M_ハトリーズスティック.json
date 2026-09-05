@@ -2,7 +2,7 @@
   {
     "item_name": "FGO-65M",
     "jan": null,
-    "price": null,
+    "price": 55000,
     "url": "https://www.smith.jp/superstrike/product/fgo-65m.html",
     "product_name": "FGO-65M ハトリーズスティック",
     "specs": {
@@ -11,43 +11,14 @@
       "section": "2pcs（ワン＆ハーフ)",
       "rod weight": "63.5g",
       "power": "ミディアムライト",
-      "action": "スロー"
+      "action": "スロー",
+      "lure": "10～21g",
+      "line": "8～14Lb.",
+      "tip dia": "2.6mm",
+      "blank material": "グラス＆カーボン",
+      "guide": "GMLNSG(top),GMLKWSG"
     },
     "created_at": "2026-09-03T16:37:24.861581+09:00",
-    "updated_at": "2026-09-03T16:37:24.861581+09:00"
-  },
-  {
-    "item_name": "lure",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/fgo-65m.html",
-    "product_name": "FGO-65M ハトリーズスティック",
-    "specs": {
-      "length": "line",
-      "pack length": "tip dia",
-      "section": "blank material",
-      "rod weight": "guide",
-      "power": "price¥シングルグリップ（グレー）付",
-      "action": "price¥FGO-65M/B（グリップなし）"
-    },
-    "created_at": "2026-09-03T16:37:24.861581+09:00",
-    "updated_at": "2026-09-03T16:37:24.861581+09:00"
-  },
-  {
-    "item_name": "10～21g",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/fgo-65m.html",
-    "product_name": "FGO-65M ハトリーズスティック",
-    "specs": {
-      "length": "8～14Lb.",
-      "pack length": "2.6mm",
-      "section": "グラス＆カーボン",
-      "rod weight": "GMLNSG(top),GMLKWSG",
-      "power": "55,000円+税",
-      "action": "33,000円+税"
-    },
-    "created_at": "2026-09-03T16:37:24.861581+09:00",
-    "updated_at": "2026-09-03T16:37:24.861581+09:00"
+    "updated_at": "2026-09-05T21:23:29.055242+09:00"
   }
 ]

@@ -1,0 +1,56 @@
+[
+  {
+    "item_name": "GK1C-S722M/KOCHI",
+    "jan": "4573236277110",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/gk1-casting/magochi/",
+    "product_name": "ジャイアントキリング1G マゴチゲームモデル",
+    "specs": {
+      "Model": "GK1C-S722M/KOCHI",
+      "全長": "7'2\"ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 50g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "108g",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-05T16:23:08.373316+09:00",
+    "updated_at": "2026-09-05T16:23:08.373316+09:00"
+  },
+  {
+    "item_name": "GK1C-S722MH/KOCHI",
+    "jan": "4573236277127",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/gk1-casting/magochi/",
+    "product_name": "ジャイアントキリング1G マゴチゲームモデル",
+    "specs": {
+      "Model": "GK1C-S722MH/KOCHI",
+      "全長": "7'2\"ft",
+      "継数": "2pcs",
+      "ルアー": "15 - 60g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "115g",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-05T16:23:08.373316+09:00",
+    "updated_at": "2026-09-05T16:23:08.373316+09:00"
+  },
+  {
+    "item_name": "GK1C-722MH/KOCHI",
+    "jan": "4573236277141",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/gk1-casting/magochi/",
+    "product_name": "ジャイアントキリング1G マゴチゲームモデル",
+    "specs": {
+      "Model": "GK1C-722MH/KOCHI",
+      "全長": "7'2\"ft",
+      "継数": "2pcs",
+      "ルアー": "15 - 60g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "113g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:08.373316+09:00",
+    "updated_at": "2026-09-05T16:23:08.373316+09:00"
+  }
+]

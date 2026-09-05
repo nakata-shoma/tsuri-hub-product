@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "FFB-622L",
+    "jan": "4573236277905",
+    "price": 18500,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mid-stream/",
+    "product_name": "ファインテールBegins ミッドストリームモデル",
+    "specs": {
+      "Model": "FFB-622L",
+      "全長": "6'2”ft",
+      "継数": "2pcs",
+      "ルアー": "2 - 12g",
+      "ライン": "3 - 8lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:56.965651+09:00",
+    "updated_at": "2026-09-05T16:22:56.965651+09:00"
+  },
+  {
+    "item_name": "FFB-6112ML",
+    "jan": "4573236277912",
+    "price": 20100,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mid-stream/",
+    "product_name": "ファインテールBegins ミッドストリームモデル",
+    "specs": {
+      "Model": "FFB-6112ML",
+      "全長": "6'11”ft",
+      "継数": "2pcs",
+      "ルアー": "3 - 18g",
+      "ライン": "6 - 12lb",
+      "PEライン": "0.4 - 1.0号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:56.965651+09:00",
+    "updated_at": "2026-09-05T16:22:56.965651+09:00"
+  },
+  {
+    "item_name": "FFB-722L",
+    "jan": "4573236277929",
+    "price": 19000,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mid-stream/",
+    "product_name": "ファインテールBegins ミッドストリームモデル",
+    "specs": {
+      "Model": "FFB-722L",
+      "全長": "7'2”ft",
+      "継数": "2pcs",
+      "ルアー": "2 - 12g",
+      "ライン": "3 - 8lb",
+      "PEライン": "0.3 - 0.8号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:56.965651+09:00",
+    "updated_at": "2026-09-05T16:22:56.965651+09:00"
+  },
+  {
+    "item_name": "FFB-762ML",
+    "jan": "4573236277936",
+    "price": 20600,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mid-stream/",
+    "product_name": "ファインテールBegins ミッドストリームモデル",
+    "specs": {
+      "Model": "FFB-762ML",
+      "全長": "7'6”ft",
+      "継数": "2pcs",
+      "ルアー": "3 - 18g",
+      "ライン": "6 - 12lb",
+      "PEライン": "0.4 - 1.0号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:56.965651+09:00",
+    "updated_at": "2026-09-05T16:22:56.965651+09:00"
+  }
+]

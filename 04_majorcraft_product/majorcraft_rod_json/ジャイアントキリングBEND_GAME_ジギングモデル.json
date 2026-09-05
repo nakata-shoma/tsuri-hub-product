@@ -1,0 +1,59 @@
+[
+  {
+    "item_name": "GKBG-S60/3",
+    "jan": "4573236278377",
+    "price": 30500,
+    "url": "https://www.majorcraft.co.jp/rod/gk-bendgame/gkbg/",
+    "product_name": "ジャイアントキリングBEND GAME ジギングモデル",
+    "specs": {
+      "Model": "GKBG-S60/3",
+      "全長": "6'0\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX 200g",
+      "PEライン": "MAX 3.0号",
+      "標準自重": "142g",
+      "仕舞寸法": "134cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:06.097640+09:00",
+    "updated_at": "2026-09-05T16:23:06.097640+09:00"
+  },
+  {
+    "item_name": "GKBG-S60/4",
+    "jan": "4573236278384",
+    "price": 31000,
+    "url": "https://www.majorcraft.co.jp/rod/gk-bendgame/gkbg/",
+    "product_name": "ジャイアントキリングBEND GAME ジギングモデル",
+    "specs": {
+      "Model": "GKBG-S60/4",
+      "全長": "6'0\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX 250g",
+      "PEライン": "MAX 4.0号",
+      "標準自重": "150g",
+      "仕舞寸法": "131cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:06.097640+09:00",
+    "updated_at": "2026-09-05T16:23:06.097640+09:00"
+  },
+  {
+    "item_name": "GKBG-S60/5",
+    "jan": "4573236278391",
+    "price": 31500,
+    "url": "https://www.majorcraft.co.jp/rod/gk-bendgame/gkbg/",
+    "product_name": "ジャイアントキリングBEND GAME ジギングモデル",
+    "specs": {
+      "Model": "GKBG-S60/5",
+      "全長": "6'0\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX 300g",
+      "PEライン": "MAX 5.0号",
+      "標準自重": "152g",
+      "仕舞寸法": "131cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:06.097640+09:00",
+    "updated_at": "2026-09-05T16:23:06.097640+09:00"
+  }
+]

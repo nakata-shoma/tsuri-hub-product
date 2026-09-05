@@ -1,0 +1,110 @@
+[
+  {
+    "item_name": "SPJTR-B69UL/S",
+    "jan": "4573236269214",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tai/tairubber/",
+    "product_name": "NEWソルパラ タイラバゲームモデル",
+    "specs": {
+      "Model": "SPJTR-B69UL/S",
+      "全長": "6'9\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX 100gドテラ 130g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "106g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:28.582365+09:00",
+    "updated_at": "2026-09-05T16:23:28.582365+09:00"
+  },
+  {
+    "item_name": "SPJTR-B69L/S",
+    "jan": "4573236269221",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tai/tairubber/",
+    "product_name": "NEWソルパラ タイラバゲームモデル",
+    "specs": {
+      "Model": "SPJTR-B69L/S",
+      "全長": "6'9\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX 100gドテラ 150g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "114g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:28.582365+09:00",
+    "updated_at": "2026-09-05T16:23:28.582365+09:00"
+  },
+  {
+    "item_name": "SPJTR-B69ML/S",
+    "jan": "4573236269238",
+    "price": 11600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tai/tairubber/",
+    "product_name": "NEWソルパラ タイラバゲームモデル",
+    "specs": {
+      "Model": "SPJTR-B69ML/S",
+      "全長": "6'9\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX 160gドテラ 200g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "118g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:28.582365+09:00",
+    "updated_at": "2026-09-05T16:23:28.582365+09:00"
+  },
+  {
+    "item_name": "SPJTR-B692UL/S",
+    "jan": "4573236269245",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tai/tairubber/",
+    "product_name": "NEWソルパラ タイラバゲームモデル",
+    "specs": {
+      "Model": "SPJTR-B692UL/S",
+      "全長": "6'9\"ft",
+      "継数": "2pcs",
+      "ルアー": "MAX 100gドテラ 130g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "112g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:28.582365+09:00",
+    "updated_at": "2026-09-05T16:23:28.582365+09:00"
+  },
+  {
+    "item_name": "SPJTR-B692L/S",
+    "jan": "4573236269252",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tai/tairubber/",
+    "product_name": "NEWソルパラ タイラバゲームモデル",
+    "specs": {
+      "Model": "SPJTR-B692L/S",
+      "全長": "6'9\"ft",
+      "継数": "2pcs",
+      "ルアー": "MAX 100gドテラ 150g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "114g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:28.582365+09:00",
+    "updated_at": "2026-09-05T16:23:28.582365+09:00"
+  },
+  {
+    "item_name": "SPJTR-B692ML/S",
+    "jan": "4573236269269",
+    "price": 11600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tai/tairubber/",
+    "product_name": "NEWソルパラ タイラバゲームモデル",
+    "specs": {
+      "Model": "SPJTR-B692ML/S",
+      "全長": "6'9\"ft",
+      "継数": "2pcs",
+      "ルアー": "MAX 160gドテラ 200g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "119g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:28.582365+09:00",
+    "updated_at": "2026-09-05T16:23:28.582365+09:00"
+  }
+]

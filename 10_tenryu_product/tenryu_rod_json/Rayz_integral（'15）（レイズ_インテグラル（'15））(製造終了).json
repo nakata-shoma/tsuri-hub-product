@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2022/12RZI50UL-4",
-    "jan": "019406",
+    "jan": "4533933019406",
     "price": 37500,
     "url": "https://fishing.tenryu-magna.com/trout/integral_v1.html",
     "product_name": "Rayz integral（'15）（レイズ インテグラル（'15））(製造終了)",
@@ -19,11 +19,11 @@
       "使用繊維 カーボン/グラス(%)": "79/21"
     },
     "created_at": "2026-09-03T00:51:32.234643+09:00",
-    "updated_at": "2026-09-03T15:59:35.190567+09:00"
+    "updated_at": "2026-09-05T21:33:05.366196+09:00"
   },
   {
     "item_name": "2022/12RZI50L-4",
-    "jan": "019413",
+    "jan": "4533933019413",
     "price": 38000,
     "url": "https://fishing.tenryu-magna.com/trout/integral_v1.html",
     "product_name": "Rayz integral（'15）（レイズ インテグラル（'15））(製造終了)",
@@ -41,11 +41,11 @@
       "使用繊維 カーボン/グラス(%)": "80/20"
     },
     "created_at": "2026-09-03T00:51:32.234643+09:00",
-    "updated_at": "2026-09-03T15:59:35.190567+09:00"
+    "updated_at": "2026-09-05T21:33:05.366196+09:00"
   },
   {
     "item_name": "2022/12RZI75MLM-4",
-    "jan": "019420",
+    "jan": "4533933019420",
     "price": 41000,
     "url": "https://fishing.tenryu-magna.com/trout/integral_v1.html",
     "product_name": "Rayz integral（'15）（レイズ インテグラル（'15））(製造終了)",
@@ -63,11 +63,11 @@
       "使用繊維 カーボン/グラス(%)": "96/4"
     },
     "created_at": "2026-09-03T00:51:32.234643+09:00",
-    "updated_at": "2026-09-03T15:59:35.190567+09:00"
+    "updated_at": "2026-09-05T21:33:05.366196+09:00"
   },
   {
     "item_name": "2022/12RZI96HH",
-    "jan": "019437",
+    "jan": "4533933019437",
     "price": 52000,
     "url": "https://fishing.tenryu-magna.com/trout/integral_v1.html",
     "product_name": "Rayz integral（'15）（レイズ インテグラル（'15））(製造終了)",
@@ -85,11 +85,11 @@
       "使用繊維 カーボン/グラス(%)": "95/5"
     },
     "created_at": "2026-09-03T00:51:32.234643+09:00",
-    "updated_at": "2026-09-03T15:59:35.190567+09:00"
+    "updated_at": "2026-09-05T21:33:05.366196+09:00"
   },
   {
     "item_name": "2022/12RZI106HH",
-    "jan": "019444",
+    "jan": "4533933019444",
     "price": 55000,
     "url": "https://fishing.tenryu-magna.com/trout/integral_v1.html",
     "product_name": "Rayz integral（'15）（レイズ インテグラル（'15））(製造終了)",
@@ -107,6 +107,6 @@
       "使用繊維 カーボン/グラス(%)": "90/10"
     },
     "created_at": "2026-09-03T00:51:32.234643+09:00",
-    "updated_at": "2026-09-03T15:59:35.190567+09:00"
+    "updated_at": "2026-09-05T21:33:05.366196+09:00"
   }
 ]

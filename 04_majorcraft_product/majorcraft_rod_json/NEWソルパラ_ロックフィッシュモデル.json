@@ -1,0 +1,102 @@
+[
+  {
+    "item_name": "SPRF-S732L",
+    "jan": "4573236278520",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/rockfish/",
+    "product_name": "NEWソルパラ ロックフィッシュモデル",
+    "specs": {
+      "Model": "SPRF-S732L",
+      "全長": "7'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "0.5 - 10g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.3 - 0.6号",
+      "標準自重": "84g",
+      "仕舞寸法": "114cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:26.123772+09:00",
+    "updated_at": "2026-09-05T16:23:26.123772+09:00"
+  },
+  {
+    "item_name": "SPRF-S762L",
+    "jan": "4573236278537",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/rockfish/",
+    "product_name": "NEWソルパラ ロックフィッシュモデル",
+    "specs": {
+      "Model": "SPRF-S762L",
+      "全長": "7'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "0.5 - 10g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.3 - 0.6号",
+      "標準自重": "88g",
+      "仕舞寸法": "118cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:26.123772+09:00",
+    "updated_at": "2026-09-05T16:23:26.123772+09:00"
+  },
+  {
+    "item_name": "SPRF-T732L",
+    "jan": "4573236278544",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/rockfish/",
+    "product_name": "NEWソルパラ ロックフィッシュモデル",
+    "specs": {
+      "Model": "SPRF-T732L",
+      "全長": "7'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "0.5 - 10g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.3 - 0.6号",
+      "標準自重": "88g",
+      "仕舞寸法": "114cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:26.123772+09:00",
+    "updated_at": "2026-09-05T16:23:26.123772+09:00"
+  },
+  {
+    "item_name": "SPRF-T762L",
+    "jan": "4573236278551",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/rockfish/",
+    "product_name": "NEWソルパラ ロックフィッシュモデル",
+    "specs": {
+      "Model": "SPRF-T762L",
+      "全長": "7'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "0.5 - 10g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.3 - 0.6号",
+      "標準自重": "90g",
+      "仕舞寸法": "118cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:26.123772+09:00",
+    "updated_at": "2026-09-05T16:23:26.123772+09:00"
+  },
+  {
+    "item_name": "SPRF-T762ML",
+    "jan": "4573236278568",
+    "price": 11600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/rockfish/",
+    "product_name": "NEWソルパラ ロックフィッシュモデル",
+    "specs": {
+      "Model": "SPRF-T762ML",
+      "全長": "7'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "0.8 - 15g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.3 - 0.8号",
+      "標準自重": "91g",
+      "仕舞寸法": "118cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:26.123772+09:00",
+    "updated_at": "2026-09-05T16:23:26.123772+09:00"
+  }
+]

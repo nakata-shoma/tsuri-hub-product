@@ -1,0 +1,97 @@
+[
+  {
+    "item_name": "SPJTE-S5102L",
+    "jan": "4573236279299",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tiprun/tiprun/",
+    "product_name": "NEWソルパラ ティップランモデル",
+    "specs": {
+      "Model": "SPJTE-S5102L",
+      "全長": "5'10\"",
+      "継数": "2pcs",
+      "エギ": "MAX 55g",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "84g",
+      "仕舞寸法": "99cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:29.074254+09:00",
+    "updated_at": "2026-09-05T16:23:29.074254+09:00"
+  },
+  {
+    "item_name": "SPJTE-S5102ML",
+    "jan": "4573236279305",
+    "price": 11000,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tiprun/tiprun/",
+    "product_name": "NEWソルパラ ティップランモデル",
+    "specs": {
+      "Model": "SPJTE-S5102ML",
+      "全長": "5'10\"",
+      "継数": "2pcs",
+      "エギ": "MAX 70g",
+      "PEライン": "0.6 - 1.2号",
+      "標準自重": "88g",
+      "仕舞寸法": "99cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:29.074254+09:00",
+    "updated_at": "2026-09-05T16:23:29.074254+09:00"
+  },
+  {
+    "item_name": "SPJTE-S632L",
+    "jan": "4573236269139",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tiprun/tiprun/",
+    "product_name": "NEWソルパラ ティップランモデル",
+    "specs": {
+      "Model": "SPJTE-S632L",
+      "全長": "6'3\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 55g",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "90g",
+      "仕舞寸法": "99cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:29.074254+09:00",
+    "updated_at": "2026-09-05T16:23:29.074254+09:00"
+  },
+  {
+    "item_name": "SPJTE-S632ML",
+    "jan": "4573236269115",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tiprun/tiprun/",
+    "product_name": "NEWソルパラ ティップランモデル",
+    "specs": {
+      "Model": "SPJTE-S632ML",
+      "全長": "6'3\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 70g",
+      "PEライン": "0.6 - 1.2号",
+      "標準自重": "92g",
+      "仕舞寸法": "93cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:29.074254+09:00",
+    "updated_at": "2026-09-05T16:23:29.074254+09:00"
+  },
+  {
+    "item_name": "SPJTE-S632M",
+    "jan": "4573236269122",
+    "price": 11600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-tiprun/tiprun/",
+    "product_name": "NEWソルパラ ティップランモデル",
+    "specs": {
+      "Model": "SPJTE-S632M",
+      "全長": "6'3\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 90g",
+      "PEライン": "0.6 - 1.2号",
+      "標準自重": "99g",
+      "仕舞寸法": "93cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:29.074254+09:00",
+    "updated_at": "2026-09-05T16:23:29.074254+09:00"
+  }
+]

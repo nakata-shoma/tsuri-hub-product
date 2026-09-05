@@ -3,7 +3,7 @@
     "item_name": "MH 180",
     "jan": "4549018758252",
     "product_code": "21389",
-    "price": "38,000●",
+    "price": 38000,
     "url": "https://www.gamakatsu.co.jp/products/21389/",
     "product_name": "DeckStage YARIIKA　(デッキステージ ヤリイカ)",
     "specs": {
@@ -18,13 +18,13 @@
       "錘負荷(号)": "80～150"
     },
     "created_at": "2026-09-02T23:43:25.308106+09:00",
-    "updated_at": "2026-09-02T23:43:25.308106+09:00"
+    "updated_at": "2026-09-05T20:18:56.179934+09:00"
   },
   {
     "item_name": "H 160",
     "jan": "4549018758269",
     "product_code": "21390",
-    "price": "38,000●",
+    "price": 38000,
     "url": "https://www.gamakatsu.co.jp/products/21389/",
     "product_name": "DeckStage YARIIKA　(デッキステージ ヤリイカ)",
     "specs": {
@@ -39,6 +39,6 @@
       "錘負荷(号)": "80～150"
     },
     "created_at": "2026-09-02T23:43:25.308106+09:00",
-    "updated_at": "2026-09-02T23:43:25.308106+09:00"
+    "updated_at": "2026-09-05T20:18:56.179934+09:00"
   }
 ]

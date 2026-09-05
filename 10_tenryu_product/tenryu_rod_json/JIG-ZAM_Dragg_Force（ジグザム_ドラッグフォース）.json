@@ -1,7 +1,7 @@
 [
   {
     "item_name": "JDF631S-2/3",
-    "jan": "022819",
+    "jan": "4533933022819",
     "price": 59500,
     "url": "https://fishing.tenryu-magna.com/offshore/jig-zam_draggforce.html",
     "product_name": "JIG-ZAM Dragg Force（ジグザム ドラッグフォース）",
@@ -20,11 +20,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:51:22.762522+09:00",
-    "updated_at": "2026-09-03T15:59:21.204880+09:00"
+    "updated_at": "2026-09-05T21:32:55.067330+09:00"
   },
   {
     "item_name": "JDF621S-3/4",
-    "jan": "022826",
+    "jan": "4533933022826",
     "price": 60000,
     "url": "https://fishing.tenryu-magna.com/offshore/jig-zam_draggforce.html",
     "product_name": "JIG-ZAM Dragg Force（ジグザム ドラッグフォース）",
@@ -43,11 +43,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:51:22.762522+09:00",
-    "updated_at": "2026-09-03T15:59:21.204880+09:00"
+    "updated_at": "2026-09-05T21:32:55.067330+09:00"
   },
   {
     "item_name": "JDF611S-4/5",
-    "jan": "022833",
+    "jan": "4533933022833",
     "price": 61500,
     "url": "https://fishing.tenryu-magna.com/offshore/jig-zam_draggforce.html",
     "product_name": "JIG-ZAM Dragg Force（ジグザム ドラッグフォース）",
@@ -66,11 +66,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:51:22.762522+09:00",
-    "updated_at": "2026-09-03T15:59:21.204880+09:00"
+    "updated_at": "2026-09-05T21:32:55.067330+09:00"
   },
   {
     "item_name": "JDF601S-5/6",
-    "jan": "022840",
+    "jan": "4533933022840",
     "price": 62000,
     "url": "https://fishing.tenryu-magna.com/offshore/jig-zam_draggforce.html",
     "product_name": "JIG-ZAM Dragg Force（ジグザム ドラッグフォース）",
@@ -89,11 +89,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:51:22.762522+09:00",
-    "updated_at": "2026-09-03T15:59:21.204880+09:00"
+    "updated_at": "2026-09-05T21:32:55.067330+09:00"
   },
   {
     "item_name": "JDF591B-G5/6",
-    "jan": "022949",
+    "jan": "4533933022949",
     "price": 60000,
     "url": "https://fishing.tenryu-magna.com/offshore/jig-zam_draggforce.html",
     "product_name": "JIG-ZAM Dragg Force（ジグザム ドラッグフォース）",
@@ -112,11 +112,11 @@
       "使用繊維 カーボン/グラス(%)": "12/88"
     },
     "created_at": "2026-09-03T00:51:22.762522+09:00",
-    "updated_at": "2026-09-03T15:59:21.204880+09:00"
+    "updated_at": "2026-09-05T21:32:55.067330+09:00"
   },
   {
     "item_name": "JDF591B-G7/8",
-    "jan": "022956",
+    "jan": "4533933022956",
     "price": 61000,
     "url": "https://fishing.tenryu-magna.com/offshore/jig-zam_draggforce.html",
     "product_name": "JIG-ZAM Dragg Force（ジグザム ドラッグフォース）",
@@ -135,6 +135,6 @@
       "使用繊維 カーボン/グラス(%)": "10/90"
     },
     "created_at": "2026-09-03T00:51:22.762522+09:00",
-    "updated_at": "2026-09-03T15:59:21.204880+09:00"
+    "updated_at": "2026-09-05T21:32:55.067330+09:00"
   }
 ]

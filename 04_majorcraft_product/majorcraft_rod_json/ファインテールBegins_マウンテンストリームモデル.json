@@ -1,0 +1,92 @@
+[
+  {
+    "item_name": "FFB-422UL",
+    "jan": "4573236277851",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mountain-stream/",
+    "product_name": "ファインテールBegins マウンテンストリームモデル",
+    "specs": {
+      "Model": "FFB-422UL",
+      "全長": "4'2”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.2 - 0.6号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:57.438539+09:00",
+    "updated_at": "2026-09-05T16:22:57.438539+09:00"
+  },
+  {
+    "item_name": "FFB-462UL",
+    "jan": "4573236277868",
+    "price": 15900,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mountain-stream/",
+    "product_name": "ファインテールBegins マウンテンストリームモデル",
+    "specs": {
+      "Model": "FFB-462UL",
+      "全長": "4'6”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.2 - 0.6号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:57.438539+09:00",
+    "updated_at": "2026-09-05T16:22:57.438539+09:00"
+  },
+  {
+    "item_name": "FFB-502UL",
+    "jan": "4573236277875",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mountain-stream/",
+    "product_name": "ファインテールBegins マウンテンストリームモデル",
+    "specs": {
+      "Model": "FFB-502UL",
+      "全長": "5'0”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.2 - 0.6号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:57.438539+09:00",
+    "updated_at": "2026-09-05T16:22:57.438539+09:00"
+  },
+  {
+    "item_name": "FFB-532UL",
+    "jan": "4573236277882",
+    "price": 16400,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mountain-stream/",
+    "product_name": "ファインテールBegins マウンテンストリームモデル",
+    "specs": {
+      "Model": "FFB-532UL",
+      "全長": "5'3”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 8g",
+      "ライン": "2 - 6lb",
+      "PEライン": "0.2 - 0.6号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:57.438539+09:00",
+    "updated_at": "2026-09-05T16:22:57.438539+09:00"
+  },
+  {
+    "item_name": "FFB-562UL+",
+    "jan": "4573236277899",
+    "price": 16900,
+    "url": "https://www.majorcraft.co.jp/rod/ffb/mountain-stream/",
+    "product_name": "ファインテールBegins マウンテンストリームモデル",
+    "specs": {
+      "Model": "FFB-562UL+",
+      "全長": "5'6”ft",
+      "継数": "2pcs",
+      "ルアー": "1 - 10g",
+      "ライン": "2 - 8lb",
+      "PEライン": "0.2 - 0.6号",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:57.438539+09:00",
+    "updated_at": "2026-09-05T16:22:57.438539+09:00"
+  }
+]

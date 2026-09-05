@@ -1,7 +1,7 @@
 [
   {
     "item_name": "RZA5102S-LLT",
-    "jan": "022710",
+    "jan": "4533933022710",
     "price": 50000,
     "url": "https://fishing.tenryu-magna.com/trout/alter.html",
     "product_name": "Rayz Alter（レイズ オルタ）",
@@ -21,11 +21,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:51:31.383071+09:00",
-    "updated_at": "2026-09-03T15:59:34.144027+09:00"
+    "updated_at": "2026-09-05T21:33:04.528941+09:00"
   },
   {
     "item_name": "RZA5112S-MT",
-    "jan": "023571",
+    "jan": "4533933023571",
     "price": 54000,
     "url": "https://fishing.tenryu-magna.com/trout/alter.html",
     "product_name": "Rayz Alter（レイズ オルタ）",
@@ -45,11 +45,11 @@
       "使用繊維 カーボン/グラス(%)": "95/5"
     },
     "created_at": "2026-09-03T00:51:31.383071+09:00",
-    "updated_at": "2026-09-03T15:59:34.144027+09:00"
+    "updated_at": "2026-09-05T21:33:04.528941+09:00"
   },
   {
     "item_name": "RZA602S-MLMT",
-    "jan": "022727",
+    "jan": "4533933022727",
     "price": 51000,
     "url": "https://fishing.tenryu-magna.com/trout/alter.html",
     "product_name": "Rayz Alter（レイズ オルタ）",
@@ -69,11 +69,11 @@
       "使用繊維 カーボン/グラス(%)": "94/6"
     },
     "created_at": "2026-09-03T00:51:31.383071+09:00",
-    "updated_at": "2026-09-03T15:59:34.144027+09:00"
+    "updated_at": "2026-09-05T21:33:04.528941+09:00"
   },
   {
     "item_name": "RZA612S-LT",
-    "jan": "022734",
+    "jan": "4533933022734",
     "price": 51000,
     "url": "https://fishing.tenryu-magna.com/trout/alter.html",
     "product_name": "Rayz Alter（レイズ オルタ）",
@@ -93,11 +93,11 @@
       "使用繊維 カーボン/グラス(%)": "96/4"
     },
     "created_at": "2026-09-03T00:51:31.383071+09:00",
-    "updated_at": "2026-09-03T15:59:34.144027+09:00"
+    "updated_at": "2026-09-05T21:33:04.528941+09:00"
   },
   {
     "item_name": "RZA622S-ULS",
-    "jan": "022741",
+    "jan": "4533933022741",
     "price": 51500,
     "url": "https://fishing.tenryu-magna.com/trout/alter.html",
     "product_name": "Rayz Alter（レイズ オルタ）",
@@ -117,6 +117,6 @@
       "使用繊維 カーボン/グラス(%)": "95/5"
     },
     "created_at": "2026-09-03T00:51:31.383071+09:00",
-    "updated_at": "2026-09-03T15:59:34.144027+09:00"
+    "updated_at": "2026-09-05T21:33:04.528941+09:00"
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "item_name": "SPJE-B63/4",
+    "jan": "4573236269191",
+    "price": 11600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/electric-jigging/",
+    "product_name": "NEWソルパラ 電動ジギング",
+    "specs": {
+      "Model": "SPJE-B63/4",
+      "全長": "6'3\"",
+      "継数": 2,
+      "ルアー": "MAX 300g",
+      "ライン(lb)": "―",
+      "PEライン": "MAX 4号",
+      "標準自重": "163g",
+      "仕舞寸法": "136cm",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:21.959261+09:00",
+    "updated_at": "2026-09-05T16:23:21.959261+09:00"
+  },
+  {
+    "item_name": "SPJE-B63/6",
+    "jan": "4573236269207",
+    "price": 12100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/electric-jigging/",
+    "product_name": "NEWソルパラ 電動ジギング",
+    "specs": {
+      "Model": "SPJE-B63/6",
+      "全長": "6'3\"",
+      "継数": 2,
+      "ルアー": "MAX 400g",
+      "ライン(lb)": "―",
+      "PEライン": "MAX 6号",
+      "標準自重": "171g",
+      "仕舞寸法": "136cm",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:21.959261+09:00",
+    "updated_at": "2026-09-05T16:23:21.959261+09:00"
+  }
+]

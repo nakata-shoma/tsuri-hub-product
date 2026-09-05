@@ -1,0 +1,50 @@
+[
+  {
+    "item_name": "SPXJ-B180M/Tachi",
+    "jan": "4573236272559",
+    "price": 10500,
+    "url": "https://www.majorcraft.co.jp/rod/sp-boat-tachi/spxj-tachi/",
+    "product_name": "ソルパラ 船タチウオてんや",
+    "specs": {
+      "Model": "SPXJ-B180M/Tachi",
+      "全長": "180cm",
+      "継数": "2pcs",
+      "ルアー": "30-60号",
+      "アクション": "2：8"
+    },
+    "created_at": "2026-09-05T16:23:36.834900+09:00",
+    "updated_at": "2026-09-05T16:23:36.834900+09:00"
+  },
+  {
+    "item_name": "SPXJ-B190ML/Tachi",
+    "jan": "4573236272573",
+    "price": 10500,
+    "url": "https://www.majorcraft.co.jp/rod/sp-boat-tachi/spxj-tachi/",
+    "product_name": "ソルパラ 船タチウオてんや",
+    "specs": {
+      "Model": "SPXJ-B190ML/Tachi",
+      "全長": "190cm",
+      "継数": "2pcs",
+      "ルアー": "30-60号",
+      "アクション": "4：6"
+    },
+    "created_at": "2026-09-05T16:23:36.834900+09:00",
+    "updated_at": "2026-09-05T16:23:36.834900+09:00"
+  },
+  {
+    "item_name": "SPXJ-B190M/Tachi",
+    "jan": "4573236272566",
+    "price": 10500,
+    "url": "https://www.majorcraft.co.jp/rod/sp-boat-tachi/spxj-tachi/",
+    "product_name": "ソルパラ 船タチウオてんや",
+    "specs": {
+      "Model": "SPXJ-B190M/Tachi",
+      "全長": "190cm",
+      "継数": "2pcs",
+      "ルアー": "30-60号",
+      "アクション": "3：7"
+    },
+    "created_at": "2026-09-05T16:23:36.834900+09:00",
+    "updated_at": "2026-09-05T16:23:36.834900+09:00"
+  }
+]

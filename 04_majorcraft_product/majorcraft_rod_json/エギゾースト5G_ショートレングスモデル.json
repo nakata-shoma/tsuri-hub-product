@@ -1,0 +1,56 @@
+[
+  {
+    "item_name": "EZ5-782L",
+    "jan": "4573236272726",
+    "price": 25000,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-shore/short-length/",
+    "product_name": "エギゾースト5G ショートレングスモデル",
+    "specs": {
+      "Model": "EZ5-782L",
+      "全長": "7'8”ft",
+      "継数": "2pcs",
+      "エギ": "1.5 - 3.0号",
+      "PEライン": "0.4 - 1.0号",
+      "自重": "78g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:47.239673+09:00",
+    "updated_at": "2026-09-05T16:22:47.239673+09:00"
+  },
+  {
+    "item_name": "EZ5-782ML",
+    "jan": "4573236272733",
+    "price": 25500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-shore/short-length/",
+    "product_name": "エギゾースト5G ショートレングスモデル",
+    "specs": {
+      "Model": "EZ5-782ML",
+      "全長": "7’8”ft",
+      "継数": "2pcs",
+      "エギ": "1.5 - 3.5号",
+      "PEライン": "0.4 - 1.0号",
+      "自重": "87g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:47.239673+09:00",
+    "updated_at": "2026-09-05T16:22:47.239673+09:00"
+  },
+  {
+    "item_name": "EZ5-782M",
+    "jan": "4573236272740",
+    "price": 26500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-shore/short-length/",
+    "product_name": "エギゾースト5G ショートレングスモデル",
+    "specs": {
+      "Model": "EZ5-782M",
+      "全長": "7'8”ft",
+      "継数": "2pcs",
+      "エギ": "2.0 - 4.0号",
+      "PEライン": "0.4 - 1.2号",
+      "自重": "90g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:47.239673+09:00",
+    "updated_at": "2026-09-05T16:22:47.239673+09:00"
+  }
+]

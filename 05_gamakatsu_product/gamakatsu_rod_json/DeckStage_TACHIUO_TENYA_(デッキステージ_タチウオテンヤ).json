@@ -3,7 +3,7 @@
     "item_name": "ML-180",
     "jan": "4549018687026",
     "product_code": "21335",
-    "price": "29,500●",
+    "price": 29500,
     "url": "https://www.gamakatsu.co.jp/products/21335/",
     "product_name": "DeckStage TACHIUO TENYA　(デッキステージ タチウオテンヤ)",
     "specs": {
@@ -18,13 +18,13 @@
       "錘負荷(号)": "20～50"
     },
     "created_at": "2026-09-02T23:43:20.134804+09:00",
-    "updated_at": "2026-09-02T23:43:20.134804+09:00"
+    "updated_at": "2026-09-05T20:18:39.665676+09:00"
   },
   {
     "item_name": "M-180",
     "jan": "4549018687033",
     "product_code": "21336",
-    "price": "29,500●",
+    "price": 29500,
     "url": "https://www.gamakatsu.co.jp/products/21335/",
     "product_name": "DeckStage TACHIUO TENYA　(デッキステージ タチウオテンヤ)",
     "specs": {
@@ -39,13 +39,13 @@
       "錘負荷(号)": "20～50"
     },
     "created_at": "2026-09-02T23:43:20.134804+09:00",
-    "updated_at": "2026-09-02T23:43:20.134804+09:00"
+    "updated_at": "2026-09-05T20:18:39.665676+09:00"
   },
   {
     "item_name": "MH-175",
     "jan": "4549018687040",
     "product_code": "21337",
-    "price": "29,500●",
+    "price": 29500,
     "url": "https://www.gamakatsu.co.jp/products/21335/",
     "product_name": "DeckStage TACHIUO TENYA　(デッキステージ タチウオテンヤ)",
     "specs": {
@@ -60,6 +60,6 @@
       "錘負荷(号)": "30～60"
     },
     "created_at": "2026-09-02T23:43:20.134804+09:00",
-    "updated_at": "2026-09-02T23:43:20.134804+09:00"
+    "updated_at": "2026-09-05T20:18:39.665676+09:00"
   }
 ]

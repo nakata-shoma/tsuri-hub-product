@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2023/11RZA60MLM-T",
-    "jan": "020761",
+    "jan": "4533933020761",
     "price": 40000,
     "url": "https://fishing.tenryu-magna.com/trout/alter_v1.html",
     "product_name": "Rayz Alter（'18）（レイズ オルタ（'18））(製造終了)",
@@ -19,11 +19,11 @@
       "使用繊維 カーボン/グラス(%)": "94/6"
     },
     "created_at": "2026-09-03T00:51:31.627978+09:00",
-    "updated_at": "2026-09-03T15:59:34.493435+09:00"
+    "updated_at": "2026-09-05T21:33:04.796062+09:00"
   },
   {
     "item_name": "2023/11RZA61L-T",
-    "jan": "020754",
+    "jan": "4533933020754",
     "price": 41500,
     "url": "https://fishing.tenryu-magna.com/trout/alter_v1.html",
     "product_name": "Rayz Alter（'18）（レイズ オルタ（'18））(製造終了)",
@@ -41,11 +41,11 @@
       "使用繊維 カーボン/グラス(%)": "95/5"
     },
     "created_at": "2026-09-03T00:51:31.627978+09:00",
-    "updated_at": "2026-09-03T15:59:34.493435+09:00"
+    "updated_at": "2026-09-05T21:33:04.796062+09:00"
   },
   {
     "item_name": "2023/11RZA62UL-S",
-    "jan": "020877",
+    "jan": "4533933020877",
     "price": 42000,
     "url": "https://fishing.tenryu-magna.com/trout/alter_v1.html",
     "product_name": "Rayz Alter（'18）（レイズ オルタ（'18））(製造終了)",
@@ -63,6 +63,6 @@
       "使用繊維 カーボン/グラス(%)": "93/7"
     },
     "created_at": "2026-09-03T00:51:31.627978+09:00",
-    "updated_at": "2026-09-03T15:59:34.493435+09:00"
+    "updated_at": "2026-09-05T21:33:04.796062+09:00"
   }
 ]

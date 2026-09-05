@@ -1,0 +1,97 @@
+[
+  {
+    "item_name": "SPHR-762ML",
+    "jan": "4573236275925",
+    "price": 11500,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/sphr/",
+    "product_name": "NEWソルパラ ハードロックモデル",
+    "specs": {
+      "Model": "SPHR-762ML",
+      "全長": "7'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "3 - 25g",
+      "PEライン": "0.6 - 1.5号",
+      "標準自重": "109g",
+      "仕舞寸法": "120cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:26.700275+09:00",
+    "updated_at": "2026-09-05T16:23:26.700275+09:00"
+  },
+  {
+    "item_name": "SPHR-792M",
+    "jan": "4573236275932",
+    "price": 11800,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/sphr/",
+    "product_name": "NEWソルパラ ハードロックモデル",
+    "specs": {
+      "Model": "SPHR-792M",
+      "全長": "7'9\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 30g",
+      "PEライン": "0.6 - 2.0号",
+      "標準自重": "123g",
+      "仕舞寸法": "123cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:26.700275+09:00",
+    "updated_at": "2026-09-05T16:23:26.700275+09:00"
+  },
+  {
+    "item_name": "SPHR-832M",
+    "jan": "4573236275949",
+    "price": 12000,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/sphr/",
+    "product_name": "NEWソルパラ ハードロックモデル",
+    "specs": {
+      "Model": "SPHR-832M",
+      "全長": "8'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 30g",
+      "PEライン": "0.6 - 2.0号",
+      "標準自重": "137g",
+      "仕舞寸法": "130cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:26.700275+09:00",
+    "updated_at": "2026-09-05T16:23:26.700275+09:00"
+  },
+  {
+    "item_name": "SPHR-862MH",
+    "jan": "4573236275956",
+    "price": 12500,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/sphr/",
+    "product_name": "NEWソルパラ ハードロックモデル",
+    "specs": {
+      "Model": "SPHR-862MH",
+      "全長": "8'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 40g",
+      "PEライン": "0.6 - 2.5号",
+      "標準自重": "149g",
+      "仕舞寸法": "134cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:26.700275+09:00",
+    "updated_at": "2026-09-05T16:23:26.700275+09:00"
+  },
+  {
+    "item_name": "SPHR-932MH",
+    "jan": "4573236275963",
+    "price": 12800,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-rockfish/sphr/",
+    "product_name": "NEWソルパラ ハードロックモデル",
+    "specs": {
+      "Model": "SPHR-932MH",
+      "全長": "9'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 40g",
+      "PEライン": "0.6 - 2.5号",
+      "標準自重": "163g",
+      "仕舞寸法": "146cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:26.700275+09:00",
+    "updated_at": "2026-09-05T16:23:26.700275+09:00"
+  }
+]

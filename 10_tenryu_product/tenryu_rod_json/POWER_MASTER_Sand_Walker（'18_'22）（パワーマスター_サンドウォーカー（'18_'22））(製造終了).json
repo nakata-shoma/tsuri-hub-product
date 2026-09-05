@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2026/1PMS9102S-ML",
-    "jan": "020976",
+    "jan": "4533933020976",
     "price": 46500,
     "url": "https://fishing.tenryu-magna.com/shore/sandwalker_v1.html",
     "product_name": "POWER MASTER Sand Walker（'18 '22）（パワーマスター サンドウォーカー（'18 '22））(製造終了)",
@@ -21,11 +21,11 @@
       "使用繊維 カーボン/グラス(%)": "95/5"
     },
     "created_at": "2026-09-03T00:51:29.735849+09:00",
-    "updated_at": "2026-09-03T15:59:32.041438+09:00"
+    "updated_at": "2026-09-05T21:33:02.947726+09:00"
   },
   {
     "item_name": "2026/1PMS1032S-MLM",
-    "jan": "020983",
+    "jan": "4533933020983",
     "price": 47000,
     "url": "https://fishing.tenryu-magna.com/shore/sandwalker_v1.html",
     "product_name": "POWER MASTER Sand Walker（'18 '22）（パワーマスター サンドウォーカー（'18 '22））(製造終了)",
@@ -45,11 +45,11 @@
       "使用繊維 カーボン/グラス(%)": "95/5"
     },
     "created_at": "2026-09-03T00:51:29.735849+09:00",
-    "updated_at": "2026-09-03T15:59:32.041438+09:00"
+    "updated_at": "2026-09-05T21:33:02.947726+09:00"
   },
   {
     "item_name": "2026/1PMS1102S-M",
-    "jan": "022574",
+    "jan": "4533933022574",
     "price": 47500,
     "url": "https://fishing.tenryu-magna.com/shore/sandwalker_v1.html",
     "product_name": "POWER MASTER Sand Walker（'18 '22）（パワーマスター サンドウォーカー（'18 '22））(製造終了)",
@@ -69,6 +69,6 @@
       "使用繊維 カーボン/グラス(%)": "95/5"
     },
     "created_at": "2026-09-03T00:51:29.735849+09:00",
-    "updated_at": "2026-09-03T15:59:32.041438+09:00"
+    "updated_at": "2026-09-05T21:33:02.947726+09:00"
   }
 ]

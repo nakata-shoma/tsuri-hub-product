@@ -1,7 +1,7 @@
 [
   {
     "item_name": "BFT5112S-MLS",
-    "jan": "021867",
+    "jan": "4533933021867",
     "price": 45500,
     "url": "https://fishing.tenryu-magna.com/offshore/brigade_flip_tr.html",
     "product_name": "BRIGADE Flip TR （ブリゲイド フリップ TR）",
@@ -19,11 +19,11 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:17.627823+09:00",
-    "updated_at": "2026-09-03T15:59:17.173716+09:00"
+    "updated_at": "2026-09-05T21:32:52.014028+09:00"
   },
   {
     "item_name": "BFT672S-MS",
-    "jan": "021874",
+    "jan": "4533933021874",
     "price": 47500,
     "url": "https://fishing.tenryu-magna.com/offshore/brigade_flip_tr.html",
     "product_name": "BRIGADE Flip TR （ブリゲイド フリップ TR）",
@@ -41,11 +41,11 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:17.627823+09:00",
-    "updated_at": "2026-09-03T15:59:17.173716+09:00"
+    "updated_at": "2026-09-05T21:32:52.014028+09:00"
   },
   {
     "item_name": "BFT632S-MHS",
-    "jan": "021881",
+    "jan": "4533933021881",
     "price": 45500,
     "url": "https://fishing.tenryu-magna.com/offshore/brigade_flip_tr.html",
     "product_name": "BRIGADE Flip TR （ブリゲイド フリップ TR）",
@@ -63,6 +63,6 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:17.627823+09:00",
-    "updated_at": "2026-09-03T15:59:17.173716+09:00"
+    "updated_at": "2026-09-05T21:32:52.014028+09:00"
   }
 ]
