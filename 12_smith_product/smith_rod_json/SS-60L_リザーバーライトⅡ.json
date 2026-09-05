@@ -2,7 +2,7 @@
   {
     "item_name": "SS-60LⅡ",
     "jan": null,
-    "price": null,
+    "price": 48000,
     "url": "https://www.smith.jp/superstrike/product/ss-60l.html",
     "product_name": "SS-60L リザーバーライトⅡ",
     "specs": {
@@ -11,43 +11,14 @@
       "section": "1pcs",
       "rod weight": "50g",
       "power": "ライト",
-      "action": "モデレート"
+      "action": "モデレート",
+      "lure": "5～12g",
+      "line": "6～12Lb.",
+      "tip dia": "2.2mm",
+      "blank material": "グラス",
+      "guide": "PLGST(top),PLKWSG"
     },
     "created_at": "2026-09-03T16:37:26.669460+09:00",
-    "updated_at": "2026-09-03T16:37:26.669460+09:00"
-  },
-  {
-    "item_name": "lure",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/ss-60l.html",
-    "product_name": "SS-60L リザーバーライトⅡ",
-    "specs": {
-      "length": "line",
-      "pack length": "tip dia",
-      "section": "blank material",
-      "rod weight": "guide",
-      "power": "price¥シングルグリップ（ガンメタリック）付",
-      "action": "price¥SS-60LⅡ/B（グリップなし）"
-    },
-    "created_at": "2026-09-03T16:37:26.669460+09:00",
-    "updated_at": "2026-09-03T16:37:26.669460+09:00"
-  },
-  {
-    "item_name": "5～12g",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/ss-60l.html",
-    "product_name": "SS-60L リザーバーライトⅡ",
-    "specs": {
-      "length": "6～12Lb.",
-      "pack length": "2.2mm",
-      "section": "グラス",
-      "rod weight": "PLGST(top),PLKWSG",
-      "power": "48,000円+税",
-      "action": "26,000円+税"
-    },
-    "created_at": "2026-09-03T16:37:26.669460+09:00",
-    "updated_at": "2026-09-03T16:37:26.669460+09:00"
+    "updated_at": "2026-09-05T21:23:31.264924+09:00"
   }
 ]

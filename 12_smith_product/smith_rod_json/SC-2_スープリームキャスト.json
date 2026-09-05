@@ -2,7 +2,7 @@
   {
     "item_name": "SC-2",
     "jan": null,
-    "price": null,
+    "price": 48000,
     "url": "https://www.smith.jp/superstrike/product/sc-2.html",
     "product_name": "SC-2 スープリームキャスト",
     "specs": {
@@ -11,43 +11,14 @@
       "section": "1pcs",
       "rod weight": "43.5g",
       "power": "ミディアムライト",
-      "action": "モデレート"
+      "action": "モデレート",
+      "lure": "7～18g",
+      "line": "8～15Lb.",
+      "tip dia": "2.1mm",
+      "blank material": "カーボン",
+      "guide": "GMLNSG(top),GMLKWSG"
     },
     "created_at": "2026-09-03T16:37:26.421199+09:00",
-    "updated_at": "2026-09-03T16:37:26.421199+09:00"
-  },
-  {
-    "item_name": "lure",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/sc-2.html",
-    "product_name": "SC-2 スープリームキャスト",
-    "specs": {
-      "length": "line",
-      "pack length": "tip dia",
-      "section": "blank material",
-      "rod weight": "guide",
-      "power": "price¥シングルグリップ（グレー）付",
-      "action": "price¥SC-2/B（グリップなし）"
-    },
-    "created_at": "2026-09-03T16:37:26.421199+09:00",
-    "updated_at": "2026-09-03T16:37:26.421199+09:00"
-  },
-  {
-    "item_name": "7～18g",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/sc-2.html",
-    "product_name": "SC-2 スープリームキャスト",
-    "specs": {
-      "length": "8～15Lb.",
-      "pack length": "2.1mm",
-      "section": "カーボン",
-      "rod weight": "GMLNSG(top),GMLKWSG",
-      "power": "48,000円+税",
-      "action": "26,000円+税"
-    },
-    "created_at": "2026-09-03T16:37:26.421199+09:00",
-    "updated_at": "2026-09-03T16:37:26.421199+09:00"
+    "updated_at": "2026-09-05T21:23:30.886868+09:00"
   }
 ]
