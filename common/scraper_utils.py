@@ -68,6 +68,12 @@ def to_number(value):
         return value
 
 
+def is_junk_spec_key(key):
+    """スペック表の脚注マーカー列（ヘッダーが空欄や"*"のみ）かどうか。
+    実データを持たない列で、specs辞書に含めると無意味なキーになるため除外用。"""
+    return not key or key.strip() in ("", "*")
+
+
 def sanitize_filename(name):
     name = re.sub(r'[\\/:*?"<>|]', '_', name)
     name = name.replace(" ", "_").replace("　", "_")

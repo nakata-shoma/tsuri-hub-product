@@ -5,7 +5,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from common.scraper_utils import get_soup, read_urls_csv, sanitize_filename, save_json, to_number  # noqa: E402
+from common.scraper_utils import get_soup, is_junk_spec_key, read_urls_csv, sanitize_filename, save_json, to_number  # noqa: E402
 
 REEL_INPUT_CSV = "./03_daiwa_product/daiwa_urls/daiwa_products_reel.csv"
 ROD_INPUT_CSV = "./03_daiwa_product/daiwa_urls/daiwa_products_rod.csv"
@@ -83,7 +83,11 @@ def parse_multi_spec_table(soup, url, product_name):
         if price_key:
             exclude_keys.append(price_key)
 
-        specs = {k: v for k, v in raw.items() if k not in exclude_keys}
+        specs = {
+            k: v
+            for k, v in raw.items()
+            if k not in exclude_keys and not is_junk_spec_key(k)
+        }
 
         for key in specs:
             specs[key] = to_number(specs[key])
