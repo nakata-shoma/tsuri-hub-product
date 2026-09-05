@@ -3,7 +3,7 @@
     "item_name": "S53FL-solid",
     "jan": "4549018808360",
     "product_code": "24800",
-    "price": "26,000●",
+    "price": 26000,
     "url": "https://www.gamakatsu.co.jp/products/24800/",
     "product_name": "LUXXE 宵姫 爽 弐　(ラグゼ よいひめ そう に)",
     "specs": {
@@ -21,13 +21,13 @@
       "グリップ長(mm)": 175
     },
     "created_at": "2026-09-02T23:44:15.441226+09:00",
-    "updated_at": "2026-09-02T23:44:15.441226+09:00"
+    "updated_at": "2026-09-05T20:20:07.495005+09:00"
   },
   {
     "item_name": "S58FL-solid",
     "jan": "4549018808377",
     "product_code": "24801",
-    "price": "26,500●",
+    "price": 26500,
     "url": "https://www.gamakatsu.co.jp/products/24800/",
     "product_name": "LUXXE 宵姫 爽 弐　(ラグゼ よいひめ そう に)",
     "specs": {
@@ -45,13 +45,13 @@
       "グリップ長(mm)": 190
     },
     "created_at": "2026-09-02T23:44:15.441226+09:00",
-    "updated_at": "2026-09-02T23:44:15.441226+09:00"
+    "updated_at": "2026-09-05T20:20:07.495005+09:00"
   },
   {
     "item_name": "S63UL-solid",
     "jan": "4549018808384",
     "product_code": "24802",
-    "price": "27,500●",
+    "price": 27500,
     "url": "https://www.gamakatsu.co.jp/products/24800/",
     "product_name": "LUXXE 宵姫 爽 弐　(ラグゼ よいひめ そう に)",
     "specs": {
@@ -69,13 +69,13 @@
       "グリップ長(mm)": 205
     },
     "created_at": "2026-09-02T23:44:15.441226+09:00",
-    "updated_at": "2026-09-02T23:44:15.441226+09:00"
+    "updated_at": "2026-09-05T20:20:07.495005+09:00"
   },
   {
     "item_name": "S69UL-solid",
     "jan": "4549018808391",
     "product_code": "24803",
-    "price": "28,000●",
+    "price": 28000,
     "url": "https://www.gamakatsu.co.jp/products/24800/",
     "product_name": "LUXXE 宵姫 爽 弐　(ラグゼ よいひめ そう に)",
     "specs": {
@@ -93,13 +93,13 @@
       "グリップ長(mm)": 215
     },
     "created_at": "2026-09-02T23:44:15.441226+09:00",
-    "updated_at": "2026-09-02T23:44:15.441226+09:00"
+    "updated_at": "2026-09-05T20:20:07.495005+09:00"
   },
   {
     "item_name": "S73L-solid",
     "jan": "4549018808407",
     "product_code": "24804",
-    "price": "28,500●",
+    "price": 28500,
     "url": "https://www.gamakatsu.co.jp/products/24800/",
     "product_name": "LUXXE 宵姫 爽 弐　(ラグゼ よいひめ そう に)",
     "specs": {
@@ -117,13 +117,13 @@
       "グリップ長(mm)": 255
     },
     "created_at": "2026-09-02T23:44:15.441226+09:00",
-    "updated_at": "2026-09-02T23:44:15.441226+09:00"
+    "updated_at": "2026-09-05T20:20:07.495005+09:00"
   },
   {
     "item_name": "S78M-solid",
     "jan": "4549018808414",
     "product_code": "24805",
-    "price": "29,800●",
+    "price": 29800,
     "url": "https://www.gamakatsu.co.jp/products/24800/",
     "product_name": "LUXXE 宵姫 爽 弐　(ラグゼ よいひめ そう に)",
     "specs": {
@@ -141,6 +141,6 @@
       "グリップ長(mm)": 290
     },
     "created_at": "2026-09-02T23:44:15.441226+09:00",
-    "updated_at": "2026-09-02T23:44:15.441226+09:00"
+    "updated_at": "2026-09-05T20:20:07.495005+09:00"
   }
 ]

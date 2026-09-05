@@ -3,7 +3,7 @@
     "item_name": "155",
     "jan": "4549018672954",
     "product_code": "21333",
-    "price": "29,000●",
+    "price": 29000,
     "url": "https://www.gamakatsu.co.jp/products/21333/",
     "product_name": "DeckStage MARUIKA　(デッキステージ マルイカ)",
     "specs": {
@@ -17,13 +17,13 @@
       "錘負荷(号)": "20～60"
     },
     "created_at": "2026-09-02T23:43:19.800002+09:00",
-    "updated_at": "2026-09-02T23:43:19.800002+09:00"
+    "updated_at": "2026-09-05T20:18:38.977282+09:00"
   },
   {
     "item_name": "160",
     "jan": "4549018672961",
     "product_code": "21334",
-    "price": "29,000●",
+    "price": 29000,
     "url": "https://www.gamakatsu.co.jp/products/21333/",
     "product_name": "DeckStage MARUIKA　(デッキステージ マルイカ)",
     "specs": {
@@ -37,6 +37,6 @@
       "錘負荷(号)": "20～60"
     },
     "created_at": "2026-09-02T23:43:19.800002+09:00",
-    "updated_at": "2026-09-02T23:43:19.800002+09:00"
+    "updated_at": "2026-09-05T20:18:38.977282+09:00"
   }
 ]
