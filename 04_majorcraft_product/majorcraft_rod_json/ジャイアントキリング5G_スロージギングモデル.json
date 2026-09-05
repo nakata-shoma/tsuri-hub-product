@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "GK5SJ-B62/1",
+    "jan": "4573236274294",
+    "price": 34000,
+    "url": "https://www.majorcraft.co.jp/rod/gk5/slow-jigging/",
+    "product_name": "ジャイアントキリング5G スロージギングモデル",
+    "specs": {
+      "Model": "GK5SJ-B62/1",
+      "全長": "6'2”ft",
+      "継数": "グリップ脱着式",
+      "ルアー": "MAX180g",
+      "PEライン": "MAX1.5号",
+      "標準自重": "107g",
+      "アクション": "RS"
+    },
+    "created_at": "2026-09-05T16:23:16.853097+09:00",
+    "updated_at": "2026-09-05T16:23:16.853097+09:00"
+  },
+  {
+    "item_name": "GK5SJ-B62/2",
+    "jan": "4573236274201",
+    "price": 35000,
+    "url": "https://www.majorcraft.co.jp/rod/gk5/slow-jigging/",
+    "product_name": "ジャイアントキリング5G スロージギングモデル",
+    "specs": {
+      "Model": "GK5SJ-B62/2",
+      "全長": "6'2”ft",
+      "継数": "グリップ脱着式",
+      "ルアー": "MAX200g",
+      "PEライン": "MAX2.0号",
+      "標準自重": "110g",
+      "アクション": "RS"
+    },
+    "created_at": "2026-09-05T16:23:16.853097+09:00",
+    "updated_at": "2026-09-05T16:23:16.853097+09:00"
+  },
+  {
+    "item_name": "GK5SJ-B62/3",
+    "jan": "4573236274317",
+    "price": 36000,
+    "url": "https://www.majorcraft.co.jp/rod/gk5/slow-jigging/",
+    "product_name": "ジャイアントキリング5G スロージギングモデル",
+    "specs": {
+      "Model": "GK5SJ-B62/3",
+      "全長": "6'2”ft",
+      "継数": "グリップ脱着式",
+      "ルアー": "MAX300g",
+      "PEライン": "MAX2.5号",
+      "標準自重": "112g",
+      "アクション": "RS"
+    },
+    "created_at": "2026-09-05T16:23:16.853097+09:00",
+    "updated_at": "2026-09-05T16:23:16.853097+09:00"
+  },
+  {
+    "item_name": "GK5SJ-B62/4",
+    "jan": "4573236274324",
+    "price": 37500,
+    "url": "https://www.majorcraft.co.jp/rod/gk5/slow-jigging/",
+    "product_name": "ジャイアントキリング5G スロージギングモデル",
+    "specs": {
+      "Model": "GK5SJ-B62/4",
+      "全長": "6'2”ft",
+      "継数": "グリップ脱着式",
+      "ルアー": "MAX400g",
+      "PEライン": "MAX3.0号",
+      "標準自重": "116g",
+      "アクション": "RS"
+    },
+    "created_at": "2026-09-05T16:23:16.853097+09:00",
+    "updated_at": "2026-09-05T16:23:16.853097+09:00"
+  }
+]

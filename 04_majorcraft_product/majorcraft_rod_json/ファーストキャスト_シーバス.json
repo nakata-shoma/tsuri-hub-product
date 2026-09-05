@@ -1,0 +1,122 @@
+[
+  {
+    "item_name": "FCS-862L",
+    "jan": "4560350818671",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-seabass/seabass/",
+    "product_name": "ファーストキャスト シーバス",
+    "specs": {
+      "Model": "FCS-862L",
+      "全長": "8'6”ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 23g",
+      "ライン": "6 - 12lb",
+      "PEライン": "0.6 - 1.2号",
+      "標準自重": "116g",
+      "仕舞寸法": "134㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:55.015049+09:00",
+    "updated_at": "2026-09-05T16:22:55.015049+09:00"
+  },
+  {
+    "item_name": "FCS-862ML",
+    "jan": "4560350818688",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-seabass/seabass/",
+    "product_name": "ファーストキャスト シーバス",
+    "specs": {
+      "Model": "FCS-862ML",
+      "全長": "8'6”ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 30g",
+      "ライン": "8 - 14lb",
+      "PEライン": "0.8 - 2.0号",
+      "標準自重": "123g",
+      "仕舞寸法": "134㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:55.015049+09:00",
+    "updated_at": "2026-09-05T16:22:55.015049+09:00"
+  },
+  {
+    "item_name": "FCS-902ML",
+    "jan": "4560350818695",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-seabass/seabass/",
+    "product_name": "ファーストキャスト シーバス",
+    "specs": {
+      "Model": "FCS-902ML",
+      "全長": "9'0”ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 30g",
+      "ライン": "8 - 14lb",
+      "PEライン": "0.8 - 2.0号",
+      "標準自重": "129g",
+      "仕舞寸法": "141㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:55.015049+09:00",
+    "updated_at": "2026-09-05T16:22:55.015049+09:00"
+  },
+  {
+    "item_name": "FCS-962ML",
+    "jan": "4560350818701",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-seabass/seabass/",
+    "product_name": "ファーストキャスト シーバス",
+    "specs": {
+      "Model": "FCS-962ML",
+      "全長": "9'6”ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 30g",
+      "ライン": "8 - 14lb",
+      "PEライン": "0.8 - 2.0号",
+      "標準自重": "133g",
+      "仕舞寸法": "149㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:55.015049+09:00",
+    "updated_at": "2026-09-05T16:22:55.015049+09:00"
+  },
+  {
+    "item_name": "FCS-962M",
+    "jan": "4560350818718",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-seabass/seabass/",
+    "product_name": "ファーストキャスト シーバス",
+    "specs": {
+      "Model": "FCS-962M",
+      "全長": "9'6”ft",
+      "継数": "2pcs",
+      "ルアー": "15 - 42g",
+      "ライン": "8 - 20lb",
+      "PEライン": "0.8 - 2.5号",
+      "標準自重": "149g",
+      "仕舞寸法": "149㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:55.015049+09:00",
+    "updated_at": "2026-09-05T16:22:55.015049+09:00"
+  },
+  {
+    "item_name": "FCS-1002M",
+    "jan": "4560350818725",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-seabass/seabass/",
+    "product_name": "ファーストキャスト シーバス",
+    "specs": {
+      "Model": "FCS-1002M",
+      "全長": "10'0”ft",
+      "継数": "2pcs",
+      "ルアー": "15 - 42g",
+      "ライン": "8 - 20g",
+      "PEライン": "0.8 - 2.5号",
+      "標準自重": "153g",
+      "仕舞寸法": "156㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:55.015049+09:00",
+    "updated_at": "2026-09-05T16:22:55.015049+09:00"
+  }
+]

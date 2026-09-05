@@ -1,0 +1,78 @@
+[
+  {
+    "item_name": "EZ7IM-B53M+ct",
+    "jan": "4573236279077",
+    "price": 49000,
+    "url": "https://www.majorcraft.co.jp/rod/ez7-ikametal/ikametal/",
+    "product_name": "エギゾースト7G イカメタルモデル",
+    "specs": {
+      "Model": "EZ7IM-B53M+ct",
+      "全長": "5'3\"ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "スッテ": "8 - 25号",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "84g",
+      "仕舞寸法": "94cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:51.158637+09:00",
+    "updated_at": "2026-09-05T16:22:51.158637+09:00"
+  },
+  {
+    "item_name": "EZ7IM-B511M+ct",
+    "jan": "4573236279084",
+    "price": 51000,
+    "url": "https://www.majorcraft.co.jp/rod/ez7-ikametal/ikametal/",
+    "product_name": "エギゾースト7G イカメタルモデル",
+    "specs": {
+      "Model": "EZ7IM-B511M+ct",
+      "全長": "5'11\"ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "スッテ": "8 - 25号",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "89g",
+      "仕舞寸法": "114cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:51.158637+09:00",
+    "updated_at": "2026-09-05T16:22:51.158637+09:00"
+  },
+  {
+    "item_name": "EZ7IM-B64M+ct",
+    "jan": "4573236278735",
+    "price": 54500,
+    "url": "https://www.majorcraft.co.jp/rod/ez7-ikametal/ikametal/",
+    "product_name": "エギゾースト7G イカメタルモデル",
+    "specs": {
+      "Model": "EZ7IM-B64M+ct",
+      "全長": "6'4”ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "スッテ": "8 - 25号(30 - 95g)",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "89g",
+      "仕舞寸法": "126cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:51.158637+09:00",
+    "updated_at": "2026-09-05T16:22:51.158637+09:00"
+  },
+  {
+    "item_name": "EZ7IM-B68M+ct",
+    "jan": "4573236278728",
+    "price": 55500,
+    "url": "https://www.majorcraft.co.jp/rod/ez7-ikametal/ikametal/",
+    "product_name": "エギゾースト7G イカメタルモデル",
+    "specs": {
+      "Model": "EZ7IM-B68M+ct",
+      "全長": "6'8”ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "スッテ": "10 - 30号(35 - 115g)",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "93g",
+      "仕舞寸法": "137cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:51.158637+09:00",
+    "updated_at": "2026-09-05T16:22:51.158637+09:00"
+  }
+]

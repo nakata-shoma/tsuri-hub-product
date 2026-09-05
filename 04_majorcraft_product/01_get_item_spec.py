@@ -8,6 +8,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from common.scraper_utils import (  # noqa: E402
     extract_canonical_url,
     get_soup,
+    is_junk_spec_key,
     read_urls_csv,
     sanitize_filename,
     save_json,
@@ -53,6 +54,9 @@ def extract_price(v):
     return to_number(match.group()) if match else None
 
 
+JAN_HEADER_RE = re.compile(r"^JAN\s*[\(（]\s*(\d+)\s*[\)）]")
+
+
 def parse_majorcraft_spec_table(soup, url, product_name):
     h2 = soup.find("h2", class_="rod-lineup__heading")
     if not h2:
@@ -80,16 +84,20 @@ def parse_majorcraft_spec_table(soup, url, product_name):
         # MajorCraft は Model が品番
         item_name = raw.get("Model") or raw.get("MODEL") or raw.get("品番")
 
-        # JAN列は「JAN (4573236)」のようにメーカーコードが列名に混ざるため正規表現で拾う。
+        # JAN列は「JAN (4573236)」のようにメーカーコード（GS1事業者コード）が
+        # ヘッダー名側に埋め込まれ、セルの値はそれに続く商品コードのみ（例: 269191）
+        # という特殊な形式。他メーカーと揃えるため両者を連結してフルJANにする。
         # PRICEも specs に混在しているので、他メーカーと同じくトップレベルへ分離する。
         jan = None
         price = None
         specs = {}
         for key, value in raw.items():
-            if not key:
+            if is_junk_spec_key(key):
                 continue
-            if re.match(r"^JAN", key):
-                jan = str(to_number(value)) if value else None
+            jan_match = JAN_HEADER_RE.match(key)
+            if jan_match:
+                suffix = re.sub(r"\D", "", value) if value else ""
+                jan = jan_match.group(1) + suffix if suffix else None
             elif key == "PRICE":
                 price = extract_price(value)
             else:

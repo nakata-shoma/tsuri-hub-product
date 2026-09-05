@@ -1,0 +1,59 @@
+[
+  {
+    "item_name": "GR1HT-S782MH",
+    "jan": "4573236274775",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/gr1-tai/hitotsu-tenya/",
+    "product_name": "グランシップ1G ひとつテンヤ",
+    "specs": {
+      "Model": "GR1HT-S782MH",
+      "全長": "7'8\"ft",
+      "継数": "2pcs",
+      "テンヤ": "2 - 15号",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "107g",
+      "仕舞寸法": "122cm",
+      "アクション": "7 : 3"
+    },
+    "created_at": "2026-09-05T16:23:19.363511+09:00",
+    "updated_at": "2026-09-05T16:23:19.363511+09:00"
+  },
+  {
+    "item_name": "GR1HT-S762H",
+    "jan": "4573236274782",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/gr1-tai/hitotsu-tenya/",
+    "product_name": "グランシップ1G ひとつテンヤ",
+    "specs": {
+      "Model": "GR1HT-S762H",
+      "全長": "7'6\"ft",
+      "継数": "2pcs",
+      "テンヤ": "4 - 18号",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "109g",
+      "仕舞寸法": "119cm",
+      "アクション": "7 : 3"
+    },
+    "created_at": "2026-09-05T16:23:19.363511+09:00",
+    "updated_at": "2026-09-05T16:23:19.363511+09:00"
+  },
+  {
+    "item_name": "GR1HT-S762XH",
+    "jan": "4573236279282",
+    "price": 17000,
+    "url": "https://www.majorcraft.co.jp/rod/gr1-tai/hitotsu-tenya/",
+    "product_name": "グランシップ1G ひとつテンヤ",
+    "specs": {
+      "Model": "GR1HT-S762XH",
+      "全長": "7'6\"ft",
+      "継数": "2pcs",
+      "テンヤ": "4 - 25号",
+      "PEライン": "MAX1.5号",
+      "標準自重": "112g",
+      "仕舞寸法": "119cm",
+      "アクション": "7 : 3"
+    },
+    "created_at": "2026-09-05T16:23:19.363511+09:00",
+    "updated_at": "2026-09-05T16:23:19.363511+09:00"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "BXCT-665M",
+    "jan": "4560350816394",
+    "price": 9700,
+    "url": "https://www.majorcraft.co.jp/rod/basspara/bx-furidashi/",
+    "product_name": "バスパラ 振出モデル",
+    "specs": {
+      "Model": "BXCT-665M",
+      "全長": "6'6”ft",
+      "ルアー": "1/4 - 3/4oz",
+      "ライン": "10 - 16lb",
+      "標準自重": "97g",
+      "仕舞寸法": "47cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:28.525007+09:00",
+    "updated_at": "2026-09-05T16:22:28.525007+09:00"
+  },
+  {
+    "item_name": "BXCT-665MH",
+    "jan": "4560350816400",
+    "price": 9900,
+    "url": "https://www.majorcraft.co.jp/rod/basspara/bx-furidashi/",
+    "product_name": "バスパラ 振出モデル",
+    "specs": {
+      "Model": "BXCT-665MH",
+      "全長": "6'6”ft",
+      "ルアー": "1/4 - 1oz",
+      "ライン": "12 - 20lb",
+      "標準自重": "105g",
+      "仕舞寸法": "47cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:28.525007+09:00",
+    "updated_at": "2026-09-05T16:22:28.525007+09:00"
+  },
+  {
+    "item_name": "BXCT-705H",
+    "jan": "4560350816417",
+    "price": 10100,
+    "url": "https://www.majorcraft.co.jp/rod/basspara/bx-furidashi/",
+    "product_name": "バスパラ 振出モデル",
+    "specs": {
+      "Model": "BXCT-705H",
+      "全長": "7'0”ft",
+      "ルアー": "3/8 - 1.1/2oz",
+      "ライン": "12 - 25lb",
+      "標準自重": "119g",
+      "仕舞寸法": "51cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:28.525007+09:00",
+    "updated_at": "2026-09-05T16:22:28.525007+09:00"
+  },
+  {
+    "item_name": "BXCT-705X",
+    "jan": "4560350816424",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/basspara/bx-furidashi/",
+    "product_name": "バスパラ 振出モデル",
+    "specs": {
+      "Model": "BXCT-705X",
+      "全長": "7'0”ft",
+      "ルアー": "3/8 - 3oz",
+      "ライン": "14 - 30lb",
+      "標準自重": "150g",
+      "仕舞寸法": "52cm",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:22:28.525007+09:00",
+    "updated_at": "2026-09-05T16:22:28.525007+09:00"
+  }
+]

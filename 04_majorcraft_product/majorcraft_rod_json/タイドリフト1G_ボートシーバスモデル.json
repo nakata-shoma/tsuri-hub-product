@@ -1,0 +1,92 @@
+[
+  {
+    "item_name": "TD1BS-S632L/ML",
+    "jan": "4573236275062",
+    "price": 14500,
+    "url": "https://www.majorcraft.co.jp/rod/td1-casting/boat-seabass/",
+    "product_name": "タイドリフト1G　ボートシーバスモデル",
+    "specs": {
+      "Model": "TD1BS-S632L/ML",
+      "全長": "6'3\"ft",
+      "継数": "2pcs",
+      "ルアー": "5 - 25g",
+      "PEライン": "0.6 - 1.2号",
+      "標準自重": "95g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:42.091056+09:00",
+    "updated_at": "2026-09-05T16:23:42.091056+09:00"
+  },
+  {
+    "item_name": "TD1BS-S662ML",
+    "jan": "4573236275079",
+    "price": 15100,
+    "url": "https://www.majorcraft.co.jp/rod/td1-casting/boat-seabass/",
+    "product_name": "タイドリフト1G　ボートシーバスモデル",
+    "specs": {
+      "Model": "TD1BS-S662ML",
+      "全長": "6'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 30g",
+      "PEライン": "0.8 - 1.5号",
+      "標準自重": "106g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:42.091056+09:00",
+    "updated_at": "2026-09-05T16:23:42.091056+09:00"
+  },
+  {
+    "item_name": "TD1BS-S662M",
+    "jan": "4573236275086",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/td1-casting/boat-seabass/",
+    "product_name": "タイドリフト1G　ボートシーバスモデル",
+    "specs": {
+      "Model": "TD1BS-S662M",
+      "全長": "6'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 40g",
+      "PEライン": "1.0 - 2.0号",
+      "標準自重": "109g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:42.091056+09:00",
+    "updated_at": "2026-09-05T16:23:42.091056+09:00"
+  },
+  {
+    "item_name": "TD1BS-S702ML",
+    "jan": "4573236275093",
+    "price": 15100,
+    "url": "https://www.majorcraft.co.jp/rod/td1-casting/boat-seabass/",
+    "product_name": "タイドリフト1G　ボートシーバスモデル",
+    "specs": {
+      "Model": "TD1BS-S702ML",
+      "全長": "7'0\"ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 30g",
+      "PEライン": "0.8 - 1.5号",
+      "標準自重": "112g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:42.091056+09:00",
+    "updated_at": "2026-09-05T16:23:42.091056+09:00"
+  },
+  {
+    "item_name": "TD1BS-S702M",
+    "jan": "4573236275109",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/td1-casting/boat-seabass/",
+    "product_name": "タイドリフト1G　ボートシーバスモデル",
+    "specs": {
+      "Model": "TD1BS-S702M",
+      "全長": "7'0\"ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 40g",
+      "PEライン": "1.0 - 2.0号",
+      "標準自重": "118g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:42.091056+09:00",
+    "updated_at": "2026-09-05T16:23:42.091056+09:00"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "item_name": "TCX-832MLW",
+    "jan": "4573236270371",
+    "price": 17300,
+    "url": "https://www.majorcraft.co.jp/rod/tcx-shore-tachi/wind/",
+    "product_name": "トリプルクロス 　タチウオ・ワインド",
+    "specs": {
+      "Model": "TCX-832MLW",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 17g",
+      "PEライン": "0.4 - 1.2号",
+      "標準自重": "123g",
+      "仕舞寸法": "130cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:41.613245+09:00",
+    "updated_at": "2026-09-05T16:23:41.613245+09:00"
+  },
+  {
+    "item_name": "TCX-832MW",
+    "jan": "4573236270388",
+    "price": 17500,
+    "url": "https://www.majorcraft.co.jp/rod/tcx-shore-tachi/wind/",
+    "product_name": "トリプルクロス 　タチウオ・ワインド",
+    "specs": {
+      "Model": "TCX-832MW",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 21g",
+      "PEライン": "0.6 - 1.5号",
+      "標準自重": "127g",
+      "仕舞寸法": "130㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:41.613245+09:00",
+    "updated_at": "2026-09-05T16:23:41.613245+09:00"
+  },
+  {
+    "item_name": "TCX-862MW",
+    "jan": "4573236270395",
+    "price": 17800,
+    "url": "https://www.majorcraft.co.jp/rod/tcx-shore-tachi/wind/",
+    "product_name": "トリプルクロス 　タチウオ・ワインド",
+    "specs": {
+      "Model": "TCX-862MW",
+      "全長": "8'6”ft",
+      "継数": "2pcs",
+      "ルアー": "7 - 21g",
+      "PEライン": "0.6 - 1.5号",
+      "標準自重": "131g",
+      "仕舞寸法": "134㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:41.613245+09:00",
+    "updated_at": "2026-09-05T16:23:41.613245+09:00"
+  },
+  {
+    "item_name": "TCX-832MHW",
+    "jan": "4573236270418",
+    "price": 17800,
+    "url": "https://www.majorcraft.co.jp/rod/tcx-shore-tachi/wind/",
+    "product_name": "トリプルクロス 　タチウオ・ワインド",
+    "specs": {
+      "Model": "TCX-832MHW",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "ルアー": "10 - 28g",
+      "PEライン": "0.6 - 1.5号",
+      "標準自重": "116g",
+      "仕舞寸法": "130㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:41.613245+09:00",
+    "updated_at": "2026-09-05T16:23:41.613245+09:00"
+  }
+]

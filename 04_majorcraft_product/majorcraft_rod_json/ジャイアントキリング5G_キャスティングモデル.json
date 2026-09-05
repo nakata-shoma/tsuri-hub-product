@@ -1,0 +1,56 @@
+[
+  {
+    "item_name": "GK5C-74/2",
+    "jan": "4573236273297",
+    "price": 34000,
+    "url": "https://www.majorcraft.co.jp/rod/gk5-casting/casting-2/",
+    "product_name": "ジャイアントキリング5G キャスティングモデル",
+    "specs": {
+      "Model": "GK5C-74/2",
+      "全長": "7'4”ft",
+      "継数": "1pcsグリップ脱着式",
+      "ジグ": "MAX 50g",
+      "PEライン": "MAX 2.0号",
+      "自重": "134g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:14.012359+09:00",
+    "updated_at": "2026-09-05T16:23:14.012359+09:00"
+  },
+  {
+    "item_name": "GK5C-76/3",
+    "jan": "4573236273303",
+    "price": 35000,
+    "url": "https://www.majorcraft.co.jp/rod/gk5-casting/casting-2/",
+    "product_name": "ジャイアントキリング5G キャスティングモデル",
+    "specs": {
+      "Model": "GK5C-76/3",
+      "全長": "7'6”ft",
+      "継数": "1pcsグリップ脱着式",
+      "ジグ": "MAX 60g",
+      "PEライン": "MAX 3.0号",
+      "自重": "143g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:14.012359+09:00",
+    "updated_at": "2026-09-05T16:23:14.012359+09:00"
+  },
+  {
+    "item_name": "GK5C-76/4",
+    "jan": "4573236273310",
+    "price": 35500,
+    "url": "https://www.majorcraft.co.jp/rod/gk5-casting/casting-2/",
+    "product_name": "ジャイアントキリング5G キャスティングモデル",
+    "specs": {
+      "Model": "GK5C-76/4",
+      "全長": "7'6”ft",
+      "継数": "1pcsグリップ脱着式",
+      "ジグ": "MAX 80g",
+      "PEライン": "MAX 4.0号",
+      "自重": "156g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:14.012359+09:00",
+    "updated_at": "2026-09-05T16:23:14.012359+09:00"
+  }
+]

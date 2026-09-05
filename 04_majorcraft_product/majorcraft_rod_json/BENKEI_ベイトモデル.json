@@ -1,0 +1,240 @@
+[
+  {
+    "item_name": "BIC-65ML",
+    "jan": "4560350817797",
+    "price": 11500,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-65ML",
+      "全長": "6'5”ft",
+      "継数": "1pcs",
+      "ルアー": "3/16-1/2oz",
+      "ライン": "8-14lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-62M",
+    "jan": "4560350817810",
+    "price": 11500,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-62M",
+      "全長": "6'2”ft",
+      "継数": "1pcs",
+      "ルアー": "1/4-3/4oz",
+      "ライン": "10-16lb",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-66M",
+    "jan": "4560350817827",
+    "price": 12100,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-66M",
+      "全長": "6'6”ft",
+      "継数": "1pcs",
+      "ルアー": "1/4-3/4oz",
+      "ライン": "10-16lb",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-66MH",
+    "jan": "4560350817841",
+    "price": 12500,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-66MH",
+      "全長": "6'6”",
+      "継数": "1pcs",
+      "ルアー": "1/4-1oz",
+      "ライン": "12-20lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-69MH",
+    "jan": "4560350817858",
+    "price": 12700,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-69MH",
+      "全長": "6'9”ft",
+      "継数": "1pcs",
+      "ルアー": "1/4-1oz",
+      "ライン": "12-20lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-70H",
+    "jan": "4560350817872",
+    "price": 13300,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-70H",
+      "全長": "7'0”ft",
+      "継数": "1pcs",
+      "ルアー": "3/8-1.1/2oz",
+      "ライン": "12-25lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-70X",
+    "jan": "4560350817889",
+    "price": 13600,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-70X",
+      "全長": "7'0”ft",
+      "継数": "1pcs",
+      "ルアー": "3/8-3oz",
+      "ライン": "14-30lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-652ML",
+    "jan": "4560350818084",
+    "price": 11500,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-652ML",
+      "全長": "6'5”ft",
+      "継数": "2pcs",
+      "ルアー": "3/16-1/2oz",
+      "ライン": "8-14lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-622M",
+    "jan": "4560350818107",
+    "price": 11500,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-622M",
+      "全長": "6'2”ft",
+      "継数": "2pcs",
+      "ルアー": "1/4-3/4pz",
+      "ライン": "10-16lb",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-662M",
+    "jan": "4560350818114",
+    "price": 12100,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-662M",
+      "全長": "6'6”ft",
+      "継数": "2pcs",
+      "ルアー": "1/4-3/4oz",
+      "ライン": "10-16lb",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-662MH",
+    "jan": "4560350818138",
+    "price": 12500,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-662MH",
+      "全長": "6'6”ft",
+      "継数": "2pcs",
+      "ルアー": "1/4-1oz",
+      "ライン": "12-20lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-692MH",
+    "jan": "4560350818145",
+    "price": 12700,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-692MH",
+      "全長": "6'9”ft",
+      "継数": "2pcs",
+      "ルアー": "1/4-1oz",
+      "ライン": "12-20lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-702H",
+    "jan": "4560350818169",
+    "price": 13300,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-702H",
+      "全長": "7'0”ft",
+      "継数": "2pcs",
+      "ルアー": "3/8-1.1/2oz",
+      "ライン": "12-25lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  },
+  {
+    "item_name": "BIC-702X",
+    "jan": "4560350818176",
+    "price": 13600,
+    "url": "https://www.majorcraft.co.jp/rod/benkei/benkei-bait/",
+    "product_name": "BENKEI ベイトモデル",
+    "specs": {
+      "Model": "BIC-702X",
+      "全長": "7'0”ft",
+      "継数": "2pcs",
+      "ルアー": "3/8-3oz",
+      "ライン": "14-30lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:30.972674+09:00",
+    "updated_at": "2026-09-05T16:22:30.972674+09:00"
+  }
+]

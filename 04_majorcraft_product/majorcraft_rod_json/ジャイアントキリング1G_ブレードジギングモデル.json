@@ -1,0 +1,56 @@
+[
+  {
+    "item_name": "GK1BJ-S64ML",
+    "jan": "4573236277073",
+    "price": 15100,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/blade-jigging/",
+    "product_name": "ジャイアントキリング1G ブレードジギングモデル",
+    "specs": {
+      "Model": "GK1BJ-S64ML",
+      "全長": "6'4\"ft",
+      "継数": "1pcグリップ脱着式",
+      "ルアー": "20 - 50g(DOTERA MAX80g)",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "107g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:09.724630+09:00",
+    "updated_at": "2026-09-05T16:23:09.724630+09:00"
+  },
+  {
+    "item_name": "GK1BJ-S68M",
+    "jan": "4573236277080",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/blade-jigging/",
+    "product_name": "ジャイアントキリング1G ブレードジギングモデル",
+    "specs": {
+      "Model": "GK1BJ-S68M",
+      "全長": "6'8\"ft",
+      "継数": "1pcグリップ脱着式",
+      "ルアー": "30 - 60g(DOTERA MAX100g)",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "113g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:09.724630+09:00",
+    "updated_at": "2026-09-05T16:23:09.724630+09:00"
+  },
+  {
+    "item_name": "GK1BJ-S68MH",
+    "jan": "4573236277097",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/blade-jigging/",
+    "product_name": "ジャイアントキリング1G ブレードジギングモデル",
+    "specs": {
+      "Model": "GK1BJ-S68MH",
+      "全長": "6'8\"ft",
+      "継数": "1pcグリップ脱着式",
+      "ルアー": "40 - 80g(DOTERA MAX150g)",
+      "PEライン": "MAX 2.0号",
+      "標準自重": "116g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:23:09.724630+09:00",
+    "updated_at": "2026-09-05T16:23:09.724630+09:00"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "item_name": "EZ1TE-S5102L",
+    "jan": "4573236274850",
+    "price": 14500,
+    "url": "https://www.majorcraft.co.jp/rod/ez1-tiprun/tiprun/",
+    "product_name": "エギゾースト1G ティップランモデル",
+    "specs": {
+      "Model": "EZ1TE-S5102L",
+      "全長": "5'10\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 55g",
+      "PEライン": "0.4-1.0号",
+      "標準自重": "82g",
+      "仕舞寸法": "93cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:42.556920+09:00",
+    "updated_at": "2026-09-05T16:22:42.556920+09:00"
+  },
+  {
+    "item_name": "EZ1TE-S5102ML",
+    "jan": "4573236274867",
+    "price": 15100,
+    "url": "https://www.majorcraft.co.jp/rod/ez1-tiprun/tiprun/",
+    "product_name": "エギゾースト1G ティップランモデル",
+    "specs": {
+      "Model": "EZ1TE-S5102ML",
+      "全長": "5'10\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 70g",
+      "PEライン": "0.6-1.2号",
+      "標準自重": "86g",
+      "仕舞寸法": "93cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:42.556920+09:00",
+    "updated_at": "2026-09-05T16:22:42.556920+09:00"
+  },
+  {
+    "item_name": "EZ1TE-S632L",
+    "jan": "4573236274874",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/ez1-tiprun/tiprun/",
+    "product_name": "エギゾースト1G ティップランモデル",
+    "specs": {
+      "Model": "EZ1TE-S632L",
+      "全長": "6'3\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 55g",
+      "PEライン": "0.4-1.0号",
+      "標準自重": "87g",
+      "仕舞寸法": "99cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:42.556920+09:00",
+    "updated_at": "2026-09-05T16:22:42.556920+09:00"
+  },
+  {
+    "item_name": "EZ1TE-S632ML",
+    "jan": "4573236274881",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/ez1-tiprun/tiprun/",
+    "product_name": "エギゾースト1G ティップランモデル",
+    "specs": {
+      "Model": "EZ1TE-S632ML",
+      "全長": "6'3\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 70g",
+      "PEライン": "0.6-1.2号",
+      "標準自重": "88g",
+      "仕舞寸法": "99cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:42.556920+09:00",
+    "updated_at": "2026-09-05T16:22:42.556920+09:00"
+  },
+  {
+    "item_name": "EZ1TE-S632M",
+    "jan": "4573236274898",
+    "price": 16700,
+    "url": "https://www.majorcraft.co.jp/rod/ez1-tiprun/tiprun/",
+    "product_name": "エギゾースト1G ティップランモデル",
+    "specs": {
+      "Model": "EZ1TE-S632M",
+      "全長": "6'3\"ft",
+      "継数": "2pcs",
+      "エギ": "MAX 90\tg",
+      "PEライン": "0.6-1.2号",
+      "標準自重": "89g",
+      "仕舞寸法": "99cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:42.556920+09:00",
+    "updated_at": "2026-09-05T16:22:42.556920+09:00"
+  }
+]

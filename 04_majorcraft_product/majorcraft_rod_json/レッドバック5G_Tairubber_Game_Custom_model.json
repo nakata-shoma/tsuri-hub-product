@@ -1,0 +1,78 @@
+[
+  {
+    "item_name": "RB5-B69UL/S",
+    "jan": "4573236273518",
+    "price": 36500,
+    "url": "https://www.majorcraft.co.jp/rod/rb5/tairubber-game-custom/",
+    "product_name": "レッドバック5G Tairubber Game Custom model",
+    "specs": {
+      "Model": "RB5-B69UL/S",
+      "全長": "6'9”ft",
+      "継数": "1pcs",
+      "ルアー": "MAX 100gドテラ 130g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "99g",
+      "仕舞寸法": "210cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:31.340520+09:00",
+    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+  },
+  {
+    "item_name": "RB5-B610L/S",
+    "jan": "4573236273525",
+    "price": 36500,
+    "url": "https://www.majorcraft.co.jp/rod/rb5/tairubber-game-custom/",
+    "product_name": "レッドバック5G Tairubber Game Custom model",
+    "specs": {
+      "Model": "RB5-B610L/S",
+      "全長": "6'10”ft",
+      "継数": "1pcs",
+      "ルアー": "MAX 100gドテラ 150g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "106g",
+      "仕舞寸法": "210cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:31.340520+09:00",
+    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+  },
+  {
+    "item_name": "RB5-B610ML/S",
+    "jan": "4573236273532",
+    "price": 37000,
+    "url": "https://www.majorcraft.co.jp/rod/rb5/tairubber-game-custom/",
+    "product_name": "レッドバック5G Tairubber Game Custom model",
+    "specs": {
+      "Model": "RB5-B610ML/S",
+      "全長": "6'10”ft",
+      "継数": "1pcs",
+      "ルアー": "MAX 160gドテラ 200g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "111g",
+      "仕舞寸法": "210cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:31.340520+09:00",
+    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+  },
+  {
+    "item_name": "RB5-B610M/S",
+    "jan": "4573236273549",
+    "price": 37500,
+    "url": "https://www.majorcraft.co.jp/rod/rb5/tairubber-game-custom/",
+    "product_name": "レッドバック5G Tairubber Game Custom model",
+    "specs": {
+      "Model": "RB5-B610M/S",
+      "全長": "6'10”ft",
+      "継数": "1pcs",
+      "ルアー": "MAX 200gドテラ 300g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "123g",
+      "仕舞寸法": "210cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:31.340520+09:00",
+    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+  }
+]

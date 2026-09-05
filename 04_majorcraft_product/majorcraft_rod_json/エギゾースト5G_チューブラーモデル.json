@@ -1,0 +1,74 @@
+[
+  {
+    "item_name": "EZ5-832ML",
+    "jan": "4573236272672",
+    "price": 27500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-shore/tubular-model/",
+    "product_name": "エギゾースト5G チューブラーモデル",
+    "specs": {
+      "Model": "EZ5-832ML",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "エギ": "1.5 - 3.5号",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "85g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:48.353487+09:00",
+    "updated_at": "2026-09-05T16:22:48.353487+09:00"
+  },
+  {
+    "item_name": "EZ5-862ML",
+    "jan": "4573236272689",
+    "price": 28000,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-shore/tubular-model/",
+    "product_name": "エギゾースト5G チューブラーモデル",
+    "specs": {
+      "Model": "EZ5-862ML",
+      "全長": "8'6”ft",
+      "継数": "2pcs",
+      "エギ": "1.5 - 3.5号",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "87g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:48.353487+09:00",
+    "updated_at": "2026-09-05T16:22:48.353487+09:00"
+  },
+  {
+    "item_name": "EZ5-832M",
+    "jan": "4573236272696",
+    "price": 29000,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-shore/tubular-model/",
+    "product_name": "エギゾースト5G チューブラーモデル",
+    "specs": {
+      "Model": "EZ5-832M",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "エギ": "2.0 - 4.0号",
+      "PEライン": "0.4 - 1.2号",
+      "標準自重": "88g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:48.353487+09:00",
+    "updated_at": "2026-09-05T16:22:48.353487+09:00"
+  },
+  {
+    "item_name": "EZ5-862M",
+    "jan": "4573236272702",
+    "price": 29500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-shore/tubular-model/",
+    "product_name": "エギゾースト5G チューブラーモデル",
+    "specs": {
+      "Model": "EZ5-862M",
+      "全長": "8'6”ft",
+      "継数": "2pcs",
+      "エギ": "2.0 - 4.0号",
+      "PEライン": "0.4 - 1.2号",
+      "標準自重": "91g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:48.353487+09:00",
+    "updated_at": "2026-09-05T16:22:48.353487+09:00"
+  }
+]
