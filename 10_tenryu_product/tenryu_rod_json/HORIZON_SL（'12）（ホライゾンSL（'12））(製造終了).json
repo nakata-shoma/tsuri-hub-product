@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2023/1HSL66B-ML",
-    "jan": "017761",
+    "jan": "4533933017761",
     "price": 38000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_sl.html",
     "product_name": "HORIZON SL（'12）（ホライゾンSL（'12））(製造終了)",
@@ -22,11 +22,11 @@
       "使用繊維 カーボン/グラス(%)": "89/11"
     },
     "created_at": "2026-09-03T00:51:22.118817+09:00",
-    "updated_at": "2026-09-03T15:59:20.281660+09:00"
+    "updated_at": "2026-09-05T21:32:54.301387+09:00"
   },
   {
     "item_name": "2023/1HSL66B-M",
-    "jan": "017778",
+    "jan": "4533933017778",
     "price": 38500,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_sl.html",
     "product_name": "HORIZON SL（'12）（ホライゾンSL（'12））(製造終了)",
@@ -47,11 +47,11 @@
       "使用繊維 カーボン/グラス(%)": "89/11"
     },
     "created_at": "2026-09-03T00:51:22.118817+09:00",
-    "updated_at": "2026-09-03T15:59:20.281660+09:00"
+    "updated_at": "2026-09-05T21:32:54.301387+09:00"
   },
   {
     "item_name": "2023/1HSL66B-MH",
-    "jan": "017785",
+    "jan": "4533933017785",
     "price": 39000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_sl.html",
     "product_name": "HORIZON SL（'12）（ホライゾンSL（'12））(製造終了)",
@@ -72,11 +72,11 @@
       "使用繊維 カーボン/グラス(%)": "89/11"
     },
     "created_at": "2026-09-03T00:51:22.118817+09:00",
-    "updated_at": "2026-09-03T15:59:20.281660+09:00"
+    "updated_at": "2026-09-05T21:32:54.301387+09:00"
   },
   {
     "item_name": "2023/1HSL66B-H",
-    "jan": "018270",
+    "jan": "4533933018270",
     "price": 40000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_sl.html",
     "product_name": "HORIZON SL（'12）（ホライゾンSL（'12））(製造終了)",
@@ -97,6 +97,6 @@
       "使用繊維 カーボン/グラス(%)": "91/9"
     },
     "created_at": "2026-09-03T00:51:22.118817+09:00",
-    "updated_at": "2026-09-03T15:59:20.281660+09:00"
+    "updated_at": "2026-09-05T21:32:54.301387+09:00"
   }
 ]

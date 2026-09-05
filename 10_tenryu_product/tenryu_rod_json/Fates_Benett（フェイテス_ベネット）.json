@@ -1,7 +1,7 @@
 [
   {
     "item_name": "FB6104-#2/3",
-    "jan": "022758",
+    "jan": "4533933022758",
     "price": 45500,
     "url": "https://fishing.tenryu-magna.com/fly/benett.html",
     "product_name": "Fates Benett（フェイテス ベネット）",
@@ -16,11 +16,11 @@
       "使用繊維 カーボン/グラス(%)": "86/14"
     },
     "created_at": "2026-09-03T00:50:11.880832+09:00",
-    "updated_at": "2026-09-03T15:59:14.156509+09:00"
+    "updated_at": "2026-09-05T21:32:49.068769+09:00"
   },
   {
     "item_name": "FB744-#3/4",
-    "jan": "022765",
+    "jan": "4533933022765",
     "price": 46500,
     "url": "https://fishing.tenryu-magna.com/fly/benett.html",
     "product_name": "Fates Benett（フェイテス ベネット）",
@@ -35,11 +35,11 @@
       "使用繊維 カーボン/グラス(%)": "86/14"
     },
     "created_at": "2026-09-03T00:50:11.880832+09:00",
-    "updated_at": "2026-09-03T15:59:14.156509+09:00"
+    "updated_at": "2026-09-05T21:32:49.068769+09:00"
   },
   {
     "item_name": "FB864-#4/5",
-    "jan": "022772",
+    "jan": "4533933022772",
     "price": 49500,
     "url": "https://fishing.tenryu-magna.com/fly/benett.html",
     "product_name": "Fates Benett（フェイテス ベネット）",
@@ -54,6 +54,6 @@
       "使用繊維 カーボン/グラス(%)": "86/14"
     },
     "created_at": "2026-09-03T00:50:11.880832+09:00",
-    "updated_at": "2026-09-03T15:59:14.156509+09:00"
+    "updated_at": "2026-09-05T21:32:49.068769+09:00"
   }
 ]

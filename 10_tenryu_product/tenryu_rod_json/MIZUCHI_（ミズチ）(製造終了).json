@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2026/1MZ73M",
-    "jan": "017907",
+    "jan": "4533933017907",
     "price": 44500,
     "url": "https://fishing.tenryu-magna.com/snakehead/mizuchi.html",
     "product_name": "MIZUCHI （ミズチ）(製造終了)",
@@ -17,11 +17,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:51:30.887854+09:00",
-    "updated_at": "2026-09-03T15:59:33.531541+09:00"
+    "updated_at": "2026-09-05T21:33:04.033949+09:00"
   },
   {
     "item_name": "2026/1MZ76MH",
-    "jan": "017914",
+    "jan": "4533933017914",
     "price": 47000,
     "url": "https://fishing.tenryu-magna.com/snakehead/mizuchi.html",
     "product_name": "MIZUCHI （ミズチ）(製造終了)",
@@ -37,11 +37,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:51:30.887854+09:00",
-    "updated_at": "2026-09-03T15:59:33.531541+09:00"
+    "updated_at": "2026-09-05T21:33:04.033949+09:00"
   },
   {
     "item_name": "2026/1MZ79H",
-    "jan": "018430",
+    "jan": "4533933018430",
     "price": 50000,
     "url": "https://fishing.tenryu-magna.com/snakehead/mizuchi.html",
     "product_name": "MIZUCHI （ミズチ）(製造終了)",
@@ -57,6 +57,6 @@
       "使用繊維 カーボン/グラス(%)": "88/12"
     },
     "created_at": "2026-09-03T00:51:30.887854+09:00",
-    "updated_at": "2026-09-03T15:59:33.531541+09:00"
+    "updated_at": "2026-09-05T21:33:04.033949+09:00"
   }
 ]

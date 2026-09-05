@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2023/1BTS83M",
-    "jan": "017471",
+    "jan": "4533933017471",
     "price": 38000,
     "url": "https://fishing.tenryu-magna.com/shore/brigade_tr_shore.html",
     "product_name": "BRIGADE TR concept SHORE（'12）（ブリゲイド TRコンセプト ショア（'12））(製造終了)",
@@ -19,11 +19,11 @@
       "使用繊維 カーボン/グラス(%)": "94/6"
     },
     "created_at": "2026-09-03T00:51:27.022639+09:00",
-    "updated_at": "2026-09-03T15:59:28.005696+09:00"
+    "updated_at": "2026-09-05T21:32:59.985490+09:00"
   },
   {
     "item_name": "2023/1BTS93M",
-    "jan": "017488",
+    "jan": "4533933017488",
     "price": 39000,
     "url": "https://fishing.tenryu-magna.com/shore/brigade_tr_shore.html",
     "product_name": "BRIGADE TR concept SHORE（'12）（ブリゲイド TRコンセプト ショア（'12））(製造終了)",
@@ -41,6 +41,6 @@
       "使用繊維 カーボン/グラス(%)": "94/6"
     },
     "created_at": "2026-09-03T00:51:27.022639+09:00",
-    "updated_at": "2026-09-03T15:59:28.005696+09:00"
+    "updated_at": "2026-09-05T21:32:59.985490+09:00"
   }
 ]

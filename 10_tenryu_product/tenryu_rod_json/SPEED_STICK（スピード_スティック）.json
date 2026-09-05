@@ -1,7 +1,7 @@
 [
   {
     "item_name": "TSS#1L-256B",
-    "jan": "021812",
+    "jan": "4533933021812",
     "price": 42500,
     "url": "https://fishing.tenryu-magna.com/bass/speedstick.html",
     "product_name": "SPEED STICK（スピード スティック）",
@@ -19,11 +19,11 @@
       "使用繊維 カーボン/グラス(%)": "89/11"
     },
     "created_at": "2026-09-03T00:49:43.046691+09:00",
-    "updated_at": "2026-09-03T15:59:13.076704+09:00"
+    "updated_at": "2026-09-05T21:32:47.927229+09:00"
   },
   {
     "item_name": "TSS#1L-260B",
-    "jan": "021829",
+    "jan": "4533933021829",
     "price": 44000,
     "url": "https://fishing.tenryu-magna.com/bass/speedstick.html",
     "product_name": "SPEED STICK（スピード スティック）",
@@ -41,11 +41,11 @@
       "使用繊維 カーボン/グラス(%)": "88/12"
     },
     "created_at": "2026-09-03T00:49:43.046691+09:00",
-    "updated_at": "2026-09-03T15:59:13.076704+09:00"
+    "updated_at": "2026-09-05T21:32:47.927229+09:00"
   },
   {
     "item_name": "TSS#1-264B",
-    "jan": "021836",
+    "jan": "4533933021836",
     "price": 45000,
     "url": "https://fishing.tenryu-magna.com/bass/speedstick.html",
     "product_name": "SPEED STICK（スピード スティック）",
@@ -63,11 +63,11 @@
       "使用繊維 カーボン/グラス(%)": "88/12"
     },
     "created_at": "2026-09-03T00:49:43.046691+09:00",
-    "updated_at": "2026-09-03T15:59:13.076704+09:00"
+    "updated_at": "2026-09-05T21:32:47.927229+09:00"
   },
   {
     "item_name": "TSS#2-266B",
-    "jan": "021843",
+    "jan": "4533933021843",
     "price": 46000,
     "url": "https://fishing.tenryu-magna.com/bass/speedstick.html",
     "product_name": "SPEED STICK（スピード スティック）",
@@ -85,11 +85,11 @@
       "使用繊維 カーボン/グラス(%)": "88/12"
     },
     "created_at": "2026-09-03T00:49:43.046691+09:00",
-    "updated_at": "2026-09-03T15:59:13.076704+09:00"
+    "updated_at": "2026-09-05T21:32:47.927229+09:00"
   },
   {
     "item_name": "TSS#3-267B",
-    "jan": "021850",
+    "jan": "4533933021850",
     "price": 46500,
     "url": "https://fishing.tenryu-magna.com/bass/speedstick.html",
     "product_name": "SPEED STICK（スピード スティック）",
@@ -107,11 +107,11 @@
       "使用繊維 カーボン/グラス(%)": "88/12"
     },
     "created_at": "2026-09-03T00:49:43.046691+09:00",
-    "updated_at": "2026-09-03T15:59:13.076704+09:00"
+    "updated_at": "2026-09-05T21:32:47.927229+09:00"
   },
   {
     "item_name": "TSS#4-2611B",
-    "jan": "022567",
+    "jan": "4533933022567",
     "price": 49500,
     "url": "https://fishing.tenryu-magna.com/bass/speedstick.html",
     "product_name": "SPEED STICK（スピード スティック）",
@@ -129,6 +129,6 @@
       "使用繊維 カーボン/グラス(%)": "85/15"
     },
     "created_at": "2026-09-03T00:49:43.046691+09:00",
-    "updated_at": "2026-09-03T15:59:13.076704+09:00"
+    "updated_at": "2026-09-05T21:32:47.927229+09:00"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2026FP706-#3",
-    "jan": "023823",
+    "jan": "4533933023823",
     "price": 48500,
     "url": "https://fishing.tenryu-magna.com/fly/packer.html",
     "product_name": "Fates PACKER（フェイテス パッカー）",
@@ -16,11 +16,11 @@
       "使用繊維 カーボン/グラス(%)": "79/21"
     },
     "created_at": "2026-09-03T00:50:38.479057+09:00",
-    "updated_at": "2026-09-03T15:59:15.438787+09:00"
+    "updated_at": "2026-09-05T21:32:50.143811+09:00"
   },
   {
     "item_name": "2026FP766-#3",
-    "jan": "023830",
+    "jan": "4533933023830",
     "price": 49000,
     "url": "https://fishing.tenryu-magna.com/fly/packer.html",
     "product_name": "Fates PACKER（フェイテス パッカー）",
@@ -35,11 +35,11 @@
       "使用繊維 カーボン/グラス(%)": "78/22"
     },
     "created_at": "2026-09-03T00:50:38.479057+09:00",
-    "updated_at": "2026-09-03T15:59:15.438787+09:00"
+    "updated_at": "2026-09-05T21:32:50.143811+09:00"
   },
   {
     "item_name": "2026FP806-#4",
-    "jan": "023847",
+    "jan": "4533933023847",
     "price": 49500,
     "url": "https://fishing.tenryu-magna.com/fly/packer.html",
     "product_name": "Fates PACKER（フェイテス パッカー）",
@@ -54,6 +54,6 @@
       "使用繊維 カーボン/グラス(%)": "79/21"
     },
     "created_at": "2026-09-03T00:50:38.479057+09:00",
-    "updated_at": "2026-09-03T15:59:15.438787+09:00"
+    "updated_at": "2026-09-05T21:32:50.143811+09:00"
   }
 ]

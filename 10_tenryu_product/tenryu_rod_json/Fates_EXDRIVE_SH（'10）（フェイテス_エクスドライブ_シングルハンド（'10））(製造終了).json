@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2026/1FES904#5",
-    "jan": "019567",
+    "jan": "4533933019567",
     "price": 44500,
     "url": "https://fishing.tenryu-magna.com/fly/exdrive_sh.html",
     "product_name": "Fates EXDRIVE SH（'10）（フェイテス エクスドライブ シングルハンド（'10））(製造終了)",
@@ -16,11 +16,11 @@
       "使用繊維 カーボン/グラス(%)": "86/14"
     },
     "created_at": "2026-09-03T00:50:30.879235+09:00",
-    "updated_at": "2026-09-03T15:59:15.006687+09:00"
+    "updated_at": "2026-09-05T21:32:49.704767+09:00"
   },
   {
     "item_name": "2026/1FES904#6",
-    "jan": "019574",
+    "jan": "4533933019574",
     "price": 45500,
     "url": "https://fishing.tenryu-magna.com/fly/exdrive_sh.html",
     "product_name": "Fates EXDRIVE SH（'10）（フェイテス エクスドライブ シングルハンド（'10））(製造終了)",
@@ -35,11 +35,11 @@
       "使用繊維 カーボン/グラス(%)": "86/14"
     },
     "created_at": "2026-09-03T00:50:30.879235+09:00",
-    "updated_at": "2026-09-03T15:59:15.006687+09:00"
+    "updated_at": "2026-09-05T21:32:49.704767+09:00"
   },
   {
     "item_name": "2026/1FES904#7",
-    "jan": "019581",
+    "jan": "4533933019581",
     "price": 47000,
     "url": "https://fishing.tenryu-magna.com/fly/exdrive_sh.html",
     "product_name": "Fates EXDRIVE SH（'10）（フェイテス エクスドライブ シングルハンド（'10））(製造終了)",
@@ -54,11 +54,11 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:50:30.879235+09:00",
-    "updated_at": "2026-09-03T15:59:15.006687+09:00"
+    "updated_at": "2026-09-05T21:32:49.704767+09:00"
   },
   {
     "item_name": "2026/1FES904#8",
-    "jan": "019598",
+    "jan": "4533933019598",
     "price": 48000,
     "url": "https://fishing.tenryu-magna.com/fly/exdrive_sh.html",
     "product_name": "Fates EXDRIVE SH（'10）（フェイテス エクスドライブ シングルハンド（'10））(製造終了)",
@@ -73,6 +73,6 @@
       "使用繊維 カーボン/グラス(%)": "87/13"
     },
     "created_at": "2026-09-03T00:50:30.879235+09:00",
-    "updated_at": "2026-09-03T15:59:15.006687+09:00"
+    "updated_at": "2026-09-05T21:32:49.704767+09:00"
   }
 ]

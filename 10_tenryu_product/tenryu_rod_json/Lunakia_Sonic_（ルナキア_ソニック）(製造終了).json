@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2019/1LKS610ML",
-    "jan": "018140",
+    "jan": "4533933018140",
     "price": 34000,
     "url": "https://fishing.tenryu-magna.com/shore/lunakia_sonic.html",
     "product_name": "Lunakia Sonic （ルナキア ソニック）(製造終了)",
@@ -19,11 +19,11 @@
       "使用繊維 カーボン/グラス(%)": "94/6"
     },
     "created_at": "2026-09-03T00:51:28.003381+09:00",
-    "updated_at": "2026-09-03T15:59:29.719931+09:00"
+    "updated_at": "2026-09-05T21:33:01.332728+09:00"
   },
   {
     "item_name": "2019/1LKS77M",
-    "jan": "017655",
+    "jan": "4533933017655",
     "price": 38000,
     "url": "https://fishing.tenryu-magna.com/shore/lunakia_sonic.html",
     "product_name": "Lunakia Sonic （ルナキア ソニック）(製造終了)",
@@ -41,11 +41,11 @@
       "使用繊維 カーボン/グラス(%)": "91/9"
     },
     "created_at": "2026-09-03T00:51:28.003381+09:00",
-    "updated_at": "2026-09-03T15:59:29.719931+09:00"
+    "updated_at": "2026-09-05T21:33:01.332728+09:00"
   },
   {
     "item_name": "2019/1LKS710MH",
-    "jan": "017662",
+    "jan": "4533933017662",
     "price": 39000,
     "url": "https://fishing.tenryu-magna.com/shore/lunakia_sonic.html",
     "product_name": "Lunakia Sonic （ルナキア ソニック）(製造終了)",
@@ -63,11 +63,11 @@
       "使用繊維 カーボン/グラス(%)": "91/9"
     },
     "created_at": "2026-09-03T00:51:28.003381+09:00",
-    "updated_at": "2026-09-03T15:59:29.719931+09:00"
+    "updated_at": "2026-09-05T21:33:01.332728+09:00"
   },
   {
     "item_name": "2019/1LKS81M",
-    "jan": "017679",
+    "jan": "4533933017679",
     "price": 40000,
     "url": "https://fishing.tenryu-magna.com/shore/lunakia_sonic.html",
     "product_name": "Lunakia Sonic （ルナキア ソニック）(製造終了)",
@@ -85,6 +85,6 @@
       "使用繊維 カーボン/グラス(%)": "91/9"
     },
     "created_at": "2026-09-03T00:51:28.003381+09:00",
-    "updated_at": "2026-09-03T15:59:29.719931+09:00"
+    "updated_at": "2026-09-05T21:33:01.332728+09:00"
   }
 ]

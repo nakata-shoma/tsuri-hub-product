@@ -1,7 +1,7 @@
 [
   {
     "item_name": "SK803S-MH",
-    "jan": "021034",
+    "jan": "4533933021034",
     "price": 64000,
     "url": "https://fishing.tenryu-magna.com/offshore/spike_travel.html",
     "product_name": "Spike Travel（スパイク トラベル）",
@@ -20,11 +20,11 @@
       "使用繊維 カーボン/グラス(%)": "88/12"
     },
     "created_at": "2026-09-03T00:51:25.735499+09:00",
-    "updated_at": "2026-09-03T15:59:26.150522+09:00"
+    "updated_at": "2026-09-05T21:32:58.591996+09:00"
   },
   {
     "item_name": "SK803S-H",
-    "jan": "021041",
+    "jan": "4533933021041",
     "price": 64500,
     "url": "https://fishing.tenryu-magna.com/offshore/spike_travel.html",
     "product_name": "Spike Travel（スパイク トラベル）",
@@ -43,11 +43,11 @@
       "使用繊維 カーボン/グラス(%)": "90/10"
     },
     "created_at": "2026-09-03T00:51:25.735499+09:00",
-    "updated_at": "2026-09-03T15:59:26.150522+09:00"
+    "updated_at": "2026-09-05T21:32:58.591996+09:00"
   },
   {
     "item_name": "SK803S-HH",
-    "jan": "021058",
+    "jan": "4533933021058",
     "price": 65000,
     "url": "https://fishing.tenryu-magna.com/offshore/spike_travel.html",
     "product_name": "Spike Travel（スパイク トラベル）",
@@ -66,6 +66,6 @@
       "使用繊維 カーボン/グラス(%)": "89/11"
     },
     "created_at": "2026-09-03T00:51:25.735499+09:00",
-    "updated_at": "2026-09-03T15:59:26.150522+09:00"
+    "updated_at": "2026-09-05T21:32:58.591996+09:00"
   }
 ]
