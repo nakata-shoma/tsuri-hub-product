@@ -9,7 +9,7 @@ urlは配列内の先頭要素のみ採用、specsはラベル文字列:値のdi
 
 実装が完了したら、出力先ディレクトリと manufacturer_slug / category を
 CONTRACT.md の対応表と turi 側 import_products_from_repo.py の SOURCE_DIRS に追記すること
-（manufacturer_slug="beet", category="rod"）。
+（manufacturer_slug="beat", category="rod"）。
 """
 import os
 import re
@@ -20,8 +20,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from common.scraper_utils import get_soup, read_urls_csv, sanitize_filename, save_json, to_number  # noqa: E402
 
-INPUT_CSV = "./13_beet_product/beet_urls/beet_products_rod.csv"
-OUTPUT_DIR = "./13_beet_product/beet_rod_json"
+INPUT_CSV = "./13_beat_product/beat_urls/beat_products_rod.csv"
+OUTPUT_DIR = "./13_beat_product/beat_rod_json"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

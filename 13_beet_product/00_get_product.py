@@ -16,7 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from common.scraper_utils import get_soup, save_urls_csv  # noqa: E402
 
 LIST_URL = "https://beat-jig.com/rod"
-OUTPUT_CSV = "./13_beet_product/beet_urls/beet_products_rod.csv"
+OUTPUT_CSV = "./13_beat_product/beat_urls/beat_products_rod.csv"
 
 PRODUCT_LINK_RE = re.compile(r"^https://beat-jig\.com/product-item/\d+/?$")
 
