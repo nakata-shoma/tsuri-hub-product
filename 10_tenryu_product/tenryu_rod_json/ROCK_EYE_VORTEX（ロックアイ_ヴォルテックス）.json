@@ -1,7 +1,7 @@
 [
   {
     "item_name": "RV712B-HH",
-    "jan": "022871",
+    "jan": "4533933022871",
     "price": 38500,
     "url": "https://fishing.tenryu-magna.com/shore/vortex.html",
     "product_name": "ROCK EYE VORTEX（ロックアイ ヴォルテックス）",
@@ -20,11 +20,11 @@
       "使用繊維 カーボン/グラス(%)": "97/3"
     },
     "created_at": "2026-09-03T00:51:30.645551+09:00",
-    "updated_at": "2026-09-03T15:59:33.284174+09:00"
+    "updated_at": "2026-09-05T21:33:03.827012+09:00"
   },
   {
     "item_name": "RV782B-H",
-    "jan": "022888",
+    "jan": "4533933022888",
     "price": 39500,
     "url": "https://fishing.tenryu-magna.com/shore/vortex.html",
     "product_name": "ROCK EYE VORTEX（ロックアイ ヴォルテックス）",
@@ -43,11 +43,11 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:30.645551+09:00",
-    "updated_at": "2026-09-03T15:59:33.284174+09:00"
+    "updated_at": "2026-09-05T21:33:03.827012+09:00"
   },
   {
     "item_name": "RV882B-HH",
-    "jan": "022895",
+    "jan": "4533933022895",
     "price": 40500,
     "url": "https://fishing.tenryu-magna.com/shore/vortex.html",
     "product_name": "ROCK EYE VORTEX（ロックアイ ヴォルテックス）",
@@ -66,11 +66,11 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:30.645551+09:00",
-    "updated_at": "2026-09-03T15:59:33.284174+09:00"
+    "updated_at": "2026-09-05T21:33:03.827012+09:00"
   },
   {
     "item_name": "RV782S-M",
-    "jan": "022901",
+    "jan": "4533933022901",
     "price": 40500,
     "url": "https://fishing.tenryu-magna.com/shore/vortex.html",
     "product_name": "ROCK EYE VORTEX（ロックアイ ヴォルテックス）",
@@ -89,11 +89,11 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:30.645551+09:00",
-    "updated_at": "2026-09-03T15:59:33.284174+09:00"
+    "updated_at": "2026-09-05T21:33:03.827012+09:00"
   },
   {
     "item_name": "RV832S-M",
-    "jan": "022918",
+    "jan": "4533933022918",
     "price": 42000,
     "url": "https://fishing.tenryu-magna.com/shore/vortex.html",
     "product_name": "ROCK EYE VORTEX（ロックアイ ヴォルテックス）",
@@ -112,11 +112,11 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:30.645551+09:00",
-    "updated_at": "2026-09-03T15:59:33.284174+09:00"
+    "updated_at": "2026-09-05T21:33:03.827012+09:00"
   },
   {
     "item_name": "RV912S-MLM",
-    "jan": "022925",
+    "jan": "4533933022925",
     "price": 42500,
     "url": "https://fishing.tenryu-magna.com/shore/vortex.html",
     "product_name": "ROCK EYE VORTEX（ロックアイ ヴォルテックス）",
@@ -135,11 +135,11 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:30.645551+09:00",
-    "updated_at": "2026-09-03T15:59:33.284174+09:00"
+    "updated_at": "2026-09-05T21:33:03.827012+09:00"
   },
   {
     "item_name": "RV9112S-X",
-    "jan": "022932",
+    "jan": "4533933022932",
     "price": 46500,
     "url": "https://fishing.tenryu-magna.com/shore/vortex.html",
     "product_name": "ROCK EYE VORTEX（ロックアイ ヴォルテックス）",
@@ -158,6 +158,6 @@
       "使用繊維 カーボン/グラス(%)": "98/2"
     },
     "created_at": "2026-09-03T00:51:30.645551+09:00",
-    "updated_at": "2026-09-03T15:59:33.284174+09:00"
+    "updated_at": "2026-09-05T21:33:03.827012+09:00"
   }
 ]

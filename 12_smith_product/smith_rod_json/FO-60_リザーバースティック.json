@@ -2,7 +2,7 @@
   {
     "item_name": "F0-60",
     "jan": null,
-    "price": null,
+    "price": 51000,
     "url": "https://www.smith.jp/superstrike/product/fo-60.html",
     "product_name": "FO-60 リザーバースティック",
     "specs": {
@@ -11,43 +11,14 @@
       "section": "1pcs",
       "rod weight": "61g",
       "power": "ミディアムライト",
-      "action": "モデレート"
+      "action": "モデレート",
+      "lure": "7～18g",
+      "line": "8～15lb.",
+      "tip dia": "2.2mm",
+      "blank material": "グラス",
+      "guide": "GMLGST(top),GMLNSG"
     },
     "created_at": "2026-09-03T16:37:25.648256+09:00",
-    "updated_at": "2026-09-03T16:37:25.648256+09:00"
-  },
-  {
-    "item_name": "lure",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/fo-60.html",
-    "product_name": "FO-60 リザーバースティック",
-    "specs": {
-      "length": "line",
-      "pack length": "tip dia",
-      "section": "blank material",
-      "rod weight": "guide",
-      "power": "price¥シングルグリップ（グレー）付",
-      "action": "price¥FO-60/B（グリップなし）"
-    },
-    "created_at": "2026-09-03T16:37:25.648256+09:00",
-    "updated_at": "2026-09-03T16:37:25.648256+09:00"
-  },
-  {
-    "item_name": "7～18g",
-    "jan": null,
-    "price": null,
-    "url": "https://www.smith.jp/superstrike/product/fo-60.html",
-    "product_name": "FO-60 リザーバースティック",
-    "specs": {
-      "length": "8～15lb.",
-      "pack length": "2.2mm",
-      "section": "グラス",
-      "rod weight": "GMLGST(top),GMLNSG",
-      "power": "51,000円+税",
-      "action": "29,000円+税"
-    },
-    "created_at": "2026-09-03T16:37:25.648256+09:00",
-    "updated_at": "2026-09-03T16:37:25.648256+09:00"
+    "updated_at": "2026-09-05T21:23:29.902912+09:00"
   }
 ]

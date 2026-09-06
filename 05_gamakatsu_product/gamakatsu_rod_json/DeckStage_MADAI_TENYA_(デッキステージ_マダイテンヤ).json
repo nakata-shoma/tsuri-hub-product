@@ -3,7 +3,7 @@
     "item_name": "M-250",
     "jan": "4549018716283",
     "product_code": "21372",
-    "price": "28,500●",
+    "price": 28500,
     "url": "https://www.gamakatsu.co.jp/products/21372/",
     "product_name": "DeckStage MADAI TENYA　(デッキステージ マダイテンヤ)",
     "specs": {
@@ -18,13 +18,13 @@
       "錘負荷(号)": "1.5～12"
     },
     "created_at": "2026-09-02T23:43:21.914088+09:00",
-    "updated_at": "2026-09-02T23:43:21.914088+09:00"
+    "updated_at": "2026-09-05T20:18:44.481173+09:00"
   },
   {
     "item_name": "MH-250",
     "jan": "4549018716290",
     "product_code": "21373",
-    "price": "29,000●",
+    "price": 29000,
     "url": "https://www.gamakatsu.co.jp/products/21372/",
     "product_name": "DeckStage MADAI TENYA　(デッキステージ マダイテンヤ)",
     "specs": {
@@ -39,13 +39,13 @@
       "錘負荷(号)": "3～15"
     },
     "created_at": "2026-09-02T23:43:21.914088+09:00",
-    "updated_at": "2026-09-02T23:43:21.914088+09:00"
+    "updated_at": "2026-09-05T20:18:44.481173+09:00"
   },
   {
     "item_name": "H-250",
     "jan": "4549018716306",
     "product_code": "21374",
-    "price": "29,500●",
+    "price": 29500,
     "url": "https://www.gamakatsu.co.jp/products/21372/",
     "product_name": "DeckStage MADAI TENYA　(デッキステージ マダイテンヤ)",
     "specs": {
@@ -60,6 +60,6 @@
       "錘負荷(号)": "6～25"
     },
     "created_at": "2026-09-02T23:43:21.914088+09:00",
-    "updated_at": "2026-09-02T23:43:21.914088+09:00"
+    "updated_at": "2026-09-05T20:18:44.481173+09:00"
   }
 ]

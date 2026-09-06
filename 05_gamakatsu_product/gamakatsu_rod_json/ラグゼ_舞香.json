@@ -3,7 +3,7 @@
     "item_name": "S810ML-solid",
     "jan": "4549018754230",
     "product_code": "24746",
-    "price": "33,000●",
+    "price": 33000,
     "url": "https://www.gamakatsu.co.jp/products/24746/",
     "product_name": "ラグゼ 舞香",
     "specs": {
@@ -21,13 +21,13 @@
       "グリップ長(mm)": 310
     },
     "created_at": "2026-09-02T23:44:12.610905+09:00",
-    "updated_at": "2026-09-02T23:44:12.610905+09:00"
+    "updated_at": "2026-09-05T20:20:03.618746+09:00"
   },
   {
     "item_name": "S96M-solid",
     "jan": "4549018754247",
     "product_code": "24747",
-    "price": "33,000●",
+    "price": 33000,
     "url": "https://www.gamakatsu.co.jp/products/24746/",
     "product_name": "ラグゼ 舞香",
     "specs": {
@@ -45,13 +45,13 @@
       "グリップ長(mm)": 315
     },
     "created_at": "2026-09-02T23:44:12.610905+09:00",
-    "updated_at": "2026-09-02T23:44:12.610905+09:00"
+    "updated_at": "2026-09-05T20:20:03.618746+09:00"
   },
   {
     "item_name": "B94M-solid",
     "jan": "4549018778298",
     "product_code": "24791",
-    "price": "33,000●",
+    "price": 33000,
     "url": "https://www.gamakatsu.co.jp/products/24746/",
     "product_name": "ラグゼ 舞香",
     "specs": {
@@ -69,13 +69,13 @@
       "グリップ長(mm)": 320
     },
     "created_at": "2026-09-02T23:44:12.610905+09:00",
-    "updated_at": "2026-09-02T23:44:12.610905+09:00"
+    "updated_at": "2026-09-05T20:20:03.618746+09:00"
   },
   {
     "item_name": "B100M+-solid",
     "jan": "4549018778304",
     "product_code": "24792",
-    "price": "34,000●",
+    "price": 34000,
     "url": "https://www.gamakatsu.co.jp/products/24746/",
     "product_name": "ラグゼ 舞香",
     "specs": {
@@ -93,13 +93,13 @@
       "グリップ長(mm)": 330
     },
     "created_at": "2026-09-02T23:44:12.610905+09:00",
-    "updated_at": "2026-09-02T23:44:12.610905+09:00"
+    "updated_at": "2026-09-05T20:20:03.618746+09:00"
   },
   {
     "item_name": "B110MH-solid",
     "jan": "4549018778311",
     "product_code": "24793",
-    "price": "35,000●",
+    "price": 35000,
     "url": "https://www.gamakatsu.co.jp/products/24746/",
     "product_name": "ラグゼ 舞香",
     "specs": {
@@ -117,6 +117,6 @@
       "グリップ長(mm)": 340
     },
     "created_at": "2026-09-02T23:44:12.610905+09:00",
-    "updated_at": "2026-09-02T23:44:12.610905+09:00"
+    "updated_at": "2026-09-05T20:20:03.618746+09:00"
   }
 ]

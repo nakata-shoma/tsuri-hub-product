@@ -1,0 +1,97 @@
+[
+  {
+    "item_name": "FCS-802EL",
+    "jan": "4560350818794",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-eging/eging/",
+    "product_name": "ファーストキャスト エギング",
+    "specs": {
+      "Model": "FCS-802EL",
+      "全長": "8'0”ft",
+      "継数": "2pcs",
+      "エギ": "2.0 - 3.5号",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "90g",
+      "仕舞寸法": "125㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:54.039423+09:00",
+    "updated_at": "2026-09-05T16:22:54.039423+09:00"
+  },
+  {
+    "item_name": "FCS-832EL",
+    "jan": "4560350818800",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-eging/eging/",
+    "product_name": "ファーストキャスト エギング",
+    "specs": {
+      "Model": "FCS-832EL",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "エギ": "2.0 - 3.5号",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "94g",
+      "仕舞寸法": "129㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:54.039423+09:00",
+    "updated_at": "2026-09-05T16:22:54.039423+09:00"
+  },
+  {
+    "item_name": "FCS-862EL",
+    "jan": "4560350818817",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-eging/eging/",
+    "product_name": "ファーストキャスト エギング",
+    "specs": {
+      "Model": "FCS-862EL",
+      "全長": "8'6”ft",
+      "継数": "2pcs",
+      "エギ": "2.0 - 3.5号",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "97g",
+      "仕舞寸法": "133㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:54.039423+09:00",
+    "updated_at": "2026-09-05T16:22:54.039423+09:00"
+  },
+  {
+    "item_name": "FCS-832E",
+    "jan": "4560350818824",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-eging/eging/",
+    "product_name": "ファーストキャスト エギング",
+    "specs": {
+      "Model": "FCS-832E",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "エギ": "2.5 - 3.5号",
+      "PEライン": "0.4 - 1.2号",
+      "標準自重": "103g",
+      "仕舞寸法": "129㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:54.039423+09:00",
+    "updated_at": "2026-09-05T16:22:54.039423+09:00"
+  },
+  {
+    "item_name": "FCS-862E",
+    "jan": "4560350818831",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-eging/eging/",
+    "product_name": "ファーストキャスト エギング",
+    "specs": {
+      "Model": "FCS-862E",
+      "全長": "8'6”ft",
+      "継数": "2pcs",
+      "エギ": "2.5 - 3.5号",
+      "PEライン": "0.4 - 1.2号",
+      "標準自重": "104g",
+      "仕舞寸法": "133㎝",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:22:54.039423+09:00",
+    "updated_at": "2026-09-05T16:22:54.039423+09:00"
+  }
+]

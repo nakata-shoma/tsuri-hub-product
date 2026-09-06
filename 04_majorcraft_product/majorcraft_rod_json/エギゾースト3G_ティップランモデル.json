@@ -1,0 +1,97 @@
+[
+  {
+    "item_name": "EZ3TE-58L+ct",
+    "jan": "4573236279695",
+    "price": 21000,
+    "url": "https://www.majorcraft.co.jp/rod/ez3-boatgame/tiprun/",
+    "product_name": "エギゾースト3G ティップランモデル",
+    "specs": {
+      "Model": "EZ3TE-58L+ct",
+      "全長": "5'8\"ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "エギ": "MAX55g",
+      "PEライン": "0.4 - 1.0号",
+      "自重": "70g",
+      "仕舞寸法": "110cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:43.865588+09:00",
+    "updated_at": "2026-09-05T16:22:43.865588+09:00"
+  },
+  {
+    "item_name": "EZ3TE-58ML+ct",
+    "jan": "4573236279701",
+    "price": 21600,
+    "url": "https://www.majorcraft.co.jp/rod/ez3-boatgame/tiprun/",
+    "product_name": "エギゾースト3G ティップランモデル",
+    "specs": {
+      "Model": "EZ3TE-58ML+ct",
+      "全長": "5'8\"ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "エギ": "MAX70g",
+      "PEライン": "0.6 - 1.2号",
+      "自重": "72g",
+      "仕舞寸法": "110cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:43.865588+09:00",
+    "updated_at": "2026-09-05T16:22:43.865588+09:00"
+  },
+  {
+    "item_name": "EZ3TE-61ML+ct",
+    "jan": "4573236279718",
+    "price": 22000,
+    "url": "https://www.majorcraft.co.jp/rod/ez3-boatgame/tiprun/",
+    "product_name": "エギゾースト3G ティップランモデル",
+    "specs": {
+      "Model": "EZ3TE-61ML+ct",
+      "全長": "6'1”ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "エギ": "MAX70g",
+      "PEライン": "0.6 - 1.2号",
+      "自重": "76g",
+      "仕舞寸法": "123cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:43.865588+09:00",
+    "updated_at": "2026-09-05T16:22:43.865588+09:00"
+  },
+  {
+    "item_name": "EZ3TE-66ML+ct",
+    "jan": "4573236279732",
+    "price": 23000,
+    "url": "https://www.majorcraft.co.jp/rod/ez3-boatgame/tiprun/",
+    "product_name": "エギゾースト3G ティップランモデル",
+    "specs": {
+      "Model": "EZ3TE-66ML+ct",
+      "全長": "6'6\"ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "エギ": "MAX70g",
+      "PEライン": "0.6 - 1.2号",
+      "自重": "80g",
+      "仕舞寸法": "136cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:43.865588+09:00",
+    "updated_at": "2026-09-05T16:22:43.865588+09:00"
+  },
+  {
+    "item_name": "EZ3TE-61M+ct",
+    "jan": "4573236279725",
+    "price": 22600,
+    "url": "https://www.majorcraft.co.jp/rod/ez3-boatgame/tiprun/",
+    "product_name": "エギゾースト3G ティップランモデル",
+    "specs": {
+      "Model": "EZ3TE-61M+ct",
+      "全長": "6'1\"ft",
+      "継数": "3pcグリップ脱着式ティップ脱着式",
+      "エギ": "MAX90g",
+      "PEライン": "0.6 - 1.2号",
+      "自重": "77g",
+      "仕舞寸法": "123cm",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-05T16:22:43.865588+09:00",
+    "updated_at": "2026-09-05T16:22:43.865588+09:00"
+  }
+]

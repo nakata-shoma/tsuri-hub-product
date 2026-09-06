@@ -1,0 +1,97 @@
+[
+  {
+    "item_name": "TD3-902L/ML",
+    "jan": "4573236277394",
+    "price": 23000,
+    "url": "https://www.majorcraft.co.jp/rod/td3-seabass/seabass/",
+    "product_name": "タイドリフト3G シーバスゲームモデル",
+    "specs": {
+      "Model": "TD3-902L/ML",
+      "全長": "9'0\"ft",
+      "継数": "2pcs",
+      "リールシート": "VSS-16（DOWN LOCK)",
+      "ルアー": "5-32g",
+      "PEライン": "0.6-1.2号",
+      "自重": "121g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:44.349996+09:00",
+    "updated_at": "2026-09-05T16:23:44.349996+09:00"
+  },
+  {
+    "item_name": "TD3-932ML",
+    "jan": "4573236277400",
+    "price": 24000,
+    "url": "https://www.majorcraft.co.jp/rod/td3-seabass/seabass/",
+    "product_name": "タイドリフト3G シーバスゲームモデル",
+    "specs": {
+      "Model": "TD3-932ML",
+      "全長": "9'3\"ft",
+      "継数": "2pcs",
+      "リールシート": "VSS-16（DOWN LOCK)",
+      "ルアー": "7 - 35g",
+      "PEライン": "0.6 - 1.5号",
+      "自重": "125g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:44.349996+09:00",
+    "updated_at": "2026-09-05T16:23:44.349996+09:00"
+  },
+  {
+    "item_name": "TD3-982M",
+    "jan": "4573236277417",
+    "price": 25000,
+    "url": "https://www.majorcraft.co.jp/rod/td3-seabass/seabass/",
+    "product_name": "タイドリフト3G シーバスゲームモデル",
+    "specs": {
+      "Model": "TD3-982M",
+      "全長": "9'8\"ft",
+      "継数": "2pcs",
+      "リールシート": "VSS-16（DOWN LOCK)",
+      "ルアー": "10 - 45g",
+      "PEライン": "0.8 - 2.9号",
+      "自重": "141g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:44.349996+09:00",
+    "updated_at": "2026-09-05T16:23:44.349996+09:00"
+  },
+  {
+    "item_name": "TD3-1032ML/M",
+    "jan": "4573236277424",
+    "price": 26000,
+    "url": "https://www.majorcraft.co.jp/rod/td3-seabass/seabass/",
+    "product_name": "タイドリフト3G シーバスゲームモデル",
+    "specs": {
+      "Model": "TD3-1032ML/M",
+      "全長": "10'3\"ft",
+      "継数": "2pcs",
+      "リールシート": "VSS-16（DOWN LOCK)",
+      "ルアー": "7 - 45g",
+      "PEライン": "0.6 - 2.0号",
+      "自重": "152g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:44.349996+09:00",
+    "updated_at": "2026-09-05T16:23:44.349996+09:00"
+  },
+  {
+    "item_name": "TD3-1102MH",
+    "jan": "4573236277431",
+    "price": 27000,
+    "url": "https://www.majorcraft.co.jp/rod/td3-seabass/seabass/",
+    "product_name": "タイドリフト3G シーバスゲームモデル",
+    "specs": {
+      "Model": "TD3-1102MH",
+      "全長": "11'0\"ft",
+      "継数": "2pcs",
+      "リールシート": "DPS-18（UP LOCK)",
+      "ルアー": "15 - 50g",
+      "PEライン": "1.0 - 2.5号",
+      "自重": "199g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-05T16:23:44.349996+09:00",
+    "updated_at": "2026-09-05T16:23:44.349996+09:00"
+  }
+]

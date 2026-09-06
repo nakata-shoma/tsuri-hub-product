@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2022/1RF652S-L",
-    "jan": "018393",
+    "jan": "4533933018393",
     "price": 33500,
     "url": "https://fishing.tenryu-magna.com/offshore/redflip_madaijigger.html",
     "product_name": "Red Flip MADAI JIGGER ('15)（レッドフリップ マダイジガー ('15)）(製造終了)",
@@ -22,11 +22,11 @@
       "使用繊維 カーボン/グラス(%)": "85/15"
     },
     "created_at": "2026-09-03T00:51:24.279740+09:00",
-    "updated_at": "2026-09-03T15:59:23.795590+09:00"
+    "updated_at": "2026-09-05T21:32:56.852973+09:00"
   },
   {
     "item_name": "2022/1RF752S-ML",
-    "jan": "018409",
+    "jan": "4533933018409",
     "price": 34000,
     "url": "https://fishing.tenryu-magna.com/offshore/redflip_madaijigger.html",
     "product_name": "Red Flip MADAI JIGGER ('15)（レッドフリップ マダイジガー ('15)）(製造終了)",
@@ -47,6 +47,6 @@
       "使用繊維 カーボン/グラス(%)": "85/15"
     },
     "created_at": "2026-09-03T00:51:24.279740+09:00",
-    "updated_at": "2026-09-03T15:59:23.795590+09:00"
+    "updated_at": "2026-09-05T21:32:56.852973+09:00"
   }
 ]

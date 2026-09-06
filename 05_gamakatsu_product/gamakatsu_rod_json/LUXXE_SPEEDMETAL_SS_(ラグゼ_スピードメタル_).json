@@ -3,7 +3,7 @@
     "item_name": "B66M-solid",
     "jan": "4549018777437",
     "product_code": "24776",
-    "price": "22,000●",
+    "price": 22000,
     "url": "https://www.gamakatsu.co.jp/products/24776/",
     "product_name": "LUXXE SPEEDMETAL SS　(ラグゼ スピードメタル )",
     "specs": {
@@ -20,13 +20,13 @@
       "グリップ長(mm)": 400
     },
     "created_at": "2026-09-02T23:44:14.184438+09:00",
-    "updated_at": "2026-09-02T23:44:14.184438+09:00"
+    "updated_at": "2026-09-05T20:20:05.682323+09:00"
   },
   {
     "item_name": "B66MH-solid",
     "jan": "4549018777444",
     "product_code": "24777",
-    "price": "22,500●",
+    "price": 22500,
     "url": "https://www.gamakatsu.co.jp/products/24776/",
     "product_name": "LUXXE SPEEDMETAL SS　(ラグゼ スピードメタル )",
     "specs": {
@@ -43,13 +43,13 @@
       "グリップ長(mm)": 400
     },
     "created_at": "2026-09-02T23:44:14.184438+09:00",
-    "updated_at": "2026-09-02T23:44:14.184438+09:00"
+    "updated_at": "2026-09-05T20:20:05.682323+09:00"
   },
   {
     "item_name": "B66H-solid",
     "jan": "4549018777451",
     "product_code": "24778",
-    "price": "23,000●",
+    "price": 23000,
     "url": "https://www.gamakatsu.co.jp/products/24776/",
     "product_name": "LUXXE SPEEDMETAL SS　(ラグゼ スピードメタル )",
     "specs": {
@@ -66,13 +66,13 @@
       "グリップ長(mm)": 400
     },
     "created_at": "2026-09-02T23:44:14.184438+09:00",
-    "updated_at": "2026-09-02T23:44:14.184438+09:00"
+    "updated_at": "2026-09-05T20:20:05.682323+09:00"
   },
   {
     "item_name": "S610M-solid",
     "jan": "4549018777468",
     "product_code": "24779",
-    "price": "23,000●",
+    "price": 23000,
     "url": "https://www.gamakatsu.co.jp/products/24776/",
     "product_name": "LUXXE SPEEDMETAL SS　(ラグゼ スピードメタル )",
     "specs": {
@@ -89,13 +89,13 @@
       "グリップ長(mm)": 400
     },
     "created_at": "2026-09-02T23:44:14.184438+09:00",
-    "updated_at": "2026-09-02T23:44:14.184438+09:00"
+    "updated_at": "2026-09-05T20:20:05.682323+09:00"
   },
   {
     "item_name": "S610MH-solid",
     "jan": "4549018777475",
     "product_code": "24780",
-    "price": "24,000●",
+    "price": 24000,
     "url": "https://www.gamakatsu.co.jp/products/24776/",
     "product_name": "LUXXE SPEEDMETAL SS　(ラグゼ スピードメタル )",
     "specs": {
@@ -112,6 +112,6 @@
       "グリップ長(mm)": 400
     },
     "created_at": "2026-09-02T23:44:14.184438+09:00",
-    "updated_at": "2026-09-02T23:44:14.184438+09:00"
+    "updated_at": "2026-09-05T20:20:05.682323+09:00"
   }
 ]

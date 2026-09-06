@@ -1,7 +1,7 @@
 [
   {
     "item_name": "2017/12HLJ61B-FM",
-    "jan": "017709",
+    "jan": "4533933017709",
     "price": 30000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_lj_v1.html",
     "product_name": "HORIZON LJ （'12）（ホライゾンLJ（'12））(製造終了)",
@@ -22,11 +22,11 @@
       "使用繊維 カーボン/グラス(%)": "83/17"
     },
     "created_at": "2026-09-03T00:51:21.064851+09:00",
-    "updated_at": "2026-09-03T15:59:19.033950+09:00"
+    "updated_at": "2026-09-05T21:32:53.362989+09:00"
   },
   {
     "item_name": "2017/12HLJ62B-FML",
-    "jan": "017693",
+    "jan": "4533933017693",
     "price": 30000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_lj_v1.html",
     "product_name": "HORIZON LJ （'12）（ホライゾンLJ（'12））(製造終了)",
@@ -47,11 +47,11 @@
       "使用繊維 カーボン/グラス(%)": "78/22"
     },
     "created_at": "2026-09-03T00:51:21.064851+09:00",
-    "updated_at": "2026-09-03T15:59:19.033950+09:00"
+    "updated_at": "2026-09-05T21:32:53.362989+09:00"
   },
   {
     "item_name": "2017/12HLJ64B-FL",
-    "jan": "017686",
+    "jan": "4533933017686",
     "price": 30000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_lj_v1.html",
     "product_name": "HORIZON LJ （'12）（ホライゾンLJ（'12））(製造終了)",
@@ -72,11 +72,11 @@
       "使用繊維 カーボン/グラス(%)": "78/22"
     },
     "created_at": "2026-09-03T00:51:21.064851+09:00",
-    "updated_at": "2026-09-03T15:59:19.033950+09:00"
+    "updated_at": "2026-09-05T21:32:53.362989+09:00"
   },
   {
     "item_name": "2017/12HLJ61S-M",
-    "jan": "017730",
+    "jan": "4533933017730",
     "price": 30000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_lj_v1.html",
     "product_name": "HORIZON LJ （'12）（ホライゾンLJ（'12））(製造終了)",
@@ -97,11 +97,11 @@
       "使用繊維 カーボン/グラス(%)": "85/15"
     },
     "created_at": "2026-09-03T00:51:21.064851+09:00",
-    "updated_at": "2026-09-03T15:59:19.033950+09:00"
+    "updated_at": "2026-09-05T21:32:53.362989+09:00"
   },
   {
     "item_name": "2017/12HLJ62S-ML",
-    "jan": "017723",
+    "jan": "4533933017723",
     "price": 30000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_lj_v1.html",
     "product_name": "HORIZON LJ （'12）（ホライゾンLJ（'12））(製造終了)",
@@ -122,11 +122,11 @@
       "使用繊維 カーボン/グラス(%)": "83/17"
     },
     "created_at": "2026-09-03T00:51:21.064851+09:00",
-    "updated_at": "2026-09-03T15:59:19.033950+09:00"
+    "updated_at": "2026-09-05T21:32:53.362989+09:00"
   },
   {
     "item_name": "2017/12HLJ63S-L",
-    "jan": "017716",
+    "jan": "4533933017716",
     "price": 30000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_lj_v1.html",
     "product_name": "HORIZON LJ （'12）（ホライゾンLJ（'12））(製造終了)",
@@ -147,6 +147,6 @@
       "使用繊維 カーボン/グラス(%)": "83/17"
     },
     "created_at": "2026-09-03T00:51:21.064851+09:00",
-    "updated_at": "2026-09-03T15:59:19.033950+09:00"
+    "updated_at": "2026-09-05T21:32:53.362989+09:00"
   }
 ]

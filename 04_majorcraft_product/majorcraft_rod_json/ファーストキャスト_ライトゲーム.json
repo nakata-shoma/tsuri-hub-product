@@ -1,0 +1,42 @@
+[
+  {
+    "item_name": "﻿FCS-S642AJI",
+    "jan": "4560350818862",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-ajing/lightgame/",
+    "product_name": "ファーストキャスト ライトゲーム",
+    "specs": {
+      "Model": "﻿FCS-S642AJI",
+      "全長": "6'4”ft",
+      "継数": "2pcs",
+      "ルアー": "0.6 - 10g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.1 - 0.6号",
+      "標準自重": "68g",
+      "仕舞寸法": "100㎝",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-05T16:22:53.320007+09:00",
+    "updated_at": "2026-09-05T16:22:53.320007+09:00"
+  },
+  {
+    "item_name": "FCS-S682AJI",
+    "jan": "4560350818732",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-ajing/lightgame/",
+    "product_name": "ファーストキャスト ライトゲーム",
+    "specs": {
+      "Model": "FCS-S682AJI",
+      "全長": "6'8”ft",
+      "継数": "2pcs",
+      "ルアー": "0.6 - 10g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.1 - 0.6号",
+      "標準自重": "71g",
+      "仕舞寸法": "105㎝",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-05T16:22:53.320007+09:00",
+    "updated_at": "2026-09-05T16:22:53.320007+09:00"
+  }
+]

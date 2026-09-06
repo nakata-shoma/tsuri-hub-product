@@ -3,7 +3,7 @@
     "item_name": "Light M-240",
     "jan": "4549018735970",
     "product_code": "21381",
-    "price": "32,500●",
+    "price": 32500,
     "url": "https://www.gamakatsu.co.jp/products/21381/",
     "product_name": "DeckStage HIRAME　(デッキステージ ヒラメ)",
     "specs": {
@@ -19,13 +19,13 @@
       "錘負荷(号)": "15～80"
     },
     "created_at": "2026-09-02T23:43:23.684441+09:00",
-    "updated_at": "2026-09-02T23:43:23.684441+09:00"
+    "updated_at": "2026-09-05T20:18:48.535461+09:00"
   },
   {
     "item_name": "MH-250",
     "jan": "4549018735987",
     "product_code": "21382",
-    "price": "34,500●",
+    "price": 34500,
     "url": "https://www.gamakatsu.co.jp/products/21381/",
     "product_name": "DeckStage HIRAME　(デッキステージ ヒラメ)",
     "specs": {
@@ -41,13 +41,13 @@
       "錘負荷(号)": "25～100"
     },
     "created_at": "2026-09-02T23:43:23.684441+09:00",
-    "updated_at": "2026-09-02T23:43:23.684441+09:00"
+    "updated_at": "2026-09-05T20:18:48.535461+09:00"
   },
   {
     "item_name": "H-270",
     "jan": "4549018735994",
     "product_code": "21383",
-    "price": "35,500●",
+    "price": 35500,
     "url": "https://www.gamakatsu.co.jp/products/21381/",
     "product_name": "DeckStage HIRAME　(デッキステージ ヒラメ)",
     "specs": {
@@ -63,6 +63,6 @@
       "錘負荷(号)": "30～120"
     },
     "created_at": "2026-09-02T23:43:23.684441+09:00",
-    "updated_at": "2026-09-02T23:43:23.684441+09:00"
+    "updated_at": "2026-09-05T20:18:48.535461+09:00"
   }
 ]

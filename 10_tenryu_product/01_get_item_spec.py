@@ -27,6 +27,10 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 PRICE_NUMBER_RE = re.compile(r"[\d,]+")
 
+# テンリュウのJANコード欄には企業（GS1事業者）コードを含まない商品コードのみが
+# 入っていることが多いため、無ければ補う。
+JAN_COMPANY_CODE = "4533933"
+
 
 def extract_product_name(soup):
     title = soup.select_one("title")
@@ -40,6 +44,17 @@ def extract_price(value):
         return None
     match = PRICE_NUMBER_RE.search(value)
     return to_number(match.group()) if match else None
+
+
+def extract_jan(value):
+    if not value:
+        return None
+    digits = re.sub(r"\D", "", value)
+    if not digits:
+        return None
+    if digits.startswith(JAN_COMPANY_CODE):
+        return digits
+    return JAN_COMPANY_CODE + digits
 
 
 def parse_spec_table(soup, url, product_name):
@@ -79,7 +94,7 @@ def parse_spec_table(soup, url, product_name):
 
         products.append({
             "item_name": item_name,
-            "jan": raw.get(jan_key) if jan_key else None,
+            "jan": extract_jan(raw.get(jan_key)) if jan_key else None,
             "price": extract_price(raw.get(price_key)) if price_key else None,
             "url": url,
             "product_name": product_name,

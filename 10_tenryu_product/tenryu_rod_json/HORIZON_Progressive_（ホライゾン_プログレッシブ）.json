@@ -1,7 +1,7 @@
 [
   {
     "item_name": "HPG66B-ML",
-    "jan": "019932",
+    "jan": "4533933019932",
     "price": 58500,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_progressive.html",
     "product_name": "HORIZON Progressive （ホライゾン プログレッシブ）",
@@ -21,11 +21,11 @@
       "使用繊維 カーボン/グラス(%)": "93/7"
     },
     "created_at": "2026-09-03T00:51:21.810819+09:00",
-    "updated_at": "2026-09-03T15:59:19.861777+09:00"
+    "updated_at": "2026-09-05T21:32:54.041656+09:00"
   },
   {
     "item_name": "HPG66B-M",
-    "jan": "019949",
+    "jan": "4533933019949",
     "price": 59000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_progressive.html",
     "product_name": "HORIZON Progressive （ホライゾン プログレッシブ）",
@@ -45,11 +45,11 @@
       "使用繊維 カーボン/グラス(%)": "92/8"
     },
     "created_at": "2026-09-03T00:51:21.810819+09:00",
-    "updated_at": "2026-09-03T15:59:19.861777+09:00"
+    "updated_at": "2026-09-05T21:32:54.041656+09:00"
   },
   {
     "item_name": "HPG66B-MH",
-    "jan": "019956",
+    "jan": "4533933019956",
     "price": 60000,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_progressive.html",
     "product_name": "HORIZON Progressive （ホライゾン プログレッシブ）",
@@ -69,11 +69,11 @@
       "使用繊維 カーボン/グラス(%)": "92/8"
     },
     "created_at": "2026-09-03T00:51:21.810819+09:00",
-    "updated_at": "2026-09-03T15:59:19.861777+09:00"
+    "updated_at": "2026-09-05T21:32:54.041656+09:00"
   },
   {
     "item_name": "HPG66B-H",
-    "jan": "019963",
+    "jan": "4533933019963",
     "price": 60500,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_progressive.html",
     "product_name": "HORIZON Progressive （ホライゾン プログレッシブ）",
@@ -93,11 +93,11 @@
       "使用繊維 カーボン/グラス(%)": "92/8"
     },
     "created_at": "2026-09-03T00:51:21.810819+09:00",
-    "updated_at": "2026-09-03T15:59:19.861777+09:00"
+    "updated_at": "2026-09-05T21:32:54.041656+09:00"
   },
   {
     "item_name": "HPG612S-M",
-    "jan": "022116",
+    "jan": "4533933022116",
     "price": 60500,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_progressive.html",
     "product_name": "HORIZON Progressive （ホライゾン プログレッシブ）",
@@ -117,11 +117,11 @@
       "使用繊維 カーボン/グラス(%)": "93/7"
     },
     "created_at": "2026-09-03T00:51:21.810819+09:00",
-    "updated_at": "2026-09-03T15:59:19.861777+09:00"
+    "updated_at": "2026-09-05T21:32:54.041656+09:00"
   },
   {
     "item_name": "HPG632S-ML",
-    "jan": "022260",
+    "jan": "4533933022260",
     "price": 60500,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_progressive.html",
     "product_name": "HORIZON Progressive （ホライゾン プログレッシブ）",
@@ -141,11 +141,11 @@
       "使用繊維 カーボン/グラス(%)": "92/8"
     },
     "created_at": "2026-09-03T00:51:21.810819+09:00",
-    "updated_at": "2026-09-03T15:59:19.861777+09:00"
+    "updated_at": "2026-09-05T21:32:54.041656+09:00"
   },
   {
     "item_name": "HPG642S-LL",
-    "jan": "022123",
+    "jan": "4533933022123",
     "price": 60500,
     "url": "https://fishing.tenryu-magna.com/offshore/horizon_progressive.html",
     "product_name": "HORIZON Progressive （ホライゾン プログレッシブ）",
@@ -165,6 +165,6 @@
       "使用繊維 カーボン/グラス(%)": "90/10"
     },
     "created_at": "2026-09-03T00:51:21.810819+09:00",
-    "updated_at": "2026-09-03T15:59:19.861777+09:00"
+    "updated_at": "2026-09-05T21:32:54.041656+09:00"
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "item_name": "FCS-S732UL",
+    "jan": "4560350818749",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-rockfish/mebaru/",
+    "product_name": "ファーストキャスト メバル",
+    "specs": {
+      "Model": "FCS-S732UL",
+      "全長": "7'3”ft",
+      "継数": "2pcs",
+      "ルアー": "0.4 - 5g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.1 - 0.6号",
+      "標準自重": "80g",
+      "仕舞寸法": "114㎝",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-05T16:22:54.501403+09:00",
+    "updated_at": "2026-09-05T16:22:54.501403+09:00"
+  },
+  {
+    "item_name": "FCS-S762UL",
+    "jan": "4560350818756",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/fcs-rockfish/mebaru/",
+    "product_name": "ファーストキャスト メバル",
+    "specs": {
+      "Model": "FCS-S762UL",
+      "全長": "7'6”ft",
+      "継数": "2pcs",
+      "ルアー": "0.4 - 5g",
+      "ライン": "1 - 5lb",
+      "PEライン": "0.1 - 0.6号",
+      "標準自重": "82g",
+      "仕舞寸法": "118㎝",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-05T16:22:54.501403+09:00",
+    "updated_at": "2026-09-05T16:22:54.501403+09:00"
+  }
+]

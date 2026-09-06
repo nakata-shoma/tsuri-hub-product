@@ -3,7 +3,7 @@
     "item_name": "176 SS",
     "jan": "4549018701142",
     "product_code": "21348",
-    "price": "29,800●",
+    "price": 29800,
     "url": "https://www.gamakatsu.co.jp/products/21348/",
     "product_name": "DeckStage KAWAHAGI　(デッキステージ カワハギ)",
     "specs": {
@@ -17,13 +17,13 @@
       "錘負荷(号)": "20～30"
     },
     "created_at": "2026-09-02T23:43:20.645036+09:00",
-    "updated_at": "2026-09-02T23:43:20.645036+09:00"
+    "updated_at": "2026-09-05T20:18:40.594734+09:00"
   },
   {
     "item_name": "175 AR",
     "jan": "4549018701159",
     "product_code": "21349",
-    "price": "29,800●",
+    "price": 29800,
     "url": "https://www.gamakatsu.co.jp/products/21348/",
     "product_name": "DeckStage KAWAHAGI　(デッキステージ カワハギ)",
     "specs": {
@@ -37,13 +37,13 @@
       "錘負荷(号)": "20～30"
     },
     "created_at": "2026-09-02T23:43:20.645036+09:00",
-    "updated_at": "2026-09-02T23:43:20.645036+09:00"
+    "updated_at": "2026-09-05T20:18:40.594734+09:00"
   },
   {
     "item_name": "173 AC",
     "jan": "4549018701166",
     "product_code": "21356",
-    "price": "29,800●",
+    "price": 29800,
     "url": "https://www.gamakatsu.co.jp/products/21348/",
     "product_name": "DeckStage KAWAHAGI　(デッキステージ カワハギ)",
     "specs": {
@@ -57,6 +57,6 @@
       "錘負荷(号)": "20～30"
     },
     "created_at": "2026-09-02T23:43:20.645036+09:00",
-    "updated_at": "2026-09-02T23:43:20.645036+09:00"
+    "updated_at": "2026-09-05T20:18:40.594734+09:00"
   }
 ]

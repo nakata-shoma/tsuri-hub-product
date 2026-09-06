@@ -3,7 +3,7 @@
     "item_name": "S510UL-solid",
     "jan": "4549018816105",
     "product_code": "24815",
-    "price": "26,500●",
+    "price": 26500,
     "url": "https://www.gamakatsu.co.jp/products/24815/",
     "product_name": "LUXXE PACKSTYLE A4　(ラグゼ パックスタイル エーフォー)",
     "specs": {
@@ -21,13 +21,13 @@
       "グリップ長(mm)": 210
     },
     "created_at": "2026-09-02T23:44:17.077902+09:00",
-    "updated_at": "2026-09-02T23:44:17.077902+09:00"
+    "updated_at": "2026-09-05T20:20:09.028974+09:00"
   },
   {
     "item_name": "S65L",
     "jan": "4549018816112",
     "product_code": "24816",
-    "price": "27,500●",
+    "price": 27500,
     "url": "https://www.gamakatsu.co.jp/products/24815/",
     "product_name": "LUXXE PACKSTYLE A4　(ラグゼ パックスタイル エーフォー)",
     "specs": {
@@ -45,13 +45,13 @@
       "グリップ長(mm)": 250
     },
     "created_at": "2026-09-02T23:44:17.077902+09:00",
-    "updated_at": "2026-09-02T23:44:17.077902+09:00"
+    "updated_at": "2026-09-05T20:20:09.028974+09:00"
   },
   {
     "item_name": "S75M",
     "jan": "4549018816129",
     "product_code": "24817",
-    "price": "29,500●",
+    "price": 29500,
     "url": "https://www.gamakatsu.co.jp/products/24815/",
     "product_name": "LUXXE PACKSTYLE A4　(ラグゼ パックスタイル エーフォー)",
     "specs": {
@@ -69,13 +69,13 @@
       "グリップ長(mm)": 315
     },
     "created_at": "2026-09-02T23:44:17.077902+09:00",
-    "updated_at": "2026-09-02T23:44:17.077902+09:00"
+    "updated_at": "2026-09-05T20:20:09.028974+09:00"
   },
   {
     "item_name": "B74MH",
     "jan": "4549018816136",
     "product_code": "24818",
-    "price": "29,800●",
+    "price": 29800,
     "url": "https://www.gamakatsu.co.jp/products/24815/",
     "product_name": "LUXXE PACKSTYLE A4　(ラグゼ パックスタイル エーフォー)",
     "specs": {
@@ -93,6 +93,6 @@
       "グリップ長(mm)": 310
     },
     "created_at": "2026-09-02T23:44:17.077902+09:00",
-    "updated_at": "2026-09-02T23:44:17.077902+09:00"
+    "updated_at": "2026-09-05T20:20:09.028974+09:00"
   }
 ]

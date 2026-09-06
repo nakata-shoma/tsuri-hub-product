@@ -1,0 +1,92 @@
+[
+  {
+    "item_name": "GK1 SJ-B60/1",
+    "jan": "4573236276946",
+    "price": 15600,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/slow-jigging/",
+    "product_name": "ジャイアントキリング1G  スロージギングモデル",
+    "specs": {
+      "Model": "GK1 SJ-B60/1",
+      "全長": "6'0\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX180g",
+      "PEライン": "MAX1.5号",
+      "標準自重": "108g",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:13.059156+09:00",
+    "updated_at": "2026-09-05T16:23:13.059156+09:00"
+  },
+  {
+    "item_name": "GK1 SJ-B60/2",
+    "jan": "4573236276953",
+    "price": 16200,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/slow-jigging/",
+    "product_name": "ジャイアントキリング1G  スロージギングモデル",
+    "specs": {
+      "Model": "GK1 SJ-B60/2",
+      "全長": "6'0\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX250g",
+      "PEライン": "MAX2.0号",
+      "標準自重": "111g",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:13.059156+09:00",
+    "updated_at": "2026-09-05T16:23:13.059156+09:00"
+  },
+  {
+    "item_name": "GK1 SJ-B60/3",
+    "jan": "4573236276960",
+    "price": 16700,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/slow-jigging/",
+    "product_name": "ジャイアントキリング1G  スロージギングモデル",
+    "specs": {
+      "Model": "GK1 SJ-B60/3",
+      "全長": "6'0\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX300g",
+      "PEライン": "MAX2.5号",
+      "標準自重": "112g",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:13.059156+09:00",
+    "updated_at": "2026-09-05T16:23:13.059156+09:00"
+  },
+  {
+    "item_name": "GK1 SJ-B60/4",
+    "jan": "4573236276977",
+    "price": 17200,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/slow-jigging/",
+    "product_name": "ジャイアントキリング1G  スロージギングモデル",
+    "specs": {
+      "Model": "GK1 SJ-B60/4",
+      "全長": "6'0\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX350g",
+      "PEライン": "MAX3.0号",
+      "標準自重": "115g",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:13.059156+09:00",
+    "updated_at": "2026-09-05T16:23:13.059156+09:00"
+  },
+  {
+    "item_name": "GK1 SJ-B60/5",
+    "jan": "4573236276984",
+    "price": 17800,
+    "url": "https://www.majorcraft.co.jp/rod/gk1/slow-jigging/",
+    "product_name": "ジャイアントキリング1G  スロージギングモデル",
+    "specs": {
+      "Model": "GK1 SJ-B60/5",
+      "全長": "6'0\"",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX400g",
+      "PEライン": "MAX4.0号",
+      "標準自重": "118g",
+      "アクション": "R"
+    },
+    "created_at": "2026-09-05T16:23:13.059156+09:00",
+    "updated_at": "2026-09-05T16:23:13.059156+09:00"
+  }
+]

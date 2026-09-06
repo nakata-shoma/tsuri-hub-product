@@ -3,7 +3,7 @@
     "item_name": "S79ML-solid",
     "jan": "4549018816617",
     "product_code": "24819",
-    "price": "32,500●",
+    "price": 32500,
     "url": "https://www.gamakatsu.co.jp/products/24819/",
     "product_name": "LUXXE PACKSTYLE A3　(ラグゼ パックスタイル エースリー)",
     "specs": {
@@ -21,13 +21,13 @@
       "グリップ長(mm)": 330
     },
     "created_at": "2026-09-02T23:44:17.502945+09:00",
-    "updated_at": "2026-09-02T23:44:17.502945+09:00"
+    "updated_at": "2026-09-05T20:20:09.536121+09:00"
   },
   {
     "item_name": "S86M",
     "jan": "4549018816624",
     "product_code": "24820",
-    "price": "33,000●",
+    "price": 33000,
     "url": "https://www.gamakatsu.co.jp/products/24819/",
     "product_name": "LUXXE PACKSTYLE A3　(ラグゼ パックスタイル エースリー)",
     "specs": {
@@ -45,13 +45,13 @@
       "グリップ長(mm)": 330
     },
     "created_at": "2026-09-02T23:44:17.502945+09:00",
-    "updated_at": "2026-09-02T23:44:17.502945+09:00"
+    "updated_at": "2026-09-05T20:20:09.536121+09:00"
   },
   {
     "item_name": "S90MH",
     "jan": "4549018816631",
     "product_code": "24821",
-    "price": "36,000●",
+    "price": 36000,
     "url": "https://www.gamakatsu.co.jp/products/24819/",
     "product_name": "LUXXE PACKSTYLE A3　(ラグゼ パックスタイル エースリー)",
     "specs": {
@@ -69,13 +69,13 @@
       "グリップ長(mm)": 400
     },
     "created_at": "2026-09-02T23:44:17.502945+09:00",
-    "updated_at": "2026-09-02T23:44:17.502945+09:00"
+    "updated_at": "2026-09-05T20:20:09.536121+09:00"
   },
   {
     "item_name": "S96H",
     "jan": "4549018816648",
     "product_code": "24822",
-    "price": "39,800●",
+    "price": 39800,
     "url": "https://www.gamakatsu.co.jp/products/24819/",
     "product_name": "LUXXE PACKSTYLE A3　(ラグゼ パックスタイル エースリー)",
     "specs": {
@@ -93,13 +93,13 @@
       "グリップ長(mm)": 465
     },
     "created_at": "2026-09-02T23:44:17.502945+09:00",
-    "updated_at": "2026-09-02T23:44:17.502945+09:00"
+    "updated_at": "2026-09-05T20:20:09.536121+09:00"
   },
   {
     "item_name": "B70XH",
     "jan": "4549018816655",
     "product_code": "24823",
-    "price": "34,500●",
+    "price": 34500,
     "url": "https://www.gamakatsu.co.jp/products/24819/",
     "product_name": "LUXXE PACKSTYLE A3　(ラグゼ パックスタイル エースリー)",
     "specs": {
@@ -117,13 +117,13 @@
       "グリップ長(mm)": 395
     },
     "created_at": "2026-09-02T23:44:17.502945+09:00",
-    "updated_at": "2026-09-02T23:44:17.502945+09:00"
+    "updated_at": "2026-09-05T20:20:09.536121+09:00"
   },
   {
     "item_name": "S610M.SF",
     "jan": "4549018816662",
     "product_code": "24824",
-    "price": "31,000●",
+    "price": 31000,
     "url": "https://www.gamakatsu.co.jp/products/24819/",
     "product_name": "LUXXE PACKSTYLE A3　(ラグゼ パックスタイル エースリー)",
     "specs": {
@@ -141,6 +141,6 @@
       "グリップ長(mm)": 275
     },
     "created_at": "2026-09-02T23:44:17.502945+09:00",
-    "updated_at": "2026-09-02T23:44:17.502945+09:00"
+    "updated_at": "2026-09-05T20:20:09.536121+09:00"
   }
 ]
