@@ -19,6 +19,28 @@
       "guide": "GMLNSG(top),GMLKWSG"
     },
     "created_at": "2026-09-03T16:37:24.717250+09:00",
-    "updated_at": "2026-09-05T21:23:28.831180+09:00"
+    "updated_at": "2026-09-08T16:54:19.193360+09:00"
+  },
+  {
+    "item_name": "FGO-65L/B",
+    "jan": null,
+    "price": 33000,
+    "url": "https://www.smith.jp/superstrike/product/fgo-65l.html",
+    "product_name": "FGO-65L ハトリーズスティック",
+    "specs": {
+      "length": "6'6\"",
+      "pack length": "128cm",
+      "section": "2pcs（ワン＆ハーフ)",
+      "rod weight": "58g",
+      "power": "ライト",
+      "action": "スロー",
+      "lure": "7～18g",
+      "line": "8～12Lb.",
+      "tip dia": "2.6mm",
+      "blank material": "グラス＆カーボン",
+      "guide": "GMLNSG(top),GMLKWSG"
+    },
+    "created_at": "2026-09-08T16:54:19.193360+09:00",
+    "updated_at": "2026-09-08T16:54:19.193360+09:00"
   }
 ]

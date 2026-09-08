@@ -19,7 +19,29 @@
       "guide": "T-FST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:27.509210+09:00",
-    "updated_at": "2026-09-05T21:23:32.279801+09:00"
+    "updated_at": "2026-09-08T16:54:21.581468+09:00"
+  },
+  {
+    "item_name": "SS-WS55TM/B",
+    "jan": null,
+    "price": 29000,
+    "url": "https://www.smith.jp/superstrike/product/ss-ws55tm.html",
+    "product_name": "ウォータースパイダー",
+    "specs": {
+      "length": "5'5\"",
+      "pack length": "142cm",
+      "section": "1pcs",
+      "rod weight": "51g",
+      "power": "ミディアムライト",
+      "action": "モデレート",
+      "lure": "7～18g",
+      "line": "8～16Lb.",
+      "tip dia": "2.2mm",
+      "blank material": "グラス",
+      "guide": "T-FST(top),T-KWSG"
+    },
+    "created_at": "2026-09-08T16:54:21.581468+09:00",
+    "updated_at": "2026-09-08T16:54:21.581468+09:00"
   },
   {
     "item_name": "SS-WS51TM",
@@ -41,7 +63,29 @@
       "guide": "T-FST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:27.509210+09:00",
-    "updated_at": "2026-09-05T21:23:32.279801+09:00"
+    "updated_at": "2026-09-08T16:54:21.581468+09:00"
+  },
+  {
+    "item_name": "SS-WS51TM/B",
+    "jan": null,
+    "price": 28000,
+    "url": "https://www.smith.jp/superstrike/product/ss-ws55tm.html",
+    "product_name": "ウォータースパイダー",
+    "specs": {
+      "length": "5'1\"",
+      "pack length": "128cm",
+      "section": "1pcs",
+      "rod weight": "39g",
+      "power": "ミディアムライト",
+      "action": "モデレート",
+      "lure": "7～18g",
+      "line": "8～16Lb.",
+      "tip dia": "2.2mm",
+      "blank material": "グラス",
+      "guide": "T-FST(top),T-KWSG"
+    },
+    "created_at": "2026-09-08T16:54:21.581468+09:00",
+    "updated_at": "2026-09-08T16:54:21.581468+09:00"
   },
   {
     "item_name": "SS-WS51MM",
@@ -63,6 +107,28 @@
       "guide": "T-FST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:27.509210+09:00",
-    "updated_at": "2026-09-05T21:23:32.279801+09:00"
+    "updated_at": "2026-09-08T16:54:21.581468+09:00"
+  },
+  {
+    "item_name": "SS-WS51MM/B",
+    "jan": null,
+    "price": 28000,
+    "url": "https://www.smith.jp/superstrike/product/ss-ws55tm.html",
+    "product_name": "ウォータースパイダー",
+    "specs": {
+      "length": "5'1\"",
+      "pack length": "128cm",
+      "section": "1pcs",
+      "rod weight": "40g",
+      "power": "ミディアム",
+      "action": "モデレートファースト",
+      "lure": "7～24g",
+      "line": "8～16Lb.",
+      "tip dia": "2.2mm",
+      "blank material": "グラス",
+      "guide": "T-FST(top),T-KWSG"
+    },
+    "created_at": "2026-09-08T16:54:21.581468+09:00",
+    "updated_at": "2026-09-08T16:54:21.581468+09:00"
   }
 ]

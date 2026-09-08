@@ -19,6 +19,28 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:25.354489+09:00",
-    "updated_at": "2026-09-05T21:23:29.545032+09:00"
+    "updated_at": "2026-09-08T16:54:19.714483+09:00"
+  },
+  {
+    "item_name": "FO-56M/B",
+    "jan": null,
+    "price": 28000,
+    "url": "https://www.smith.jp/superstrike/product/fo-56m.html",
+    "product_name": "FO-56M トップウォーターマグナム",
+    "specs": {
+      "length": "5'6\"",
+      "pack length": "144cm",
+      "section": "1pcs",
+      "rod weight": "51g",
+      "power": "ミディアムライト",
+      "action": "モデレート",
+      "lure": "12～21g",
+      "line": "10～20Lb.",
+      "tip dia": "2.0mm",
+      "blank material": "グラス",
+      "guide": "T-KGST(top),T-KWSG"
+    },
+    "created_at": "2026-09-08T16:54:19.714483+09:00",
+    "updated_at": "2026-09-08T16:54:19.714483+09:00"
   }
 ]
