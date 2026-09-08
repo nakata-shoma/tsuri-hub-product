@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
     "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
     "specs": {
+      "自重(g)": 113,
       "レングス(ft/cm)": "8'3\"/190.5",
       "ライン定格（Lb）": "Max12",
       "テーパー/アクション": "RF",
@@ -20,7 +21,7 @@
       "エギ(号)": "2 - 3.5"
     },
     "created_at": "2026-09-03T00:40:00.022443+09:00",
-    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+    "updated_at": "2026-09-08T09:03:23.030795+09:00"
   },
   {
     "item_name": "XEGS-862M",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
     "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
     "specs": {
+      "自重(g)": 117,
       "レングス(ft/cm)": "8'6\"/190.5",
       "ライン定格（Lb）": "Max16",
       "テーパー/アクション": "R",
@@ -43,7 +45,7 @@
       "エギ(号)": "2.5 - 4"
     },
     "created_at": "2026-09-03T00:40:00.022443+09:00",
-    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+    "updated_at": "2026-09-08T09:03:23.030795+09:00"
   },
   {
     "item_name": "XEGS-802UL-ST",
@@ -53,6 +55,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
     "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
     "specs": {
+      "自重(g)": 95,
       "レングス(ft/cm)": "8'0\"/190.5",
       "ライン定格（Lb）": "Max10",
       "テーパー/アクション": "S",
@@ -66,7 +69,7 @@
       "エギ(号)": "1.5 - 3"
     },
     "created_at": "2026-09-03T00:40:00.022443+09:00",
-    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+    "updated_at": "2026-09-08T09:03:23.030795+09:00"
   },
   {
     "item_name": "XEGS-882LML-S",
@@ -76,6 +79,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-eging",
     "product_name": "SaltyStage KR-X Prototype EGING（ソルティーステージ プロトタイプ エギング）",
     "specs": {
+      "自重(g)": 119,
       "レングス(ft/cm)": "8'8\"/190.5",
       "ライン定格（Lb）": "Max12",
       "テーパー/アクション": "F",
@@ -89,6 +93,6 @@
       "エギ(号)": "1.8 - 3"
     },
     "created_at": "2026-09-03T00:40:00.022443+09:00",
-    "updated_at": "2026-09-03T15:17:47.168075+09:00"
+    "updated_at": "2026-09-08T09:03:23.030795+09:00"
   }
 ]

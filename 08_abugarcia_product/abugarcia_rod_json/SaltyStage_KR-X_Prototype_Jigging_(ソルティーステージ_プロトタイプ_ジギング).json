@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
     "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
     "specs": {
+      "自重(g)": 133,
       "レングス(ft/cm)": "6'4\"/193",
       "パワー": 0,
       "ライン定格（Lb）": "～50",
@@ -21,7 +22,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:01.286027+09:00",
-    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+    "updated_at": "2026-09-08T09:03:23.462303+09:00"
   },
   {
     "item_name": "XJGS-63-1-MAX180",
@@ -31,6 +32,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
     "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
     "specs": {
+      "自重(g)": 142,
       "レングス(ft/cm)": "6'3\"/190.5",
       "パワー": 1,
       "ライン定格（Lb）": "〜60",
@@ -45,7 +47,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:01.286027+09:00",
-    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+    "updated_at": "2026-09-08T09:03:23.462303+09:00"
   },
   {
     "item_name": "XJGS-61-2-MAX200",
@@ -55,6 +57,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
     "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
     "specs": {
+      "自重(g)": 160,
       "レングス(ft/cm)": "6'1\"/185.4",
       "パワー": 2,
       "ライン定格（Lb）": "〜80",
@@ -69,7 +72,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:01.286027+09:00",
-    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+    "updated_at": "2026-09-08T09:03:23.462303+09:00"
   },
   {
     "item_name": "XJGS-60-3-MAX250",
@@ -79,6 +82,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-jigging",
     "product_name": "SaltyStage KR-X Prototype Jigging (ソルティーステージ プロトタイプ ジギング)",
     "specs": {
+      "自重(g)": 184,
       "レングス(ft/cm)": "6'0\"/182.9",
       "パワー": 3,
       "ライン定格（Lb）": "〜100",
@@ -93,6 +97,6 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:01.286027+09:00",
-    "updated_at": "2026-09-03T15:17:48.578835+09:00"
+    "updated_at": "2026-09-08T09:03:23.462303+09:00"
   }
 ]

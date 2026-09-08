@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/eradicator-realfinesse-prototype",
     "product_name": "Eradicator Realfinesse Prototype (エラディケーター リアルフィネス プロトタイプ)",
     "specs": {
+      "自重(g)": 27,
       "レングス(ft/cm)": "4'6\"/137.0",
       "パワー": "SUL（スーパーウルトラライト）",
       "テーパー/アクション": "スロー",
@@ -20,7 +21,7 @@
       "製法": "TAF+T1100G+M40X"
     },
     "created_at": "2026-09-03T00:39:27.351172+09:00",
-    "updated_at": "2026-09-03T15:16:55.650105+09:00"
+    "updated_at": "2026-09-08T09:03:02.751386+09:00"
   },
   {
     "item_name": "ERFS-51Pro-FS",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/eradicator-realfinesse-prototype",
     "product_name": "Eradicator Realfinesse Prototype (エラディケーター リアルフィネス プロトタイプ)",
     "specs": {
+      "自重(g)": 31,
       "レングス(ft/cm)": "5'1\"/154.9",
       "パワー": "L（ライト）",
       "テーパー/アクション": "ファースト",
@@ -43,7 +45,7 @@
       "製法": "TAF+T1100G+M40X"
     },
     "created_at": "2026-09-03T00:39:27.351172+09:00",
-    "updated_at": "2026-09-03T15:16:55.650105+09:00"
+    "updated_at": "2026-09-08T09:03:02.751386+09:00"
   },
   {
     "item_name": "ERFS-60Pro-FS",
@@ -53,6 +55,7 @@
     "url": "https://abugarcia.jp/products/eradicator-realfinesse-prototype",
     "product_name": "Eradicator Realfinesse Prototype (エラディケーター リアルフィネス プロトタイプ)",
     "specs": {
+      "自重(g)": 39,
       "レングス(ft/cm)": "6'0\"/183.0",
       "パワー": "L（ライト）",
       "テーパー/アクション": "ファースト",
@@ -66,6 +69,6 @@
       "製法": "TAF+T1100G+M40X"
     },
     "created_at": "2026-09-03T00:39:27.351172+09:00",
-    "updated_at": "2026-09-03T15:16:55.650105+09:00"
+    "updated_at": "2026-09-08T09:03:02.751386+09:00"
   }
 ]

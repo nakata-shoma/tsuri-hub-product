@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/kurofune-advance-fugu",
     "product_name": "KUROFUNE SHO Fugu（クロフネ　ショウ　フグ）",
     "specs": {
+      "自重(g)": 87,
       "レングス(ft/cm)": 148,
       "テーパー/アクション": "9:1",
       "継数": 2,
@@ -19,7 +20,7 @@
       "使用材料": "カーボン90%,グラス10%"
     },
     "created_at": "2026-09-03T00:39:30.096218+09:00",
-    "updated_at": "2026-09-03T15:16:59.025966+09:00"
+    "updated_at": "2026-09-08T09:03:04.335343+09:00"
   },
   {
     "item_name": "KFAC-WANFUGU178",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/kurofune-advance-fugu",
     "product_name": "KUROFUNE SHO Fugu（クロフネ　ショウ　フグ）",
     "specs": {
+      "自重(g)": 88,
       "レングス(ft/cm)": 178,
       "テーパー/アクション": "8:2",
       "継数": 2,
@@ -41,6 +43,6 @@
       "使用材料": "カーボン90%,グラス10%"
     },
     "created_at": "2026-09-03T00:39:30.096218+09:00",
-    "updated_at": "2026-09-03T15:16:59.025966+09:00"
+    "updated_at": "2026-09-08T09:03:04.335343+09:00"
   }
 ]

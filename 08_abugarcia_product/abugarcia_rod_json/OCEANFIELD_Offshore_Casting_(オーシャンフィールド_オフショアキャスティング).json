@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/oceanfieldoffshore-casting",
     "product_name": "OCEANFIELD Offshore Casting (オーシャンフィールド オフショアキャスティング)",
     "specs": {
+      "自重(g)": 188,
       "レングス(ft/cm)": "7'6\"/2.29",
       "パワー": "ミディアムライト",
       "テーパー/アクション": "ファースト",
@@ -20,7 +21,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:53.146454+09:00",
-    "updated_at": "2026-09-03T15:17:36.373145+09:00"
+    "updated_at": "2026-09-08T09:03:19.395844+09:00"
   },
   {
     "item_name": "OFOS-78M",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/oceanfieldoffshore-casting",
     "product_name": "OCEANFIELD Offshore Casting (オーシャンフィールド オフショアキャスティング)",
     "specs": {
+      "自重(g)": 226,
       "レングス(ft/cm)": "7'8\"/2.34",
       "パワー": "ミディアム",
       "テーパー/アクション": "ファースト",
@@ -43,7 +45,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:53.146454+09:00",
-    "updated_at": "2026-09-03T15:17:36.373145+09:00"
+    "updated_at": "2026-09-08T09:03:19.395844+09:00"
   },
   {
     "item_name": "OFOS-80MH",
@@ -53,6 +55,7 @@
     "url": "https://abugarcia.jp/products/oceanfieldoffshore-casting",
     "product_name": "OCEANFIELD Offshore Casting (オーシャンフィールド オフショアキャスティング)",
     "specs": {
+      "自重(g)": 287,
       "レングス(ft/cm)": "8'0\"/2.44",
       "パワー": "ミディアムヘビー",
       "テーパー/アクション": "レギュラーファースト",
@@ -66,6 +69,6 @@
       "使用材料": "ｶｰﾎﾞﾝ75%,ｸﾞﾗｽ25%"
     },
     "created_at": "2026-09-03T00:39:53.146454+09:00",
-    "updated_at": "2026-09-03T15:17:36.373145+09:00"
+    "updated_at": "2026-09-08T09:03:19.395844+09:00"
   }
 ]

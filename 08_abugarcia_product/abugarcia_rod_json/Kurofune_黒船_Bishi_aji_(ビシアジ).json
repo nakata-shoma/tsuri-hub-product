@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/kurofune-bishiazi",
     "product_name": "Kurofune 黒船 Bishi aji (ビシアジ)",
     "specs": {
+      "自重(g)": 223,
       "レングス(ft/cm)": 190,
       "テーパー/アクション": "6：4、胴調子",
       "継数": 2,
@@ -20,7 +21,7 @@
       "使用材料": "ｶｰﾎﾞﾝ50%,ｸﾞﾗｽ50%"
     },
     "created_at": "2026-09-03T00:39:34.238675+09:00",
-    "updated_at": "2026-09-03T15:17:01.737995+09:00"
+    "updated_at": "2026-09-08T09:03:05.731786+09:00"
   },
   {
     "item_name": "KBAC-170MH",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/kurofune-bishiazi",
     "product_name": "Kurofune 黒船 Bishi aji (ビシアジ)",
     "specs": {
+      "自重(g)": 204,
       "レングス(ft/cm)": 170,
       "テーパー/アクション": "7：3、先調子",
       "継数": 2,
@@ -43,6 +45,6 @@
       "使用材料": "ｶｰﾎﾞﾝ55%,ｸﾞﾗｽ45%"
     },
     "created_at": "2026-09-03T00:39:34.238675+09:00",
-    "updated_at": "2026-09-03T15:17:01.737995+09:00"
+    "updated_at": "2026-09-08T09:03:05.731786+09:00"
   }
 ]

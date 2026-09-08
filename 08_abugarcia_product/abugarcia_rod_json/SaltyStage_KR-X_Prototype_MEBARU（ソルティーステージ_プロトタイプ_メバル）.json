@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
     "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
     "specs": {
+      "自重(g)": 53,
       "レングス(ft/cm)": "7'3\"/221.0",
       "テーパー/アクション": "S",
       "継数": 2,
@@ -19,7 +20,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:04.363004+09:00",
-    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+    "updated_at": "2026-09-08T09:03:25.251070+09:00"
   },
   {
     "item_name": "XMBS-762ULSS",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
     "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
     "specs": {
+      "自重(g)": 61,
       "レングス(ft/cm)": "7'6\"/228.6",
       "テーパー/アクション": "EXF",
       "継数": 2,
@@ -41,7 +43,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:04.363004+09:00",
-    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+    "updated_at": "2026-09-08T09:03:25.251070+09:00"
   },
   {
     "item_name": "XMBS-792ULT",
@@ -51,6 +53,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
     "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
     "specs": {
+      "自重(g)": 61,
       "レングス(ft/cm)": "7'9\"/236.2",
       "テーパー/アクション": "F",
       "継数": 2,
@@ -63,7 +66,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:04.363004+09:00",
-    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+    "updated_at": "2026-09-08T09:03:25.251070+09:00"
   },
   {
     "item_name": "XMBS-832LT",
@@ -73,6 +76,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-mebaru",
     "product_name": "SaltyStage KR-X Prototype MEBARU（ソルティーステージ プロトタイプ メバル）",
     "specs": {
+      "自重(g)": 85,
       "レングス(ft/cm)": "8'3\"/251.5",
       "テーパー/アクション": "F",
       "継数": 2,
@@ -85,6 +89,6 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:04.363004+09:00",
-    "updated_at": "2026-09-03T15:17:52.193973+09:00"
+    "updated_at": "2026-09-08T09:03:25.251070+09:00"
   }
 ]

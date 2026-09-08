@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-light-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype LIGHT SHORE JIGGING（ソルティーステージ プロトタイプ ライトショアジギング）",
     "specs": {
+      "自重(g)": 168,
       "レングス(ft/cm)": "9'11\"/302.3",
       "テーパー/アクション": "F",
       "継数": 2,
@@ -19,7 +20,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:03.588660+09:00",
-    "updated_at": "2026-09-03T15:17:51.352236+09:00"
+    "updated_at": "2026-09-08T09:03:24.851914+09:00"
   },
   {
     "item_name": "XLSS-1092ML30",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-light-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype LIGHT SHORE JIGGING（ソルティーステージ プロトタイプ ライトショアジギング）",
     "specs": {
+      "自重(g)": 175,
       "レングス(ft/cm)": "10'9\"/327.7",
       "テーパー/アクション": "F",
       "継数": 2,
@@ -41,7 +43,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:03.588660+09:00",
-    "updated_at": "2026-09-03T15:17:51.352236+09:00"
+    "updated_at": "2026-09-08T09:03:24.851914+09:00"
   },
   {
     "item_name": "XLSS-992M40",
@@ -51,6 +53,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-light-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype LIGHT SHORE JIGGING（ソルティーステージ プロトタイプ ライトショアジギング）",
     "specs": {
+      "自重(g)": 171,
       "レングス(ft/cm)": "9'9\"/297.2",
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -63,7 +66,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:03.588660+09:00",
-    "updated_at": "2026-09-03T15:17:51.352236+09:00"
+    "updated_at": "2026-09-08T09:03:24.851914+09:00"
   },
   {
     "item_name": "XLSS-1072M40",
@@ -73,6 +76,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-light-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype LIGHT SHORE JIGGING（ソルティーステージ プロトタイプ ライトショアジギング）",
     "specs": {
+      "自重(g)": 179,
       "レングス(ft/cm)": "10'7\"/322.6",
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -85,7 +89,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:03.588660+09:00",
-    "updated_at": "2026-09-03T15:17:51.352236+09:00"
+    "updated_at": "2026-09-08T09:03:24.851914+09:00"
   },
   {
     "item_name": "XLSS-1153M40",
@@ -95,6 +99,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-light-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype LIGHT SHORE JIGGING（ソルティーステージ プロトタイプ ライトショアジギング）",
     "specs": {
+      "自重(g)": 200,
       "レングス(ft/cm)": "11'5\"/348.0",
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -107,7 +112,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:03.588660+09:00",
-    "updated_at": "2026-09-03T15:17:51.352236+09:00"
+    "updated_at": "2026-09-08T09:03:24.851914+09:00"
   },
   {
     "item_name": "XLSC-972ML30",
@@ -117,6 +122,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-light-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype LIGHT SHORE JIGGING（ソルティーステージ プロトタイプ ライトショアジギング）",
     "specs": {
+      "自重(g)": 152,
       "レングス(ft/cm)": "9'7\"/292.1",
       "テーパー/アクション": "R",
       "継数": 2,
@@ -129,6 +135,6 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:40:03.588660+09:00",
-    "updated_at": "2026-09-03T15:17:51.352236+09:00"
+    "updated_at": "2026-09-08T09:03:24.851914+09:00"
   }
 ]
