@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-mebaru",
     "product_name": "SaltyStyle Mebaru（ソルティースタイル メバル）",
     "specs": {
+      "自重(g)": 79,
       "レングス(ft/cm)": "7’3”/221.0cm",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -20,7 +21,7 @@
       "フロロカーボンライン": "1.0 - 4.0"
     },
     "created_at": "2026-09-03T00:40:16.811745+09:00",
-    "updated_at": "2026-09-03T15:18:11.599960+09:00"
+    "updated_at": "2026-09-08T09:03:31.933642+09:00"
   },
   {
     "item_name": "SYMS-762L",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-mebaru",
     "product_name": "SaltyStyle Mebaru（ソルティースタイル メバル）",
     "specs": {
+      "自重(g)": 83,
       "レングス(ft/cm)": "7’6”/228.6cm",
       "パワー": "L",
       "テーパー/アクション": "ファースト",
@@ -43,7 +45,7 @@
       "フロロカーボンライン": "1.0 - 6.0"
     },
     "created_at": "2026-09-03T00:40:16.811745+09:00",
-    "updated_at": "2026-09-03T15:18:11.599960+09:00"
+    "updated_at": "2026-09-08T09:03:31.933642+09:00"
   },
   {
     "item_name": "SYMS-792LML",
@@ -53,6 +55,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-mebaru",
     "product_name": "SaltyStyle Mebaru（ソルティースタイル メバル）",
     "specs": {
+      "自重(g)": 89,
       "レングス(ft/cm)": "7’9”/236.2cm",
       "パワー": "ティップL, ベリー&バットML",
       "テーパー/アクション": "レギュラーファースト",
@@ -66,6 +69,6 @@
       "フロロカーボンライン": "1.0 - 8.0"
     },
     "created_at": "2026-09-03T00:40:16.811745+09:00",
-    "updated_at": "2026-09-03T15:18:11.599960+09:00"
+    "updated_at": "2026-09-08T09:03:31.933642+09:00"
   }
 ]

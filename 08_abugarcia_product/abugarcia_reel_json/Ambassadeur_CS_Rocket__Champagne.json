@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/ambassadeur-cs-rocket-champagne",
     "product_name": "Ambassadeur CS Rocket  Champagne",
     "specs": {
+      "自重(g)": 367,
       "ギア比": "5.3:1",
       "最大ドラグ力(kg)": 7,
       "ボール/ローラーベアリング": "2/1",
@@ -16,7 +17,7 @@
       "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "145m"
     },
     "created_at": "2026-09-03T15:18:57.163110+09:00",
-    "updated_at": "2026-09-03T15:18:57.163110+09:00"
+    "updated_at": "2026-09-08T09:03:43.349179+09:00"
   },
   {
     "item_name": "AMB.6500CS Rocket Champagne",
@@ -26,6 +27,7 @@
     "url": "https://abugarcia.jp/products/ambassadeur-cs-rocket-champagne",
     "product_name": "Ambassadeur CS Rocket  Champagne",
     "specs": {
+      "自重(g)": 395,
       "ギア比": "5.3:1",
       "最大ドラグ力(kg)": 7,
       "ボール/ローラーベアリング": "2/1",
@@ -35,7 +37,7 @@
       "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "200m"
     },
     "created_at": "2026-09-03T15:18:57.163110+09:00",
-    "updated_at": "2026-09-03T15:18:57.163110+09:00"
+    "updated_at": "2026-09-08T09:03:43.349179+09:00"
   },
   {
     "item_name": "AMB.6501CS Rocket Champagne",
@@ -45,6 +47,7 @@
     "url": "https://abugarcia.jp/products/ambassadeur-cs-rocket-champagne",
     "product_name": "Ambassadeur CS Rocket  Champagne",
     "specs": {
+      "自重(g)": 395,
       "ギア比": "5.3:1",
       "最大ドラグ力(kg)": 7,
       "ボール/ローラーベアリング": "2/1",
@@ -54,6 +57,6 @@
       "ﾗｲﾝｷｬﾊﾟｼﾃｨ/0.405mm/6号": "200m"
     },
     "created_at": "2026-09-03T15:18:57.163110+09:00",
-    "updated_at": "2026-09-03T15:18:57.163110+09:00"
+    "updated_at": "2026-09-08T09:03:43.349179+09:00"
   }
 ]

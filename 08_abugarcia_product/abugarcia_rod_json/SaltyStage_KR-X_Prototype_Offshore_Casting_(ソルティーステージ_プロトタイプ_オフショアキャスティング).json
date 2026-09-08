@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting",
     "product_name": "SaltyStage KR-X Prototype Offshore Casting (ソルティーステージ プロトタイプ オフショアキャスティング)",
     "specs": {
+      "自重(g)": 210,
       "レングス(ft/cm)": "7'1\"/215.9",
       "パワー": "M（ﾐﾃﾞｨｱﾑ）",
       "ライン定格（Lb）": "～60",
@@ -21,7 +22,7 @@
       "使用材料": "ｶｰﾎﾞﾝ100%"
     },
     "created_at": "2026-09-03T00:40:06.088308+09:00",
-    "updated_at": "2026-09-03T15:17:53.965133+09:00"
+    "updated_at": "2026-09-08T09:03:26.188097+09:00"
   },
   {
     "item_name": "XOCS-77MH",
@@ -31,6 +32,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting",
     "product_name": "SaltyStage KR-X Prototype Offshore Casting (ソルティーステージ プロトタイプ オフショアキャスティング)",
     "specs": {
+      "自重(g)": 239,
       "レングス(ft/cm)": "7'7\"/231.1",
       "パワー": "MH（ミディアムヘビー）",
       "ライン定格（Lb）": "～100",
@@ -45,7 +47,7 @@
       "使用材料": "ｶｰﾎﾞﾝ100%"
     },
     "created_at": "2026-09-03T00:40:06.088308+09:00",
-    "updated_at": "2026-09-03T15:17:53.965133+09:00"
+    "updated_at": "2026-09-08T09:03:26.188097+09:00"
   },
   {
     "item_name": "XOCS-83H",
@@ -55,6 +57,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-offshore-casting",
     "product_name": "SaltyStage KR-X Prototype Offshore Casting (ソルティーステージ プロトタイプ オフショアキャスティング)",
     "specs": {
+      "自重(g)": 321,
       "レングス(ft/cm)": "8'3\"/251.5",
       "パワー": "H（ヘビー）",
       "ライン定格（Lb）": "～120",
@@ -69,6 +72,6 @@
       "使用材料": "ｶｰﾎﾞﾝ100%"
     },
     "created_at": "2026-09-03T00:40:06.088308+09:00",
-    "updated_at": "2026-09-03T15:17:53.965133+09:00"
+    "updated_at": "2026-09-08T09:03:26.188097+09:00"
   }
 ]

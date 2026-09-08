@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-light-jigging",
     "product_name": "OCEANFIELD LIGHT JIGGING（オーシャンフィールド ライトジギング）",
     "specs": {
+      "自重(g)": 106,
       "レングス(ft/cm)": "6’3”/ 190.5cm",
       "パワー": "2(ML)",
       "テーパー/アクション": "レギュラーファースト",
@@ -19,7 +20,7 @@
       "材料": "ｶｰﾎﾞﾝ98%, グラス2%"
     },
     "created_at": "2026-09-03T00:39:50.251724+09:00",
-    "updated_at": "2026-09-03T15:17:32.199211+09:00"
+    "updated_at": "2026-09-08T09:03:17.282297+09:00"
   },
   {
     "item_name": "OFLC-632-MAX120",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-light-jigging",
     "product_name": "OCEANFIELD LIGHT JIGGING（オーシャンフィールド ライトジギング）",
     "specs": {
+      "自重(g)": 127,
       "レングス(ft/cm)": "6’3”/ 190.5cm",
       "パワー": "2(ML)",
       "テーパー/アクション": "レギュラーファースト",
@@ -41,6 +43,6 @@
       "材料": "ｶｰﾎﾞﾝ98%, グラス2%"
     },
     "created_at": "2026-09-03T00:39:50.251724+09:00",
-    "updated_at": "2026-09-03T15:17:32.199211+09:00"
+    "updated_at": "2026-09-08T09:03:17.282297+09:00"
   }
 ]

@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/revo-sp-rocket",
     "product_name": "REVO SP Rocket  (レボ SP ロケット)",
     "specs": {
+      "自重(g)": 183,
       "ギア比": "7.0:1",
       "最大ドラグ力(kg)": 3,
       "ボール/ローラーベアリング": "10/1",
@@ -14,7 +15,7 @@
       "最大ライン巻取 (cm)": 92
     },
     "created_at": "2026-09-03T15:19:35.071042+09:00",
-    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+    "updated_at": "2026-09-08T09:03:56.704877+09:00"
   },
   {
     "item_name": "REVO SP Rocket 2500S",
@@ -24,6 +25,7 @@
     "url": "https://abugarcia.jp/products/revo-sp-rocket",
     "product_name": "REVO SP Rocket  (レボ SP ロケット)",
     "specs": {
+      "自重(g)": 192,
       "ギア比": "7.6:1",
       "最大ドラグ力(kg)": 5,
       "ボール/ローラーベアリング": "10/1",
@@ -31,7 +33,7 @@
       "最大ライン巻取 (cm)": 108
     },
     "created_at": "2026-09-03T15:19:35.071042+09:00",
-    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+    "updated_at": "2026-09-08T09:03:56.704877+09:00"
   },
   {
     "item_name": "REVO SP Rocket 3000S",
@@ -41,6 +43,7 @@
     "url": "https://abugarcia.jp/products/revo-sp-rocket",
     "product_name": "REVO SP Rocket  (レボ SP ロケット)",
     "specs": {
+      "自重(g)": 210,
       "ギア比": "7.6:1",
       "最大ドラグ力(kg)": 5,
       "ボール/ローラーベアリング": "10/1",
@@ -48,7 +51,7 @@
       "最大ライン巻取 (cm)": 115
     },
     "created_at": "2026-09-03T15:19:35.071042+09:00",
-    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+    "updated_at": "2026-09-08T09:03:56.704877+09:00"
   },
   {
     "item_name": "REVO SP Rocket 4000S",
@@ -58,6 +61,7 @@
     "url": "https://abugarcia.jp/products/revo-sp-rocket",
     "product_name": "REVO SP Rocket  (レボ SP ロケット)",
     "specs": {
+      "自重(g)": 225,
       "ギア比": "7.6:1",
       "最大ドラグ力(kg)": 7,
       "ボール/ローラーベアリング": "10/1",
@@ -65,6 +69,6 @@
       "最大ライン巻取 (cm)": 124
     },
     "created_at": "2026-09-03T15:19:35.071042+09:00",
-    "updated_at": "2026-09-03T15:19:35.071042+09:00"
+    "updated_at": "2026-09-08T09:03:56.704877+09:00"
   }
 ]

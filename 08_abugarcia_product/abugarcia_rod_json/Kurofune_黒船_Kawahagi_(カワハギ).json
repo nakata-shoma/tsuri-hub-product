@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/kurofune-kawahagi",
     "product_name": "Kurofune 黒船　Kawahagi (カワハギ)",
     "specs": {
+      "自重(g)": 91,
       "レングス(ft/cm)": 180,
       "テーパー/アクション": "エクストラファースト",
       "継数": 2,
@@ -19,7 +20,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:38.639593+09:00",
-    "updated_at": "2026-09-03T15:17:07.519074+09:00"
+    "updated_at": "2026-09-08T09:03:08.690479+09:00"
   },
   {
     "item_name": "KKWC-180S",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/kurofune-kawahagi",
     "product_name": "Kurofune 黒船　Kawahagi (カワハギ)",
     "specs": {
+      "自重(g)": 92,
       "レングス(ft/cm)": 180,
       "テーパー/アクション": "ファースト",
       "継数": 2,
@@ -41,7 +43,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:38.639593+09:00",
-    "updated_at": "2026-09-03T15:17:07.519074+09:00"
+    "updated_at": "2026-09-08T09:03:08.690479+09:00"
   },
   {
     "item_name": "KKWC-180H",
@@ -51,6 +53,7 @@
     "url": "https://abugarcia.jp/products/kurofune-kawahagi",
     "product_name": "Kurofune 黒船　Kawahagi (カワハギ)",
     "specs": {
+      "自重(g)": 97,
       "レングス(ft/cm)": 180,
       "テーパー/アクション": "エクストラファースト",
       "継数": 2,
@@ -63,7 +66,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:38.639593+09:00",
-    "updated_at": "2026-09-03T15:17:07.519074+09:00"
+    "updated_at": "2026-09-08T09:03:08.690479+09:00"
   },
   {
     "item_name": "KKWC-155S",
@@ -73,6 +76,7 @@
     "url": "https://abugarcia.jp/products/kurofune-kawahagi",
     "product_name": "Kurofune 黒船　Kawahagi (カワハギ)",
     "specs": {
+      "自重(g)": 84,
       "レングス(ft/cm)": 155,
       "テーパー/アクション": "ファースト",
       "継数": 2,
@@ -85,7 +89,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:38.639593+09:00",
-    "updated_at": "2026-09-03T15:17:07.519074+09:00"
+    "updated_at": "2026-09-08T09:03:08.690479+09:00"
   },
   {
     "item_name": "KKWC-175 ZEROTEN",
@@ -95,6 +99,7 @@
     "url": "https://abugarcia.jp/products/kurofune-kawahagi",
     "product_name": "Kurofune 黒船　Kawahagi (カワハギ)",
     "specs": {
+      "自重(g)": 94,
       "レングス(ft/cm)": 175,
       "テーパー/アクション": "エクストラファースト",
       "継数": "※2",
@@ -107,6 +112,6 @@
       "使用材料": "ｶｰﾎﾞﾝ90%,ｸﾞﾗｽ10%"
     },
     "created_at": "2026-09-03T00:39:38.639593+09:00",
-    "updated_at": "2026-09-03T15:17:07.519074+09:00"
+    "updated_at": "2026-09-08T09:03:08.690479+09:00"
   }
 ]

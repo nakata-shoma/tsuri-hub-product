@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-micro-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype MICRO SHORE JIGGING（ソルティーステージ プロトタイプ マイクロショアジギング）",
     "specs": {
+      "自重(g)": 94,
       "レングス(ft/cm)": 118.8,
       "テーパー/アクション": "F",
       "継数": 2,
@@ -19,7 +20,7 @@
       "使用材料": "カーボン100%"
     },
     "created_at": "2026-09-03T00:40:05.265952+09:00",
-    "updated_at": "2026-09-03T15:17:52.901099+09:00"
+    "updated_at": "2026-09-08T09:03:25.641658+09:00"
   },
   {
     "item_name": "XMJS-872UL-F",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-micro-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype MICRO SHORE JIGGING（ソルティーステージ プロトタイプ マイクロショアジギング）",
     "specs": {
+      "自重(g)": 103,
       "レングス(ft/cm)": 134.0,
       "テーパー/アクション": "F",
       "継数": 2,
@@ -41,7 +43,7 @@
       "使用材料": "カーボン100%"
     },
     "created_at": "2026-09-03T00:40:05.265952+09:00",
-    "updated_at": "2026-09-03T15:17:52.901099+09:00"
+    "updated_at": "2026-09-08T09:03:25.641658+09:00"
   },
   {
     "item_name": "XMJS-972UL-RF",
@@ -51,6 +53,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-micro-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype MICRO SHORE JIGGING（ソルティーステージ プロトタイプ マイクロショアジギング）",
     "specs": {
+      "自重(g)": 115,
       "レングス(ft/cm)": 149.3,
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -63,7 +66,7 @@
       "使用材料": "カーボン100%"
     },
     "created_at": "2026-09-03T00:40:05.265952+09:00",
-    "updated_at": "2026-09-03T15:17:52.901099+09:00"
+    "updated_at": "2026-09-08T09:03:25.641658+09:00"
   },
   {
     "item_name": "XMJS-1072UL-RF",
@@ -73,6 +76,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-micro-shore-jigging",
     "product_name": "SaltyStage KR-X Prototype MICRO SHORE JIGGING（ソルティーステージ プロトタイプ マイクロショアジギング）",
     "specs": {
+      "自重(g)": 121,
       "レングス(ft/cm)": 164.5,
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -85,6 +89,6 @@
       "使用材料": "カーボン100%"
     },
     "created_at": "2026-09-03T00:40:05.265952+09:00",
-    "updated_at": "2026-09-03T15:17:52.901099+09:00"
+    "updated_at": "2026-09-08T09:03:25.641658+09:00"
   }
 ]

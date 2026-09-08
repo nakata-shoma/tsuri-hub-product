@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-ajing",
     "product_name": "SaltyStage KR-X Prototype AJING（ソルティーステージ プロトタイプ アジング）",
     "specs": {
+      "自重(g)": 47,
       "レングス(ft/cm)": "5'5\"/165.1",
       "テーパー/アクション": "S",
       "継数": 2,
@@ -19,7 +20,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:39:56.503596+09:00",
-    "updated_at": "2026-09-03T15:17:41.817692+09:00"
+    "updated_at": "2026-09-08T09:03:21.211949+09:00"
   },
   {
     "item_name": "XAJS-5102LSS",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-ajing",
     "product_name": "SaltyStage KR-X Prototype AJING（ソルティーステージ プロトタイプ アジング）",
     "specs": {
+      "自重(g)": 50,
       "レングス(ft/cm)": "5'10\"/177.8",
       "テーパー/アクション": "F",
       "継数": 2,
@@ -41,7 +43,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:39:56.503596+09:00",
-    "updated_at": "2026-09-03T15:17:41.817692+09:00"
+    "updated_at": "2026-09-08T09:03:21.211949+09:00"
   },
   {
     "item_name": "XAJS-632ULT-ST",
@@ -51,6 +53,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-ajing",
     "product_name": "SaltyStage KR-X Prototype AJING（ソルティーステージ プロトタイプ アジング）",
     "specs": {
+      "自重(g)": 50,
       "レングス(ft/cm)": "6'3\"/190.5",
       "テーパー/アクション": "S",
       "継数": 2,
@@ -63,7 +66,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:39:56.503596+09:00",
-    "updated_at": "2026-09-03T15:17:41.817692+09:00"
+    "updated_at": "2026-09-08T09:03:21.211949+09:00"
   },
   {
     "item_name": "XAJS-642ULSS",
@@ -73,6 +76,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-ajing",
     "product_name": "SaltyStage KR-X Prototype AJING（ソルティーステージ プロトタイプ アジング）",
     "specs": {
+      "自重(g)": 51,
       "レングス(ft/cm)": "6'4\"/193.0",
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -85,7 +89,7 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:39:56.503596+09:00",
-    "updated_at": "2026-09-03T15:17:41.817692+09:00"
+    "updated_at": "2026-09-08T09:03:21.211949+09:00"
   },
   {
     "item_name": "XAJS-6102LSS",
@@ -95,6 +99,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-ajing",
     "product_name": "SaltyStage KR-X Prototype AJING（ソルティーステージ プロトタイプ アジング）",
     "specs": {
+      "自重(g)": 54,
       "レングス(ft/cm)": "6'10\"/208.3",
       "テーパー/アクション": "F",
       "継数": 2,
@@ -107,6 +112,6 @@
       "製法": "TAF"
     },
     "created_at": "2026-09-03T00:39:56.503596+09:00",
-    "updated_at": "2026-09-03T15:17:41.817692+09:00"
+    "updated_at": "2026-09-08T09:03:21.211949+09:00"
   }
 ]

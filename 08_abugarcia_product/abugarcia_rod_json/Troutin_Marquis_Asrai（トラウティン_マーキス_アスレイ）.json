@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 78,
       "レングス(ft/cm)": "4'3\"/129.5",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -21,7 +22,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-492UL",
@@ -31,6 +32,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 81,
       "レングス(ft/cm)": "4'9\"/144.8",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -45,7 +47,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-512L",
@@ -55,6 +57,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 85,
       "レングス(ft/cm)": "5'1\"/154.9",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -69,7 +72,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-532UL",
@@ -79,6 +82,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 84,
       "レングス(ft/cm)": "5'3\"/160.0",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -93,7 +97,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-542L",
@@ -103,6 +107,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 86,
       "レングス(ft/cm)": "5'4\"/162.6",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -117,7 +122,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAC-462UL",
@@ -127,6 +132,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 84,
       "レングス(ft/cm)": "4'6\"/137.2",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -141,7 +147,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAC-522L",
@@ -151,6 +157,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 86,
       "レングス(ft/cm)": "5'2\"/157.5",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -165,7 +172,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-732L",
@@ -175,6 +182,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 117,
       "レングス(ft/cm)": "7'3\"/220.1",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -189,7 +197,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-762ML",
@@ -199,6 +207,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 126,
       "レングス(ft/cm)": "7'6\"/228.6",
       "パワー": "ML",
       "テーパー/アクション": "レギュラー",
@@ -213,7 +222,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-832ML",
@@ -223,6 +232,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 132,
       "レングス(ft/cm)": "8'3\"/251.5",
       "パワー": "ML",
       "テーパー/アクション": "レギュラー",
@@ -237,7 +247,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-862M",
@@ -247,6 +257,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 151,
       "レングス(ft/cm)": "8'6\"/259.1",
       "パワー": "M",
       "テーパー/アクション": "レギュラー",
@@ -261,7 +272,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAC-7112ML",
@@ -271,6 +282,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 129,
       "レングス(ft/cm)": "7'11\"/241.3",
       "パワー": "ML",
       "テーパー/アクション": "レギュラー",
@@ -285,7 +297,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-454UL-MB",
@@ -295,6 +307,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 77,
       "レングス(ft/cm)": "4'5\"/134.6",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -309,7 +322,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-525L-MB",
@@ -319,6 +332,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 85,
       "レングス(ft/cm)": "5'2\"/157.5",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -333,7 +347,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAC-444UL-MB",
@@ -343,6 +357,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 80,
       "レングス(ft/cm)": "4'4\"/132.1",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -357,7 +372,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAC-555L-MB",
@@ -367,6 +382,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 94,
       "レングス(ft/cm)": "5'5\"/165.1",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -381,7 +397,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-485UL-TE",
@@ -391,6 +407,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 83,
       "レングス(ft/cm)": "4'8\"/142.2",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -405,7 +422,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAS-556L-TE",
@@ -415,6 +432,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 91,
       "レングス(ft/cm)": "5'5\"/165.1",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -429,7 +447,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAC-455UL-TE",
@@ -439,6 +457,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 86,
       "レングス(ft/cm)": "4'5\"/134.6",
       "パワー": "UL",
       "テーパー/アクション": "レギュラー",
@@ -453,7 +472,7 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   },
   {
     "item_name": "Troutin Marquis Asrai TMAC-546L-TE",
@@ -463,6 +482,7 @@
     "url": "https://abugarcia.jp/products/troutin-marquis-asrai",
     "product_name": "Troutin Marquis Asrai（トラウティン マーキス アスレイ）",
     "specs": {
+      "自重(g)": 93,
       "レングス(ft/cm)": "5'4\"/162.6",
       "パワー": "L",
       "テーパー/アクション": "レギュラー",
@@ -477,6 +497,6 @@
       "使用材料": "カーボン95%,グラス5%"
     },
     "created_at": "2026-09-03T00:40:21.623615+09:00",
-    "updated_at": "2026-09-03T15:18:20.488439+09:00"
+    "updated_at": "2026-09-08T09:03:34.494649+09:00"
   }
 ]

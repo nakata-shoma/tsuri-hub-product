@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-jigging-1",
     "product_name": "OCEANFIELD JIGGING（オーシャンフィールド ジギング）",
     "specs": {
+      "自重(g)": 195,
       "レングス(ft/cm)": "6’0”/ 182.9",
       "パワー": "3(MH)",
       "テーパー/アクション": "レギュラーファースト",
@@ -19,7 +20,7 @@
       "材料": "カーボン75%, グラス25%"
     },
     "created_at": "2026-09-03T00:39:49.610699+09:00",
-    "updated_at": "2026-09-03T15:17:31.252621+09:00"
+    "updated_at": "2026-09-08T09:03:16.787023+09:00"
   },
   {
     "item_name": "OFJS-60-MAX300",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-jigging-1",
     "product_name": "OCEANFIELD JIGGING（オーシャンフィールド ジギング）",
     "specs": {
+      "自重(g)": 198,
       "レングス(ft/cm)": "6’0”/ 182.9",
       "パワー": "4(H)",
       "テーパー/アクション": "レギュラーファースト",
@@ -41,7 +43,7 @@
       "材料": "カーボン69%, グラス31%"
     },
     "created_at": "2026-09-03T00:39:49.610699+09:00",
-    "updated_at": "2026-09-03T15:17:31.252621+09:00"
+    "updated_at": "2026-09-08T09:03:16.787023+09:00"
   },
   {
     "item_name": "OFJC-62-MAX200",
@@ -51,6 +53,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-jigging-1",
     "product_name": "OCEANFIELD JIGGING（オーシャンフィールド ジギング）",
     "specs": {
+      "自重(g)": 203,
       "レングス(ft/cm)": "6’2”/188.0",
       "パワー": "2(M)",
       "テーパー/アクション": "スロー",
@@ -63,7 +66,7 @@
       "材料": "カーボン72%, グラス28%"
     },
     "created_at": "2026-09-03T00:39:49.610699+09:00",
-    "updated_at": "2026-09-03T15:17:31.252621+09:00"
+    "updated_at": "2026-09-08T09:03:16.787023+09:00"
   },
   {
     "item_name": "OFJC-62-MAX300",
@@ -73,6 +76,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-jigging-1",
     "product_name": "OCEANFIELD JIGGING（オーシャンフィールド ジギング）",
     "specs": {
+      "自重(g)": 213,
       "レングス(ft/cm)": "6’2”/188.0",
       "パワー": "3(MH)",
       "テーパー/アクション": "スロー",
@@ -85,6 +89,6 @@
       "材料": "カーボン69%, グラス31%"
     },
     "created_at": "2026-09-03T00:39:49.610699+09:00",
-    "updated_at": "2026-09-03T15:17:31.252621+09:00"
+    "updated_at": "2026-09-08T09:03:16.787023+09:00"
   }
 ]

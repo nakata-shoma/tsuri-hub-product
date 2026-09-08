@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-boatseabass",
     "product_name": "OCEANFIELD BoatSeabass  (オーシャンフィールド ボートシーバス)",
     "specs": {
+      "自重(g)": 117,
       "レングス(ft/cm)": "6'6\"/198.1",
       "パワー": "ミディアム",
       "テーパー/アクション": "レギュラー",
@@ -20,7 +21,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:48.213778+09:00",
-    "updated_at": "2026-09-03T15:17:28.446305+09:00"
+    "updated_at": "2026-09-08T09:03:15.702451+09:00"
   },
   {
     "item_name": "OFBS-702M",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-boatseabass",
     "product_name": "OCEANFIELD BoatSeabass  (オーシャンフィールド ボートシーバス)",
     "specs": {
+      "自重(g)": 124,
       "レングス(ft/cm)": "7'0\"/213.4",
       "パワー": "ミディアム",
       "テーパー/アクション": "レギュラー",
@@ -43,6 +45,6 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:48.213778+09:00",
-    "updated_at": "2026-09-03T15:17:28.446305+09:00"
+    "updated_at": "2026-09-08T09:03:15.702451+09:00"
   }
 ]
