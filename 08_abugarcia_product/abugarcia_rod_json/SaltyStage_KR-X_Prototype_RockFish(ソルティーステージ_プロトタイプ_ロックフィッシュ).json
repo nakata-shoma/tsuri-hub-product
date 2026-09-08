@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-rockfish",
     "product_name": "SaltyStage KR-X Prototype RockFish(ソルティーステージ　プロトタイプ　ロックフィッシュ)",
     "specs": {
+      "自重(g)": 131,
       "レングス(ft/cm)": "6'7\"/200.7",
       "パワー": "MH",
       "ライン定格（Lb）": "6 - 20",
@@ -25,7 +26,7 @@
       "Description": "SALTYSTAGEPT ROCKFISH XHRC-672MH"
     },
     "created_at": "2026-09-03T00:40:07.789241+09:00",
-    "updated_at": "2026-09-03T15:17:57.315428+09:00"
+    "updated_at": "2026-09-08T09:03:26.977108+09:00"
   },
   {
     "item_name": "XHRC-772HML",
@@ -35,6 +36,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-rockfish",
     "product_name": "SaltyStage KR-X Prototype RockFish(ソルティーステージ　プロトタイプ　ロックフィッシュ)",
     "specs": {
+      "自重(g)": 133,
       "レングス(ft/cm)": "7'7\"/231.1",
       "パワー": "HML",
       "ライン定格（Lb）": "8 - 24",
@@ -53,7 +55,7 @@
       "Description": "SALTYSTAGEPT ROCKFISH XHRC-772HML"
     },
     "created_at": "2026-09-03T00:40:07.789241+09:00",
-    "updated_at": "2026-09-03T15:17:57.315428+09:00"
+    "updated_at": "2026-09-08T09:03:26.977108+09:00"
   },
   {
     "item_name": "XHRC-872EXH",
@@ -63,6 +65,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-rockfish",
     "product_name": "SaltyStage KR-X Prototype RockFish(ソルティーステージ　プロトタイプ　ロックフィッシュ)",
     "specs": {
+      "自重(g)": 153,
       "レングス(ft/cm)": "8'7\"/261.6",
       "パワー": "EXH",
       "ライン定格（Lb）": "10 - 40",
@@ -81,7 +84,7 @@
       "Description": "SALTYSTAGEPT ROCKFISH XHRC-872EXH"
     },
     "created_at": "2026-09-03T00:40:07.789241+09:00",
-    "updated_at": "2026-09-03T15:17:57.315428+09:00"
+    "updated_at": "2026-09-08T09:03:26.977108+09:00"
   },
   {
     "item_name": "XHRS-6102L+",
@@ -91,6 +94,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-rockfish",
     "product_name": "SaltyStage KR-X Prototype RockFish(ソルティーステージ　プロトタイプ　ロックフィッシュ)",
     "specs": {
+      "自重(g)": 110,
       "レングス(ft/cm)": "6'10\"/208.3",
       "パワー": "L+",
       "ライン定格（Lb）": "6 - 20",
@@ -109,7 +113,7 @@
       "Description": "SALTYSTAGEPT ROCKFISH XHRS-6102L PLUS"
     },
     "created_at": "2026-09-03T00:40:07.789241+09:00",
-    "updated_at": "2026-09-03T15:17:57.315428+09:00"
+    "updated_at": "2026-09-08T09:03:26.977108+09:00"
   },
   {
     "item_name": "XHRS-7102MMH",
@@ -119,6 +123,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-rockfish",
     "product_name": "SaltyStage KR-X Prototype RockFish(ソルティーステージ　プロトタイプ　ロックフィッシュ)",
     "specs": {
+      "自重(g)": 119,
       "レングス(ft/cm)": "7'10\"/238.8",
       "パワー": "MXH",
       "ライン定格（Lb）": "8 - 20",
@@ -137,7 +142,7 @@
       "Description": "SALTYSTAGEPT ROCKFISH XHRS-7102MMH"
     },
     "created_at": "2026-09-03T00:40:07.789241+09:00",
-    "updated_at": "2026-09-03T15:17:57.315428+09:00"
+    "updated_at": "2026-09-08T09:03:26.977108+09:00"
   },
   {
     "item_name": "XHRS-9102H+",
@@ -147,6 +152,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-rockfish",
     "product_name": "SaltyStage KR-X Prototype RockFish(ソルティーステージ　プロトタイプ　ロックフィッシュ)",
     "specs": {
+      "自重(g)": 188,
       "レングス(ft/cm)": "9'10\"/299.7",
       "パワー": "H+",
       "ライン定格（Lb）": "12 - 40",
@@ -165,6 +171,6 @@
       "Description": "SALTYSTAGEPT ROCKFISH XHRS-9102H PLUS"
     },
     "created_at": "2026-09-03T00:40:07.789241+09:00",
-    "updated_at": "2026-09-03T15:17:57.315428+09:00"
+    "updated_at": "2026-09-08T09:03:26.977108+09:00"
   }
 ]

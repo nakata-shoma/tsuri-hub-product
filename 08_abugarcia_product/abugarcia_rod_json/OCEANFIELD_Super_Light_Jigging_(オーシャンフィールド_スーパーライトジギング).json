@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-super-light-jigging",
     "product_name": "OCEANFIELD Super Light Jigging　(オーシャンフィールド スーパーライトジギング)",
     "specs": {
+      "自重(g)": 102,
       "レングス(ft/cm)": "6'7\"/201",
       "パワー": "スーパーライト",
       "テーパー/アクション": "レギュラーファースト",
@@ -19,7 +20,7 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:51.818840+09:00",
-    "updated_at": "2026-09-03T15:17:34.439795+09:00"
+    "updated_at": "2026-09-08T09:03:18.401427+09:00"
   },
   {
     "item_name": "OFSC-632SLJ",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-super-light-jigging",
     "product_name": "OCEANFIELD Super Light Jigging　(オーシャンフィールド スーパーライトジギング)",
     "specs": {
+      "自重(g)": 122,
       "レングス(ft/cm)": "6'3\"/191",
       "パワー": "スーパーライト",
       "テーパー/アクション": "レギュラーファースト",
@@ -41,6 +43,6 @@
       "使用材料": "ｶｰﾎﾞﾝ98%,ｸﾞﾗｽ2%"
     },
     "created_at": "2026-09-03T00:39:51.818840+09:00",
-    "updated_at": "2026-09-03T15:17:34.439795+09:00"
+    "updated_at": "2026-09-08T09:03:18.401427+09:00"
   }
 ]

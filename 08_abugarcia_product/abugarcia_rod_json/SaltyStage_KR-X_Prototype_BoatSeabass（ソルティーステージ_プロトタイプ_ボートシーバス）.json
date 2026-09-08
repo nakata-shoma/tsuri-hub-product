@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boatseabass",
     "product_name": "SaltyStage KR-X Prototype BoatSeabass（ソルティーステージ プロトタイプ ボートシーバス）",
     "specs": {
+      "自重(g)": 183,
       "レングス(ft/cm)": "6'5\"/195.6",
       "テーパー/アクション": "レギュラー",
       "継数": 2,
@@ -19,7 +20,7 @@
       "製法": "TAF製法"
     },
     "created_at": "2026-09-03T00:39:59.188227+09:00",
-    "updated_at": "2026-09-03T15:17:46.133511+09:00"
+    "updated_at": "2026-09-08T09:03:22.606464+09:00"
   },
   {
     "item_name": "XBSS-702XH",
@@ -29,6 +30,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boatseabass",
     "product_name": "SaltyStage KR-X Prototype BoatSeabass（ソルティーステージ プロトタイプ ボートシーバス）",
     "specs": {
+      "自重(g)": 195,
       "レングス(ft/cm)": "7'0\"/213.4",
       "テーパー/アクション": "レギュラー",
       "継数": 2,
@@ -41,7 +43,7 @@
       "製法": "TAF製法"
     },
     "created_at": "2026-09-03T00:39:59.188227+09:00",
-    "updated_at": "2026-09-03T15:17:46.133511+09:00"
+    "updated_at": "2026-09-08T09:03:22.606464+09:00"
   },
   {
     "item_name": "XBSS-642ML",
@@ -51,6 +53,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boatseabass",
     "product_name": "SaltyStage KR-X Prototype BoatSeabass（ソルティーステージ プロトタイプ ボートシーバス）",
     "specs": {
+      "自重(g)": 108,
       "レングス(ft/cm)": "6'4\"/193.0",
       "テーパー/アクション": "ファースト",
       "継数": 2,
@@ -63,7 +66,7 @@
       "製法": "TAF製法"
     },
     "created_at": "2026-09-03T00:39:59.188227+09:00",
-    "updated_at": "2026-09-03T15:17:46.133511+09:00"
+    "updated_at": "2026-09-08T09:03:22.606464+09:00"
   },
   {
     "item_name": "XBSS-672M",
@@ -73,6 +76,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boatseabass",
     "product_name": "SaltyStage KR-X Prototype BoatSeabass（ソルティーステージ プロトタイプ ボートシーバス）",
     "specs": {
+      "自重(g)": 114,
       "レングス(ft/cm)": "6'7\"/200.7",
       "テーパー/アクション": "ファースト",
       "継数": 2,
@@ -85,7 +89,7 @@
       "製法": "TAF製法"
     },
     "created_at": "2026-09-03T00:39:59.188227+09:00",
-    "updated_at": "2026-09-03T15:17:46.133511+09:00"
+    "updated_at": "2026-09-08T09:03:22.606464+09:00"
   },
   {
     "item_name": "XBSS-702M",
@@ -95,6 +99,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boatseabass",
     "product_name": "SaltyStage KR-X Prototype BoatSeabass（ソルティーステージ プロトタイプ ボートシーバス）",
     "specs": {
+      "自重(g)": 123,
       "レングス(ft/cm)": "7'0\"/213.4",
       "テーパー/アクション": "ファースト",
       "継数": 2,
@@ -107,7 +112,7 @@
       "製法": "TAF製法"
     },
     "created_at": "2026-09-03T00:39:59.188227+09:00",
-    "updated_at": "2026-09-03T15:17:46.133511+09:00"
+    "updated_at": "2026-09-08T09:03:22.606464+09:00"
   },
   {
     "item_name": "XBSC-682M",
@@ -117,6 +122,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boatseabass",
     "product_name": "SaltyStage KR-X Prototype BoatSeabass（ソルティーステージ プロトタイプ ボートシーバス）",
     "specs": {
+      "自重(g)": 128,
       "レングス(ft/cm)": "6'8\"/203.2",
       "テーパー/アクション": "レギュラー",
       "継数": 2,
@@ -129,7 +135,7 @@
       "製法": "TAF製法"
     },
     "created_at": "2026-09-03T00:39:59.188227+09:00",
-    "updated_at": "2026-09-03T15:17:46.133511+09:00"
+    "updated_at": "2026-09-08T09:03:22.606464+09:00"
   },
   {
     "item_name": "XBSC-642X-BB",
@@ -139,6 +145,7 @@
     "url": "https://abugarcia.jp/products/saltystage-kr-x-prototype-boatseabass",
     "product_name": "SaltyStage KR-X Prototype BoatSeabass（ソルティーステージ プロトタイプ ボートシーバス）",
     "specs": {
+      "自重(g)": 167,
       "レングス(ft/cm)": "6'4\"/193",
       "テーパー/アクション": "レギュラーファースト",
       "継数": 2,
@@ -151,6 +158,6 @@
       "製法": "TAF製法"
     },
     "created_at": "2026-09-03T00:39:59.188227+09:00",
-    "updated_at": "2026-09-03T15:17:46.133511+09:00"
+    "updated_at": "2026-09-08T09:03:22.606464+09:00"
   }
 ]

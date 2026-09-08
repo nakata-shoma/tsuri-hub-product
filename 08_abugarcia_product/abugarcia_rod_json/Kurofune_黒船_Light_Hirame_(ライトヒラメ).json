@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/kurofune-light-hirame",
     "product_name": "Kurofune 黒船 Light Hirame (ライトヒラメ)",
     "specs": {
+      "自重(g)": 123,
       "レングス(ft/cm)": 230,
       "パワー": "ミディアム",
       "テーパー/アクション": "先調子'7:3",
@@ -21,7 +22,7 @@
       "使用材料": "ｶｰﾎﾞﾝ40%,ｸﾞﾗｽ60%"
     },
     "created_at": "2026-09-03T00:39:40.741599+09:00",
-    "updated_at": "2026-09-03T15:17:10.850125+09:00"
+    "updated_at": "2026-09-08T09:03:10.179001+09:00"
   },
   {
     "item_name": "KLHC-245M",
@@ -31,6 +32,7 @@
     "url": "https://abugarcia.jp/products/kurofune-light-hirame",
     "product_name": "Kurofune 黒船 Light Hirame (ライトヒラメ)",
     "specs": {
+      "自重(g)": 134,
       "レングス(ft/cm)": 245,
       "パワー": "ﾐﾃﾞｨｱﾑﾍﾋﾞｰ",
       "テーパー/アクション": "先調子'7:3",
@@ -45,6 +47,6 @@
       "使用材料": "ｶｰﾎﾞﾝ35%,ｸﾞﾗｽ65%"
     },
     "created_at": "2026-09-03T00:39:40.741599+09:00",
-    "updated_at": "2026-09-03T15:17:10.850125+09:00"
+    "updated_at": "2026-09-08T09:03:10.179001+09:00"
   }
 ]

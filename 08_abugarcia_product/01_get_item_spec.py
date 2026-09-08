@@ -43,6 +43,20 @@ def find_key_containing(header, substr):
     return next((k for k in header if substr in k), None)
 
 
+def get_cell_text(cell):
+    """通常はセルのテキストをそのまま使うが、「自重(g)」列のように
+    <span class="js-weight" data-weight="287"></span> のようにJS側で
+    表示時に値を注入する空要素になっている場合があるため、その場合は
+    data-weight属性から値を拾う。"""
+    text = cell.get_text(strip=True)
+    if text:
+        return text
+    tag = cell.find(attrs={"data-weight": True})
+    if tag:
+        return tag["data-weight"]
+    return text
+
+
 def extract_price(value):
     if not value:
         return None
@@ -72,7 +86,7 @@ def parse_compare_table(soup, url, product_name):
     products = []
 
     for row in rows[1:]:
-        cols = [c.get_text(strip=True) for c in row.find_all(["th", "td"])]
+        cols = [get_cell_text(c) for c in row.find_all(["th", "td"])]
         if len(cols) != len(header):
             continue
 

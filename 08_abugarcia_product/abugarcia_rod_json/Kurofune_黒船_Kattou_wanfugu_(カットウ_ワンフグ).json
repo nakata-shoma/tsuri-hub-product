@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/kurofune-kattou",
     "product_name": "Kurofune 黒船　Kattou/wanfugu (カットウ/ワンフグ)",
     "specs": {
+      "自重(g)": 104,
       "レングス(ft/cm)": 150,
       "テーパー/アクション": "9:1極先調子",
       "継数": 2,
@@ -20,7 +21,7 @@
       "使用材料": "ｶｰﾎﾞﾝ90%,ｸﾞﾗｽ10%"
     },
     "created_at": "2026-09-03T00:39:37.735265+09:00",
-    "updated_at": "2026-09-03T15:17:06.272755+09:00"
+    "updated_at": "2026-09-08T09:03:08.076890+09:00"
   },
   {
     "item_name": "KKFC-WANFUGU180",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/kurofune-kattou",
     "product_name": "Kurofune 黒船　Kattou/wanfugu (カットウ/ワンフグ)",
     "specs": {
+      "自重(g)": 110,
       "レングス(ft/cm)": 180,
       "テーパー/アクション": "8：2先調子",
       "継数": 2,
@@ -43,6 +45,6 @@
       "使用材料": "ｶｰﾎﾞﾝ90%,ｸﾞﾗｽ10%"
     },
     "created_at": "2026-09-03T00:39:37.735265+09:00",
-    "updated_at": "2026-09-03T15:17:06.272755+09:00"
+    "updated_at": "2026-09-08T09:03:08.076890+09:00"
   }
 ]

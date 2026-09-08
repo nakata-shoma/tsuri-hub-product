@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-rockfish",
     "product_name": "SaltyStyle RockFish（ソルティースタイル ロックフィッシュ）",
     "specs": {
+      "自重(g)": 135,
       "レングス(ft/cm)": "6’10”/208.3cm",
       "パワー": "MML",
       "テーパー/アクション": "ファースト",
@@ -20,7 +21,7 @@
       "フロロカーボンライン": "8 - 20"
     },
     "created_at": "2026-09-03T00:40:17.625412+09:00",
-    "updated_at": "2026-09-03T15:18:12.871424+09:00"
+    "updated_at": "2026-09-08T09:03:32.339494+09:00"
   },
   {
     "item_name": "SYRC-762MH",
@@ -30,6 +31,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-rockfish",
     "product_name": "SaltyStyle RockFish（ソルティースタイル ロックフィッシュ）",
     "specs": {
+      "自重(g)": 147,
       "レングス(ft/cm)": "7’6”/228.6cm",
       "パワー": "MH",
       "テーパー/アクション": "ファースト",
@@ -43,7 +45,7 @@
       "フロロカーボンライン": "8 - 24"
     },
     "created_at": "2026-09-03T00:40:17.625412+09:00",
-    "updated_at": "2026-09-03T15:18:12.871424+09:00"
+    "updated_at": "2026-09-08T09:03:32.339494+09:00"
   },
   {
     "item_name": "SYRC-872XH",
@@ -53,6 +55,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-rockfish",
     "product_name": "SaltyStyle RockFish（ソルティースタイル ロックフィッシュ）",
     "specs": {
+      "自重(g)": 182,
       "レングス(ft/cm)": "8’7”/261.6cm",
       "パワー": "XH",
       "テーパー/アクション": "ファースト",
@@ -66,7 +69,7 @@
       "フロロカーボンライン": "10 - 40"
     },
     "created_at": "2026-09-03T00:40:17.625412+09:00",
-    "updated_at": "2026-09-03T15:18:12.871424+09:00"
+    "updated_at": "2026-09-08T09:03:32.339494+09:00"
   },
   {
     "item_name": "SYRS-702ML",
@@ -76,6 +79,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-rockfish",
     "product_name": "SaltyStyle RockFish（ソルティースタイル ロックフィッシュ）",
     "specs": {
+      "自重(g)": 113,
       "レングス(ft/cm)": "7’0”/213.4cm",
       "パワー": "ML",
       "テーパー/アクション": "ファースト",
@@ -89,7 +93,7 @@
       "フロロカーボンライン": "8 - 20"
     },
     "created_at": "2026-09-03T00:40:17.625412+09:00",
-    "updated_at": "2026-09-03T15:18:12.871424+09:00"
+    "updated_at": "2026-09-08T09:03:32.339494+09:00"
   },
   {
     "item_name": "SYRS-862M",
@@ -99,6 +103,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-rockfish",
     "product_name": "SaltyStyle RockFish（ソルティースタイル ロックフィッシュ）",
     "specs": {
+      "自重(g)": 165,
       "レングス(ft/cm)": "8’6”/259.1cm",
       "パワー": "M",
       "テーパー/アクション": "ファースト",
@@ -112,7 +117,7 @@
       "フロロカーボンライン": "8 - 24"
     },
     "created_at": "2026-09-03T00:40:17.625412+09:00",
-    "updated_at": "2026-09-03T15:18:12.871424+09:00"
+    "updated_at": "2026-09-08T09:03:32.339494+09:00"
   },
   {
     "item_name": "SYRS-962H",
@@ -122,6 +127,7 @@
     "url": "https://abugarcia.jp/products/saltystyle-rockfish",
     "product_name": "SaltyStyle RockFish（ソルティースタイル ロックフィッシュ）",
     "specs": {
+      "自重(g)": 197,
       "レングス(ft/cm)": "9’6”/289.6cm",
       "パワー": "H",
       "テーパー/アクション": "ファースト",
@@ -135,6 +141,6 @@
       "フロロカーボンライン": "10 - 40"
     },
     "created_at": "2026-09-03T00:40:17.625412+09:00",
-    "updated_at": "2026-09-03T15:18:12.871424+09:00"
+    "updated_at": "2026-09-08T09:03:32.339494+09:00"
   }
 ]

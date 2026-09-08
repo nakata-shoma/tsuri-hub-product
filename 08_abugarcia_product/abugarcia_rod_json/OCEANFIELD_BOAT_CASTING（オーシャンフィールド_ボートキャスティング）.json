@@ -7,6 +7,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-boat-casting-osiyanhuirudo-botokiyasuteingu",
     "product_name": "OCEANFIELD BOAT CASTING（オーシャンフィールド ボートキャスティング）",
     "specs": {
+      "自重(g)": 134,
       "レングス(ft/cm)": "6'10\"/208.3",
       "テーパー/アクション": "F",
       "継数": 2,
@@ -18,7 +19,7 @@
       "材料": "カーボン98%,グラス2%"
     },
     "created_at": "2026-09-03T00:39:47.600401+09:00",
-    "updated_at": "2026-09-03T15:17:27.140400+09:00"
+    "updated_at": "2026-09-08T09:03:15.238831+09:00"
   },
   {
     "item_name": "OBCS-702MH",
@@ -28,6 +29,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-boat-casting-osiyanhuirudo-botokiyasuteingu",
     "product_name": "OCEANFIELD BOAT CASTING（オーシャンフィールド ボートキャスティング）",
     "specs": {
+      "自重(g)": 153,
       "レングス(ft/cm)": "7'0\"/213.4",
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -39,7 +41,7 @@
       "材料": "カーボン98%,グラス2%"
     },
     "created_at": "2026-09-03T00:39:47.600401+09:00",
-    "updated_at": "2026-09-03T15:17:27.140400+09:00"
+    "updated_at": "2026-09-08T09:03:15.238831+09:00"
   },
   {
     "item_name": "OBCC-722MML",
@@ -49,6 +51,7 @@
     "url": "https://abugarcia.jp/products/oceanfield-boat-casting-osiyanhuirudo-botokiyasuteingu",
     "product_name": "OCEANFIELD BOAT CASTING（オーシャンフィールド ボートキャスティング）",
     "specs": {
+      "自重(g)": 141,
       "レングス(ft/cm)": "7'2\"/218.4",
       "テーパー/アクション": "RF",
       "継数": 2,
@@ -60,6 +63,6 @@
       "材料": "カーボン98%,グラス2%"
     },
     "created_at": "2026-09-03T00:39:47.600401+09:00",
-    "updated_at": "2026-09-03T15:17:27.140400+09:00"
+    "updated_at": "2026-09-08T09:03:15.238831+09:00"
   }
 ]
