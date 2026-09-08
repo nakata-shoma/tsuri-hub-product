@@ -19,6 +19,28 @@
       "guide": "PLGST(top),PLKWSG"
     },
     "created_at": "2026-09-03T16:37:26.669460+09:00",
-    "updated_at": "2026-09-05T21:23:31.264924+09:00"
+    "updated_at": "2026-09-08T16:54:20.997553+09:00"
+  },
+  {
+    "item_name": "SS-60L",
+    "jan": null,
+    "price": 26000,
+    "url": "https://www.smith.jp/superstrike/product/ss-60l.html",
+    "product_name": "SS-60L リザーバーライトⅡ",
+    "specs": {
+      "length": "6'",
+      "pack length": "158cm",
+      "section": "1pcs",
+      "rod weight": "50g",
+      "power": "ライト",
+      "action": "モデレート",
+      "lure": "5～12g",
+      "line": "6～12Lb.",
+      "tip dia": "2.2mm",
+      "blank material": "グラス",
+      "guide": "PLGST(top),PLKWSG"
+    },
+    "created_at": "2026-09-08T16:54:20.997553+09:00",
+    "updated_at": "2026-09-08T16:54:20.997553+09:00"
   }
 ]

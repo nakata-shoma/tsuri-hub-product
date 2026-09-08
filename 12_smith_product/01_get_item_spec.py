@@ -20,6 +20,11 @@ SuperStrikeの一部ページ（例: go-102.html）は1機種のスペックが1
 新規モデルではなく直前モデルの続き（列の追加）として同じアイテムにマージする。
 ヘッダー行の判定は、セルが全て<th>であるか、全て`rodt`で始まるclassを持つか
 （本体サイトのtd見出し行はclass="rodt1"、データ行はclass="rodb1"）で行う。
+
+2段目には価格列が複数（例: 「シングルグリップ付」と「SS-WS55TM/B（グリップなし）」）
+存在することがあり、後者のように列ヘッダー自体に主品番と異なる派生品番が
+埋め込まれている場合はスペックを共有する別アイテムとして分離する
+（品番のみ異なる別売りSKUのため）。
 出力形式はCONTRACT.mdに従う（1ファイル=1シリーズ、product_name必須、
 urlは配列内の先頭要素のみ採用、specsはラベル文字列:値のdict）。
 
@@ -42,6 +47,12 @@ OUTPUT_DIR = "./12_smith_product/smith_rod_json"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 PRICE_NUMBER_RE = re.compile(r"[\d,]+")
+
+# 「price¥SS-WS55TM/B（グリップなし）」のように価格列のヘッダー自体に
+# 主品番と異なる派生品番（グリップレス版等）が埋め込まれていることがある。
+# 「price¥」に続けて英数字・ハイフン・スラッシュの品番らしき文字列が
+# 来ている場合のみ派生品番とみなす（日本語の説明文だけの通常価格列は対象外）。
+PRICE_VARIANT_RE = re.compile(r"^price¥([A-Za-z0-9][A-Za-z0-9\-/]*)")
 
 
 def extract_product_name(soup):
@@ -102,25 +113,48 @@ def split_into_blocks(rows):
     return blocks
 
 
-def build_item(raw, url, product_name):
+def build_items(raw, url, product_name):
+    """1つのraw行から、主品番のアイテムに加えて、価格列ヘッダーに派生品番
+    （グリップレス版等）が埋め込まれている場合はそれも別アイテムとして返す。
+    どちらも仕様（specs）は共通のブランクなので同じspecsを共有する。"""
     item_name = raw.get("ROD No.")
     if not item_name:
-        return None
+        return []
 
     price_keys = [k for k in raw if "price" in k]
-    price_key = price_keys[0] if price_keys else None
+
+    primary_price_key = None
+    variants = []  # (price_key, 派生品番)
+    for key in price_keys:
+        m = PRICE_VARIANT_RE.match(key)
+        if m:
+            variants.append((key, m.group(1)))
+        elif primary_price_key is None:
+            primary_price_key = key
 
     exclude = ["ROD No."] + price_keys
     specs = {k: to_number(v) for k, v in raw.items() if k not in exclude and v}
 
-    return {
+    items = [{
         "item_name": item_name,
         "jan": None,
-        "price": extract_price(raw.get(price_key)) if price_key else None,
+        "price": extract_price(raw.get(primary_price_key)) if primary_price_key else None,
         "url": url,
         "product_name": product_name,
         "specs": specs,
-    }
+    }]
+
+    for price_key, variant_name in variants:
+        items.append({
+            "item_name": variant_name,
+            "jan": None,
+            "price": extract_price(raw.get(price_key)),
+            "url": url,
+            "product_name": product_name,
+            "specs": specs,
+        })
+
+    return items
 
 
 def parse_rod_tables(soup, url, product_name):
@@ -137,9 +171,7 @@ def parse_rod_tables(soup, url, product_name):
         for header, data_rows in blocks:
             if "ROD No." in header:
                 if pending_raw is not None:
-                    item = build_item(pending_raw, url, product_name)
-                    if item:
-                        products.append(item)
+                    products.extend(build_items(pending_raw, url, product_name))
                     pending_raw = None
 
                 if len(data_rows) == 1 and len(data_rows[0]) == len(header):
@@ -151,9 +183,7 @@ def parse_rod_tables(soup, url, product_name):
                     for cols in data_rows:
                         if len(cols) != len(header):
                             continue
-                        item = build_item(dict(zip(header, cols)), url, product_name)
-                        if item:
-                            products.append(item)
+                        products.extend(build_items(dict(zip(header, cols)), url, product_name))
             else:
                 # ROD No.を含まない後続ヘッダー行 = 直前モデルの続きの列
                 if (
@@ -165,9 +195,7 @@ def parse_rod_tables(soup, url, product_name):
                 # 想定外の形（保留中アイテムが無い等）は安全側に倒して無視する
 
         if pending_raw is not None:
-            item = build_item(pending_raw, url, product_name)
-            if item:
-                products.append(item)
+            products.extend(build_items(pending_raw, url, product_name))
 
     return products
 

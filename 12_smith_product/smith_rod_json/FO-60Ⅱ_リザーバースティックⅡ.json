@@ -19,6 +19,28 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:25.507162+09:00",
-    "updated_at": "2026-09-05T21:23:29.712804+09:00"
+    "updated_at": "2026-09-08T16:54:19.837523+09:00"
+  },
+  {
+    "item_name": "FO-60",
+    "jan": null,
+    "price": 29000,
+    "url": "https://www.smith.jp/superstrike/product/fo-60-2.html",
+    "product_name": "FO-60Ⅱ リザーバースティックⅡ",
+    "specs": {
+      "length": "6'",
+      "pack length": "158cm",
+      "section": "1pcs",
+      "rod weight": "60g",
+      "power": "ミディアムライト",
+      "action": "モデレート",
+      "lure": "7～18g",
+      "line": "8～16lb.",
+      "tip dia": "2.2mm",
+      "blank material": "グラス",
+      "guide": "T-KGST(top),T-KWSG"
+    },
+    "created_at": "2026-09-08T16:54:19.837523+09:00",
+    "updated_at": "2026-09-08T16:54:19.837523+09:00"
   }
 ]
