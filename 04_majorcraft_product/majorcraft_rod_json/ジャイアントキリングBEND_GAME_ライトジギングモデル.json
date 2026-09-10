@@ -16,7 +16,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:06.693883+09:00",
-    "updated_at": "2026-09-05T16:23:06.693883+09:00"
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
   },
   {
     "item_name": "GKBGLJ-S64L",
@@ -35,7 +35,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:06.693883+09:00",
-    "updated_at": "2026-09-05T16:23:06.693883+09:00"
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
   },
   {
     "item_name": "GKBGLJ-S62ML",
@@ -54,7 +54,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:06.693883+09:00",
-    "updated_at": "2026-09-05T16:23:06.693883+09:00"
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
   },
   {
     "item_name": "GKBGLJ-S62M",
@@ -73,6 +73,82 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:06.693883+09:00",
-    "updated_at": "2026-09-05T16:23:06.693883+09:00"
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
+  },
+  {
+    "item_name": "GKBGLJ-B64UL",
+    "jan": "4573236278445",
+    "price": 29500,
+    "url": "https://www.majorcraft.co.jp/rod/gk-bendgame/gkbglj/",
+    "product_name": "ジャイアントキリングBEND GAME ライトジギングモデル",
+    "specs": {
+      "Model": "GKBGLJ-B64UL",
+      "全長": "6'4\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "15-100gMAX150g(TACHI)",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "118g",
+      "仕舞寸法": "148cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:11.266487+09:00",
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
+  },
+  {
+    "item_name": "GKBGLJ-B64L",
+    "jan": "4573236278452",
+    "price": 30000,
+    "url": "https://www.majorcraft.co.jp/rod/gk-bendgame/gkbglj/",
+    "product_name": "ジャイアントキリングBEND GAME ライトジギングモデル",
+    "specs": {
+      "Model": "GKBGLJ-B64L",
+      "全長": "6'4\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "20-120gMAX200g(TACHI)",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "121g",
+      "仕舞寸法": "148cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:11.266487+09:00",
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
+  },
+  {
+    "item_name": "GKBGLJ-B62ML",
+    "jan": "4573236278469",
+    "price": 30500,
+    "url": "https://www.majorcraft.co.jp/rod/gk-bendgame/gkbglj/",
+    "product_name": "ジャイアントキリングBEND GAME ライトジギングモデル",
+    "specs": {
+      "Model": "GKBGLJ-B62ML",
+      "全長": "6'2\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "60-150g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "127g",
+      "仕舞寸法": "143cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:11.266487+09:00",
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
+  },
+  {
+    "item_name": "GKBGLJ-B62M",
+    "jan": "4573236278476",
+    "price": 31000,
+    "url": "https://www.majorcraft.co.jp/rod/gk-bendgame/gkbglj/",
+    "product_name": "ジャイアントキリングBEND GAME ライトジギングモデル",
+    "specs": {
+      "Model": "GKBGLJ-B62M",
+      "全長": "6'2\"ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "80-180g",
+      "PEライン": "MAX 2.0号",
+      "標準自重": "131g",
+      "仕舞寸法": "143cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:11.266487+09:00",
+    "updated_at": "2026-09-10T10:40:11.266487+09:00"
   }
 ]

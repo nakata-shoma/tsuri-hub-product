@@ -15,7 +15,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:23.258448+09:00",
-    "updated_at": "2026-09-05T16:23:23.258448+09:00"
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
   },
   {
     "item_name": "SPJLJ-S64M",
@@ -33,7 +33,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:23.258448+09:00",
-    "updated_at": "2026-09-05T16:23:23.258448+09:00"
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
   },
   {
     "item_name": "SPJLJ-S642ML",
@@ -51,7 +51,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:23.258448+09:00",
-    "updated_at": "2026-09-05T16:23:23.258448+09:00"
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
   },
   {
     "item_name": "SPJLJ-S642M",
@@ -69,6 +69,78 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:23.258448+09:00",
-    "updated_at": "2026-09-05T16:23:23.258448+09:00"
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
+  },
+  {
+    "item_name": "SPJLJ-B64ML",
+    "jan": "4573236269290",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "product_name": "NEWソルパラ ライトジギング",
+    "specs": {
+      "Model": "SPJLJ-B64ML",
+      "全長": "6'4\"",
+      "継数": "グリップ脱着式",
+      "ルアー": "40 - 150g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "119g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:20.673029+09:00",
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
+  },
+  {
+    "item_name": "SPJLJ-B64M",
+    "jan": "4573236269306",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "product_name": "NEWソルパラ ライトジギング",
+    "specs": {
+      "Model": "SPJLJ-B64M",
+      "全長": "6'4\"",
+      "継数": "グリップ脱着式",
+      "ルアー": "60 - 180g",
+      "PEライン": "MAX 2.0号",
+      "標準自重": "123g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:20.673029+09:00",
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
+  },
+  {
+    "item_name": "SPJLJ-B642ML",
+    "jan": "4573236269337",
+    "price": 10600,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "product_name": "NEWソルパラ ライトジギング",
+    "specs": {
+      "Model": "SPJLJ-B642ML",
+      "全長": "6'4\"",
+      "継数": 2,
+      "ルアー": "40 - 150g",
+      "PEライン": "MAX 1.5号",
+      "標準自重": "未定",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:20.673029+09:00",
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
+  },
+  {
+    "item_name": "SPJLJ-B642M",
+    "jan": "4573236269344",
+    "price": 11100,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-jigging/light-jigging/",
+    "product_name": "NEWソルパラ ライトジギング",
+    "specs": {
+      "Model": "SPJLJ-B642M",
+      "全長": "6'4\"",
+      "継数": 2,
+      "ルアー": "60 - 180g",
+      "PEライン": "MAX 2.0号",
+      "標準自重": "未定",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:20.673029+09:00",
+    "updated_at": "2026-09-10T10:40:20.673029+09:00"
   }
 ]

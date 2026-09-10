@@ -16,7 +16,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:31.340520+09:00",
-    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+    "updated_at": "2026-09-10T10:40:25.317351+09:00"
   },
   {
     "item_name": "RB5-B610L/S",
@@ -35,7 +35,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:31.340520+09:00",
-    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+    "updated_at": "2026-09-10T10:40:25.317351+09:00"
   },
   {
     "item_name": "RB5-B610ML/S",
@@ -54,7 +54,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:31.340520+09:00",
-    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+    "updated_at": "2026-09-10T10:40:25.317351+09:00"
   },
   {
     "item_name": "RB5-B610M/S",
@@ -73,6 +73,63 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:31.340520+09:00",
-    "updated_at": "2026-09-05T16:23:31.340520+09:00"
+    "updated_at": "2026-09-10T10:40:25.317351+09:00"
+  },
+  {
+    "item_name": "RB5-S66L",
+    "jan": "4573236273556",
+    "price": 36000,
+    "url": "https://www.majorcraft.co.jp/rod/rb5/tairubber-game-custom/",
+    "product_name": "レッドバック5G Tairubber Game Custom model",
+    "specs": {
+      "Model": "RB5-S66L",
+      "全長": "6'6”ft",
+      "継数": "1pcs",
+      "ルアー": "MAX 80gキャストMAX 60g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "84g",
+      "仕舞寸法": "200cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:25.317351+09:00",
+    "updated_at": "2026-09-10T10:40:25.317351+09:00"
+  },
+  {
+    "item_name": "RB5-S66ML",
+    "jan": "4573236273563",
+    "price": 36500,
+    "url": "https://www.majorcraft.co.jp/rod/rb5/tairubber-game-custom/",
+    "product_name": "レッドバック5G Tairubber Game Custom model",
+    "specs": {
+      "Model": "RB5-S66ML",
+      "全長": "6'6”ft",
+      "継数": "1pcs",
+      "ルアー": "MAX 100gキャストMAX 80g",
+      "PEライン": "MAX 1.0号",
+      "標準自重": "92g",
+      "仕舞寸法": "200cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:25.317351+09:00",
+    "updated_at": "2026-09-10T10:40:25.317351+09:00"
+  },
+  {
+    "item_name": "RB5-S70M",
+    "jan": "4573236273570",
+    "price": 37000,
+    "url": "https://www.majorcraft.co.jp/rod/rb5/tairubber-game-custom/",
+    "product_name": "レッドバック5G Tairubber Game Custom model",
+    "specs": {
+      "Model": "RB5-S70M",
+      "全長": "7'0”ft",
+      "継数": "1pcsグリップ脱着式",
+      "ルアー": "MAX 120gキャストMAX 100g",
+      "PEライン": "MAX 1.2号",
+      "標準自重": "108g",
+      "仕舞寸法": "176cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:25.317351+09:00",
+    "updated_at": "2026-09-10T10:40:25.317351+09:00"
   }
 ]

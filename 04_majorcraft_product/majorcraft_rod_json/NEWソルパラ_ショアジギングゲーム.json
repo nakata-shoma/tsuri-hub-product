@@ -15,7 +15,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:27.812444+09:00",
-    "updated_at": "2026-09-05T16:23:27.812444+09:00"
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
   },
   {
     "item_name": "SPSJ-962M/LSJ",
@@ -33,7 +33,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:27.812444+09:00",
-    "updated_at": "2026-09-05T16:23:27.812444+09:00"
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
   },
   {
     "item_name": "SPSJ-1002M/LSJ",
@@ -51,6 +51,96 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:23:27.812444+09:00",
-    "updated_at": "2026-09-05T16:23:27.812444+09:00"
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
+  },
+  {
+    "item_name": "SPSJ-962M",
+    "jan": "4573236268934",
+    "price": 13200,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-sj/shore-jigging/",
+    "product_name": "NEWソルパラ ショアジギングゲーム",
+    "specs": {
+      "Model": "SPSJ-962M",
+      "全長": "9'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "20 - 60g",
+      "PEライン": "1.0 - 2.5号",
+      "標準自重": "250g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:23.555247+09:00",
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
+  },
+  {
+    "item_name": "SPSJ-1002M",
+    "jan": "4573236268941",
+    "price": 13700,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-sj/shore-jigging/",
+    "product_name": "NEWソルパラ ショアジギングゲーム",
+    "specs": {
+      "Model": "SPSJ-1002M",
+      "全長": "10'0\"ft",
+      "継数": "2pcs",
+      "ルアー": "20 - 60g",
+      "PEライン": "1.0 - 2.5号",
+      "標準自重": "255g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:23.555247+09:00",
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
+  },
+  {
+    "item_name": "SPSJ-962MH",
+    "jan": "4573236268958",
+    "price": 13700,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-sj/shore-jigging/",
+    "product_name": "NEWソルパラ ショアジギングゲーム",
+    "specs": {
+      "Model": "SPSJ-962MH",
+      "全長": "9'6\"ft",
+      "継数": "2pcs",
+      "ルアー": "60 ± 20g",
+      "PEライン": "1.0 - 3.0号",
+      "標準自重": "257g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:23.555247+09:00",
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
+  },
+  {
+    "item_name": "SPSJ-1002MH",
+    "jan": "4573236268965",
+    "price": 14300,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-sj/shore-jigging/",
+    "product_name": "NEWソルパラ ショアジギングゲーム",
+    "specs": {
+      "Model": "SPSJ-1002MH",
+      "全長": "10'0\"ft",
+      "継数": "2pcs",
+      "ルアー": "60 ± 20g",
+      "PEライン": "1.0 - 3.0号",
+      "標準自重": "275g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:23.555247+09:00",
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
+  },
+  {
+    "item_name": "SPSJ-1002H",
+    "jan": "4573236268972",
+    "price": 14800,
+    "url": "https://www.majorcraft.co.jp/rod/new-sp-sj/shore-jigging/",
+    "product_name": "NEWソルパラ ショアジギングゲーム",
+    "specs": {
+      "Model": "SPSJ-1002H",
+      "全長": "10'0\"ft",
+      "継数": "2pcs",
+      "ルアー": "80 ± 20g",
+      "PEライン": "1.5 - 3.5号",
+      "標準自重": "279g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:23.555247+09:00",
+    "updated_at": "2026-09-10T10:40:23.555247+09:00"
   }
 ]

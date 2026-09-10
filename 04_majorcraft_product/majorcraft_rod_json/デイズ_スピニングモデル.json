@@ -14,7 +14,7 @@
       "アクション": "F"
     },
     "created_at": "2026-09-05T16:22:39.013498+09:00",
-    "updated_at": "2026-09-05T16:22:39.013498+09:00"
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
   },
   {
     "item_name": "DYS-63L",
@@ -31,7 +31,7 @@
       "アクション": "F"
     },
     "created_at": "2026-09-05T16:22:39.013498+09:00",
-    "updated_at": "2026-09-05T16:22:39.013498+09:00"
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
   },
   {
     "item_name": "DYS-68L",
@@ -48,7 +48,7 @@
       "アクション": "F"
     },
     "created_at": "2026-09-05T16:22:39.013498+09:00",
-    "updated_at": "2026-09-05T16:22:39.013498+09:00"
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
   },
   {
     "item_name": "DYS-66ML",
@@ -65,7 +65,7 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:22:39.013498+09:00",
-    "updated_at": "2026-09-05T16:22:39.013498+09:00"
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
   },
   {
     "item_name": "DYS-69ML",
@@ -82,6 +82,159 @@
       "アクション": "RF"
     },
     "created_at": "2026-09-05T16:22:39.013498+09:00",
-    "updated_at": "2026-09-05T16:22:39.013498+09:00"
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-652UL",
+    "jan": "4573236260433",
+    "price": 17100,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-652UL",
+      "全長": "6'5”ft",
+      "継数": "2pcs",
+      "ルアー": "1/32-1/4oz",
+      "ライン": "3-7lb",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-632L",
+    "jan": "4573236260440",
+    "price": 17400,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-632L",
+      "全長": "6'3”ft",
+      "継数": "2pcs",
+      "ルアー": "1/16-1/4oz",
+      "ライン": "4-8lb",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-682L",
+    "jan": "4573236260457",
+    "price": 17700,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-682L",
+      "全長": "6'8”ft",
+      "継数": "2pcs",
+      "ルアー": "1/16-1/4oz",
+      "ライン": "4-8lb",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-662ML",
+    "jan": "4573236260464",
+    "price": 18100,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-662ML",
+      "全長": "6'6”ft",
+      "継数": "2pcs",
+      "ルアー": "1/8-3/8oz",
+      "ライン": "5-10lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-692ML",
+    "jan": "4573236260471",
+    "price": 18300,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-692ML",
+      "全長": "6'9”ft",
+      "継数": "2pcs",
+      "ルアー": "1/8-3/8oz",
+      "ライン": "5-10lb",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-S63UL/SFS",
+    "jan": "4573236260211",
+    "price": 18300,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-S63UL/SFS",
+      "全長": "6'3”ft",
+      "継数": "1pcs",
+      "ルアー": "1/64-3/16",
+      "ライン": "2-5lb",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-S68L/SFS",
+    "jan": "4573236260228",
+    "price": 18300,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-S68L/SFS",
+      "全長": "6'8”ft",
+      "継数": "1pcs",
+      "ルアー": "1/64-1/4oz",
+      "ライン": "2-6lb",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-S632UL/SFS",
+    "jan": "4573236260488",
+    "price": 18300,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-S632UL/SFS",
+      "全長": "6'3”ft",
+      "継数": "2pcs",
+      "ルアー": "1/64-3/16oz",
+      "ライン": "2-5lb",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
+  },
+  {
+    "item_name": "DYS-S682L/SFS",
+    "jan": "4573236260495",
+    "price": 18300,
+    "url": "https://www.majorcraft.co.jp/rod/days/dyc-spnning/",
+    "product_name": "デイズ スピニングモデル",
+    "specs": {
+      "Model": "DYS-S682L/SFS",
+      "全長": "6'8”ft",
+      "継数": "2pcs",
+      "ルアー": "1/64-1/4oz",
+      "ライン": "2-6lb",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-10T10:39:54.551281+09:00",
+    "updated_at": "2026-09-10T10:39:54.551281+09:00"
   }
 ]
