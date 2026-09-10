@@ -19,7 +19,7 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:27.049314+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   },
   {
     "item_name": "SS-TT56L3/B",
@@ -41,7 +41,7 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-08T16:54:21.302803+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   },
   {
     "item_name": "SS-TT56M3",
@@ -63,7 +63,7 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:27.049314+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   },
   {
     "item_name": "SS-TT56M3/B",
@@ -85,7 +85,7 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-08T16:54:21.302803+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   },
   {
     "item_name": "SS-TT60L3",
@@ -107,7 +107,7 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:27.049314+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   },
   {
     "item_name": "SS-TT60L3/B",
@@ -129,7 +129,7 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-08T16:54:21.302803+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   },
   {
     "item_name": "SS-TT60MⅡ3",
@@ -151,10 +151,10 @@
       "guide": "T-KGST(top),T-KWSG"
     },
     "created_at": "2026-09-03T16:37:27.049314+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   },
   {
-    "item_name": "SS-TT60M",
+    "item_name": "SS-TT60MⅡ3/B",
     "jan": null,
     "price": 39000,
     "url": "https://www.smith.jp/superstrike/product/ss-tt.html",
@@ -172,7 +172,7 @@
       "blank material": "カーボン",
       "guide": "T-KGST(top),T-KWSG"
     },
-    "created_at": "2026-09-08T16:54:21.302803+09:00",
-    "updated_at": "2026-09-08T16:54:21.302803+09:00"
+    "created_at": "2026-09-10T12:38:20.362665+09:00",
+    "updated_at": "2026-09-10T12:38:20.362665+09:00"
   }
 ]
