@@ -1,0 +1,41 @@
+[
+  {
+    "item_name": "TCX-S722H/TACO",
+    "jan": "4573236271132",
+    "price": 19200,
+    "url": "https://www.majorcraft.co.jp/rod/dc-tcx/kishi-taco/",
+    "product_name": "【生産終了】トリプルクロス 岸タコゲームモデル",
+    "specs": {
+      "Model": "TCX-S722H/TACO",
+      "全長": "7'2”ft",
+      "継数": "2pcs",
+      "ルアー": "MAX 42g",
+      "PEライン": "1 - 4号",
+      "標準自重": "155g",
+      "仕舞寸法": "114cm",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:40:30.538858+09:00",
+    "updated_at": "2026-09-10T10:40:30.538858+09:00"
+  },
+  {
+    "item_name": "TCX-B722H/TACO",
+    "jan": "4573236271149",
+    "price": null,
+    "url": "https://www.majorcraft.co.jp/rod/dc-tcx/kishi-taco/",
+    "product_name": "【生産終了】トリプルクロス 岸タコゲームモデル",
+    "specs": {
+      "Model": "TCX-B722H/TACO",
+      "全長": "7'2”ft",
+      "継数": "2pcs",
+      "ルアー": "MAX  56g",
+      "PEライン": "2 - 5号",
+      "標準自重": "166g",
+      "仕舞寸法": "114cm",
+      "アクション": "RF",
+      "PRICA": "¥19,200（税込 ¥21,120）"
+    },
+    "created_at": "2026-09-10T10:40:30.538858+09:00",
+    "updated_at": "2026-09-10T10:40:30.538858+09:00"
+  }
+]
