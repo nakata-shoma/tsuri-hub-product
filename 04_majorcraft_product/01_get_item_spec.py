@@ -62,55 +62,59 @@ def parse_majorcraft_spec_table(soup, url, product_name):
     if not h2:
         return []
 
-    table = h2.find_next("table")
-    if not table:
-        return []
-
-    rows = table.find_all("tr")
-    if len(rows) < 2:
-        return []
-
-    header = [c.get_text(strip=True) for c in rows[0].find_all(["th", "td"])]
-
     products = []
 
-    for row in rows[1:]:
-        cols = [c.get_text(strip=True) for c in row.find_all(["th", "td"])]
-        if len(cols) != len(header):
+    # UL/L/M等、パワー違いでモデルをグループ分けしている場合、h3見出しごとに
+    # 「Model」列を持つ一覧表が複数存在する（例: ad1/light/ の「UL model」表と
+    # 「SPINNING model ＜DOWN-LOCK＞」表）。h2以降の全表のうち、Model列を持つ
+    # 一覧表だけを対象にする。Model列を持たない表は各モデル個別ページ内の
+    # 単一行スペック表（一覧表の内容と重複するだけ）なので除外する。
+    for table in h2.find_all_next("table"):
+        rows = table.find_all("tr")
+        if len(rows) < 2:
             continue
 
-        raw = dict(zip(header, cols))
+        header = [c.get_text(strip=True) for c in rows[0].find_all(["th", "td"])]
+        if "Model" not in header and "MODEL" not in header and "品番" not in header:
+            continue
 
-        # MajorCraft は Model が品番
-        item_name = raw.get("Model") or raw.get("MODEL") or raw.get("品番")
-
-        # JAN列は「JAN (4573236)」のようにメーカーコード（GS1事業者コード）が
-        # ヘッダー名側に埋め込まれ、セルの値はそれに続く商品コードのみ（例: 269191）
-        # という特殊な形式。他メーカーと揃えるため両者を連結してフルJANにする。
-        # PRICEも specs に混在しているので、他メーカーと同じくトップレベルへ分離する。
-        jan = None
-        price = None
-        specs = {}
-        for key, value in raw.items():
-            if is_junk_spec_key(key):
+        for row in rows[1:]:
+            cols = [c.get_text(strip=True) for c in row.find_all(["th", "td"])]
+            if len(cols) != len(header):
                 continue
-            jan_match = JAN_HEADER_RE.match(key)
-            if jan_match:
-                suffix = re.sub(r"\D", "", value) if value else ""
-                jan = jan_match.group(1) + suffix if suffix else None
-            elif key == "PRICE":
-                price = extract_price(value)
-            else:
-                specs[key] = to_number(value)
 
-        products.append({
-            "item_name": item_name,
-            "jan": jan,
-            "price": price,
-            "url": url,
-            "product_name": product_name,
-            "specs": specs,
-        })
+            raw = dict(zip(header, cols))
+
+            # MajorCraft は Model が品番
+            item_name = raw.get("Model") or raw.get("MODEL") or raw.get("品番")
+
+            # JAN列は「JAN (4573236)」のようにメーカーコード（GS1事業者コード）が
+            # ヘッダー名側に埋め込まれ、セルの値はそれに続く商品コードのみ（例: 269191）
+            # という特殊な形式。他メーカーと揃えるため両者を連結してフルJANにする。
+            # PRICEも specs に混在しているので、他メーカーと同じくトップレベルへ分離する。
+            jan = None
+            price = None
+            specs = {}
+            for key, value in raw.items():
+                if is_junk_spec_key(key):
+                    continue
+                jan_match = JAN_HEADER_RE.match(key)
+                if jan_match:
+                    suffix = re.sub(r"\D", "", value) if value else ""
+                    jan = jan_match.group(1) + suffix if suffix else None
+                elif key == "PRICE":
+                    price = extract_price(value)
+                else:
+                    specs[key] = to_number(value)
+
+            products.append({
+                "item_name": item_name,
+                "jan": jan,
+                "price": price,
+                "url": url,
+                "product_name": product_name,
+                "specs": specs,
+            })
 
     return products
 

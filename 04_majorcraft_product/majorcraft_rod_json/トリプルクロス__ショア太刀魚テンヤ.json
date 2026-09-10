@@ -14,6 +14,40 @@
       "アクション": "F"
     },
     "created_at": "2026-09-05T16:23:41.051406+09:00",
-    "updated_at": "2026-09-05T16:23:41.051406+09:00"
+    "updated_at": "2026-09-10T10:40:31.204935+09:00"
+  },
+  {
+    "item_name": "TCX-S832STY",
+    "jan": "4573236270357",
+    "price": 19700,
+    "url": "https://www.majorcraft.co.jp/rod/tcx-shore-tachi/shore-tachiuo/",
+    "product_name": "トリプルクロス 　ショア太刀魚テンヤ",
+    "specs": {
+      "Model": "TCX-S832STY",
+      "全長": "8'3”ft",
+      "継数": "2pcs",
+      "テンヤ": "2 - 5号",
+      "ライン": "0.4 - 1.5号",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-10T10:40:31.204935+09:00",
+    "updated_at": "2026-09-10T10:40:31.204935+09:00"
+  },
+  {
+    "item_name": "TCX-S962STY",
+    "jan": "4573236270364",
+    "price": 20800,
+    "url": "https://www.majorcraft.co.jp/rod/tcx-shore-tachi/shore-tachiuo/",
+    "product_name": "トリプルクロス 　ショア太刀魚テンヤ",
+    "specs": {
+      "Model": "TCX-S962STY",
+      "全長": "9'6”ft",
+      "継数": "2pcs",
+      "テンヤ": "2 - 5号",
+      "ライン": "0.4 - 1.5号",
+      "アクション": "EX.F"
+    },
+    "created_at": "2026-09-10T10:40:31.204935+09:00",
+    "updated_at": "2026-09-10T10:40:31.204935+09:00"
   }
 ]

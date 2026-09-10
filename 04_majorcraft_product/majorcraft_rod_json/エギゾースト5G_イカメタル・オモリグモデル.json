@@ -15,7 +15,7 @@
       "アクション": "F"
     },
     "created_at": "2026-09-05T16:22:45.932868+09:00",
-    "updated_at": "2026-09-05T16:22:45.932868+09:00"
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
   },
   {
     "item_name": "EZ5IM-S632MH",
@@ -33,6 +33,132 @@
       "アクション": "F"
     },
     "created_at": "2026-09-05T16:22:45.932868+09:00",
-    "updated_at": "2026-09-05T16:22:45.932868+09:00"
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
+  },
+  {
+    "item_name": "EZ5IM-B642M",
+    "jan": "4573236274010",
+    "price": 30500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-ikametal/ikametal/",
+    "product_name": "エギゾースト5G イカメタル・オモリグモデル",
+    "specs": {
+      "Model": "EZ5IM-B642M",
+      "全長": "6'4”ft",
+      "継数": "2pcs",
+      "スッテ": "8 - 20号 / 30 - 75g",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "78g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:58.510230+09:00",
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
+  },
+  {
+    "item_name": "EZ5IM-B682M",
+    "jan": "4573236274027",
+    "price": 31500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-ikametal/ikametal/",
+    "product_name": "エギゾースト5G イカメタル・オモリグモデル",
+    "specs": {
+      "Model": "EZ5IM-B682M",
+      "全長": "6'8”ft",
+      "継数": "2pcs",
+      "スッテ": "8 - 20号 / 30 - 75g",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "79g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:58.510230+09:00",
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
+  },
+  {
+    "item_name": "EZ5IM-B642MH",
+    "jan": "4573236274034",
+    "price": 31500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-ikametal/ikametal/",
+    "product_name": "エギゾースト5G イカメタル・オモリグモデル",
+    "specs": {
+      "Model": "EZ5IM-B642MH",
+      "全長": "6'4”ft",
+      "継数": "2pcs",
+      "スッテ": "10 - 30号 / 35 - 110g",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "82g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:58.510230+09:00",
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
+  },
+  {
+    "item_name": "EZ5IM-B682MH",
+    "jan": "4573236274041",
+    "price": 32000,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-ikametal/ikametal/",
+    "product_name": "エギゾースト5G イカメタル・オモリグモデル",
+    "specs": {
+      "Model": "EZ5IM-B682MH",
+      "全長": "6'8”ft",
+      "継数": "2pcs",
+      "スッテ": "10 - 30号 / 35 - 110g",
+      "PEライン": "0.4 - 1.0号",
+      "標準自重": "83g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:58.510230+09:00",
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
+  },
+  {
+    "item_name": "EZ5IM-B682H",
+    "jan": "4573236274058",
+    "price": 32500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-ikametal/ikametal/",
+    "product_name": "エギゾースト5G イカメタル・オモリグモデル",
+    "specs": {
+      "Model": "EZ5IM-B682H",
+      "全長": "6'8”ft",
+      "継数": "2pcs",
+      "スッテ": "12 - 40号 / 45 - 150g",
+      "PEライン": "0.4 - 1.2号",
+      "標準自重": "84g",
+      "アクション": "F"
+    },
+    "created_at": "2026-09-10T10:39:58.510230+09:00",
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
+  },
+  {
+    "item_name": "EZ5IM-S632H/OMORIG",
+    "jan": "4573236274133",
+    "price": 33500,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-ikametal/ikametal/",
+    "product_name": "エギゾースト5G イカメタル・オモリグモデル",
+    "specs": {
+      "Model": "EZ5IM-S632H/OMORIG",
+      "全長": "6'3”ft",
+      "継数": "2pcs",
+      "スッテ": "12 - 50号 / 45 - 180g",
+      "PEライン": "0.6 - 1.5号",
+      "標準自重": "未定",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:39:58.510230+09:00",
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
+  },
+  {
+    "item_name": "EZ5IM-S742H/OMORIG",
+    "jan": "4573236274096",
+    "price": 34000,
+    "url": "https://www.majorcraft.co.jp/rod/ez5-ikametal/ikametal/",
+    "product_name": "エギゾースト5G イカメタル・オモリグモデル",
+    "specs": {
+      "Model": "EZ5IM-S742H/OMORIG",
+      "全長": "7'4”ft",
+      "継数": "2pcs",
+      "スッテ": "12 - 50号 / 45 - 180g",
+      "PEライン": "0.6 - 1.5号",
+      "標準自重": "91g",
+      "アクション": "RF"
+    },
+    "created_at": "2026-09-10T10:39:58.510230+09:00",
+    "updated_at": "2026-09-10T10:39:58.510230+09:00"
   }
 ]
